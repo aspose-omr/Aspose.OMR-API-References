@@ -1,7 +1,7 @@
 ---
-title: ChoiceBoxConfig.FontStyle
-second_title: Aspose.OMR لمرجع .NET API
-description: ChoiceBoxConfig ملكية. نمط النص
+title: "FontStyle"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نمط النص"
 type: docs
 weight: 70
 url: /ar/net/aspose.omr.generation.config.elements/choiceboxconfig/fontstyle/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements/choiceboxconfig/fontstyle/
 public FontStyle FontStyle { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [FontStyle](../../../aspose.omr.generation/fontstyle/)
-* class [ChoiceBoxConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../choiceboxconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [FontStyle](../../../aspose.omr.generation/fontstyle)
+* class [ChoiceBoxConfig](../../choiceboxconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../choiceboxconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,9 +1,9 @@
 ---
-title: Enum Orientation
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Orientation تعداد. الاتجاه
+title: "Orientation"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "الاتجاه"
 type: docs
-weight: 650
+weight: 840
 url: /ar/net/aspose.omr.generation/orientation/
 ---
 ## Orientation enumeration
@@ -14,16 +14,17 @@ url: /ar/net/aspose.omr.generation/orientation/
 public enum Orientation
 ```
 
-### قيم
+### Values
 
-| اسم | قيمة | وصف |
+| الاسم | Value | الوصف |
 | --- | --- | --- |
-| Horizontal | `0` | الاتجاه الأفقي |
+| undefined | `0` | سيتم استخدام القيمة الافتراضية |
+| Horizontal | `2` | الاتجاه الأفقي |
 | Vertical | `1` | الاتجاه العمودي |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Generation](../../aspose.omr.generation/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation](../../aspose.omr.generation)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

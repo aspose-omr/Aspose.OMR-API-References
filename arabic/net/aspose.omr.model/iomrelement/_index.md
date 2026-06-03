@@ -1,14 +1,14 @@
 ---
-title: Interface IOmrElement
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Model.IOmrElement واجهه المستخدم. واجهة عناصر OMR
+title: "IOmrElement"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "الواجهة لعناصر OMR"
 type: docs
-weight: 790
+weight: 1030
 url: /ar/net/aspose.omr.model/iomrelement/
 ---
 ## IOmrElement interface
 
-واجهة عناصر OMR
+الواجهة لعناصر OMR
 
 ```csharp
 public interface IOmrElement
@@ -16,21 +16,21 @@ public interface IOmrElement
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [QuestionName](../../aspose.omr.model/iomrelement/questionname/) { get; set; } | الحصول على اسم السؤال أو تعيينه |
-| [SortWeight](../../aspose.omr.model/iomrelement/sortweight/) { get; set; } | قيمة أعلى - ستظهر الأخيرة في عنصر csv |
+| [QuestionName](../../aspose.omr.model/iomrelement/questionname) { get; set; } | يحصل أو يعيّن Question Name |
+| [SortWeight](../../aspose.omr.model/iomrelement/sortweight) { get; set; } | كلما ارتفعت القيمة - سيظهر العنصر الأخير في csv |
 
-## طُرق
+## طرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GetAnswer](../../aspose.omr.model/iomrelement/getanswer/)() | تشكل سلسلة مع نتيجة التعرف |
-| [GetCsv](../../aspose.omr.model/iomrelement/getcsv/)() | إجابات النماذج كسلسلة قيم مفصولة بفواصل |
+| [GetAnswer](../../aspose.omr.model/iomrelement/getanswer)() | يشكّل سلسلة مع نتيجة التعرف |
+| [GetCsv](../../aspose.omr.model/iomrelement/getcsv)() | يشكّل الإجابات كسلسلة قيم مفصولة بفواصل |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Model](../../aspose.omr.model/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Model](../../aspose.omr.model)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

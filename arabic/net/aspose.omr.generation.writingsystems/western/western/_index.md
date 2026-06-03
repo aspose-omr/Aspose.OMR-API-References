@@ -1,23 +1,23 @@
 ---
-title: Western.Western
-second_title: Aspose.OMR لمرجع .NET API
-description: Western البناء. Default_Constructor
+title: "غربي"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.writingsystems/western/western/
 ---
 ## Western constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public Western()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Western](../)
-* مساحة الاسم [Aspose.OMR.Generation.WritingSystems](../../western/)
-* المجسم [Aspose.OMR](../../../)
+* class [Western](../../western)
+* namespace [Aspose.OMR.Generation.WritingSystems](../../western)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,23 +1,23 @@
 ---
-title: License.License
-second_title: Aspose.OMR لمرجع .NET API
-description: License البناء. Default_Constructor
+title: "ترخيص"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr/license/license/
 ---
 ## License constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public License()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [License](../)
-* مساحة الاسم [Aspose.OMR](../../license/)
-* المجسم [Aspose.OMR](../../../)
+* class [License](../../license)
+* namespace [Aspose.OMR](../../license)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

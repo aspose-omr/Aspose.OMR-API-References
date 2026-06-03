@@ -1,45 +1,45 @@
 ---
-title: Class InputGroup
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.Elements.InputGroup فصل. عنصر التجميع. يتكون من طفلين محتوى. مرسومة بالنسب 1  3 و 2  3.
+title: "InputGroup"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "عنصر التجميع. يتكون من عنصرين فرعيين من نوع Content. يتم رسمه بنسب 13 و 23."
 type: docs
-weight: 210
+weight: 380
 url: /ar/net/aspose.omr.generation.config.elements/inputgroup/
 ---
 ## InputGroup class
 
-عنصر التجميع. يتكون من طفلين محتوى. مرسومة بالنسب 1 \ 3 و 2 \ 3.
+عنصر تجميع. يتكون من عنصرين فرعيين من نوع Content. يتم رسمه بنسب 1\\3 و 2\\3.
 
 ```csharp
 public class InputGroup : ParentConfig
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [InputGroup](inputgroup/)() | Default_Constructor |
+| [InputGroup](inputgroup)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BorderBottomStyle](../../aspose.omr.generation.config.elements/inputgroup/borderbottomstyle/) { get; set; } | نمط إضافي للحد السفلي |
-| [BorderColor](../../aspose.omr.generation.config.elements/inputgroup/bordercolor/) { get; set; } | لون الحدود |
-| [BorderLeftStyle](../../aspose.omr.generation.config.elements/inputgroup/borderleftstyle/) { get; set; } | نمط إضافي للحد الأيسر |
-| [BorderRightStyle](../../aspose.omr.generation.config.elements/inputgroup/borderrightstyle/) { get; set; } | نمط إضافي للحد الأيمن |
-| [BorderSize](../../aspose.omr.generation.config.elements/inputgroup/bordersize/) { get; set; } | حجم خط الحدود |
-| [BorderTopStyle](../../aspose.omr.generation.config.elements/inputgroup/bordertopstyle/) { get; set; } | نمط إضافي للحد العلوي |
-| override [Children](../../aspose.omr.generation.config.elements/inputgroup/children/) { get; set; } | عناصر omr الفرعية. في معظم الحالات يتم وضعه داخل أحد الوالدين أو أقل. |
-| [InputBorder](../../aspose.omr.generation.config.elements/inputgroup/inputborder/) { get; set; } | نوع الحدود المرسومة |
-| [LabelBorder](../../aspose.omr.generation.config.elements/inputgroup/labelborder/) { get; set; } | نوع الحدود المرسومة |
-| override [Name](../../aspose.omr.generation.config.elements/inputgroup/name/) { get; set; } | اسم عنصر التجميع |
-| override [Type](../../aspose.omr.generation.config.elements/inputgroup/type/) { get; set; } | نوع عنصر omr. حقل مطلوب للتسلسل JSON . |
+| [BorderBottomStyle](../../aspose.omr.generation.config.elements/inputgroup/borderbottomstyle) { get; set; } | نمط إضافي للحد السفلي |
+| [BorderColor](../../aspose.omr.generation.config.elements/inputgroup/bordercolor) { get; set; } | لون الحد |
+| [BorderLeftStyle](../../aspose.omr.generation.config.elements/inputgroup/borderleftstyle) { get; set; } | نمط إضافي للحد الأيسر |
+| [BorderRightStyle](../../aspose.omr.generation.config.elements/inputgroup/borderrightstyle) { get; set; } | نمط إضافي للحد الأيمن |
+| [BorderSize](../../aspose.omr.generation.config.elements/inputgroup/bordersize) { get; set; } | حجم خط الحد |
+| [BorderTopStyle](../../aspose.omr.generation.config.elements/inputgroup/bordertopstyle) { get; set; } | نمط إضافي للحد العلوي |
+| override [Children](../../aspose.omr.generation.config.elements/inputgroup/children) { get; set; } | عناصر OMR الفرعية. في معظم الحالات تكون موضوعة داخل العنصر الأب أو تحته. |
+| [InputBorder](../../aspose.omr.generation.config.elements/inputgroup/inputborder) { get; set; } | نوع الحد المرسوم |
+| [LabelBorder](../../aspose.omr.generation.config.elements/inputgroup/labelborder) { get; set; } | نوع الحد المرسوم |
+| override [Name](../../aspose.omr.generation.config.elements/inputgroup/name) { get; set; } | اسم عنصر التجميع |
+| override [Type](../../aspose.omr.generation.config.elements/inputgroup/type) { get; set; } | نوع عنصر OMR. حقل مطلوب لتسلسل JSON. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ParentConfig](../../aspose.omr.generation.config/parentconfig/)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../aspose.omr.generation.config.elements/)
-* المجسم [Aspose.OMR](../../)
+* class [ParentConfig](../../aspose.omr.generation.config/parentconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../aspose.omr.generation.config.elements)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

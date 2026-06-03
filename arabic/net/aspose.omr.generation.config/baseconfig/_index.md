@@ -1,14 +1,14 @@
 ---
-title: Class BaseConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.BaseConfig فصل. استخراج يحتوي على الحقول المطلوبة لكل عنصر omr
+title: "BaseConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "تجريد يحتوي على الحقول المطلوبة لكل عنصر omr"
 type: docs
-weight: 70
+weight: 230
 url: /ar/net/aspose.omr.generation.config/baseconfig/
 ---
 ## BaseConfig class
 
-استخراج يحتوي على الحقول المطلوبة لكل عنصر omr
+تجريد يحتوي على الحقول المطلوبة لكل عنصر omr
 
 ```csharp
 public abstract class BaseConfig
@@ -16,14 +16,14 @@ public abstract class BaseConfig
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [Name](../../aspose.omr.generation.config/baseconfig/name/) { get; set; } | اسم عنصر omr. يمكن استخدامها في حالات مختلفة بناءً على element |
-| abstract [Type](../../aspose.omr.generation.config/baseconfig/type/) { get; set; } | نوع عنصر omr. ليس لها قيمة افتراضية. يجب تجاوزه. |
+| abstract [Name](../../aspose.omr.generation.config/baseconfig/name) { get; set; } | اسم عنصر OMR. يمكن استخدامه في حالات مختلفة بناءً على العنصر |
+| abstract [Type](../../aspose.omr.generation.config/baseconfig/type) { get; set; } | نوع عنصر omr. لا يحتوي على قيمة افتراضية. يجب تجاوزه. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Generation.Config](../../aspose.omr.generation.config/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation.Config](../../aspose.omr.generation.config)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,23 +1,23 @@
 ---
-title: CheckBoxConfig.FontSize
-second_title: Aspose.OMR لمرجع .NET API
-description: CheckBoxConfig ملكية. حجم النص font
+title: "حجم الخط"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "حجم خط النص"
 type: docs
 weight: 60
 url: /ar/net/aspose.omr.generation.config.elements.parents/checkboxconfig/fontsize/
 ---
 ## CheckBoxConfig.FontSize property
 
-حجم النص font
+حجم خط النص
 
 ```csharp
 public int FontSize { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [CheckBoxConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../checkboxconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [CheckBoxConfig](../../checkboxconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../checkboxconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

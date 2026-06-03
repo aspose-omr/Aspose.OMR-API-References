@@ -1,7 +1,7 @@
 ---
-title: EmptyLineConfig.Height
-second_title: Aspose.OMR لمرجع .NET API
-description: EmptyLineConfig ملكية. الارتفاع بالبكسل.
+title: "ارتفاع"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "الارتفاع بالبكسل."
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.generation.config.elements/emptylineconfig/height/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.omr.generation.config.elements/emptylineconfig/height/
 public int Height { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [EmptyLineConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../emptylineconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [EmptyLineConfig](../../emptylineconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../emptylineconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

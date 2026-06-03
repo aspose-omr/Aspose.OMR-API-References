@@ -1,31 +1,31 @@
 ---
-title: RecognitionResult.GetJsonAsStream
-second_title: Aspose.OMR لمرجع .NET API
-description: RecognitionResult طريقة. سلسلة نموذج JSON مع نتائج التعرف على أنها MemoryStream
+title: "GetJsonAsStream"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "إنشاء سلسلة JSON مع نتائج التعرف كـ MemoryStream"
 type: docs
 weight: 90
 url: /ar/net/aspose.omr.model/recognitionresult/getjsonasstream/
 ---
 ## RecognitionResult.GetJsonAsStream method
 
-سلسلة نموذج JSON مع نتائج التعرف على أنها MemoryStream
+إنشاء سلسلة JSON مع نتائج التعرف كـ MemoryStream
 
 ```csharp
 public MemoryStream GetJsonAsStream(Encoding encoding)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| encoding | Encoding | الترميز الذي نستخدمه في تشفير سلسلة JSON |
+| ترميز | الترميز | الترميز الذي نستخدمه لتشفير سلسلة JSON |
 
 ### قيمة الإرجاع
 
-نتيجة التعرف على أنها MemoryStream مع JSON
+نتيجة التعرف كـ MemoryStream مع JSON
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [RecognitionResult](../)
-* مساحة الاسم [Aspose.OMR.Model](../../recognitionresult/)
-* المجسم [Aspose.OMR](../../../)
+* class [RecognitionResult](../../recognitionresult)
+* namespace [Aspose.OMR.Model](../../recognitionresult)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

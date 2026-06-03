@@ -1,7 +1,7 @@
 ---
-title: ContentConfig.Name
-second_title: Aspose.OMR لمرجع .NET API
-description: ContentConfig ملكية. قيمة المحتوى
+title: "الاسم"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "قيمة المحتوى"
 type: docs
 weight: 80
 url: /ar/net/aspose.omr.generation.config.elements/contentconfig/name/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.omr.generation.config.elements/contentconfig/name/
 public override string Name { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ContentConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../contentconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [ContentConfig](../../contentconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../contentconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

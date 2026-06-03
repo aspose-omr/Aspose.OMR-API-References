@@ -1,23 +1,23 @@
 ---
-title: QuestionConfig.QuestionConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: QuestionConfig البناء. Default_Constructor
+title: "QuestionConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.config.elements.table/questionconfig/questionconfig/
 ---
 ## QuestionConfig constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public QuestionConfig()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [QuestionConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Table](../../questionconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [QuestionConfig](../../questionconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Table](../../questionconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

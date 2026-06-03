@@ -1,23 +1,23 @@
 ---
-title: BlockConfig.BlockConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: BlockConfig البناء. Default_Constructor
+title: "BlockConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.config.elements.parents/blockconfig/blockconfig/
 ---
 ## BlockConfig constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public BlockConfig()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BlockConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../blockconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [BlockConfig](../../blockconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../blockconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

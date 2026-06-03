@@ -1,23 +1,23 @@
 ---
-title: BarcodeConfig.X
-second_title: Aspose.OMR لمرجع .NET API
-description: BarcodeConfig ملكية. تنسيق X. اضبط القيمة على 1 لـ skip
+title: "X"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "إحداثي X. اضبط القيمة إلى -1 للتخطي"
 type: docs
-weight: 100
+weight: 110
 url: /ar/net/aspose.omr.generation.config.elements/barcodeconfig/x/
 ---
 ## BarcodeConfig.X property
 
-تنسيق X. اضبط القيمة على -1 لـ skip
+إحداثي X. اضبط القيمة إلى -1 للتخطي
 
 ```csharp
 public int X { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BarcodeConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [BarcodeConfig](../../barcodeconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

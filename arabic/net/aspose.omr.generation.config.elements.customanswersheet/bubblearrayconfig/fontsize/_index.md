@@ -1,23 +1,23 @@
 ---
-title: BubbleArrayConfig.FontSize
-second_title: Aspose.OMR لمرجع .NET API
-description: BubbleArrayConfig ملكية. حجم النص font
+title: "حجم الخط"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "حجم خط النص"
 type: docs
 weight: 60
 url: /ar/net/aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/fontsize/
 ---
 ## BubbleArrayConfig.FontSize property
 
-حجم النص font
+حجم خط النص
 
 ```csharp
 public int FontSize { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BubbleArrayConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../bubblearrayconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [BubbleArrayConfig](../../bubblearrayconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../bubblearrayconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

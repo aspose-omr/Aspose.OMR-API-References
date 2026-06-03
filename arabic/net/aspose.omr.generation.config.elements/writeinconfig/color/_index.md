@@ -1,24 +1,24 @@
 ---
-title: WriteInConfig.Color
-second_title: Aspose.OMR لمرجع .NET API
-description: WriteInConfig ملكية. لون ملفHint
+title: "اللون"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "لون Hintaspose.omr.generation.config.elements/writeinconfig/hint"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.generation.config.elements/writeinconfig/color/
 ---
 ## WriteInConfig.Color property
 
-لون ملف[`Hint`](../hint/)
+لون [`Hint`](../hint)
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [Color](../../../aspose.omr.generation/color/)
-* class [WriteInConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../writeinconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [Color](../../../aspose.omr.generation/color)
+* class [WriteInConfig](../../writeinconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../writeinconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,7 +1,7 @@
 ---
-title: GridConfig.BubbleType
-second_title: Aspose.OMR لمرجع .NET API
-description: GridConfig ملكية. نوع الفقاعة
+title: "BubbleType"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نوع الفقاعة"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.generation.config.elements/gridconfig/bubbletype/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements/gridconfig/bubbletype/
 public BubbleType BubbleType { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [BubbleType](../../../aspose.omr.generation.config.enums/bubbletype/)
-* class [GridConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../gridconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [BubbleType](../../../aspose.omr.generation.config.enums/bubbletype)
+* class [GridConfig](../../gridconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../gridconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

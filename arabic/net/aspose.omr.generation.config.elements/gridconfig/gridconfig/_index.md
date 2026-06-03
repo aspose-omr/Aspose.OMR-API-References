@@ -1,23 +1,23 @@
 ---
-title: GridConfig.GridConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: GridConfig البناء. Default_Constructor
+title: "إعدادات الشبكة"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.config.elements/gridconfig/gridconfig/
 ---
 ## GridConfig constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public GridConfig()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [GridConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../gridconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [GridConfig](../../gridconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../gridconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

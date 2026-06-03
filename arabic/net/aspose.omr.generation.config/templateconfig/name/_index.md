@@ -1,23 +1,23 @@
 ---
-title: TemplateConfig.Name
-second_title: Aspose.OMR لمرجع .NET API
-description: TemplateConfig ملكية. اسم النموذج
+title: "الاسم"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "اسم القالب"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.generation.config/templateconfig/name/
 ---
 ## TemplateConfig.Name property
 
-اسم النموذج
+اسم القالب
 
 ```csharp
 public override string Name { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TemplateConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config](../../templateconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [TemplateConfig](../../templateconfig)
+* namespace [Aspose.OMR.Generation.Config](../../templateconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

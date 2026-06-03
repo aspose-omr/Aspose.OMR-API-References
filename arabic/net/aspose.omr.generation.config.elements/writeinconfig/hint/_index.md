@@ -1,23 +1,23 @@
 ---
-title: WriteInConfig.Hint
-second_title: Aspose.OMR لمرجع .NET API
-description: WriteInConfig ملكية. نص بعد منطقة الكتابة. افتراضيًا  يتم استخدام كتابة
+title: "Hint"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "النص بعد منطقة write-in. بشكل افتراضي يستخدم write-in"
 type: docs
 weight: 70
 url: /ar/net/aspose.omr.generation.config.elements/writeinconfig/hint/
 ---
 ## WriteInConfig.Hint property
 
-نص بعد منطقة الكتابة. افتراضيًا ، يتم استخدام "كتابة"
+النص بعد منطقة الكتابة داخل الحقل. بشكل افتراضي يُستخدم \"write-in\"
 
 ```csharp
 public string Hint { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [WriteInConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../writeinconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [WriteInConfig](../../writeinconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../writeinconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

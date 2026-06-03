@@ -1,7 +1,7 @@
 ---
-title: BlockConfig.BorderBottomStyle
-second_title: Aspose.OMR لمرجع .NET API
-description: BlockConfig ملكية. نمط إضافي للحد السفلي
+title: "نمط الحد السفلي"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نمط إضافي للحد السفلي"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.generation.config.elements.parents/blockconfig/borderbottomstyle/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements.parents/blockconfig/borderbot
 public BorderStyle BorderBottomStyle { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BorderStyle](../../../aspose.omr.generation.config/borderstyle/)
-* class [BlockConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../blockconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [BorderStyle](../../../aspose.omr.generation.config/borderstyle)
+* class [BlockConfig](../../blockconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../blockconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,24 +1,24 @@
 ---
-title: GridConfig.HeaderType
-second_title: Aspose.OMR لمرجع .NET API
-description: GridConfig ملكية. يشير إلى نوع العنصر المراد رسمه في بداية الشبكة
+title: "HeaderType"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "يشير إلى نوع العنصر الذي يجب رسمه في بداية الشبكة"
 type: docs
 weight: 90
 url: /ar/net/aspose.omr.generation.config.elements/gridconfig/headertype/
 ---
 ## GridConfig.HeaderType property
 
-يشير إلى نوع العنصر المراد رسمه في بداية الشبكة
+يشير إلى نوع العنصر الذي يجب رسمه في بداية الشبكة
 
 ```csharp
 public GridHeaderTypeEnum HeaderType { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [GridHeaderTypeEnum](../../../aspose.omr.generation.config.enums/gridheadertypeenum/)
-* class [GridConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../gridconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [GridHeaderTypeEnum](../../../aspose.omr.generation.config.enums/gridheadertypeenum)
+* class [GridConfig](../../gridconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../gridconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,23 +1,23 @@
 ---
-title: GlobalPageSettings.GlobalPageSettings
-second_title: Aspose.OMR لمرجع .NET API
-description: GlobalPageSettings البناء. Default_Constructor
+title: "GlobalPageSettings"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation/globalpagesettings/globalpagesettings/
 ---
 ## GlobalPageSettings constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public GlobalPageSettings()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [GlobalPageSettings](../)
-* مساحة الاسم [Aspose.OMR.Generation](../../globalpagesettings/)
-* المجسم [Aspose.OMR](../../../)
+* class [GlobalPageSettings](../../globalpagesettings)
+* namespace [Aspose.OMR.Generation](../../globalpagesettings)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,36 +1,36 @@
 ---
-title: Class QuestionConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.Elements.Table.QuestionConfig فصل. يمثل عنصر السؤال. يشيع استخدامها فيTableConfig كصفوف .
+title: "QuestionConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "يمثل عنصر السؤال. يُستخدم عادةً في TableConfig./tableconfig كصفوف."
 type: docs
-weight: 340
+weight: 520
 url: /ar/net/aspose.omr.generation.config.elements.table/questionconfig/
 ---
 ## QuestionConfig class
 
-يمثل عنصر السؤال. يشيع استخدامها في[`TableConfig`](../tableconfig/) كصفوف .
+يمثل عنصر السؤال. يُستخدم عادةً في [`TableConfig`](../tableconfig) كصفوف.
 
 ```csharp
 public class QuestionConfig : BaseConfig
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [QuestionConfig](questionconfig/)() | Default_Constructor |
+| [QuestionConfig](questionconfig)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Name](../../aspose.omr.generation.config.elements.table/questionconfig/name/) { get; set; } | قيمة السؤال |
-| override [Type](../../aspose.omr.generation.config.elements.table/questionconfig/type/) { get; set; } | نوع عنصر omr. حقل مطلوب للتسلسل JSON . |
+| override [Name](../../aspose.omr.generation.config.elements.table/questionconfig/name) { get; set; } | قيمة السؤال |
+| override [Type](../../aspose.omr.generation.config.elements.table/questionconfig/type) { get; set; } | نوع عنصر OMR. حقل مطلوب لتسلسل JSON. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BaseConfig](../../aspose.omr.generation.config/baseconfig/)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Table](../../aspose.omr.generation.config.elements.table/)
-* المجسم [Aspose.OMR](../../)
+* class [BaseConfig](../../aspose.omr.generation.config/baseconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Table](../../aspose.omr.generation.config.elements.table)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

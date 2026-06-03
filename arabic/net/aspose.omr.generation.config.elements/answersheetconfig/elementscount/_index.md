@@ -1,23 +1,23 @@
 ---
-title: AnswerSheetConfig.ElementsCount
-second_title: Aspose.OMR لمرجع .NET API
-description: AnswerSheetConfig ملكية. يحدد العدد الإجمالي للأسئلة في ورقة الإجابة.
+title: "ElementsCount"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "يحدد إجمالي عدد الأسئلة في ورقة الإجابات."
 type: docs
 weight: 70
 url: /ar/net/aspose.omr.generation.config.elements/answersheetconfig/elementscount/
 ---
 ## AnswerSheetConfig.ElementsCount property
 
-يحدد العدد الإجمالي للأسئلة في ورقة الإجابة.
+يحدد إجمالي عدد الأسئلة في ورقة الإجابات.
 
 ```csharp
 public int ElementsCount { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [AnswerSheetConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [AnswerSheetConfig](../../answersheetconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

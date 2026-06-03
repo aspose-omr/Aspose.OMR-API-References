@@ -1,23 +1,23 @@
 ---
-title: CheckBoxConfig.Threshold
-second_title: Aspose.OMR لمرجع .NET API
-description: CheckBoxConfig ملكية. علامة التعرف المخصصة. يتم تعيينها افتراضيًا على 3 . سيتم اعتبار خانة الاختيار مميزة إذا تم ملء 3 من منطقتها . يمكن تخصيصها لأي حد آخر.
+title: "Threshold"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "علامة التعرف المخصصة. يتم تعيينها افتراضيًا إلى 3. سيتم اعتبار خانة الاختيار محددة إذا تم ملء 3 من منطقتها. يمكن تخصيصها إلى أي حد آخر. لا يؤثر ذلك على الحد العالمي"
 type: docs
-weight: 110
+weight: 120
 url: /ar/net/aspose.omr.generation.config.elements.parents/checkboxconfig/threshold/
 ---
 ## CheckBoxConfig.Threshold property
 
-علامة التعرف المخصصة. يتم تعيينها افتراضيًا على 3٪ . سيتم اعتبار خانة الاختيار مميزة إذا تم ملء 3٪ من منطقتها . يمكن تخصيصها لأي حد آخر.
+علامة التعرف المخصصة. افتراضيًا تُحدد إلى 3٪. سيُعتبر مربع الاختيار مُعلَّمًا إذا امتلأت 3٪ من منطقته. يمكن تخصيصها إلى أي عتبة أخرى. لا تؤثر على العتبة العالمية.
 
 ```csharp
 public int Threshold { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [CheckBoxConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../checkboxconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [CheckBoxConfig](../../checkboxconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../checkboxconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

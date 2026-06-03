@@ -1,23 +1,23 @@
 ---
-title: BlockConfig.Height
-second_title: Aspose.OMR لمرجع .NET API
-description: BlockConfig ملكية. أقصى ارتفاع مسموح به لهذا العنصر وكل العناصر التابعة له. تعيين بالبكسل
+title: "ارتفاع"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "الحد الأقصى للارتفاع المسموح به لهذا العنصر وجميع عناصره الفرعية. يُحدد بالبكسل"
 type: docs
 weight: 120
 url: /ar/net/aspose.omr.generation.config.elements.parents/blockconfig/height/
 ---
 ## BlockConfig.Height property
 
-أقصى ارتفاع مسموح به لهذا العنصر وكل العناصر التابعة له. تعيين بالبكسل
+الحد الأقصى للارتفاع المسموح به لهذا العنصر وجميع عناصره الفرعية. يُحدد بالبكسل
 
 ```csharp
 public int Height { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BlockConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../blockconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [BlockConfig](../../blockconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../blockconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

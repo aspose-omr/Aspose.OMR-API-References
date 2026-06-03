@@ -1,23 +1,24 @@
 ---
-title: OmrEngine.OmrEngine
-second_title: Aspose.OMR لمرجع .NET API
-description: OmrEngine البناء. Default_Constructor
+title: "OmrEngine"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "إنشاء مثيل من OmrEngine لتخزين داخلي من أجل كفاءة الذاكرة. أعد استخدام نفس المصنع لعدة مثيلات من OmrEngine لتحسين الأداء."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.api/omrengine/omrengine/
 ---
 ## OmrEngine constructor
 
-Default_Constructor
+إنشاء مثيل من OmrEngine لتخزين داخلي من أجل كفاءة الذاكرة. أعد استخدام نفس المصنع لعدة مثيلات من OmrEngine لتحسين الأداء.
 
 ```csharp
-public OmrEngine()
+public OmrEngine(PoolFactory factory = null)
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [OmrEngine](../)
-* مساحة الاسم [Aspose.OMR.Api](../../omrengine/)
-* المجسم [Aspose.OMR](../../../)
+* class [PoolFactory](../../../aspose.omr.buffers/poolfactory)
+* class [OmrEngine](../../omrengine)
+* namespace [Aspose.OMR.Api](../../omrengine)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

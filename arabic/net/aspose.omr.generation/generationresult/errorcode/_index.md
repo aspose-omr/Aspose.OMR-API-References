@@ -1,23 +1,23 @@
 ---
-title: GenerationResult.ErrorCode
-second_title: Aspose.OMR لمرجع .NET API
-description: GenerationResult ملكية. الحصول على رمز الخطأ أو تعيينه. يساوي 0 في حالة عدم حدوث أخطاء.
+title: "ErrorCode"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "يحصل أو يعيّن رمز الخطأ. يساوي 0 إذا لم تحدث أخطاء."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation/generationresult/errorcode/
 ---
 ## GenerationResult.ErrorCode property
 
-الحصول على رمز الخطأ أو تعيينه. يساوي 0 في حالة عدم حدوث أخطاء.
+يحصل أو يعيّن رمز الخطأ. يساوي 0 إذا لم تحدث أخطاء.
 
 ```csharp
 public int ErrorCode { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [GenerationResult](../)
-* مساحة الاسم [Aspose.OMR.Generation](../../generationresult/)
-* المجسم [Aspose.OMR](../../../)
+* class [GenerationResult](../../generationresult)
+* namespace [Aspose.OMR.Generation](../../generationresult)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

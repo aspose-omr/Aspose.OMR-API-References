@@ -1,23 +1,23 @@
 ---
-title: ScoreQuestionConfig.FontSize
-second_title: Aspose.OMR لمرجع .NET API
-description: ScoreQuestionConfig ملكية. حجم النص font
+title: "حجم الخط"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "حجم خط النص"
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/fontsize/
 ---
 ## ScoreQuestionConfig.FontSize property
 
-حجم النص font
+حجم خط النص
 
 ```csharp
 public int FontSize { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ScoreQuestionConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scorequestionconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [ScoreQuestionConfig](../../scorequestionconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scorequestionconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

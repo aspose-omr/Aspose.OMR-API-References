@@ -1,23 +1,23 @@
 ---
-title: EmptyLineConfig.Name
-second_title: Aspose.OMR لمرجع .NET API
-description: EmptyLineConfig ملكية. تخطي اسم السطر الفارغ  لم يتم رسمه أو المشاركة في التعرف
+title: "الاسم"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "اسم تخطي السطر الفارغ - لا يتم رسمه ولا يشارك في التعرف"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.generation.config.elements/emptylineconfig/name/
 ---
 ## EmptyLineConfig.Name property
 
-تخطي اسم السطر الفارغ - لم يتم رسمه أو المشاركة في التعرف
+اسم تخطي السطر الفارغ - لا يتم رسمه ولا يشارك في التعرف
 
 ```csharp
 public override string Name { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [EmptyLineConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../emptylineconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [EmptyLineConfig](../../emptylineconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../emptylineconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

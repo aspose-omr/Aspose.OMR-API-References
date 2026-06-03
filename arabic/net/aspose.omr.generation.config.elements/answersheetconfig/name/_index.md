@@ -1,23 +1,23 @@
 ---
-title: AnswerSheetConfig.Name
-second_title: Aspose.OMR لمرجع .NET API
-description: AnswerSheetConfig ملكية. اسم ورقة الإجابة
+title: "الاسم"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "اسم ورقة الإجابات"
 type: docs
-weight: 80
+weight: 90
 url: /ar/net/aspose.omr.generation.config.elements/answersheetconfig/name/
 ---
 ## AnswerSheetConfig.Name property
 
-اسم ورقة الإجابة
+اسم ورقة الإجابات
 
 ```csharp
 public override string Name { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [AnswerSheetConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [AnswerSheetConfig](../../answersheetconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

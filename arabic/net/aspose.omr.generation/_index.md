@@ -1,29 +1,32 @@
 ---
-title: Aspose.OMR.Generation
-second_title: Aspose.OMR لمرجع .NET API
+title: "Aspose.OMR.Generation"
+second_title: "Aspose.OMR لـ .NET مرجع API"
 description: 
 type: docs
-weight: 40
+weight: 80
 url: /ar/net/aspose.omr.generation/
 ---
 
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [GenerationResult](./generationresult/) | نتيجة إنشاء النموذج . يحتوي على صورة القالب والقالب (json الذي يصف موقع العناصر على الصورة) . |
-| [GlobalPageSettings](./globalpagesettings/) | الإعدادات العامة المطبقة على كافة عناصر الصفحة. |
-| [MemoryGenerationResult](./memorygenerationresult/) | [`GenerationResult`](../aspose.omr.generation/generationresult/) غلاف. يسمح بحفظ النتيجة كـ MemoryStream |
+| [BaseOffset](./baseoffset) | عقد أساسي يُستخدم لتعيين الإزاحة في قياسات مختلفة |
+| [GenerationResult](./generationresult) | نتيجة إنشاء القالب. يحتوي على صورة القالب والقالب (json الذي يصف موقع العناصر على الصورة). |
+| [GlobalPageSettings](./globalpagesettings) | الإعدادات العامة المطبقة على جميع عناصر الصفحة. |
+| [MemoryGenerationResult](./memorygenerationresult) | مغلف [`GenerationResult`](../aspose.omr.generation/generationresult). يسمح بحفظ النتيجة كـ MemoryStream |
+| [PixelOffset](./pixeloffset) | الإزاحة مضبوطة بالبكسل (px). |
+| [ReferencePointsSettings](./referencepointssettings) | إعدادات تصف سلوك نقطة المرجع للقالب: مربعات سوداء في الزوايا ومستطيل أسود كعلامة دوران بينهما. |
 ## تعداد
 
-| تعداد | وصف |
+| تعداد | الوصف |
 | --- | --- |
-| [BubbleSize](./bubblesize/) | أحجام الفقاعات |
-| [Color](./color/) | الألوان |
-| [FontStyle](./fontstyle/) | أنماط الخط |
-| [Orientation](./orientation/) | الاتجاه |
-| [PaperSize](./papersize/) | حجم الورقة |
-| [RotationPointPosition](./rotationpointposition/) | جميع المواضع المتاحة لنقطة الدوران على القالب الذي تم إنشاؤه |
+| [BubbleSize](./bubblesize) | أحجام الفقاعات |
+| [Color](./color) | الألوان |
+| [FontStyle](./fontstyle) | أنماط الخط |
+| [Orientation](./orientation) | الاتجاه |
+| [PaperSize](./papersize) | حجم الورق |
+| [RotationPointPosition](./rotationpointposition) | جميع المواقع المتاحة لنقطة الدوران على القالب المُولد |
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

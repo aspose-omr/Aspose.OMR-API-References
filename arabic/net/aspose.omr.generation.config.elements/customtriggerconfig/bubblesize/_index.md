@@ -1,7 +1,7 @@
 ---
-title: CustomTriggerConfig.BubbleSize
-second_title: Aspose.OMR لمرجع .NET API
-description: CustomTriggerConfig مجال. حجم الفقاعة
+title: "BubbleSize"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "حجم الفقاعة"
 type: docs
 weight: 80
 url: /ar/net/aspose.omr.generation.config.elements/customtriggerconfig/bubblesize/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements/customtriggerconfig/bubblesiz
 public BubbleSize BubbleSize;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [BubbleSize](../../../aspose.omr.generation/bubblesize/)
-* class [CustomTriggerConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../customtriggerconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [BubbleSize](../../../aspose.omr.generation/bubblesize)
+* class [CustomTriggerConfig](../../customtriggerconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../customtriggerconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

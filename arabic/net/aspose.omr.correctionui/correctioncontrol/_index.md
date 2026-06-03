@@ -1,34 +1,34 @@
 ---
-title: Class CorrectionControl
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.CorrectionUI.CorrectionControl فصل. تحكم المستخدم الذي يسمح بالتعرف على الصور وتصحيح ومعايرة معلمات التعرف
+title: "CorrectionControl"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "عنصر التحكم المستخدم الذي يسمح بالتعرف على الصور وتصحيح ومعايرة معلمات التعرف"
 type: docs
-weight: 40
+weight: 140
 url: /ar/net/aspose.omr.correctionui/correctioncontrol/
 ---
 ## CorrectionControl class
 
-تحكم المستخدم الذي يسمح بالتعرف على الصور وتصحيح ومعايرة معلمات التعرف
+عنصر التحكم المستخدم الذي يسمح بالتعرف على الصور وتصحيح ومعايرة معلمات التعرف
 
-تصحيح التحكم
+CorrectionControl
 
 ```csharp
 public class CorrectionControl : UserControl, IComponentConnector
 ```
 
-## طُرق
+## طرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ExportResults](../../aspose.omr.correctionui/correctioncontrol/exportresults/)(string) | تصدير نتائج التعرف للصورة |
-| [Initialize](../../aspose.omr.correctionui/correctioncontrol/initialize/)() | تهيئة control |
-| [InitializeComponent](../../aspose.omr.correctionui/correctioncontrol/initializecomponent/)() | تهيئة المكون |
-| [LoadAndDisplayImage](../../aspose.omr.correctionui/correctioncontrol/loadanddisplayimage/)(string) | تحميل وعرض الصورة من أجل التعرف |
-| [RecognizeImage](../../aspose.omr.correctionui/correctioncontrol/recognizeimage/)() | التعرف على الصورة |
+| [ExportResults](../../aspose.omr.correctionui/correctioncontrol/exportresults)(string) | تصدير نتائج التعرف للصورة |
+| [Initialize](../../aspose.omr.correctionui/correctioncontrol/initialize)() | تهيئة التحكم |
+| [InitializeComponent](../../aspose.omr.correctionui/correctioncontrol/initializecomponent)() | InitializeComponent |
+| [LoadAndDisplayImage](../../aspose.omr.correctionui/correctioncontrol/loadanddisplayimage)(string) | تحميل وعرض الصورة للتعرف |
+| [RecognizeImage](../../aspose.omr.correctionui/correctioncontrol/recognizeimage)() | التعرف على الصورة |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.CorrectionUI](../../aspose.omr.correctionui/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.CorrectionUI](../../aspose.omr.correctionui)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

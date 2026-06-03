@@ -1,23 +1,23 @@
 ---
-title: GridConfig.HeaderBorderSize
-second_title: Aspose.OMR لمرجع .NET API
-description: GridConfig ملكية. حجم حد مربع
+title: "HeaderBorderSize"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "حجم حد المربع"
 type: docs
 weight: 80
 url: /ar/net/aspose.omr.generation.config.elements/gridconfig/headerbordersize/
 ---
 ## GridConfig.HeaderBorderSize property
 
-حجم حد مربع
+حجم حد المربع
 
 ```csharp
 public int HeaderBorderSize { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [GridConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../gridconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [GridConfig](../../gridconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../gridconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

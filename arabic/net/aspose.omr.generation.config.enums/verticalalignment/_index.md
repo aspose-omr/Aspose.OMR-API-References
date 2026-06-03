@@ -1,31 +1,31 @@
 ---
-title: Enum VerticalAlignment
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.Enums.VerticalAlignment تعداد. يصف الوضع الرأسي للعنصر الفرعي داخل parent
+title: "VerticalAlignment"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "يصف التموضع العمودي للعنصر الفرعي داخل العنصر الأب"
 type: docs
-weight: 580
+weight: 770
 url: /ar/net/aspose.omr.generation.config.enums/verticalalignment/
 ---
 ## VerticalAlignment enumeration
 
-يصف الوضع الرأسي للعنصر الفرعي داخل parent
+يصف التموضع العمودي للعنصر الفرعي داخل العنصر الأب
 
 ```csharp
 public enum VerticalAlignment
 ```
 
-### قيم
+### Values
 
-| اسم | قيمة | وصف |
+| الاسم | Value | الوصف |
 | --- | --- | --- |
-| undefined | `0` | لم يتم تعيين المحاذاة. سيتم استخدام القيمة الافتراضية. |
-| Top | `10` | محاذاة العنصر أعلى العنصر الأصل |
-| Center | `20` | محاذاة العنصر في مركز الأصل |
-| Bottom | `30` | محاذاة العنصر أسفل العنصر الأصل |
+| undefined | `0` | المحاذاة غير مضبوطة. سيتم استخدام القيمة الافتراضية. |
+| Top | `10` | محاذاة العنصر في أعلى الأصل |
+| Center | `20` | محاذاة العنصر في وسط الأصل |
+| Bottom | `30` | محاذاة العنصر في أسفل الأصل |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

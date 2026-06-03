@@ -1,22 +1,22 @@
 ---
-title: Aspose.OMR.Model
-second_title: Aspose.OMR لمرجع .NET API
+title: "Aspose.OMR.Model"
+second_title: "Aspose.OMR لـ .NET مرجع API"
 description: 
 type: docs
-weight: 140
+weight: 180
 url: /ar/net/aspose.omr.model/
 ---
 
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [RecognitionResult](./recognitionresult/) | نتيجة التعرف على الصورة . يحتوي على جميع عناصر OMR مع معلومات التعرف التفصيلية وطرق تصدير النتائج. |
-## واجهات
+| [RecognitionResult](./recognitionresult) | نتيجة التعرف على الصورة. يحتوي على جميع عناصر OMR مع معلومات التعرف التفصيلية وطرق تصدير النتائج. |
+## الواجهات
 
-| واجهه المستخدم | وصف |
+| الواجهة | الوصف |
 | --- | --- |
-| [IOmrElement](./iomrelement/) | واجهة عناصر OMR |
+| [IOmrElement](./iomrelement) | الواجهة لعناصر OMR |
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,14 +1,14 @@
 ---
-title: License.SetLicense
-second_title: Aspose.OMR لمرجع .NET API
-description: License طريقة. تراخيص المكون .
+title: "SetLicense"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "يرخص المكوّن."
 type: docs
 weight: 30
 url: /ar/net/aspose.omr/license/setlicense/
 ---
 ## SetLicense(string) {#setlicense_1}
 
-تراخيص المكون .
+يرخص المكوّن.
 
 ```csharp
 public void SetLicense(string licenseName)
@@ -20,23 +20,23 @@ public void SetLicense(string licenseName)
 
 1. مسار صريح.
 
-2. المجلد الذي يحتوي على تجميع مكون Aspose.
+2. المجلد الذي يحتوي على تجميع مكوّن Aspose.
 
-3. المجلد الذي يحتوي على تجميع استدعاء العميل.
+3. المجلد الذي يحتوي على تجميع العميل المستدعي.
 
-4. المجلد الذي يحتوي على دخول (بدء التشغيل) التجمع.
+4. المجلد الذي يحتوي على التجميع الرئيسي (بدء التشغيل).
 
-5. مورد مضمن في تجميع استدعاء العميل.
+5. مورد مضمّن في تجميع العميل المستدعي.
 
-**ملحوظة:**في .NET Compact Framework ، يحاول العثور على الترخيص في هذه المواقع فقط:
+**Note:**On the .NET Compact Framework, tries to find the license only in these locations:
 
 1. مسار صريح.
 
-2. مورد مضمن في تجميع استدعاء العميل.
+2. مورد مضمّن في تجميع العميل المستدعي.
 
 ### أمثلة
 
-في هذا المثال ، سيتم إجراء محاولة للعثور على ملف ترخيص يسمى MyLicense.lic في المجلد الذي يحتوي على المكون ، في المجلد الذي يحتوي على التجميع الاستدعاء ، في مجلد تجميع الإدخال ثم في المجلد المضمن موارد التجمع المتصل.يمكن أن يكون اسم ملف كامل أو قصير أو اسم مورد مضمن. استخدم سلسلة فارغة للتبديل إلى وضع التقييم.
+في هذا المثال، سيُجرى محاولة للعثور على ملف ترخيص يُدعى MyLicense.lic في المجلد الذي يحتوي على المكوّن، وفي المجلد الذي يحتوي على التجميع المستدعي، وفي مجلد التجميع الرئيسي، ثم في الموارد المضمَّنة للتجميع المستدعي.
 
 ```csharp
 [C#]
@@ -51,29 +51,31 @@ Dim license As License = New License
 license.SetLicense("MyLicense.lic")
 ```
 
-### أنظر أيضا
+يمكن أن يكون اسم ملف كامل أو مختصر أو اسم مورد مضمّن. استخدم سلسلة فارغة للتبديل إلى وضع التقييم.
 
-* class [License](../)
-* مساحة الاسم [Aspose.OMR](../../license/)
-* المجسم [Aspose.OMR](../../../)
+### انظر أيضًا
+
+* class [License](../../license)
+* namespace [Aspose.OMR](../../license)
+* assembly [Aspose.OMR](../../../)
 
 ---
 
 ## SetLicense(Stream) {#setlicense}
 
-تراخيص المكون .
+يرخص المكوّن.
 
 ```csharp
 public void SetLicense(Stream stream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | دفق يحتوي على الترخيص. |
+| دفق | Stream | دفق يحتوي على الترخيص. |
 
 ### ملاحظات
 
-استخدم هذه الطريقة لتحميل ترخيص من دفق.
+استخدم هذه الطريقة لتحميل ترخيص من تدفق.
 
 ### أمثلة
 
@@ -90,10 +92,10 @@ Dim license as License = new License
 license.SetLicense(myStream)
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [License](../)
-* مساحة الاسم [Aspose.OMR](../../license/)
-* المجسم [Aspose.OMR](../../../)
+* class [License](../../license)
+* namespace [Aspose.OMR](../../license)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

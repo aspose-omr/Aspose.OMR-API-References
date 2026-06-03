@@ -1,23 +1,23 @@
 ---
-title: TextConfig.FontFamily
-second_title: Aspose.OMR لمرجع .NET API
-description: TextConfig ملكية. عائلة الخطوط للنص text
+title: "عائلة الخط"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "عائلة الخط للنص"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.generation.config.elements/textconfig/fontfamily/
 ---
 ## TextConfig.FontFamily property
 
-عائلة الخطوط للنص text
+عائلة الخط للنص
 
 ```csharp
 public string FontFamily { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TextConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../textconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [TextConfig](../../textconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../textconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

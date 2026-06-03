@@ -1,9 +1,9 @@
 ---
-title: Enum TableType
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.Enums.TableType تعداد. نوع الجدول
+title: "نوع الجدول"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نوع الجدول"
 type: docs
-weight: 560
+weight: 750
 url: /ar/net/aspose.omr.generation.config.enums/tabletype/
 ---
 ## TableType enumeration
@@ -14,17 +14,17 @@ url: /ar/net/aspose.omr.generation.config.enums/tabletype/
 public enum TableType
 ```
 
-### قيم
+### Values
 
-| اسم | قيمة | وصف |
+| الاسم | Value | الوصف |
 | --- | --- | --- |
 | None | `0` | جدول بسيط |
-| Striped | `1` | طاولة مخططة |
+| Striped | `1` | جدول مخطط |
 | EqualCells | `2` | كل عمود له عرض متساوٍ |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

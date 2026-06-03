@@ -1,23 +1,23 @@
 ---
-title: ContentConfig.ContentConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: ContentConfig البناء. Default_Constructor
+title: "إعدادات المحتوى"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.config.elements/contentconfig/contentconfig/
 ---
 ## ContentConfig constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public ContentConfig()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ContentConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../contentconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [ContentConfig](../../contentconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../contentconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

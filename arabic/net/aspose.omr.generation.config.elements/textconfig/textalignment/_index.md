@@ -1,24 +1,24 @@
 ---
-title: TextConfig.TextAlignment
-second_title: Aspose.OMR لمرجع .NET API
-description: TextConfig ملكية. محاذاة النص  للإشارة إلى المكان الذي يجب رسم النص فيه على page
+title: "TextAlignment"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "تشير محاذاة النص إلى المكان الذي يجب رسم النص فيه على الصفحة"
 type: docs
 weight: 70
 url: /ar/net/aspose.omr.generation.config.elements/textconfig/textalignment/
 ---
 ## TextConfig.TextAlignment property
 
-محاذاة النص ، للإشارة إلى المكان الذي يجب رسم النص فيه على page
+محاذاة النص، تشير إلى مكان رسم النص على الصفحة
 
 ```csharp
 public AlignmentEnum TextAlignment { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [AlignmentEnum](../../../aspose.omr.generation.config.enums/alignmentenum/)
-* class [TextConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../textconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [AlignmentEnum](../../../aspose.omr.generation.config.enums/alignmentenum)
+* class [TextConfig](../../textconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../textconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

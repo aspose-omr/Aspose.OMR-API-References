@@ -1,36 +1,36 @@
 ---
-title: Class BorderStyle
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.BorderStyle فصل. وصف الحد لجانب واحد محدد من
+title: "BorderStyle"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "وصف الحدود للجانب المحدد من"
 type: docs
-weight: 80
+weight: 240
 url: /ar/net/aspose.omr.generation.config/borderstyle/
 ---
 ## BorderStyle class
 
-وصف الحد لجانب واحد محدد من
+وصف الحدود للجانب المحدد من
 
 ```csharp
 public class BorderStyle
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BorderStyle](borderstyle/)() | Default_Constructor |
+| [BorderStyle](borderstyle)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BorderColor](../../aspose.omr.generation.config/borderstyle/bordercolor/) { get; set; } | لون الحدود |
-| [BorderSize](../../aspose.omr.generation.config/borderstyle/bordersize/) { get; set; } | حجم خط الحدود |
-| [Disable](../../aspose.omr.generation.config/borderstyle/disable/) { get; set; } | عند التعيين على "صواب" - قم بتعطيل هذا الجانب من border |
+| [BorderColor](../../aspose.omr.generation.config/borderstyle/bordercolor) { get; set; } | لون الحد |
+| [BorderSize](../../aspose.omr.generation.config/borderstyle/bordersize) { get; set; } | حجم خط الحد |
+| [Disable](../../aspose.omr.generation.config/borderstyle/disable) { get; set; } | عند تعيينه إلى true - تعطيل هذا الجانب من الحد |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Generation.Config](../../aspose.omr.generation.config/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation.Config](../../aspose.omr.generation.config)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

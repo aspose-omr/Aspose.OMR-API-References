@@ -1,23 +1,23 @@
 ---
-title: CorrectionControl.InitializeComponent
-second_title: Aspose.OMR لمرجع .NET API
-description: CorrectionControl طريقة. تهيئة المكون
+title: "InitializeComponent"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "InitializeComponent"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.correctionui/correctioncontrol/initializecomponent/
 ---
 ## CorrectionControl.InitializeComponent method
 
-تهيئة المكون
+InitializeComponent
 
 ```csharp
 public void InitializeComponent()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [CorrectionControl](../)
-* مساحة الاسم [Aspose.OMR.CorrectionUI](../../correctioncontrol/)
-* المجسم [Aspose.OMR](../../../)
+* class [CorrectionControl](../../correctioncontrol)
+* namespace [Aspose.OMR.CorrectionUI](../../correctioncontrol)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,28 +1,28 @@
 ---
-title: Enum ScoreGroupType
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.Enums.ScoreGroupType تعداد. نوع المجموعة. رسم التأثيرات لعنصر مجموعة النتيجة
+title: "ScoreGroupType"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نوع مجموعة النقاط. يؤثر على رسم عنصر مجموعة النقاط"
 type: docs
-weight: 540
+weight: 730
 url: /ar/net/aspose.omr.generation.config.enums/scoregrouptype/
 ---
 ## ScoreGroupType enumeration
 
-نوع المجموعة. رسم التأثيرات لعنصر مجموعة النتيجة
+نوع مجموعة النقاط. يؤثر على رسم عنصر مجموعة النقاط
 
 ```csharp
 public enum ScoreGroupType
 ```
 
-### قيم
+### Values
 
-| اسم | قيمة | وصف |
+| الاسم | Value | الوصف |
 | --- | --- | --- |
-| Table | `0` | ضع كل سؤال كجدول ، وأجب على أنه row |
+| Table | `0` | وضع كل سؤال كجدول، والإجابة كصف |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,23 +1,23 @@
 ---
-title: CheckBoxConfig.CheckBoxConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: CheckBoxConfig البناء. Default_Constructor
+title: "CheckBoxConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.config.elements.parents/checkboxconfig/checkboxconfig/
 ---
 ## CheckBoxConfig constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public CheckBoxConfig()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [CheckBoxConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../checkboxconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [CheckBoxConfig](../../checkboxconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../checkboxconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

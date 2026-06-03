@@ -1,23 +1,23 @@
 ---
-title: CustomTriggerConfig.Target
-second_title: Aspose.OMR لمرجع .NET API
-description: CustomTriggerConfig ملكية. اسم العنصر الهدف. يعتمد السلوك علىTriggerType
+title: "Target"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "اسم العنصر الهدف. السلوك يعتمد على TriggerTypeaspose.omr.generation.config.elements/customtriggerconfig/triggertype"
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.generation.config.elements/customtriggerconfig/target/
 ---
 ## CustomTriggerConfig.Target property
 
-اسم العنصر الهدف. يعتمد السلوك على[`TriggerType`](../triggertype/)
+اسم العنصر الهدف. السلوك يعتمد على [`TriggerType`](../triggertype)
 
 ```csharp
 public string Target { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [CustomTriggerConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../customtriggerconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [CustomTriggerConfig](../../customtriggerconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../customtriggerconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

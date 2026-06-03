@@ -1,23 +1,23 @@
 ---
-title: NoClip.NoClip
-second_title: Aspose.OMR لمرجع .NET API
-description: NoClip البناء. Default_Constructor
+title: "NoClip"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.overflowactions/noclip/noclip/
 ---
 ## NoClip constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public NoClip()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [NoClip](../)
-* مساحة الاسم [Aspose.OMR.Generation.OverflowActions](../../noclip/)
-* المجسم [Aspose.OMR](../../../)
+* class [NoClip](../../noclip)
+* namespace [Aspose.OMR.Generation.OverflowActions](../../noclip)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

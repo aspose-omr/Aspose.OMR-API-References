@@ -1,23 +1,23 @@
 ---
-title: CustomAnswerSheetConfig.CustomAnswerSheetConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: CustomAnswerSheetConfig البناء. Default_Constructor
+title: "CustomAnswerSheetConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/customanswersheetconfig/
 ---
 ## CustomAnswerSheetConfig constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public CustomAnswerSheetConfig()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [CustomAnswerSheetConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../customanswersheetconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [CustomAnswerSheetConfig](../../customanswersheetconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../customanswersheetconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

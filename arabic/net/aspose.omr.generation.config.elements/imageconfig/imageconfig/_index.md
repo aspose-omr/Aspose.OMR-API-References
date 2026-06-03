@@ -1,23 +1,23 @@
 ---
-title: ImageConfig.ImageConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: ImageConfig البناء. Default_Constructor
+title: "ImageConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.config.elements/imageconfig/imageconfig/
 ---
 ## ImageConfig constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public ImageConfig()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ImageConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../imageconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [ImageConfig](../../imageconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../imageconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

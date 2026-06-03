@@ -1,24 +1,24 @@
 ---
-title: TextConfig.Type
-second_title: Aspose.OMR لمرجع .NET API
-description: TextConfig ملكية. نوع عنصر omr. حقل مطلوب للتسلسل JSON .
+title: "النوع"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نوع عنصر OMR. حقل مطلوب لتسلسل JSON."
 type: docs
 weight: 80
 url: /ar/net/aspose.omr.generation.config.elements/textconfig/type/
 ---
 ## TextConfig.Type property
 
-نوع عنصر omr. حقل مطلوب للتسلسل JSON .
+نوع عنصر OMR. حقل مطلوب لتسلسل JSON.
 
 ```csharp
 public override ConfigType Type { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [ConfigType](../../../aspose.omr.generation.config.enums/configtype/)
-* class [TextConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../textconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [ConfigType](../../../aspose.omr.generation.config.enums/configtype)
+* class [TextConfig](../../textconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../textconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

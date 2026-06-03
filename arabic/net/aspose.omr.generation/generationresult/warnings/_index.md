@@ -1,23 +1,23 @@
 ---
-title: GenerationResult.Warnings
-second_title: Aspose.OMR لمرجع .NET API
-description: GenerationResult ملكية. الحصول على أو تعيين قائمة برسائل التحذيرات التي تصف الأخطاء غير الحرجة التي ظهرت أثناء التوليد
+title: "تحذيرات"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "يحصل أو يعيّن قائمة رسائل التحذير التي تصف الأخطاء غير الحرجة التي ظهرت أثناء الإنشاء"
 type: docs
 weight: 50
 url: /ar/net/aspose.omr.generation/generationresult/warnings/
 ---
 ## GenerationResult.Warnings property
 
-الحصول على أو تعيين قائمة برسائل التحذيرات التي تصف الأخطاء غير الحرجة التي ظهرت أثناء التوليد
+يحصل أو يعيّن قائمة رسائل التحذير التي تصف الأخطاء غير الحرجة التي ظهرت أثناء الإنشاء
 
 ```csharp
 public List<string> Warnings { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [GenerationResult](../)
-* مساحة الاسم [Aspose.OMR.Generation](../../generationresult/)
-* المجسم [Aspose.OMR](../../../)
+* class [GenerationResult](../../generationresult)
+* namespace [Aspose.OMR.Generation](../../generationresult)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

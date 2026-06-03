@@ -1,7 +1,7 @@
 ---
-title: InputGroup.BorderBottomStyle
-second_title: Aspose.OMR لمرجع .NET API
-description: InputGroup ملكية. نمط إضافي للحد السفلي
+title: "نمط الحد السفلي"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نمط إضافي للحد السفلي"
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.generation.config.elements/inputgroup/borderbottomstyle/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements/inputgroup/borderbottomstyle/
 public BorderStyle BorderBottomStyle { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BorderStyle](../../../aspose.omr.generation.config/borderstyle/)
-* class [InputGroup](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../inputgroup/)
-* المجسم [Aspose.OMR](../../../)
+* class [BorderStyle](../../../aspose.omr.generation.config/borderstyle)
+* class [InputGroup](../../inputgroup)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../inputgroup)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

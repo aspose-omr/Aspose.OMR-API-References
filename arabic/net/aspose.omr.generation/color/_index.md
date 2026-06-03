@@ -1,9 +1,9 @@
 ---
-title: Enum Color
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Color تعداد. الألوان
+title: "اللون"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "الألوان"
 type: docs
-weight: 60
+weight: 220
 url: /ar/net/aspose.omr.generation/color/
 ---
 ## Color enumeration
@@ -14,155 +14,155 @@ url: /ar/net/aspose.omr.generation/color/
 public enum Color
 ```
 
-### قيم
+### Values
 
-| اسم | قيمة | وصف |
+| الاسم | Value | الوصف |
 | --- | --- | --- |
-| undefined | `0` | لم يتم تعيين اللون . |
-| AliceBlue | `28` | AliceBlue color |
-| AntiqueWhite | `29` | العتيقةأبيض اللون . |
-| Aqua | `30` | لون أكوا . |
-| Aquamarine | `31` | لون الزبرجد |
-| Azure | `32` | اللون الأزرق السماوي . |
-| Beige | `33` | اللون البيج . |
-| Bisque | `34` | حساء اللون . |
-| Black | `35` | اللون الأسود . |
-| BlanchedAlmond | `36` | مبيض لون اللوز . |
-| Blue | `37` | اللون الأزرق . |
-| BlueViolet | `38` | اللون الأزرق البنفسجي |
-| Brown | `39` | بني اللون |
-| BurlyWood | `40` | خشب قوي البنية اللون |
-| CadetBlue | `41` | كاديت اللون الأزرق |
-| Chartreuse | `42` | لون الرسم البياني |
-| Chocolate | `43` | لون الشوكولاتة |
-| Coral | `44` | لون المرجان |
-| CornflowerBlue | `45` | ردة الذرة اللون الأزرق |
-| Cornsilk | `46` | Cornsilk color |
+| undefined | `0` | اللون غير محدد. |
+| AliceBlue | `28` | لون AliceBlue |
+| AntiqueWhite | `29` | لون AntiqueWhite. |
+| Aqua | `30` | لون Aqua. |
+| Aquamarine | `31` | لون Aquamarine |
+| Azure | `32` | لون Azure. |
+| Beige | `33` | لون Beige. |
+| Bisque | `34` | لون Bisque. |
+| Black | `35` | لون Black. |
+| BlanchedAlmond | `36` | لون BlanchedAlmond. |
+| Blue | `37` | لون Blue. |
+| BlueViolet | `38` | لون BlueViolet |
+| Brown | `39` | لون Brown |
+| BurlyWood | `40` | لون BurlyWood |
+| CadetBlue | `41` | لون CadetBlue |
+| Chartreuse | `42` | لون شارتروز |
+| Chocolate | `43` | لون شوكولاتة |
+| Coral | `44` | لون مرجاني |
+| CornflowerBlue | `45` | لون أزرق زهرة الذرة |
+| Cornsilk | `46` | لون حرير الذرة |
 | Crimson | `47` | لون قرمزي |
-| Cyan | `48` | سماوي اللون |
-| DarkBlue | `49` | لون أزرق غامق |
-| DarkCyan | `50` | لون سماوي غامق |
-| DarkGoldenrod | `51` | DarkGoldenrod color |
-| DarkGray | `52` | لون رمادي غامق |
-| DarkGreen | `53` | لون أخضر غامق |
-| DarkKhaki | `54` | كاكي داكن اللون |
-| DarkMagenta | `55` | DarkMagenta color |
-| DarkOliveGreen | `56` | زيتون أخضر غامق اللون |
-| DarkOrange | `57` | اللون البرتقالي الداكن |
-| DarkOrchid | `58` | DarkOrchid color |
-| DarkRed | `59` | اللون الأحمر الداكن |
-| DarkSalmon | `60` | لون سمك السلمون الداكن |
-| DarkSeaGreen | `61` | DarkSeaGreen color |
-| DarkSlateBlue | `62` | DarkSlateBlue color |
-| DarkSlateGray | `63` | DarkSlateGray color |
-| DarkTurquoise | `64` | اللون الفيروزي الداكن |
-| DarkViolet | `65` | بنفسجي غامق |
-| DeepPink | `66` | DeepPink color |
-| DeepSkyBlue | `67` | DeepSkyBlue color |
-| DimGray | `68` | لون رمادي خافت |
-| DodgerBlue | `69` | المراوغ اللون الأزرق |
-| Firebrick | `70` | Firebrick color |
-| FloralWhite | `71` | الأزهارأبيض اللون |
-| ForestGreen | `72` | غابةأخضر color |
-| Fuchsia | `73` | فوشيا color |
-| Gainsboro | `74` | Gainsboro color |
-| GhostWhite | `75` | GhostWhite color |
-| Gold | `76` | لون الذهب |
-| Goldenrod | `77` | Goldenrod color |
-| Gray | `78` | اللون الرمادي |
-| Green | `79` | اللون الأخضر |
-| GreenYellow | `80` | اللون الأخضر_أصفر |
-| Honeydew | `81` | لون العسل |
-| HotPink | `82` | HotPink color |
-| IndianRed | `83` | اللون الأحمر الهندي |
-| Indigo | `84` | اللون النيلي |
-| Ivory | `85` | لون عاجي |
-| Khaki | `86` | كاكي color |
-| Lavender | `87` | لافندر color |
-| LavenderBlush | `88` | LavenderBlush color |
-| LawnGreen | `89` | لون أخضر |
-| LemonChiffon | `90` | لون الليمونشيفون |
-| LightBlue | `91` | LightBlue color |
-| LightCoral | `92` | لون المرجاني الفاتح |
-| LightCyan | `93` | لون سماوي فاتح |
-| LightGoldenrodYellow | `94` | ضوء ذهبي اللون الأصفر |
-| LightGray | `95` | لون رمادي فاتح |
-| LightGreen | `96` | لون أخضر فاتح |
-| LightPink | `97` | LightPink color |
-| LightSalmon | `98` | LightSalmon color |
-| LightSeaGreen | `99` | LightSeaGreen color |
-| LightSkyBlue | `100` | LightSkyBlue color |
-| LightSlateGray | `101` | LightSlateGray color |
-| LightSteelBlue | `102` | LightSteelBlue color |
-| LightYellow | `103` | لون أصفر فاتح |
-| Lime | `104` | لون الجير |
-| LimeGreen | `105` | لون أخضر ليموني |
-| Linen | `106` | لون الكتان |
-| Magenta | `107` | أرجواني اللون |
-| Maroon | `108` | مارون color |
-| MediumAquamarine | `109` | متوسط لون الزبرجد |
-| MediumBlue | `110` | متوسط أزرق اللون |
-| MediumOrchid | `111` | متوسط لون الأوركيد |
-| MediumPurple | `112` | متوسط لون بنفسجي |
-| MediumSeaGreen | `113` | متوسط لون البحر الأخضر |
-| MediumSlateBlue | `114` | متوسط لون أزرق أردوازي |
-| MediumSpringGreen | `115` | متوسط الربيع اللون الأخضر |
-| MediumTurquoise | `116` | متوسط اللون الفيروزي |
-| MediumVioletRed | `117` | متوسط بنفسجي أحمر اللون |
-| MidnightBlue | `118` | منتصف الليل اللون الأزرق |
-| MintCream | `119` | لون MintCream |
-| MistyRose | `120` | MistyRose color |
-| Moccasin | `121` | موكاسين color |
-| NavajoWhite | `122` | نافاجوأبيض اللون |
-| Navy | `123` | لون كحلي |
-| OldLace | `124` | OldLace color |
-| Olive | `125` | زيتون |
-| OliveDrab | `126` | لون الزيتون_العربي |
-| Orange | `127` | برتقالي اللون |
-| OrangeRed | `128` | لون برتقالي أحمر |
-| Orchid | `129` | Orchid color |
-| PaleGoldenrod | `130` | لون ذهبي باهت |
-| PaleGreen | `131` | لون أخضر شاحب |
-| PaleTurquoise | `132` | شاحب اللون الفيروزي |
-| PaleVioletRed | `133` | شاحب بنفسجي اللون الأحمر |
-| PapayaWhip | `134` | البابايا |
-| PeachPuff | `135` | لون الخوخ النفخ |
-| Peru | `136` | بيرو color |
-| Pink | `137` | اللون الوردي |
-| Plum | `138` | لون البرقوق |
-| PowderBlue | `139` | مسحوق أزرق اللون |
-| Purple | `140` | اللون الأرجواني |
-| Red | `141` | نوع اللون الأحمر |
-| RosyBrown | `142` | وردي اللون البني |
-| RoyalBlue | `143` | RoyalBlue color |
-| SaddleBrown | `144` | سرج بني اللون |
-| Salmon | `145` | سمك السلمون color |
-| SandyBrown | `146` | رملي اللون البني |
-| SeaGreen | `147` | لون أخضر البحر |
-| SeaShell | `148` | SeaShell color |
-| Sienna | `149` | سيينا color |
-| Silver | `150` | اللون الفضي |
-| SkyBlue | `151` | SkyBlue color |
-| SlateBlue | `152` | لون أزرق أردوازي |
-| SlateGray | `153` | SlateGray color |
-| Snow | `154` | لون الثلج |
-| SpringGreen | `155` | ربيعأخضر اللون |
-| SteelBlue | `156` | ستيل أزرق اللون |
-| Tan | `157` | نوع لون تان |
-| Teal | `158` | تيل color |
-| Thistle | `159` | شوك اللون |
-| Tomato | `160` | لون الطماطم |
-| Turquoise | `161` | لون الفيروز |
-| Violet | `162` | اللون البنفسجي |
-| Wheat | `163` | قمح color |
-| White | `164` | اللون الأبيض |
-| WhiteSmoke | `165` | لون الدخان الأبيض |
-| Yellow | `166` | اللون الأصفر |
-| YellowGreen | `167` | أصفرأخضر اللون |
+| Cyan | `48` | لون سماوي |
+| DarkBlue | `49` | لون أزرق داكن |
+| DarkCyan | `50` | لون سماوي داكن |
+| DarkGoldenrod | `51` | لون قوس ذهبي داكن |
+| DarkGray | `52` | لون رمادي داكن |
+| DarkGreen | `53` | لون أخضر داكن |
+| DarkKhaki | `54` | لون كاكي داكن |
+| DarkMagenta | `55` | لون أرجواني داكن |
+| DarkOliveGreen | `56` | لون أخضر زيتوني داكن |
+| DarkOrange | `57` | لون برتقالي داكن |
+| DarkOrchid | `58` | لون أوركيد داكن |
+| DarkRed | `59` | لون أحمر داكن |
+| DarkSalmon | `60` | لون سلمون داكن |
+| DarkSeaGreen | `61` | لون أخضر بحري داكن |
+| DarkSlateBlue | `62` | لون أزرق صخري داكن |
+| DarkSlateGray | `63` | لون رمادي صخري داكن |
+| DarkTurquoise | `64` | لون فيروزي داكن |
+| DarkViolet | `65` | لون بنفسجي داكن |
+| DeepPink | `66` | لون وردي عميق |
+| DeepSkyBlue | `67` | لون DeepSkyBlue |
+| DimGray | `68` | لون DimGray |
+| DodgerBlue | `69` | لون DodgerBlue |
+| Firebrick | `70` | لون Firebrick |
+| FloralWhite | `71` | لون FloralWhite |
+| ForestGreen | `72` | لون ForestGreen |
+| Fuchsia | `73` | لون Fuchsia |
+| Gainsboro | `74` | لون Gainsboro |
+| GhostWhite | `75` | لون GhostWhite |
+| Gold | `76` | لون Gold |
+| Goldenrod | `77` | لون Goldenrod |
+| Gray | `78` | لون Gray |
+| Green | `79` | لون Green |
+| GreenYellow | `80` | لون GreenYellow |
+| Honeydew | `81` | لون Honeydew |
+| HotPink | `82` | لون HotPink |
+| IndianRed | `83` | لون IndianRed |
+| Indigo | `84` | لون Indigo |
+| Ivory | `85` | لون Ivory |
+| Khaki | `86` | لون Khaki |
+| Lavender | `87` | لون Lavender |
+| LavenderBlush | `88` | لون LavenderBlush |
+| LawnGreen | `89` | لون LawnGreen |
+| LemonChiffon | `90` | لون LemonChiffon |
+| LightBlue | `91` | لون LightBlue |
+| LightCoral | `92` | لون LightCoral |
+| LightCyan | `93` | لون LightCyan |
+| LightGoldenrodYellow | `94` | لون LightGoldenrodYellow |
+| LightGray | `95` | لون LightGray |
+| LightGreen | `96` | لون LightGreen |
+| LightPink | `97` | لون LightPink |
+| LightSalmon | `98` | لون LightSalmon |
+| LightSeaGreen | `99` | لون LightSeaGreen |
+| LightSkyBlue | `100` | لون LightSkyBlue |
+| LightSlateGray | `101` | لون LightSlateGray |
+| LightSteelBlue | `102` | لون LightSteelBlue |
+| LightYellow | `103` | لون LightYellow |
+| Lime | `104` | لون Lime |
+| LimeGreen | `105` | لون LimeGreen |
+| Linen | `106` | لون Linen |
+| Magenta | `107` | لون Magenta |
+| Maroon | `108` | لون Maroon |
+| MediumAquamarine | `109` | لون MediumAquamarine |
+| MediumBlue | `110` | لون MediumBlue |
+| MediumOrchid | `111` | لون MediumOrchid |
+| MediumPurple | `112` | لون MediumPurple |
+| MediumSeaGreen | `113` | لون MediumSeaGreen |
+| MediumSlateBlue | `114` | لون MediumSlateBlue |
+| MediumSpringGreen | `115` | لون MediumSpringGreen |
+| MediumTurquoise | `116` | لون MediumTurquoise |
+| MediumVioletRed | `117` | MediumVioletRed لون |
+| MidnightBlue | `118` | MidnightBlue لون |
+| MintCream | `119` | MintCream لون |
+| MistyRose | `120` | MistyRose لون |
+| Moccasin | `121` | Moccasin لون |
+| NavajoWhite | `122` | NavajoWhite لون |
+| Navy | `123` | Navy لون |
+| OldLace | `124` | OldLace لون |
+| Olive | `125` | Olive لون |
+| OliveDrab | `126` | OliveDrab لون |
+| Orange | `127` | Orange لون |
+| OrangeRed | `128` | OrangeRed لون |
+| Orchid | `129` | Orchid لون |
+| PaleGoldenrod | `130` | PaleGoldenrod لون |
+| PaleGreen | `131` | PaleGreen لون |
+| PaleTurquoise | `132` | PaleTurquoise لون |
+| PaleVioletRed | `133` | PaleVioletRed لون |
+| PapayaWhip | `134` | PapayaWhip لون |
+| PeachPuff | `135` | PeachPuff لون |
+| Peru | `136` | Peru لون |
+| Pink | `137` | Pink لون |
+| Plum | `138` | Plum لون |
+| PowderBlue | `139` | PowderBlue لون |
+| Purple | `140` | Purple لون |
+| Red | `141` | Red نوع اللون |
+| RosyBrown | `142` | RosyBrown لون |
+| RoyalBlue | `143` | RoyalBlue لون |
+| SaddleBrown | `144` | SaddleBrown لون |
+| Salmon | `145` | Salmon لون |
+| SandyBrown | `146` | SandyBrown لون |
+| SeaGreen | `147` | SeaGreen لون |
+| SeaShell | `148` | SeaShell لون |
+| Sienna | `149` | Sienna لون |
+| Silver | `150` | Silver لون |
+| SkyBlue | `151` | SkyBlue لون |
+| SlateBlue | `152` | SlateBlue لون |
+| SlateGray | `153` | SlateGray لون |
+| Snow | `154` | Snow لون |
+| SpringGreen | `155` | SpringGreen لون |
+| SteelBlue | `156` | SteelBlue لون |
+| Tan | `157` | Tan لون نوع |
+| Teal | `158` | Teal لون |
+| Thistle | `159` | Thistle لون |
+| Tomato | `160` | Tomato لون |
+| Turquoise | `161` | Turquoise لون |
+| Violet | `162` | Violet لون |
+| Wheat | `163` | Wheat لون |
+| White | `164` | White لون |
+| WhiteSmoke | `165` | WhiteSmoke لون |
+| Yellow | `166` | Yellow لون |
+| YellowGreen | `167` | لون أصفر أخضر |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Generation](../../aspose.omr.generation/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation](../../aspose.omr.generation)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

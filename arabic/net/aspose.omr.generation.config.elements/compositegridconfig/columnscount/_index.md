@@ -1,23 +1,23 @@
 ---
-title: CompositeGridConfig.ColumnsCount
-second_title: Aspose.OMR لمرجع .NET API
-description: CompositeGridConfig ملكية. مقدار الأعمدة داخل الشبكة. يمثل كل عمود رمزًا واحدًا في النتيجة value يجب أن يكون المبلغ مساويًا لـExtraRow كمية الأعمدة
+title: "ColumnsCount"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "عدد الأعمدة داخل الشبكة. كل عمود يمثل رمزًا واحدًا في القيمة الناتجة. يجب أن يكون العدد مساويًا لـ ExtraRowaspose.omr.generation.config.elements/compositegridconfig/extrarow عدد الأعمدة"
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.generation.config.elements/compositegridconfig/columnscount/
 ---
 ## CompositeGridConfig.ColumnsCount property
 
-مقدار الأعمدة داخل الشبكة. يمثل كل عمود رمزًا واحدًا في النتيجة value يجب أن يكون المبلغ مساويًا لـ[`ExtraRow`](../extrarow/) كمية الأعمدة
+عدد الأعمدة داخل الشبكة. كل عمود يمثل رمزًا واحدًا في القيمة الناتجة. يجب أن يكون العدد مساويًا لـ [`ExtraRow`](../extrarow) عدد الأعمدة
 
 ```csharp
 public int ColumnsCount { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [CompositeGridConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../compositegridconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [CompositeGridConfig](../../compositegridconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../compositegridconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,29 +1,29 @@
 ---
-title: Enum Directionality
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.Enums.Directionality تعداد. اتجاه عناصر الرسم والنص .
+title: "الاتجاهية"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "اتجاه رسم العناصر والنص."
 type: docs
-weight: 490
+weight: 670
 url: /ar/net/aspose.omr.generation.config.enums/directionality/
 ---
 ## Directionality enumeration
 
-اتجاه عناصر الرسم والنص .
+اتجاه رسم العناصر والنص.
 
 ```csharp
 public enum Directionality
 ```
 
-### قيم
+### Values
 
-| اسم | قيمة | وصف |
+| الاسم | Value | الوصف |
 | --- | --- | --- |
-| LeftToRight | `0` | الاتجاه من اليسار إلى اليمين . |
-| RightToLeft | `1` | الاتجاه من اليمين إلى اليسار . |
+| LeftToRight | `0` | الاتجاهية من اليسار إلى اليمين. |
+| RightToLeft | `1` | الاتجاهية من اليمين إلى اليسار. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

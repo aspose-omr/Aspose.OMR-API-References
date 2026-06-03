@@ -1,7 +1,7 @@
 ---
-title: ContentConfig.Color
-second_title: Aspose.OMR لمرجع .NET API
-description: ContentConfig ملكية. لون النص
+title: "اللون"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "لون النص"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.generation.config.elements/contentconfig/color/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements/contentconfig/color/
 public Color Color { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [Color](../../../aspose.omr.generation/color/)
-* class [ContentConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../contentconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [Color](../../../aspose.omr.generation/color)
+* class [ContentConfig](../../contentconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../contentconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

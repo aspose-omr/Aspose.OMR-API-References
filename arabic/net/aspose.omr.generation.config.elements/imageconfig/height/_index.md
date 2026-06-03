@@ -1,7 +1,7 @@
 ---
-title: ImageConfig.Height
-second_title: Aspose.OMR لمرجع .NET API
-description: ImageConfig ملكية. ارتفاع الصورة
+title: "ارتفاع"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "ارتفاع الصورة"
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.generation.config.elements/imageconfig/height/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.omr.generation.config.elements/imageconfig/height/
 public int Height { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ImageConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../imageconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [ImageConfig](../../imageconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../imageconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

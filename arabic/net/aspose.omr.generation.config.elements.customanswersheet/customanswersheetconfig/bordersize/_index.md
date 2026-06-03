@@ -1,23 +1,23 @@
 ---
-title: CustomAnswerSheetConfig.BorderSize
-second_title: Aspose.OMR لمرجع .NET API
-description: CustomAnswerSheetConfig ملكية. حجم خط الحدود
+title: "حجم الحد"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "حجم خط الحد"
 type: docs
 weight: 70
 url: /ar/net/aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordersize/
 ---
 ## CustomAnswerSheetConfig.BorderSize property
 
-حجم خط الحدود
+حجم خط الحد
 
 ```csharp
 public int BorderSize { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [CustomAnswerSheetConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../customanswersheetconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [CustomAnswerSheetConfig](../../customanswersheetconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../customanswersheetconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

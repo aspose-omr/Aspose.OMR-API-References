@@ -1,23 +1,23 @@
 ---
-title: ScoreHeaderConfig.Score
-second_title: Aspose.OMR لمرجع .NET API
-description: ScoreHeaderConfig ملكية. معدل النتيجة
+title: "النقطة"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "معدل النقاط"
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/score/
 ---
 ## ScoreHeaderConfig.Score property
 
-معدل النتيجة
+معدل النقاط
 
 ```csharp
 public int Score { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ScoreHeaderConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scoreheaderconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [ScoreHeaderConfig](../../scoreheaderconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scoreheaderconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

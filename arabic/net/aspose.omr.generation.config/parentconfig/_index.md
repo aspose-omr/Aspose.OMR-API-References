@@ -1,14 +1,14 @@
 ---
-title: Class ParentConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.ParentConfig فصل. التجريد الذي يميز العنصر باعتباره عنصرًا أصليًا ويسمح باستخدام عناصر أخرى كأطفال
+title: "ParentConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "تجريد يحدد العنصر كأصل ويسمح بوجود عناصر أخرى كأطفال"
 type: docs
-weight: 590
+weight: 780
 url: /ar/net/aspose.omr.generation.config/parentconfig/
 ---
 ## ParentConfig class
 
-التجريد الذي يميز العنصر باعتباره عنصرًا أصليًا ويسمح باستخدام عناصر أخرى كأطفال
+تجريد يحدد العنصر كأصل ويسمح بوجود عناصر أخرى كأطفال
 
 ```csharp
 public abstract class ParentConfig : BaseConfig
@@ -16,16 +16,16 @@ public abstract class ParentConfig : BaseConfig
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [Children](../../aspose.omr.generation.config/parentconfig/children/) { get; set; } | عناصر omr الفرعية. في معظم الحالات يتم وضعه داخل أحد الوالدين أو أقل. |
-| abstract [Name](../../aspose.omr.generation.config/baseconfig/name/) { get; set; } | اسم عنصر omr. يمكن استخدامها في حالات مختلفة بناءً على element |
-| abstract [Type](../../aspose.omr.generation.config/baseconfig/type/) { get; set; } | نوع عنصر omr. ليس لها قيمة افتراضية. يجب تجاوزه. |
+| abstract [Children](../../aspose.omr.generation.config/parentconfig/children) { get; set; } | عناصر OMR الفرعية. في معظم الحالات تكون موضوعة داخل العنصر الأب أو تحته. |
+| abstract [Name](../../aspose.omr.generation.config/baseconfig/name) { get; set; } | اسم عنصر OMR. يمكن استخدامه في حالات مختلفة بناءً على العنصر |
+| abstract [Type](../../aspose.omr.generation.config/baseconfig/type) { get; set; } | نوع عنصر omr. لا يحتوي على قيمة افتراضية. يجب تجاوزه. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BaseConfig](../baseconfig/)
-* مساحة الاسم [Aspose.OMR.Generation.Config](../../aspose.omr.generation.config/)
-* المجسم [Aspose.OMR](../../)
+* class [BaseConfig](../baseconfig)
+* namespace [Aspose.OMR.Generation.Config](../../aspose.omr.generation.config)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

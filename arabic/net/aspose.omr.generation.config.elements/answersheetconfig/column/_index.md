@@ -1,7 +1,7 @@
 ---
-title: AnswerSheetConfig.Column
-second_title: Aspose.OMR لمرجع .NET API
-description: AnswerSheetConfig ملكية. يشير إلى العمود الذي سيتم رسم الورقة فيه
+title: "عمود"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "يشير إلى العمود الذي سيتم رسم الورقة فيه"
 type: docs
 weight: 50
 url: /ar/net/aspose.omr.generation.config.elements/answersheetconfig/column/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.omr.generation.config.elements/answersheetconfig/column/
 public int Column { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [AnswerSheetConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [AnswerSheetConfig](../../answersheetconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

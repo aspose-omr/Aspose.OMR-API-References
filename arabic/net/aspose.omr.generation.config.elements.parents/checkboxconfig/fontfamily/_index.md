@@ -1,23 +1,23 @@
 ---
-title: CheckBoxConfig.FontFamily
-second_title: Aspose.OMR لمرجع .NET API
-description: CheckBoxConfig ملكية. عائلة الخطوط للنص text
+title: "عائلة الخط"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "عائلة الخط للنص"
 type: docs
 weight: 50
 url: /ar/net/aspose.omr.generation.config.elements.parents/checkboxconfig/fontfamily/
 ---
 ## CheckBoxConfig.FontFamily property
 
-عائلة الخطوط للنص text
+عائلة الخط للنص
 
 ```csharp
 public string FontFamily { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [CheckBoxConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../checkboxconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [CheckBoxConfig](../../checkboxconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../checkboxconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

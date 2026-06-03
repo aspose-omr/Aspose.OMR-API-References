@@ -1,28 +1,28 @@
 ---
-title: Enum TriggerType
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.Enums.TriggerType تعداد. نوع المشغل. وصف سلوك المشغل
+title: "TriggerType"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نوع المشغل. يصف سلوك المشغل"
 type: docs
-weight: 570
+weight: 760
 url: /ar/net/aspose.omr.generation.config.enums/triggertype/
 ---
 ## TriggerType enumeration
 
-نوع المشغل. وصف سلوك المشغل
+نوع المشغل. يصف سلوك المشغل
 
 ```csharp
 public enum TriggerType
 ```
 
-### قيم
+### Values
 
-| اسم | قيمة | وصف |
+| الاسم | Value | الوصف |
 | --- | --- | --- |
-| ReplaceValue | `0` | عند التعرف على قيمة التغيير للعنصر إلى قيمة التشغيل ، عند التعبئة |
+| ReplaceValue | `0` | عند التعرف، غيّر قيمة العنصر إلى قيمة المشغل عند التعبئة |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

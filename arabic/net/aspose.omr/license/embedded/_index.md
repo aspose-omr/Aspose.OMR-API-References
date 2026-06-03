@@ -1,23 +1,23 @@
 ---
-title: License.Embedded
-second_title: Aspose.OMR لمرجع .NET API
-description: License ملكية. تمت إضافة رقم الترخيص كمورد مضمن .
+title: "مضمن"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "تم إضافة رقم الترخيص كموارد مدمجة."
 type: docs
 weight: 20
 url: /ar/net/aspose.omr/license/embedded/
 ---
 ## License.Embedded property
 
-تمت إضافة رقم الترخيص كمورد مضمن .
+تم إضافة رقم الترخيص كموارد مدمجة.
 
 ```csharp
 public bool Embedded { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [License](../)
-* مساحة الاسم [Aspose.OMR](../../license/)
-* المجسم [Aspose.OMR](../../../)
+* class [License](../../license)
+* namespace [Aspose.OMR](../../license)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

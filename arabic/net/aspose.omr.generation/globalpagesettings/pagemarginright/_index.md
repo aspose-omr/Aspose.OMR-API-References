@@ -1,23 +1,23 @@
 ---
-title: GlobalPageSettings.PageMarginRight
-second_title: Aspose.OMR لمرجع .NET API
-description: GlobalPageSettings مجال. الهامش الأيمن للصفحة على البكسل
+title: "PageMarginRight"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "الهامش الأيمن للصفحة بالبكسل"
 type: docs
-weight: 110
+weight: 140
 url: /ar/net/aspose.omr.generation/globalpagesettings/pagemarginright/
 ---
 ## GlobalPageSettings.PageMarginRight field
 
-الهامش الأيمن للصفحة على البكسل
+الهامش الأيمن للصفحة بالبكسل
 
 ```csharp
 public int PageMarginRight;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [GlobalPageSettings](../)
-* مساحة الاسم [Aspose.OMR.Generation](../../globalpagesettings/)
-* المجسم [Aspose.OMR](../../../)
+* class [GlobalPageSettings](../../globalpagesettings)
+* namespace [Aspose.OMR.Generation](../../globalpagesettings)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

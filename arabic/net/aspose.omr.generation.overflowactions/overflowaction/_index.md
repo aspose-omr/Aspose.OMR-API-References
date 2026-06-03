@@ -1,22 +1,22 @@
 ---
-title: Class OverflowAction
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.OverflowActions.OverflowAction فصل. الإجراء للتحكم في تجاوز حجم العنصر الفرعي للعنصر الأصل . انتظار التحقق يمكن أن يؤدي إلى نتائج مختلفة .
+title: "OverflowAction"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "إجراء للتحكم في حجم العنصر الفرعي المتجاوز للعنصر الأب. اعتمادًا على التنفيذ قد ينتج عنه نتائج مختلفة."
 type: docs
-weight: 680
+weight: 870
 url: /ar/net/aspose.omr.generation.overflowactions/overflowaction/
 ---
 ## OverflowAction class
 
-الإجراء للتحكم في تجاوز حجم العنصر الفرعي للعنصر الأصل . انتظار التحقق يمكن أن يؤدي إلى نتائج مختلفة .
+إجراء للتحكم في حجم العنصر الفرعي المتجاوز للعنصر الأب. اعتمادًا على التنفيذ قد ينتج عنه نتائج مختلفة.
 
 ```csharp
 public abstract class OverflowAction
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Generation.OverflowActions](../../aspose.omr.generation.overflowactions/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation.OverflowActions](../../aspose.omr.generation.overflowactions)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

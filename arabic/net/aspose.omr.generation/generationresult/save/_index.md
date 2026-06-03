@@ -1,28 +1,28 @@
 ---
-title: GenerationResult.Save
-second_title: Aspose.OMR لمرجع .NET API
-description: GenerationResult طريقة. حفظ صور القالب والقالب في المجلد المحدد
+title: "حفظ"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "احفظ صور القالب والقالب في المجلد المحدد بصيغة .png"
 type: docs
 weight: 70
 url: /ar/net/aspose.omr.generation/generationresult/save/
 ---
 ## GenerationResult.Save method
 
-حفظ صور القالب والقالب في المجلد المحدد
+احفظ صور القالب والقالب في المجلد المحدد بصيغة .png
 
 ```csharp
 public void Save(string folder, string name)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| folder | String | مجلد الوجهة |
-| name | String | اسم النموذج |
+| مجلد | سلسلة | مجلد الوجهة |
+| الاسم | سلسلة | اسم القالب |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [GenerationResult](../)
-* مساحة الاسم [Aspose.OMR.Generation](../../generationresult/)
-* المجسم [Aspose.OMR](../../../)
+* class [GenerationResult](../../generationresult)
+* namespace [Aspose.OMR.Generation](../../generationresult)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,41 +1,41 @@
 ---
-title: Class License
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.License فصل. يوفر طرقًا لترخيص المكون.
+title: "ترخيص"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "يوفر طرقًا لترخيص المكوّن."
 type: docs
-weight: 770
+weight: 1010
 url: /ar/net/aspose.omr/license/
 ---
 ## License class
 
-يوفر طرقًا لترخيص المكون.
+يوفر طرقًا لترخيص المكوّن.
 
 ```csharp
 public class License
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [License](license/)() | Default_Constructor |
+| [License](license)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Embedded](../../aspose.omr/license/embedded/) { get; set; } | تمت إضافة رقم الترخيص كمورد مضمن . |
+| [Embedded](../../aspose.omr/license/embedded) { get; set; } | تم إضافة رقم الترخيص كموارد مدمجة. |
 
-## طُرق
+## طرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SetLicense](../../aspose.omr/license/setlicense/#setlicense)(Stream) | تراخيص المكون . |
-| [SetLicense](../../aspose.omr/license/setlicense/#setlicense_1)(string) | تراخيص المكون . |
+| [SetLicense](../../aspose.omr/license/setlicense#setlicense)(Stream) | يرخص المكوّن. |
+| [SetLicense](../../aspose.omr/license/setlicense#setlicense_1)(string) | يرخص المكوّن. |
 
 ### أمثلة
 
-في هذا المثال ، سيتم إجراء محاولة للعثور على ملف ترخيص يسمى MyLicense.lic في المجلد الذي يحتوي على المكون ، في المجلد الذي يحتوي على التجميع الاستدعاء ، في مجلد تجميع الإدخال ثم في المجلد المضمن موارد التجمع المتصل.
+في هذا المثال، سيُجرى محاولة للعثور على ملف ترخيص يُدعى MyLicense.lic في المجلد الذي يحتوي على المكوّن، وفي المجلد الذي يحتوي على التجميع المستدعي، وفي مجلد التجميع الرئيسي، ثم في الموارد المضمَّنة للتجميع المستدعي.
 
 ```csharp
 [C#]
@@ -50,9 +50,9 @@ Dim license As license = New license
 License.SetLicense("MyLicense.lic")
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR](../../aspose.omr/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR](../../aspose.omr)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

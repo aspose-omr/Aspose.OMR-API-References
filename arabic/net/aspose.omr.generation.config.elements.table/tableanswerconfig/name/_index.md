@@ -1,7 +1,7 @@
 ---
-title: TableAnswerConfig.Name
-second_title: Aspose.OMR لمرجع .NET API
-description: TableAnswerConfig ملكية. عنوان رأس العمود
+title: "الاسم"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "عنوان رأس العمود"
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.generation.config.elements.table/tableanswerconfig/name/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.omr.generation.config.elements.table/tableanswerconfig/name/
 public override string Name { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TableAnswerConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Table](../../tableanswerconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [TableAnswerConfig](../../tableanswerconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Table](../../tableanswerconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

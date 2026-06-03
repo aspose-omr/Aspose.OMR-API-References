@@ -1,7 +1,7 @@
 ---
-title: CustomAnswerSheetConfig.BorderType
-second_title: Aspose.OMR لمرجع .NET API
-description: CustomAnswerSheetConfig ملكية. نوع الحدود المرسومة لفصل الأعمدة الأقسام
+title: "نوع الحد"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نوع الحدود المرسومة لفصل الأعمدة والأقسام"
 type: docs
 weight: 90
 url: /ar/net/aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordertype/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements.customanswersheet/customanswe
 public BorderType BorderType { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [BorderType](../../../aspose.omr.generation.config.enums/bordertype/)
-* class [CustomAnswerSheetConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../customanswersheetconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [BorderType](../../../aspose.omr.generation.config.enums/bordertype)
+* class [CustomAnswerSheetConfig](../../customanswersheetconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../customanswersheetconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,14 +1,14 @@
 ---
-title: Metered.GetConsumptionCredit
-second_title: Aspose.OMR لمرجع .NET API
-description: Metered طريقة. يحصل على ائتمان الاستهلاك
+title: "GetConsumptionCredit"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "يحصل على رصيد الاستهلاك"
 type: docs
-weight: 30
+weight: 40
 url: /ar/net/aspose.omr/metered/getconsumptioncredit/
 ---
 ## Metered.GetConsumptionCredit method
 
-يحصل على ائتمان الاستهلاك
+يحصل على رصيد الاستهلاك
 
 ```csharp
 public static decimal GetConsumptionCredit()
@@ -18,10 +18,10 @@ public static decimal GetConsumptionCredit()
 
 كمية الاستهلاك
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Metered](../)
-* مساحة الاسم [Aspose.OMR](../../metered/)
-* المجسم [Aspose.OMR](../../../)
+* class [Metered](../../metered)
+* namespace [Aspose.OMR](../../metered)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,9 +1,9 @@
 ---
-title: Enum GridHeaderTypeEnum
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.Enums.GridHeaderTypeEnum تعداد. نوع رأس الشبكة
+title: "GridHeaderTypeEnum"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نوع رأس الشبكة"
 type: docs
-weight: 500
+weight: 680
 url: /ar/net/aspose.omr.generation.config.enums/gridheadertypeenum/
 ---
 ## GridHeaderTypeEnum enumeration
@@ -14,16 +14,16 @@ url: /ar/net/aspose.omr.generation.config.enums/gridheadertypeenum/
 public enum GridHeaderTypeEnum
 ```
 
-### قيم
+### Values
 
-| اسم | قيمة | وصف |
+| الاسم | Value | الوصف |
 | --- | --- | --- |
-| Underline | `0` | تسطير على رأس الشبكة |
+| Underline | `0` | خط تحت رأس الشبكة |
 | Square | `1` | مربع على رأس الشبكة |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

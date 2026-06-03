@@ -1,24 +1,24 @@
 ---
-title: ScoreGroupConfig.Children
-second_title: Aspose.OMR لمرجع .NET API
-description: ScoreGroupConfig ملكية. عناصر omr الفرعية. في معظم الحالات يتم وضعه داخل أحد الوالدين أو أقل.
+title: "العناصر الفرعية"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "عناصر OMR الفرعية. في معظم الحالات تكون موضوعة داخل العنصر الأب أو تحته."
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/children/
 ---
 ## ScoreGroupConfig.Children property
 
-عناصر omr الفرعية. في معظم الحالات يتم وضعه داخل أحد الوالدين أو أقل.
+عناصر OMR الفرعية. في معظم الحالات تكون موضوعة داخل العنصر الأب أو تحته.
 
 ```csharp
 public override List<BaseConfig> Children { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BaseConfig](../../../aspose.omr.generation.config/baseconfig/)
-* class [ScoreGroupConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scoregroupconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [BaseConfig](../../../aspose.omr.generation.config/baseconfig)
+* class [ScoreGroupConfig](../../scoregroupconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scoregroupconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

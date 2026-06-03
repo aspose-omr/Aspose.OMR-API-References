@@ -1,23 +1,23 @@
 ---
-title: TextConfig.TextConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: TextConfig البناء. Default_Constructor
+title: "TextConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.config.elements/textconfig/textconfig/
 ---
 ## TextConfig constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public TextConfig()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TextConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../textconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [TextConfig](../../textconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../textconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,24 +1,24 @@
 ---
-title: ChoiceBoxConfig.TextAlignment
-second_title: Aspose.OMR لمرجع .NET API
-description: ChoiceBoxConfig ملكية. محاذاة النص  للإشارة إلى المكان الذي يجب رسم النص فيه على page
+title: "TextAlignment"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "تشير محاذاة النص إلى المكان الذي يجب رسم النص فيه على الصفحة"
 type: docs
-weight: 100
+weight: 110
 url: /ar/net/aspose.omr.generation.config.elements/choiceboxconfig/textalignment/
 ---
 ## ChoiceBoxConfig.TextAlignment property
 
-محاذاة النص ، للإشارة إلى المكان الذي يجب رسم النص فيه على page
+محاذاة النص، تشير إلى مكان رسم النص على الصفحة
 
 ```csharp
 public AlignmentEnum TextAlignment { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [AlignmentEnum](../../../aspose.omr.generation.config.enums/alignmentenum/)
-* class [ChoiceBoxConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../choiceboxconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [AlignmentEnum](../../../aspose.omr.generation.config.enums/alignmentenum)
+* class [ChoiceBoxConfig](../../choiceboxconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../choiceboxconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

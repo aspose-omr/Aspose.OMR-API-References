@@ -1,7 +1,7 @@
 ---
-title: InputGroup.BorderRightStyle
-second_title: Aspose.OMR لمرجع .NET API
-description: InputGroup ملكية. نمط إضافي للحد الأيمن
+title: "نمط الحد الأيمن"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نمط إضافي للحد الأيمن"
 type: docs
 weight: 50
 url: /ar/net/aspose.omr.generation.config.elements/inputgroup/borderrightstyle/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements/inputgroup/borderrightstyle/
 public BorderStyle BorderRightStyle { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BorderStyle](../../../aspose.omr.generation.config/borderstyle/)
-* class [InputGroup](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../inputgroup/)
-* المجسم [Aspose.OMR](../../../)
+* class [BorderStyle](../../../aspose.omr.generation.config/borderstyle)
+* class [InputGroup](../../inputgroup)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../inputgroup)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

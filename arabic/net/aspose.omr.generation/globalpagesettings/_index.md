@@ -1,46 +1,49 @@
 ---
-title: Class GlobalPageSettings
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.GlobalPageSettings فصل. الإعدادات العامة المطبقة على كافة عناصر الصفحة.
+title: "GlobalPageSettings"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "الإعدادات العامة المطبقة على جميع عناصر الصفحة."
 type: docs
-weight: 630
+weight: 820
 url: /ar/net/aspose.omr.generation/globalpagesettings/
 ---
 ## GlobalPageSettings class
 
-الإعدادات العامة المطبقة على كافة عناصر الصفحة.
+الإعدادات العامة المطبقة على جميع عناصر الصفحة.
 
 ```csharp
 public class GlobalPageSettings
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GlobalPageSettings](globalpagesettings/)() | Default_Constructor |
+| [GlobalPageSettings](globalpagesettings)() | المنشئ الافتراضي. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BubbleColor](../../aspose.omr.generation/globalpagesettings/bubblecolor/) | لون الفقاعات |
-| [BubbleSize](../../aspose.omr.generation/globalpagesettings/bubblesize/) | حجم الفقاعات |
-| [FontFamily](../../aspose.omr.generation/globalpagesettings/fontfamily/) | عائلة الخطوط للنص text |
-| [FontSize](../../aspose.omr.generation/globalpagesettings/fontsize/) | حجم النص font |
-| [FontStyle](../../aspose.omr.generation/globalpagesettings/fontstyle/) | نمط النص |
-| [ImagesPaths](../../aspose.omr.generation/globalpagesettings/imagespaths/) | مسارات كاملة للصور المستخدمة في الجيل |
-| [Orientation](../../aspose.omr.generation/globalpagesettings/orientation/) | اتجاه الصفحة |
-| [Overflow](../../aspose.omr.generation/globalpagesettings/overflow/) | تعيين إجراء تجاوز السعة لكل عنصر في هذه الصفحة . التحكم في OverflowAction في العلاقات بين الوالدين والطفل عندما يتجاوز حجم العنصر الفرعي حجم العنصر الأصل المخصص . |
-| [PageMarginLeft](../../aspose.omr.generation/globalpagesettings/pagemarginleft/) | الهامش الأيسر للصفحة على البكسل |
-| [PageMarginRight](../../aspose.omr.generation/globalpagesettings/pagemarginright/) | الهامش الأيمن للصفحة على البكسل |
-| [PaperSize](../../aspose.omr.generation/globalpagesettings/papersize/) | حجم الورق |
-| [RotationPointPosition](../../aspose.omr.generation/globalpagesettings/rotationpointposition/) | موضع نقطة الدوران المطلوب على tempalte إذا لم يتم تعيينه -TopRight1 سوف تستخدم |
-| [WritingSystem](../../aspose.omr.generation/globalpagesettings/writingsystem/) | الإعداد المسبق لإعدادات إنشاء القالب . تضمين الاتجاه (يسار إلى يمين أو يمين إلى يسار) واستخدام الأرقام |
+| [BatchBarcode](../../aspose.omr.generation/globalpagesettings/batchbarcode) | تكوين للباركود الدفعي، يُوضع على كل نموذج. يُستخدم فقط في المعالجة الدفعية عبر [`BatchOmrEngine`](../../aspose.omr.batchprocessings/batchomrengine) |
+| [BubbleColor](../../aspose.omr.generation/globalpagesettings/bubblecolor) | لون الفقاعات |
+| [BubbleSize](../../aspose.omr.generation/globalpagesettings/bubblesize) | حجم الفقاعات |
+| [FontFamily](../../aspose.omr.generation/globalpagesettings/fontfamily) | عائلة الخط للنص |
+| [FontSize](../../aspose.omr.generation/globalpagesettings/fontsize) | حجم خط النص |
+| [FontStyle](../../aspose.omr.generation/globalpagesettings/fontstyle) | نمط النص |
+| [ImagesPaths](../../aspose.omr.generation/globalpagesettings/imagespaths) | المسارات الكاملة للصور المستخدمة في الإنشاء |
+| [LongWordHandling](../../aspose.omr.generation/globalpagesettings/longwordhandling) | يصف السلوك لجميع الحالات التي تتجاوز فيها أبعاد كلمة واحدة العنصر الأب. |
+| [Multiselect](../../aspose.omr.generation/globalpagesettings/multiselect) | يضبط السلوك الافتراضي لجميع العناصر التي تدعم اختيار متعدد للإجابات. يمكن تجاوزها بواسطة خاصية عنصر محددة، عادةً \"multiselect\". بشكل افتراضي يتم تعيينها إلى true؛ true - السماح بأكثر من إجابة واحدة لكل سؤال؛ false - منع أكثر من إجابة واحدة لكل سؤال. السلوك الدقيق موضح في [`Recognize`](../../aspose.omr.api/templateprocessor/recognize) |
+| [Orientation](../../aspose.omr.generation/globalpagesettings/orientation) | اتجاه الصفحة |
+| [Overflow](../../aspose.omr.generation/globalpagesettings/overflow) | تعيين إجراء الفائض لكل عنصر في هذه الصفحة. يتحكم OverflowAction في علاقات الأب-ابن عندما يتجاوز حجم العنصر الفرعي الحجم المخصص للعنصر الأب. |
+| [PageMarginLeft](../../aspose.omr.generation/globalpagesettings/pagemarginleft) | الهامش الأيسر للصفحة بالبكسل |
+| [PageMarginRight](../../aspose.omr.generation/globalpagesettings/pagemarginright) | الهامش الأيمن للصفحة بالبكسل |
+| [PaperSize](../../aspose.omr.generation/globalpagesettings/papersize) | حجم الورق |
+| [ReferencePoints](../../aspose.omr.generation/globalpagesettings/referencepoints) | تفضيلات نقاط المرجع |
+| [WritingSystem](../../aspose.omr.generation/globalpagesettings/writingsystem) | إعداد مسبق لإعدادات إنشاء القالب. يتضمن الاتجاهية (LeftToRight أو RightToLeft) واستخدام الأرقام |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Generation](../../aspose.omr.generation/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation](../../aspose.omr.generation)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,24 +1,24 @@
 ---
-title: PageConfig.Type
-second_title: Aspose.OMR لمرجع .NET API
-description: PageConfig ملكية. نوع عنصر omr. حقل مطلوب للتسلسل JSON .
+title: "النوع"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نوع عنصر OMR. حقل مطلوب لتسلسل JSON."
 type: docs
-weight: 40
+weight: 90
 url: /ar/net/aspose.omr.generation.config.elements.parents/pageconfig/type/
 ---
 ## PageConfig.Type property
 
-نوع عنصر omr. حقل مطلوب للتسلسل JSON .
+نوع عنصر OMR. حقل مطلوب لتسلسل JSON.
 
 ```csharp
 public override ConfigType Type { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [ConfigType](../../../aspose.omr.generation.config.enums/configtype/)
-* class [PageConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../pageconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [ConfigType](../../../aspose.omr.generation.config.enums/configtype)
+* class [PageConfig](../../pageconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../pageconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

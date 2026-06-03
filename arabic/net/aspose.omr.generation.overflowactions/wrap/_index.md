@@ -1,29 +1,29 @@
 ---
-title: Class Wrap
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.OverflowActions.Wrap فصل. سيحاول العنصر الأصل العثور على مكان لفيضان الطفل في أبوين آخرين
+title: "تغليف"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "سيحاول العنصر الأب العثور على مكان للعنصر الفرعي المتجاوز في عناصر أب أخرى."
 type: docs
-weight: 690
+weight: 880
 url: /ar/net/aspose.omr.generation.overflowactions/wrap/
 ---
 ## Wrap class
 
-سيحاول العنصر الأصل العثور على مكان لفيضان الطفل في أبوين آخرين
+سيحاول العنصر الأب العثور على مكان للعنصر الفرعي المتجاوز في عناصر أب أخرى.
 
 ```csharp
 public class Wrap : OverflowAction
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Wrap](wrap/)() | Default_Constructor |
+| [Wrap](wrap)() | المنشئ الافتراضي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [OverflowAction](../overflowaction/)
-* مساحة الاسم [Aspose.OMR.Generation.OverflowActions](../../aspose.omr.generation.overflowactions/)
-* المجسم [Aspose.OMR](../../)
+* class [OverflowAction](../overflowaction)
+* namespace [Aspose.OMR.Generation.OverflowActions](../../aspose.omr.generation.overflowactions)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

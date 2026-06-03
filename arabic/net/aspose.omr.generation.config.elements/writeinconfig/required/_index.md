@@ -1,23 +1,23 @@
 ---
-title: WriteInConfig.Required
-second_title: Aspose.OMR لمرجع .NET API
-description: WriteInConfig ملكية. هل قطع حقل الكتابة مطلوب
+title: "مطلوب"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "هل يتطلب قص حقل الكتابة داخل الحقل؟"
 type: docs
 weight: 90
 url: /ar/net/aspose.omr.generation.config.elements/writeinconfig/required/
 ---
 ## WriteInConfig.Required property
 
-هل قطع حقل الكتابة مطلوب
+هل يتطلب قص حقل الكتابة داخل الحقل؟
 
 ```csharp
 public bool Required { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [WriteInConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../writeinconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [WriteInConfig](../../writeinconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../writeinconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

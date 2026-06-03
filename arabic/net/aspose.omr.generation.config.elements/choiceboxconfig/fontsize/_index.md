@@ -1,23 +1,23 @@
 ---
-title: ChoiceBoxConfig.FontSize
-second_title: Aspose.OMR لمرجع .NET API
-description: ChoiceBoxConfig ملكية. حجم النص font
+title: "حجم الخط"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "حجم خط النص"
 type: docs
 weight: 60
 url: /ar/net/aspose.omr.generation.config.elements/choiceboxconfig/fontsize/
 ---
 ## ChoiceBoxConfig.FontSize property
 
-حجم النص font
+حجم خط النص
 
 ```csharp
 public int FontSize { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ChoiceBoxConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../choiceboxconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [ChoiceBoxConfig](../../choiceboxconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../choiceboxconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,7 +1,7 @@
 ---
-title: CustomTriggerConfig.BubbleType
-second_title: Aspose.OMR لمرجع .NET API
-description: CustomTriggerConfig ملكية. نوع الفقاعة
+title: "BubbleType"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نوع الفقاعة"
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.generation.config.elements/customtriggerconfig/bubbletype/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements/customtriggerconfig/bubbletyp
 public BubbleType BubbleType { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [BubbleType](../../../aspose.omr.generation.config.enums/bubbletype/)
-* class [CustomTriggerConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../customtriggerconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [BubbleType](../../../aspose.omr.generation.config.enums/bubbletype)
+* class [CustomTriggerConfig](../../customtriggerconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../customtriggerconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

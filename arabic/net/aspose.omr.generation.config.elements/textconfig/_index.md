@@ -1,41 +1,41 @@
 ---
-title: Class TextConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.Elements.TextConfig فصل. يمثل عنصر نص. يستخدم لعرض المعلومات . لا يشارك في التعرف .
+title: "TextConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "يمثل عنصر النص. يستخدم لعرض المعلومات. لا يشارك في التعرف."
 type: docs
-weight: 390
+weight: 570
 url: /ar/net/aspose.omr.generation.config.elements/textconfig/
 ---
 ## TextConfig class
 
-يمثل عنصر نص. يستخدم لعرض المعلومات . لا يشارك في التعرف .
+يمثل عنصر النص. يستخدم لعرض المعلومات. لا يشارك في التعرف.
 
 ```csharp
 public class TextConfig : BaseConfig
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [TextConfig](textconfig/)() | Default_Constructor |
+| [TextConfig](textconfig)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Color](../../aspose.omr.generation.config.elements/textconfig/color/) { get; set; } | لون النص |
-| [FontFamily](../../aspose.omr.generation.config.elements/textconfig/fontfamily/) { get; set; } | عائلة الخطوط للنص text |
-| [FontSize](../../aspose.omr.generation.config.elements/textconfig/fontsize/) { get; set; } | حجم النص font |
-| [FontStyle](../../aspose.omr.generation.config.elements/textconfig/fontstyle/) { get; set; } | نمط النص |
-| override [Name](../../aspose.omr.generation.config.elements/textconfig/name/) { get; set; } | النص المطلوب عرضه |
-| [TextAlignment](../../aspose.omr.generation.config.elements/textconfig/textalignment/) { get; set; } | محاذاة النص ، للإشارة إلى المكان الذي يجب رسم النص فيه على page |
-| override [Type](../../aspose.omr.generation.config.elements/textconfig/type/) { get; set; } | نوع عنصر omr. حقل مطلوب للتسلسل JSON . |
+| [Color](../../aspose.omr.generation.config.elements/textconfig/color) { get; set; } | لون النص |
+| [FontFamily](../../aspose.omr.generation.config.elements/textconfig/fontfamily) { get; set; } | عائلة الخط للنص |
+| [FontSize](../../aspose.omr.generation.config.elements/textconfig/fontsize) { get; set; } | حجم خط النص |
+| [FontStyle](../../aspose.omr.generation.config.elements/textconfig/fontstyle) { get; set; } | نمط النص |
+| override [Name](../../aspose.omr.generation.config.elements/textconfig/name) { get; set; } | النص الذي يحتاج إلى العرض |
+| [TextAlignment](../../aspose.omr.generation.config.elements/textconfig/textalignment) { get; set; } | محاذاة النص، تشير إلى مكان رسم النص على الصفحة |
+| override [Type](../../aspose.omr.generation.config.elements/textconfig/type) { get; set; } | نوع عنصر OMR. حقل مطلوب لتسلسل JSON. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BaseConfig](../../aspose.omr.generation.config/baseconfig/)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../aspose.omr.generation.config.elements/)
-* المجسم [Aspose.OMR](../../)
+* class [BaseConfig](../../aspose.omr.generation.config/baseconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../aspose.omr.generation.config.elements)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

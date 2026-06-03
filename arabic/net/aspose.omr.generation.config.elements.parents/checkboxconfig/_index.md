@@ -1,45 +1,46 @@
 ---
-title: Class CheckBoxConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.Elements.Parents.CheckBoxConfig فصل. يمثل عنصر خانة الاختيار .
+title: "CheckBoxConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "يمثل عنصر خانة الاختيار."
 type: docs
-weight: 240
+weight: 410
 url: /ar/net/aspose.omr.generation.config.elements.parents/checkboxconfig/
 ---
 ## CheckBoxConfig class
 
-يمثل عنصر خانة الاختيار .
+يمثل عنصر خانة الاختيار.
 
 ```csharp
 public class CheckBoxConfig : ParentConfig
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CheckBoxConfig](checkboxconfig/)() | Default_Constructor |
+| [CheckBoxConfig](checkboxconfig)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BubbleSize](../../aspose.omr.generation.config.elements.parents/checkboxconfig/bubblesize/) { get; set; } | حجم المستطيل لكل خيار (الأطفال) |
-| [BubbleType](../../aspose.omr.generation.config.elements.parents/checkboxconfig/bubbletype/) { get; set; } | نوع الفقاعة |
-| override [Children](../../aspose.omr.generation.config.elements.parents/checkboxconfig/children/) { get; set; } | عناصر omr الفرعية. في معظم الحالات يتم وضعه داخل أحد الوالدين أو أقل. |
-| [FontFamily](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontfamily/) { get; set; } | عائلة الخطوط للنص text |
-| [FontSize](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontsize/) { get; set; } | حجم النص font |
-| [FontStyle](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontstyle/) { get; set; } | نمط النص |
-| [HideName](../../aspose.omr.generation.config.elements.parents/checkboxconfig/hidename/) { get; set; } | التحكم في عرض اسم خانة الاختيار في النموذج |
-| override [Name](../../aspose.omr.generation.config.elements.parents/checkboxconfig/name/) { get; set; } | اسم خانة الاختيار. يتم عرضها بشكل افتراضي قبل خانة الاختيار الأولى. يمكن إخفاؤها بواسطة[`HideName`](./hidename/) |
-| [Orientation](../../aspose.omr.generation.config.elements.parents/checkboxconfig/orientation/) { get; set; } | موضع التحكم في العناصر الفرعية . يدعم حاليًا الوضع الأفقي فقط. |
-| [Threshold](../../aspose.omr.generation.config.elements.parents/checkboxconfig/threshold/) { get; set; } | علامة التعرف المخصصة. يتم تعيينها افتراضيًا على 3٪ . سيتم اعتبار خانة الاختيار مميزة إذا تم ملء 3٪ من منطقتها . يمكن تخصيصها لأي حد آخر. |
-| override [Type](../../aspose.omr.generation.config.elements.parents/checkboxconfig/type/) { get; set; } | نوع عنصر omr. حقل مطلوب للتسلسل JSON . |
+| [BubbleSize](../../aspose.omr.generation.config.elements.parents/checkboxconfig/bubblesize) { get; set; } | حجم المستطيل لكل خيار (الأطفال) |
+| [BubbleType](../../aspose.omr.generation.config.elements.parents/checkboxconfig/bubbletype) { get; set; } | نوع الفقاعة |
+| override [Children](../../aspose.omr.generation.config.elements.parents/checkboxconfig/children) { get; set; } | عناصر OMR الفرعية. في معظم الحالات تكون موضوعة داخل العنصر الأب أو تحته. |
+| [FontFamily](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontfamily) { get; set; } | عائلة الخط للنص |
+| [FontSize](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontsize) { get; set; } | حجم خط النص |
+| [FontStyle](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontstyle) { get; set; } | نمط النص |
+| [HideName](../../aspose.omr.generation.config.elements.parents/checkboxconfig/hidename) { get; set; } | التحكم في عرض اسم مربع الاختيار في القالب |
+| [Multiselect](../../aspose.omr.generation.config.elements.parents/checkboxconfig/multiselect) { get; set; } | السماح باختيار إجابات متعددة لكل سؤال يتجاوز الإعدادات الافتراضية في [`Multiselect`](../../aspose.omr.generation/globalpagesettings/multiselect) |
+| override [Name](../../aspose.omr.generation.config.elements.parents/checkboxconfig/name) { get; set; } | اسم مربع الاختيار. يُعرض افتراضيًا قبل أول مربع اختيار. يمكن إخفاؤه بواسطة [`HideName`](./hidename) |
+| [Orientation](../../aspose.omr.generation.config.elements.parents/checkboxconfig/orientation) { get; set; } | التحكم في موضع العناصر الفرعية. يدعم حاليًا الوضع الأفقي فقط. |
+| [Threshold](../../aspose.omr.generation.config.elements.parents/checkboxconfig/threshold) { get; set; } | علامة التعرف المخصصة. افتراضيًا تُحدد إلى 3٪. سيُعتبر مربع الاختيار مُعلَّمًا إذا امتلأت 3٪ من منطقته. يمكن تخصيصها إلى أي عتبة أخرى. لا تؤثر على العتبة العالمية. |
+| override [Type](../../aspose.omr.generation.config.elements.parents/checkboxconfig/type) { get; set; } | نوع عنصر OMR. حقل مطلوب لتسلسل JSON. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ParentConfig](../../aspose.omr.generation.config/parentconfig/)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../aspose.omr.generation.config.elements.parents/)
-* المجسم [Aspose.OMR](../../)
+* class [ParentConfig](../../aspose.omr.generation.config/parentconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../aspose.omr.generation.config.elements.parents)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

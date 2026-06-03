@@ -1,7 +1,7 @@
 ---
-title: AnswerSheetConfig.BubbleType
-second_title: Aspose.OMR لمرجع .NET API
-description: AnswerSheetConfig ملكية. نوع الفقاعة
+title: "BubbleType"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نوع الفقاعة"
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.generation.config.elements/answersheetconfig/bubbletype/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements/answersheetconfig/bubbletype/
 public BubbleType BubbleType { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [BubbleType](../../../aspose.omr.generation.config.enums/bubbletype/)
-* class [AnswerSheetConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [BubbleType](../../../aspose.omr.generation.config.enums/bubbletype)
+* class [AnswerSheetConfig](../../answersheetconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

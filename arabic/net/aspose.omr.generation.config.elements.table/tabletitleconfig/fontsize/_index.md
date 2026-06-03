@@ -1,23 +1,23 @@
 ---
-title: TableTitleConfig.FontSize
-second_title: Aspose.OMR لمرجع .NET API
-description: TableTitleConfig مجال. حجم النص font
+title: "حجم الخط"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "حجم خط النص"
 type: docs
 weight: 140
 url: /ar/net/aspose.omr.generation.config.elements.table/tabletitleconfig/fontsize/
 ---
 ## TableTitleConfig.FontSize field
 
-حجم النص font
+حجم خط النص
 
 ```csharp
 public int FontSize;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TableTitleConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Table](../../tabletitleconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [TableTitleConfig](../../tabletitleconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Table](../../tabletitleconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

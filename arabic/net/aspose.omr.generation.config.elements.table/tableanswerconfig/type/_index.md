@@ -1,24 +1,24 @@
 ---
-title: TableAnswerConfig.Type
-second_title: Aspose.OMR لمرجع .NET API
-description: TableAnswerConfig ملكية. نوع عنصر omr. حقل مطلوب للتسلسل JSON .
+title: "النوع"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نوع عنصر OMR. حقل مطلوب لتسلسل JSON."
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.generation.config.elements.table/tableanswerconfig/type/
 ---
 ## TableAnswerConfig.Type property
 
-نوع عنصر omr. حقل مطلوب للتسلسل JSON .
+نوع عنصر OMR. حقل مطلوب لتسلسل JSON.
 
 ```csharp
 public override ConfigType Type { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [ConfigType](../../../aspose.omr.generation.config.enums/configtype/)
-* class [TableAnswerConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Table](../../tableanswerconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [ConfigType](../../../aspose.omr.generation.config.enums/configtype)
+* class [TableAnswerConfig](../../tableanswerconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Table](../../tableanswerconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

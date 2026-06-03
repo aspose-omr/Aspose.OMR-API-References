@@ -1,29 +1,29 @@
 ---
-title: Enum ContentType
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.Enums.ContentType تعداد. عرض نوع المحتوى
+title: "ContentType"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نوع عرض المحتوى"
 type: docs
-weight: 480
+weight: 660
 url: /ar/net/aspose.omr.generation.config.enums/contenttype/
 ---
 ## ContentType enumeration
 
-عرض نوع المحتوى
+نوع عرض المحتوى
 
 ```csharp
 public enum ContentType
 ```
 
-### قيم
+### Values
 
-| اسم | قيمة | وصف |
+| الاسم | Value | الوصف |
 | --- | --- | --- |
-| Normal | `0` | القيمة الافتراضية. ارسم نصًا كما هو . |
-| Cells | `1` | ارسم الخلايا. يتم وضع كل رمز داخل الخط داخل مستطيل (خلية) |
+| Normal | `0` | القيمة الافتراضية.ارسم النص كما هو. |
+| Cells | `1` | ارسم الخلايا. كل رمز داخل السطر محاط بمستطيل(خلية) |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

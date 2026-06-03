@@ -1,23 +1,23 @@
 ---
-title: AnswerConfig.Selectable
-second_title: Aspose.OMR لمرجع .NET API
-description: AnswerConfig ملكية. في حالة التعيين على إخفاء رسم الفقاعة التفسيرية والتعرف على عنصر الإجابة هذا
+title: "Selectable"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "إذا تم تعيينه إلى false، إخفاء رسم الفقاعة والتعرف لهذا العنصر Answer"
 type: docs
-weight: 60
+weight: 80
 url: /ar/net/aspose.omr.generation.config.elements.parents/answerconfig/selectable/
 ---
 ## AnswerConfig.Selectable property
 
-في حالة التعيين على إخفاء رسم الفقاعة التفسيرية والتعرف على عنصر الإجابة هذا
+إذا تم تعيينه إلى false، إخفاء رسم الفقاعة والتعرف لهذا العنصر Answer
 
 ```csharp
 public bool Selectable { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [AnswerConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../answerconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [AnswerConfig](../../answerconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../answerconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

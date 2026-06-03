@@ -1,23 +1,23 @@
 ---
-title: ImageConfig.XPosition
-second_title: Aspose.OMR لمرجع .NET API
-description: ImageConfig ملكية. موضع الشبكة X على الصفحة  يتجاوز المحاذاة
+title: "XPosition"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "موضع X للشبكة على الصفحة يتجاوز المحاذاة"
 type: docs
 weight: 70
 url: /ar/net/aspose.omr.generation.config.elements/imageconfig/xposition/
 ---
 ## ImageConfig.XPosition property
 
-موضع الشبكة X على الصفحة ، يتجاوز المحاذاة
+موضع X للشبكة على الصفحة، يتجاوز المحاذاة
 
 ```csharp
 public int XPosition { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ImageConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../imageconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [ImageConfig](../../imageconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../imageconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

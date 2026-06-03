@@ -1,51 +1,51 @@
 ---
-title: Class BlockConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.Elements.Parents.BlockConfig فصل. يمثل عنصر الكتلة .
+title: "BlockConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "يمثل عنصر الكتلة."
 type: docs
-weight: 230
+weight: 400
 url: /ar/net/aspose.omr.generation.config.elements.parents/blockconfig/
 ---
 ## BlockConfig class
 
-يمثل عنصر الكتلة .
+يمثل عنصر الكتلة.
 
 ```csharp
 public class BlockConfig : ParentConfig
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BlockConfig](blockconfig/)() | Default_Constructor |
+| [BlockConfig](blockconfig)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BackgroundColor](../../aspose.omr.generation.config.elements.parents/blockconfig/backgroundcolor/) { get; set; } | لون الحدود |
-| [BorderBottomStyle](../../aspose.omr.generation.config.elements.parents/blockconfig/borderbottomstyle/) { get; set; } | نمط إضافي للحد السفلي |
-| [BorderColor](../../aspose.omr.generation.config.elements.parents/blockconfig/bordercolor/) { get; set; } | لون الحدود |
-| [BorderLeftStyle](../../aspose.omr.generation.config.elements.parents/blockconfig/borderleftstyle/) { get; set; } | نمط إضافي للحد الأيسر |
-| [BorderRightStyle](../../aspose.omr.generation.config.elements.parents/blockconfig/borderrightstyle/) { get; set; } | نمط إضافي للحد الأيمن |
-| [BorderSize](../../aspose.omr.generation.config.elements.parents/blockconfig/bordersize/) { get; set; } | حجم خط الحدود |
-| [BorderTopStyle](../../aspose.omr.generation.config.elements.parents/blockconfig/bordertopstyle/) { get; set; } | نمط إضافي للحد العلوي |
-| [BorderType](../../aspose.omr.generation.config.elements.parents/blockconfig/bordertype/) { get; set; } | نوع الحدود المرسومة |
-| override [Children](../../aspose.omr.generation.config.elements.parents/blockconfig/children/) { get; set; } | عناصر omr الفرعية. في معظم الحالات يتم وضعه داخل أحد الوالدين أو أقل. |
-| [Column](../../aspose.omr.generation.config.elements.parents/blockconfig/column/) { get; set; } | عند وضعه في حاوية متعددة الأعمدة - يمثل الموضع في الأصل |
-| [Height](../../aspose.omr.generation.config.elements.parents/blockconfig/height/) { get; set; } | أقصى ارتفاع مسموح به لهذا العنصر وكل العناصر التابعة له. تعيين بالبكسل |
-| [HorizontalPadding](../../aspose.omr.generation.config.elements.parents/blockconfig/horizontalpadding/) { get; set; } | الحجم بين الحد ومحتوى هذه الكتلة محدد بالبكسل |
-| [IsClipped](../../aspose.omr.generation.config.elements.parents/blockconfig/isclipped/) { get; set; } | إذا كان الحظر صحيحًا ، فسيتم قص كل محتوياته كصورة عند التعرف على |
-| override [Name](../../aspose.omr.generation.config.elements.parents/blockconfig/name/) { get; set; } | اسم عنصر الكتلة |
-| [Overflow](../../aspose.omr.generation.config.elements.parents/blockconfig/overflow/) { get; set; } | يصف السلوك في حالة تجاوز أي من العناصر الفرعية حجم الكتلة. الكتابة فوق الإعداد المسبق العام في[`Overflow`](../../aspose.omr.generation/globalpagesettings/overflow/) |
-| override [Type](../../aspose.omr.generation.config.elements.parents/blockconfig/type/) { get; set; } | نوع عنصر omr. حقل مطلوب للتسلسل JSON . |
-| [VerticalPadding](../../aspose.omr.generation.config.elements.parents/blockconfig/verticalpadding/) { get; set; } | الحجم بين الحد ومحتوى هذه الكتلة محدد بالبكسل |
+| [BackgroundColor](../../aspose.omr.generation.config.elements.parents/blockconfig/backgroundcolor) { get; set; } | لون الحد |
+| [BorderBottomStyle](../../aspose.omr.generation.config.elements.parents/blockconfig/borderbottomstyle) { get; set; } | نمط إضافي للحد السفلي |
+| [BorderColor](../../aspose.omr.generation.config.elements.parents/blockconfig/bordercolor) { get; set; } | لون الحد |
+| [BorderLeftStyle](../../aspose.omr.generation.config.elements.parents/blockconfig/borderleftstyle) { get; set; } | نمط إضافي للحد الأيسر |
+| [BorderRightStyle](../../aspose.omr.generation.config.elements.parents/blockconfig/borderrightstyle) { get; set; } | نمط إضافي للحد الأيمن |
+| [BorderSize](../../aspose.omr.generation.config.elements.parents/blockconfig/bordersize) { get; set; } | حجم خط الحد |
+| [BorderTopStyle](../../aspose.omr.generation.config.elements.parents/blockconfig/bordertopstyle) { get; set; } | نمط إضافي للحد العلوي |
+| [BorderType](../../aspose.omr.generation.config.elements.parents/blockconfig/bordertype) { get; set; } | نوع الحد المرسوم |
+| override [Children](../../aspose.omr.generation.config.elements.parents/blockconfig/children) { get; set; } | عناصر OMR الفرعية. في معظم الحالات تكون موضوعة داخل العنصر الأب أو تحته. |
+| [Column](../../aspose.omr.generation.config.elements.parents/blockconfig/column) { get; set; } | عند وضعه في حاوية متعددة الأعمدة - يمثل الموضع في الأصل |
+| [Height](../../aspose.omr.generation.config.elements.parents/blockconfig/height) { get; set; } | الحد الأقصى للارتفاع المسموح به لهذا العنصر وجميع عناصره الفرعية. يُحدد بالبكسل |
+| [HorizontalPadding](../../aspose.omr.generation.config.elements.parents/blockconfig/horizontalpadding) { get; set; } | الحجم بين الحد والمحتوى لهذا الكتلة محدد بالبكسل |
+| [IsClipped](../../aspose.omr.generation.config.elements.parents/blockconfig/isclipped) { get; set; } | إذا كانت الكتلة صحيحة، فسيتم قص جميع محتواها كصورة عند التعرف |
+| override [Name](../../aspose.omr.generation.config.elements.parents/blockconfig/name) { get; set; } | اسم عنصر الكتلة |
+| [Overflow](../../aspose.omr.generation.config.elements.parents/blockconfig/overflow) { get; set; } | يصف السلوك في حالة تجاوز أي من العناصر الفرعية حجم الكتلة. يكتب فوق الإعداد المسبق العالمي في [`Overflow`](../../aspose.omr.generation/globalpagesettings/overflow) |
+| override [Type](../../aspose.omr.generation.config.elements.parents/blockconfig/type) { get; set; } | نوع عنصر OMR. حقل مطلوب لتسلسل JSON. |
+| [VerticalPadding](../../aspose.omr.generation.config.elements.parents/blockconfig/verticalpadding) { get; set; } | الحجم بين الحد والمحتوى لهذا الكتلة محدد بالبكسل |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ParentConfig](../../aspose.omr.generation.config/parentconfig/)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../aspose.omr.generation.config.elements.parents/)
-* المجسم [Aspose.OMR](../../)
+* class [ParentConfig](../../aspose.omr.generation.config/parentconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../aspose.omr.generation.config.elements.parents)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

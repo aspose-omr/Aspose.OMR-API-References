@@ -1,23 +1,23 @@
 ---
-title: VerticalChoiceBoxConfig.Threshold
-second_title: Aspose.OMR لمرجع .NET API
-description: VerticalChoiceBoxConfig ملكية. النسبة المئوية لوحدات البكسل التي يتم بعدها تمييز الفقاعات التفسيرية
+title: "Threshold"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نسبة البكسلات التي بعد ذلك تُعتبر الفقاعات محددة. إذا كانت موجودة، تتجاوز الحد العالمي المقدم أثناء التعرف"
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/threshold/
 ---
 ## VerticalChoiceBoxConfig.Threshold property
 
-النسبة المئوية لوحدات البكسل التي يتم بعدها تمييز الفقاعات التفسيرية
+نسبة البكسلات التي بعد تجاوزها تُعتبر الفقاعات مُعلَّمة. إذا كانت موجودة، تتجاوز العتبة العالمية المقدمة أثناء التعرف.
 
 ```csharp
 public int Threshold { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [VerticalChoiceBoxConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../verticalchoiceboxconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [VerticalChoiceBoxConfig](../../verticalchoiceboxconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../verticalchoiceboxconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

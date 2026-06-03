@@ -1,23 +1,23 @@
 ---
-title: IOmrElement.SortWeight
-second_title: Aspose.OMR لمرجع .NET API
-description: IOmrElement ملكية. قيمة أعلى  ستظهر الأخيرة في عنصر csv
+title: "SortWeight"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "كلما ارتفعت القيمة - سيظهر العنصر الأخير في csv"
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.model/iomrelement/sortweight/
 ---
 ## IOmrElement.SortWeight property
 
-قيمة أعلى - ستظهر الأخيرة في عنصر csv
+كلما ارتفعت القيمة - سيظهر العنصر الأخير في csv
 
 ```csharp
 public int SortWeight { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* interface [IOmrElement](../)
-* مساحة الاسم [Aspose.OMR.Model](../../iomrelement/)
-* المجسم [Aspose.OMR](../../../)
+* interface [IOmrElement](../../iomrelement)
+* namespace [Aspose.OMR.Model](../../iomrelement)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

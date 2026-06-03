@@ -1,28 +1,28 @@
 ---
-title: MemoryGenerationResult.MemoryGenerationResult
-second_title: Aspose.OMR لمرجع .NET API
-description: MemoryGenerationResult البناء. تهيئة مثيل الغلاف .
+title: "MemoryGenerationResult"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "تهيئة نسخة من الغلاف."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation/memorygenerationresult/memorygenerationresult/
 ---
 ## MemoryGenerationResult constructor
 
-تهيئة مثيل الغلاف .
+تهيئة نسخة من الغلاف.
 
 ```csharp
 public MemoryGenerationResult(GenerationResult result)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| result | GenerationResult | تم إنشاء النموذج بنجاح |
+| النتيجة | GenerationResult | قالب تم إنشاؤه بنجاح |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [GenerationResult](../../generationresult/)
-* class [MemoryGenerationResult](../)
-* مساحة الاسم [Aspose.OMR.Generation](../../memorygenerationresult/)
-* المجسم [Aspose.OMR](../../../)
+* class [GenerationResult](../../generationresult)
+* class [MemoryGenerationResult](../../memorygenerationresult)
+* namespace [Aspose.OMR.Generation](../../memorygenerationresult)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

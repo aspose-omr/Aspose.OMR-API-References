@@ -1,23 +1,23 @@
 ---
-title: BorderStyle.BorderSize
-second_title: Aspose.OMR لمرجع .NET API
-description: BorderStyle ملكية. حجم خط الحدود
+title: "حجم الحد"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "حجم خط الحد"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.generation.config/borderstyle/bordersize/
 ---
 ## BorderStyle.BorderSize property
 
-حجم خط الحدود
+حجم خط الحد
 
 ```csharp
 public int BorderSize { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BorderStyle](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config](../../borderstyle/)
-* المجسم [Aspose.OMR](../../../)
+* class [BorderStyle](../../borderstyle)
+* namespace [Aspose.OMR.Generation.Config](../../borderstyle)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

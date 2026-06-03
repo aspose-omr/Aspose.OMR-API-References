@@ -1,24 +1,24 @@
 ---
-title: ContainerConfig.Children
-second_title: Aspose.OMR لمرجع .NET API
-description: ContainerConfig ملكية. عناصر omr الفرعية. في معظم الحالات يتم وضعه داخل أحد الوالدين أو أقل.
+title: "العناصر الفرعية"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "عناصر OMR الفرعية. في معظم الحالات تكون موضوعة داخل العنصر الأب أو تحته."
 type: docs
 weight: 50
 url: /ar/net/aspose.omr.generation.config.elements.parents/containerconfig/children/
 ---
 ## ContainerConfig.Children property
 
-عناصر omr الفرعية. في معظم الحالات يتم وضعه داخل أحد الوالدين أو أقل.
+عناصر OMR الفرعية. في معظم الحالات تكون موضوعة داخل العنصر الأب أو تحته.
 
 ```csharp
 public override List<BaseConfig> Children { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BaseConfig](../../../aspose.omr.generation.config/baseconfig/)
-* class [ContainerConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../containerconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [BaseConfig](../../../aspose.omr.generation.config/baseconfig)
+* class [ContainerConfig](../../containerconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../containerconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

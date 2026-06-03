@@ -1,23 +1,23 @@
 ---
-title: ImageConfig.Path
-second_title: Aspose.OMR لمرجع .NET API
-description: ImageConfig ملكية. مسار الصورة. معبأ باستخدامName وImagesPaths
+title: "Path"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "مسار الصورة. يتم ملؤه باستخدام Nameaspose.omr.generation.config.elements/imageconfig/name و ImagesPathsaspose.omr.generation/globalpagesettings/imagespaths"
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.generation.config.elements/imageconfig/path/
 ---
 ## ImageConfig.Path property
 
-مسار الصورة. معبأ باستخدام[`Name`](../name/) و[`ImagesPaths`](../../../aspose.omr.generation/globalpagesettings/imagespaths/)
+مسار الصورة. يتم ملؤه باستخدام [`Name`](../name) و [`ImagesPaths`](../../../aspose.omr.generation/globalpagesettings/imagespaths)
 
 ```csharp
 public string Path { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ImageConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../imageconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [ImageConfig](../../imageconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../imageconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

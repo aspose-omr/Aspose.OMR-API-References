@@ -1,30 +1,30 @@
 ---
-title: Enum BubblePositionType
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.Enums.BubblePositionType تعداد. موضع المحتوى الرئيسي لعامل الفقاعة
+title: "BubblePositionType"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "موضع الفقاعة مقابل المحتوى الرئيسي"
 type: docs
-weight: 440
+weight: 620
 url: /ar/net/aspose.omr.generation.config.enums/bubblepositiontype/
 ---
 ## BubblePositionType enumeration
 
-موضع المحتوى الرئيسي لعامل الفقاعة
+موضع الفقاعة مقابل المحتوى الرئيسي
 
 ```csharp
 public enum BubblePositionType
 ```
 
-### قيم
+### Values
 
-| اسم | قيمة | وصف |
+| الاسم | Value | الوصف |
 | --- | --- | --- |
 | undefined | `0` | القيمة الافتراضية |
-| Left | `1` | أحد الجانب الأيسر للمحتوى |
+| Left | `1` | على الجانب الأيسر من المحتوى |
 | Right | `2` | على الجانب الأيمن من المحتوى |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->
