@@ -1,23 +1,23 @@
 ---
-title: TableTitleConfig.Name
-second_title: Aspose.OMR for .NET API 参考
-description: TableTitleConfig 财产. title 的文本值
+title: "名称"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "标题的文本值"
 type: docs
 weight: 60
 url: /zh/net/aspose.omr.generation.config.elements.table/tabletitleconfig/name/
 ---
 ## TableTitleConfig.Name property
 
-title 的文本值
+标题的文本值
 
 ```csharp
 public override string Name { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [TableTitleConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.Table](../../tabletitleconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [TableTitleConfig](../../tabletitleconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Table](../../tabletitleconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

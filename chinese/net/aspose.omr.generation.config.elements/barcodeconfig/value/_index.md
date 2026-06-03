@@ -1,23 +1,23 @@
 ---
-title: BarcodeConfig.Value
-second_title: Aspose.OMR for .NET API 参考
-description: BarcodeConfig 财产. 要编码的条码值
+title: "Value"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "要编码的条形码值"
 type: docs
-weight: 90
+weight: 100
 url: /zh/net/aspose.omr.generation.config.elements/barcodeconfig/value/
 ---
 ## BarcodeConfig.Value property
 
-要编码的条码值
+要编码的条形码值
 
 ```csharp
 public string Value { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [BarcodeConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [BarcodeConfig](../../barcodeconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

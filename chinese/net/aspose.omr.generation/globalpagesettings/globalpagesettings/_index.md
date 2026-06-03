@@ -1,7 +1,7 @@
 ---
-title: GlobalPageSettings.GlobalPageSettings
-second_title: Aspose.OMR for .NET API 参考
-description: GlobalPageSettings 构造函数. 默认构造函数
+title: "全局页面设置"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.generation/globalpagesettings/globalpagesettings/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.omr.generation/globalpagesettings/globalpagesettings/
 public GlobalPageSettings()
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [GlobalPageSettings](../)
-* 命名空间 [Aspose.OMR.Generation](../../globalpagesettings/)
-* 部件 [Aspose.OMR](../../../)
+* class [GlobalPageSettings](../../globalpagesettings)
+* namespace [Aspose.OMR.Generation](../../globalpagesettings)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

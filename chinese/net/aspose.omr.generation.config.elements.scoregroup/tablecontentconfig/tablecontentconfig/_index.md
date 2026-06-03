@@ -1,7 +1,7 @@
 ---
-title: TableContentConfig.TableContentConfig
-second_title: Aspose.OMR for .NET API 参考
-description: TableContentConfig 构造函数. 默认构造函数
+title: "TableContentConfig"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/tablecontentconfig/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.omr.generation.config.elements.scoregroup/tablecontentconfig
 public TableContentConfig()
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [TableContentConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../tablecontentconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [TableContentConfig](../../tablecontentconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../tablecontentconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

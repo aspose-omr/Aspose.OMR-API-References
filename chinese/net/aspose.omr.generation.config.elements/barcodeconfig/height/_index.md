@@ -1,23 +1,23 @@
 ---
-title: BarcodeConfig.Height
-second_title: Aspose.OMR for .NET API 参考
-description: BarcodeConfig 财产. 条码图像目标高度
+title: "Height"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "条形码图像的目标高度"
 type: docs
 weight: 60
 url: /zh/net/aspose.omr.generation.config.elements/barcodeconfig/height/
 ---
 ## BarcodeConfig.Height property
 
-条码图像目标高度
+条形码图像的目标高度
 
 ```csharp
 public int Height { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [BarcodeConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [BarcodeConfig](../../barcodeconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

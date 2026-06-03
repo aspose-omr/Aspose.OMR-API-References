@@ -1,14 +1,14 @@
 ---
-title: Class Western
-second_title: Aspose.OMR for .NET API 参考
-description: Aspose.OMR.Generation.WritingSystems.Western 班级. 123 和 LTR 的默认区域设置
+title: "西方"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "默认地区设置 用于 123 和 LTR"
 type: docs
-weight: 750
+weight: 990
 url: /zh/net/aspose.omr.generation.writingsystems/western/
 ---
 ## Western class
 
-1、2、3 和 LTR 的默认区域设置
+默认地区设置 用于 1,2,3 和 从左到右
 
 ```csharp
 public class Western : WritingSystem
@@ -16,14 +16,14 @@ public class Western : WritingSystem
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Western](western/)() | 默认构造函数。 |
+| [Western](western)() | 默认构造函数。 |
 
-### 也可以看看
+### 另请参阅
 
-* class [WritingSystem](../writingsystem/)
-* 命名空间 [Aspose.OMR.Generation.WritingSystems](../../aspose.omr.generation.writingsystems/)
-* 部件 [Aspose.OMR](../../)
+* class [WritingSystem](../writingsystem)
+* namespace [Aspose.OMR.Generation.WritingSystems](../../aspose.omr.generation.writingsystems)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

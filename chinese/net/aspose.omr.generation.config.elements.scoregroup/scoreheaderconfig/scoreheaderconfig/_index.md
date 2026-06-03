@@ -1,7 +1,7 @@
 ---
-title: ScoreHeaderConfig.ScoreHeaderConfig
-second_title: Aspose.OMR for .NET API 参考
-description: ScoreHeaderConfig 构造函数. 默认构造函数
+title: "ScoreHeaderConfig"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/scoreheaderconfig/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/
 public ScoreHeaderConfig()
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [ScoreHeaderConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scoreheaderconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [ScoreHeaderConfig](../../scoreheaderconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scoreheaderconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

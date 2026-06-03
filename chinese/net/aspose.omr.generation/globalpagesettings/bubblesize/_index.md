@@ -1,9 +1,9 @@
 ---
-title: GlobalPageSettings.BubbleSize
-second_title: Aspose.OMR for .NET API 参考
-description: GlobalPageSettings 场地. 气泡的大小
+title: "BubbleSize"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "气泡的大小"
 type: docs
-weight: 30
+weight: 40
 url: /zh/net/aspose.omr.generation/globalpagesettings/bubblesize/
 ---
 ## GlobalPageSettings.BubbleSize field
@@ -14,11 +14,11 @@ url: /zh/net/aspose.omr.generation/globalpagesettings/bubblesize/
 public BubbleSize BubbleSize;
 ```
 
-### 也可以看看
+### 另请参阅
 
-* enum [BubbleSize](../../bubblesize/)
-* class [GlobalPageSettings](../)
-* 命名空间 [Aspose.OMR.Generation](../../globalpagesettings/)
-* 部件 [Aspose.OMR](../../../)
+* enum [BubbleSize](../../bubblesize)
+* class [GlobalPageSettings](../../globalpagesettings)
+* namespace [Aspose.OMR.Generation](../../globalpagesettings)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

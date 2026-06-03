@@ -1,9 +1,9 @@
 ---
-title: Enum ContentType
-second_title: Aspose.OMR for .NET API 参考
-description: Aspose.OMR.Generation.Config.Enums.ContentType 枚举. 内容显示类型
+title: "ContentType"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "内容显示类型"
 type: docs
-weight: 480
+weight: 660
 url: /zh/net/aspose.omr.generation.config.enums/contenttype/
 ---
 ## ContentType enumeration
@@ -14,16 +14,16 @@ url: /zh/net/aspose.omr.generation.config.enums/contenttype/
 public enum ContentType
 ```
 
-### 价值观
+### Values
 
-| 姓名 | 价值 | 描述 |
+| 名称 | Value | 描述 |
 | --- | --- | --- |
 | Normal | `0` | 默认值。按原样绘制文本。 |
-| Cells | `1` | 绘制单元格。线内的每个符号都包含在矩形（单元格） 中 |
+| Cells | `1` | 绘制单元格。行内的每个符号都被包裹在矩形（单元格）中。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums/)
-* 部件 [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

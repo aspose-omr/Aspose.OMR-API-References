@@ -1,27 +1,27 @@
 ---
-title: MemoryGenerationResult.GetPDF
-second_title: Aspose.OMR for .NET API 参考
-description: MemoryGenerationResult 方法. 从GenerationResult作为 MemoryStream.
+title: "获取PDF"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "从 GenerationResultaspose.omr.generation/generationresult 获取 .pdf 文件，作为 MemoryStream。多页模板保存为单个包含多页的 .pdf 文件"
 type: docs
 weight: 40
 url: /zh/net/aspose.omr.generation/memorygenerationresult/getpdf/
 ---
 ## MemoryGenerationResult.GetPDF method
 
-从[`GenerationResult`](../../generationresult/)作为 MemoryStream.
+从 [`GenerationResult`](../../generationresult) 获取 .pdf 文件，作为 MemoryStream。多页模板保存为单个包含多页的 .pdf 文件
 
 ```csharp
-public IEnumerable<MemoryStream> GetPDF()
+public MemoryStream GetPDF()
 ```
 
 ### 返回值
 
-模板图像为 pdf
+MemoryStream 的集合。每个模板页面表示为单页的 .pdf 文件
 
-### 也可以看看
+### 另请参阅
 
-* class [MemoryGenerationResult](../)
-* 命名空间 [Aspose.OMR.Generation](../../memorygenerationresult/)
-* 部件 [Aspose.OMR](../../../)
+* class [MemoryGenerationResult](../../memorygenerationresult)
+* namespace [Aspose.OMR.Generation](../../memorygenerationresult)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

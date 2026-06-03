@@ -1,9 +1,9 @@
 ---
-title: GlobalPageSettings.Orientation
-second_title: Aspose.OMR for .NET API 参考
-description: GlobalPageSettings 场地. 页面方向
+title: "Orientation"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "页面方向"
 type: docs
-weight: 80
+weight: 110
 url: /zh/net/aspose.omr.generation/globalpagesettings/orientation/
 ---
 ## GlobalPageSettings.Orientation field
@@ -14,11 +14,11 @@ url: /zh/net/aspose.omr.generation/globalpagesettings/orientation/
 public Orientation Orientation;
 ```
 
-### 也可以看看
+### 另请参阅
 
-* enum [Orientation](../../orientation/)
-* class [GlobalPageSettings](../)
-* 命名空间 [Aspose.OMR.Generation](../../globalpagesettings/)
-* 部件 [Aspose.OMR](../../../)
+* enum [Orientation](../../orientation)
+* class [GlobalPageSettings](../../globalpagesettings)
+* namespace [Aspose.OMR.Generation](../../globalpagesettings)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

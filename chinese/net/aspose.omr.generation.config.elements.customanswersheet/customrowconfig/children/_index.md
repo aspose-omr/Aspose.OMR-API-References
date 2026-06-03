@@ -1,24 +1,24 @@
 ---
-title: CustomRowConfig.Children
-second_title: Aspose.OMR for .NET API 参考
-description: CustomRowConfig 财产. 子 omr 元素在大多数情况下位于父级内部或下方
+title: "Children"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "子 OMR 元素。大多数情况下位于父元素内部或下方。"
 type: docs
 weight: 20
 url: /zh/net/aspose.omr.generation.config.elements.customanswersheet/customrowconfig/children/
 ---
 ## CustomRowConfig.Children property
 
-子 omr 元素。在大多数情况下位于父级内部或下方。
+子 OMR 元素。大多数情况下位于父元素内部或下方。
 
 ```csharp
 public override List<BaseConfig> Children { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [BaseConfig](../../../aspose.omr.generation.config/baseconfig/)
-* class [CustomRowConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../customrowconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [BaseConfig](../../../aspose.omr.generation.config/baseconfig)
+* class [CustomRowConfig](../../customrowconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../customrowconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

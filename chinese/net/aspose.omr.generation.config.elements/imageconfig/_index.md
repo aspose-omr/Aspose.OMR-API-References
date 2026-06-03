@@ -1,14 +1,14 @@
 ---
-title: Class ImageConfig
-second_title: Aspose.OMR for .NET API 参考
-description: Aspose.OMR.Generation.Config.Elements.ImageConfig 班级. 表示图像元素 使用提供的路径从文件系统插入
+title: "ImageConfig"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "表示图像元素。使用提供的路径从文件系统插入"
 type: docs
-weight: 200
+weight: 370
 url: /zh/net/aspose.omr.generation.config.elements/imageconfig/
 ---
 ## ImageConfig class
 
-表示图像元素。 使用提供的路径从文件系统插入
+表示图像元素。使用提供的路径从文件系统插入
 
 ```csharp
 public class ImageConfig : BaseConfig
@@ -16,32 +16,32 @@ public class ImageConfig : BaseConfig
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [ImageConfig](imageconfig/)() | 默认构造函数。 |
+| [ImageConfig](imageconfig)() | 默认构造函数。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Height](../../aspose.omr.generation.config.elements/imageconfig/height/) { get; set; } | 图像的高度 |
-| override [Name](../../aspose.omr.generation.config.elements/imageconfig/name/) { get; set; } | 图片名称。需要. |
-| [Path](../../aspose.omr.generation.config.elements/imageconfig/path/) { get; set; } | 图片路径。填充使用[`Name`](./name/)和[`ImagesPaths`](../../aspose.omr.generation/globalpagesettings/imagespaths/) |
-| override [Type](../../aspose.omr.generation.config.elements/imageconfig/type/) { get; set; } | omr 元素的类型。 JSON 序列化的必填字段. |
-| [Width](../../aspose.omr.generation.config.elements/imageconfig/width/) { get; set; } | 图像的宽度 |
-| [XPosition](../../aspose.omr.generation.config.elements/imageconfig/xposition/) { get; set; } | 页面上的网格 X 位置，覆盖 alignment |
-| [YPosition](../../aspose.omr.generation.config.elements/imageconfig/yposition/) { get; set; } | 页面上的网格 Y 位置，覆盖 alignment |
+| [Height](../../aspose.omr.generation.config.elements/imageconfig/height) { get; set; } | 图像的高度 |
+| override [Name](../../aspose.omr.generation.config.elements/imageconfig/name) { get; set; } | 图片名称。必填。 |
+| [Path](../../aspose.omr.generation.config.elements/imageconfig/path) { get; set; } | 图片路径。使用 [`Name`](./name) 和 [`ImagesPaths`](../../aspose.omr.generation/globalpagesettings/imagespaths) 填充 |
+| override [Type](../../aspose.omr.generation.config.elements/imageconfig/type) { get; set; } | OMR 元素的类型。JSON 序列化所需的字段。 |
+| [Width](../../aspose.omr.generation.config.elements/imageconfig/width) { get; set; } | 图像的宽度 |
+| [XPosition](../../aspose.omr.generation.config.elements/imageconfig/xposition) { get; set; } | 页面上网格的 X 位置，覆盖对齐方式 |
+| [YPosition](../../aspose.omr.generation.config.elements/imageconfig/yposition) { get; set; } | 页面上网格的 Y 位置，覆盖对齐方式 |
 
 ## 字段
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [ImageAlign](../../aspose.omr.generation.config.elements/imageconfig/imagealign/) | page 上的图像对齐 |
+| [ImageAlign](../../aspose.omr.generation.config.elements/imageconfig/imagealign) | 图像在页面上的对齐方式 |
 
-### 也可以看看
+### 另请参阅
 
-* class [BaseConfig](../../aspose.omr.generation.config/baseconfig/)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements](../../aspose.omr.generation.config.elements/)
-* 部件 [Aspose.OMR](../../)
+* class [BaseConfig](../../aspose.omr.generation.config/baseconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../aspose.omr.generation.config.elements)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

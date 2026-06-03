@@ -1,9 +1,9 @@
 ---
-title: Enum ScoreGroupType
-second_title: Aspose.OMR for .NET API 参考
-description: Aspose.OMR.Generation.Config.Enums.ScoreGroupType 枚举. 分数组的类型影响分数组元素的绘制
+title: "ScoreGroupType"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "分数组的类型。影响分数组元素的绘制"
 type: docs
-weight: 540
+weight: 730
 url: /zh/net/aspose.omr.generation.config.enums/scoregrouptype/
 ---
 ## ScoreGroupType enumeration
@@ -14,15 +14,15 @@ url: /zh/net/aspose.omr.generation.config.enums/scoregrouptype/
 public enum ScoreGroupType
 ```
 
-### 价值观
+### Values
 
-| 姓名 | 价值 | 描述 |
+| 名称 | Value | 描述 |
 | --- | --- | --- |
-| Table | `0` | 将每个问题定位为表格，答案为 row |
+| Table | `0` | 将每个问题定位为表格，将答案定位为行 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums/)
-* 部件 [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

@@ -1,23 +1,23 @@
 ---
-title: AnswerConfig.Selectable
-second_title: Aspose.OMR for .NET API 参考
-description: AnswerConfig 财产. 如果设置为 false则隐藏此答案元素的气泡绘图和识别
+title: "可选的"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "如果设置为 false，则隐藏此 Answer 元素的气泡绘制和识别"
 type: docs
-weight: 60
+weight: 80
 url: /zh/net/aspose.omr.generation.config.elements.parents/answerconfig/selectable/
 ---
 ## AnswerConfig.Selectable property
 
-如果设置为 false，则隐藏此答案元素的气泡绘图和识别
+如果设置为 false，则隐藏此 Answer 元素的气泡绘制和识别
 
 ```csharp
 public bool Selectable { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [AnswerConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.Parents](../../answerconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [AnswerConfig](../../answerconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../answerconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

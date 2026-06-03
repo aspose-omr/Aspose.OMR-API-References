@@ -1,7 +1,7 @@
 ---
-title: GridConfig.GridConfig
-second_title: Aspose.OMR for .NET API 参考
-description: GridConfig 构造函数. 默认构造函数
+title: "GridConfig"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.generation.config.elements/gridconfig/gridconfig/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.omr.generation.config.elements/gridconfig/gridconfig/
 public GridConfig()
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [GridConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements](../../gridconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [GridConfig](../../gridconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../gridconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

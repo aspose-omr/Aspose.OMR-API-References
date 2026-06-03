@@ -1,23 +1,23 @@
 ---
-title: PageConfig.Name
-second_title: Aspose.OMR for .NET API 参考
-description: PageConfig 财产. 页面名称
+title: "名称"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "页面的名称"
 type: docs
-weight: 30
+weight: 40
 url: /zh/net/aspose.omr.generation.config.elements.parents/pageconfig/name/
 ---
 ## PageConfig.Name property
 
-页面名称
+页面的名称
 
 ```csharp
 public override string Name { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [PageConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.Parents](../../pageconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [PageConfig](../../pageconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../pageconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

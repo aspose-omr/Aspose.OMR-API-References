@@ -1,28 +1,28 @@
 ---
-title: GenerationResult.SaveAsPdf
-second_title: Aspose.OMR for .NET API 参考
-description: GenerationResult 方法. 保存模板图片和模板到指定文件夹 保存为pdf的模板图片
+title: "SaveAsPdf"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "将模板图像保存为 .pdf 到指定文件夹。多页模板保存为单个包含多页的 .pdf 文件"
 type: docs
-weight: 80
+weight: 90
 url: /zh/net/aspose.omr.generation/generationresult/saveaspdf/
 ---
 ## GenerationResult.SaveAsPdf method
 
-保存模板图片和模板到指定文件夹 保存为pdf的模板图片
+将模板图像保存为 .pdf 到指定文件夹。多页模板保存为单个包含多页的 .pdf 文件
 
 ```csharp
 public void SaveAsPdf(string folder, string name)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | Type | 描述 |
 | --- | --- | --- |
-| folder | String | 目标文件夹 |
-| name | String | 模板名称 |
+| 文件夹 | String | 目标文件夹 |
+| 名称 | String | 模板名称 |
 
-### 也可以看看
+### 另请参阅
 
-* class [GenerationResult](../)
-* 命名空间 [Aspose.OMR.Generation](../../generationresult/)
-* 部件 [Aspose.OMR](../../../)
+* class [GenerationResult](../../generationresult)
+* namespace [Aspose.OMR.Generation](../../generationresult)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

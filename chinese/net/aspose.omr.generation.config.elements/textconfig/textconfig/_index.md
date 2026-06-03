@@ -1,7 +1,7 @@
 ---
-title: TextConfig.TextConfig
-second_title: Aspose.OMR for .NET API 参考
-description: TextConfig 构造函数. 默认构造函数
+title: "TextConfig"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.generation.config.elements/textconfig/textconfig/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.omr.generation.config.elements/textconfig/textconfig/
 public TextConfig()
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [TextConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements](../../textconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [TextConfig](../../textconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../textconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

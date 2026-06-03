@@ -1,23 +1,23 @@
 ---
-title: BaseConfig.Name
-second_title: Aspose.OMR for .NET API 参考
-description: BaseConfig 财产. omr 元素的名称可以根据element 在不同情况下使用
+title: "名称"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "omr 元素的名称。可根据元素在不同情况下使用"
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.generation.config/baseconfig/name/
 ---
 ## BaseConfig.Name property
 
-omr 元素的名称。可以根据element 在不同情况下使用
+omr 元素的名称。可根据元素在不同情况下使用
 
 ```csharp
 public abstract string Name { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [BaseConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config](../../baseconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [BaseConfig](../../baseconfig)
+* namespace [Aspose.OMR.Generation.Config](../../baseconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

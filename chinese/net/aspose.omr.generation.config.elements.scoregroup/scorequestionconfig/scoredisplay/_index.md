@@ -1,7 +1,7 @@
 ---
-title: ScoreQuestionConfig.ScoreDisplay
-second_title: Aspose.OMR for .NET API 参考
-description: ScoreQuestionConfig 财产. 描述分数值的显示行为
+title: "ScoreDisplay"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "描述分数值的显示行为。"
 type: docs
 weight: 80
 url: /zh/net/aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/scoredisplay/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.omr.generation.config.elements.scoregroup/scorequestionconfi
 public ScoreDisplay ScoreDisplay { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* enum [ScoreDisplay](../../../aspose.omr.generation.config.enums/scoredisplay/)
-* class [ScoreQuestionConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scorequestionconfig/)
-* 部件 [Aspose.OMR](../../../)
+* enum [ScoreDisplay](../../../aspose.omr.generation.config.enums/scoredisplay)
+* class [ScoreQuestionConfig](../../scorequestionconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scorequestionconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

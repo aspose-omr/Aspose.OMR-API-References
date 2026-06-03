@@ -1,7 +1,7 @@
 ---
-title: ImageCollection.ImageCollection
-second_title: Aspose.OMR for .NET API 参考
-description: ImageCollection 构造函数. 默认构造函数
+title: "ImageCollection"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.api/imagecollection/imagecollection/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.omr.api/imagecollection/imagecollection/
 public ImageCollection()
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [ImageCollection](../)
-* 命名空间 [Aspose.OMR.Api](../../imagecollection/)
-* 部件 [Aspose.OMR](../../../)
+* class [ImageCollection](../../imagecollection)
+* namespace [Aspose.OMR.Api](../../imagecollection)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

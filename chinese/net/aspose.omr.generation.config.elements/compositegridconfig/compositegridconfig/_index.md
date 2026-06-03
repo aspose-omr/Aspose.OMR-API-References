@@ -1,7 +1,7 @@
 ---
-title: CompositeGridConfig.CompositeGridConfig
-second_title: Aspose.OMR for .NET API 参考
-description: CompositeGridConfig 构造函数. 默认构造函数
+title: "CompositeGridConfig"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.generation.config.elements/compositegridconfig/compositegridconfig/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.omr.generation.config.elements/compositegridconfig/composite
 public CompositeGridConfig()
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [CompositeGridConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements](../../compositegridconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [CompositeGridConfig](../../compositegridconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../compositegridconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

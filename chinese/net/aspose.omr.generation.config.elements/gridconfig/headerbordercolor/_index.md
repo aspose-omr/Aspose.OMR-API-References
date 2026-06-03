@@ -1,7 +1,7 @@
 ---
-title: GridConfig.HeaderBorderColor
-second_title: Aspose.OMR for .NET API 参考
-description: GridConfig 财产. 方形边框颜色
+title: "HeaderBorderColor"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "方形边框颜色"
 type: docs
 weight: 70
 url: /zh/net/aspose.omr.generation.config.elements/gridconfig/headerbordercolor/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.omr.generation.config.elements/gridconfig/headerbordercolor/
 public Color HeaderBorderColor { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* enum [Color](../../../aspose.omr.generation/color/)
-* class [GridConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements](../../gridconfig/)
-* 部件 [Aspose.OMR](../../../)
+* enum [Color](../../../aspose.omr.generation/color)
+* class [GridConfig](../../gridconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../gridconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

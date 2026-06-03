@@ -1,14 +1,14 @@
 ---
-title: Class Arabic
-second_title: Aspose.OMR for .NET API 参考
-description: Aspose.OMR.Generation.WritingSystems.Arabic 班级. 阿拉伯语文化预设 RightToLeft 和١٢٣
+title: "阿拉伯语"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "阿拉伯语文化预设。RightToLeft 和 ١٢٣"
 type: docs
-weight: 720
+weight: 930
 url: /zh/net/aspose.omr.generation.writingsystems/arabic/
 ---
 ## Arabic class
 
-阿拉伯语文化预设。 RightToLeft 和١,٢,٣
+阿拉伯文化预设。从右到左和 ١,٢,٣
 
 ```csharp
 public class Arabic : DigitReplacement
@@ -16,14 +16,14 @@ public class Arabic : DigitReplacement
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Arabic](arabic/)(bool) | 初始化阿拉伯语语言环境。 |
+| [Arabic](arabic)(bool) | 初始化阿拉伯语地区。 |
 
-### 也可以看看
+### 另请参阅
 
-* class [DigitReplacement](../digitreplacement/)
-* 命名空间 [Aspose.OMR.Generation.WritingSystems](../../aspose.omr.generation.writingsystems/)
-* 部件 [Aspose.OMR](../../)
+* class [DigitReplacement](../digitreplacement)
+* namespace [Aspose.OMR.Generation.WritingSystems](../../aspose.omr.generation.writingsystems)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

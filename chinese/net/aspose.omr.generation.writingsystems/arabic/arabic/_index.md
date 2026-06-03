@@ -1,27 +1,27 @@
 ---
-title: Arabic.Arabic
-second_title: Aspose.OMR for .NET API 参考
-description: Arabic 构造函数. 初始化阿拉伯语语言环境
+title: "阿拉伯语"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "初始化阿拉伯语地区。"
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.generation.writingsystems/arabic/arabic/
 ---
 ## Arabic constructor
 
-初始化阿拉伯语语言环境。
+初始化阿拉伯语地区。
 
 ```csharp
 public Arabic(bool useNativeNumber = false)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | Type | 描述 |
 | --- | --- | --- |
-| useNativeNumber | Boolean | 当 true - ١,٢,٣ 将被使用而不是 1,2,3 |
+| useNativeNumber | Boolean | 当为 true 时 - ١,٢,٣ 将被用于替代 1,2,3 |
 
-### 也可以看看
+### 另请参阅
 
-* class [Arabic](../)
-* 命名空间 [Aspose.OMR.Generation.WritingSystems](../../arabic/)
-* 部件 [Aspose.OMR](../../../)
+* class [Arabic](../../arabic)
+* namespace [Aspose.OMR.Generation.WritingSystems](../../arabic)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

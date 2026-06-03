@@ -1,24 +1,24 @@
 ---
-title: BarcodeConfig.BarcodeType
-second_title: Aspose.OMR for .NET API 参考
-description: BarcodeConfig 财产. 条码元素的类型
+title: "BarcodeType"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "条形码元素的类型"
 type: docs
 weight: 40
 url: /zh/net/aspose.omr.generation.config.elements/barcodeconfig/barcodetype/
 ---
 ## BarcodeConfig.BarcodeType property
 
-条码元素的类型
+条形码元素的类型
 
 ```csharp
 public BarcodeType BarcodeType { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* enum [BarcodeType](../../../aspose.omr.generation.config.enums/barcodetype/)
-* class [BarcodeConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig/)
-* 部件 [Aspose.OMR](../../../)
+* enum [BarcodeType](../../../aspose.omr.generation.config.enums/barcodetype)
+* class [BarcodeConfig](../../barcodeconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

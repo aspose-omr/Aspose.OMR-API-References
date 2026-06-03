@@ -1,23 +1,23 @@
 ---
-title: ScoreAnswerConfig.Score
-second_title: Aspose.OMR for .NET API 参考
-description: ScoreAnswerConfig 财产. 分数
+title: "分数"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "分数数量"
 type: docs
 weight: 20
 url: /zh/net/aspose.omr.generation.config.elements.scoregroup/scoreanswerconfig/score/
 ---
 ## ScoreAnswerConfig.Score property
 
-分数
+分数数量
 
 ```csharp
 public int Score { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [ScoreAnswerConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scoreanswerconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [ScoreAnswerConfig](../../scoreanswerconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scoreanswerconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

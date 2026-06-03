@@ -1,23 +1,23 @@
 ---
-title: ScoreQuestionConfig.FontSize
-second_title: Aspose.OMR for .NET API 参考
-description: ScoreQuestionConfig 财产. 文字字体的大小
+title: "FontSize"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "文本字体的大小"
 type: docs
 weight: 40
 url: /zh/net/aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/fontsize/
 ---
 ## ScoreQuestionConfig.FontSize property
 
-文字字体的大小
+文本字体的大小
 
 ```csharp
 public int FontSize { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [ScoreQuestionConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scorequestionconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [ScoreQuestionConfig](../../scorequestionconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scorequestionconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

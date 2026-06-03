@@ -1,7 +1,7 @@
 ---
-title: ScoreAnswerConfig.ScoreAnswerConfig
-second_title: Aspose.OMR for .NET API 参考
-description: ScoreAnswerConfig 构造函数. 默认构造函数
+title: "ScoreAnswerConfig"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.generation.config.elements.scoregroup/scoreanswerconfig/scoreanswerconfig/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.omr.generation.config.elements.scoregroup/scoreanswerconfig/
 public ScoreAnswerConfig()
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [ScoreAnswerConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scoreanswerconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [ScoreAnswerConfig](../../scoreanswerconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scoreanswerconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

@@ -1,23 +1,23 @@
 ---
-title: WriteInConfig.Name
-second_title: Aspose.OMR for .NET API 参考
-description: WriteInConfig 财产. 写入区名称和识别时的图片名称.
+title: "名称"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "写入区域的名称以及识别后图片的名称。"
 type: docs
 weight: 80
 url: /zh/net/aspose.omr.generation.config.elements/writeinconfig/name/
 ---
 ## WriteInConfig.Name property
 
-写入区名称和识别时的图片名称.
+写入区域的名称以及识别后图片的名称。
 
 ```csharp
 public override string Name { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [WriteInConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements](../../writeinconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [WriteInConfig](../../writeinconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../writeinconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

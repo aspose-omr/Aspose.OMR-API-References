@@ -1,7 +1,7 @@
 ---
-title: Wrap.Wrap
-second_title: Aspose.OMR for .NET API 参考
-description: Wrap 构造函数. 默认构造函数
+title: "Wrap"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.generation.overflowactions/wrap/wrap/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.omr.generation.overflowactions/wrap/wrap/
 public Wrap()
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [Wrap](../)
-* 命名空间 [Aspose.OMR.Generation.OverflowActions](../../wrap/)
-* 部件 [Aspose.OMR](../../../)
+* class [Wrap](../../wrap)
+* namespace [Aspose.OMR.Generation.OverflowActions](../../wrap)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

@@ -1,7 +1,7 @@
 ---
-title: BlockConfig.BackgroundColor
-second_title: Aspose.OMR for .NET API 参考
-description: BlockConfig 财产. 边框颜色
+title: "BackgroundColor"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "边框颜色"
 type: docs
 weight: 20
 url: /zh/net/aspose.omr.generation.config.elements.parents/blockconfig/backgroundcolor/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.omr.generation.config.elements.parents/blockconfig/backgroun
 public Color BackgroundColor { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* enum [Color](../../../aspose.omr.generation/color/)
-* class [BlockConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.Parents](../../blockconfig/)
-* 部件 [Aspose.OMR](../../../)
+* enum [Color](../../../aspose.omr.generation/color)
+* class [BlockConfig](../../blockconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../blockconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

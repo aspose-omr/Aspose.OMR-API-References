@@ -1,23 +1,23 @@
 ---
-title: CustomAnswerSheetConfig.Amount
-second_title: Aspose.OMR for .NET API 参考
-description: CustomAnswerSheetConfig 财产. 总行数
+title: "数量"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "行的总数"
 type: docs
 weight: 20
 url: /zh/net/aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/amount/
 ---
 ## CustomAnswerSheetConfig.Amount property
 
-总行数
+行的总数
 
 ```csharp
 public int Amount { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [CustomAnswerSheetConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../customanswersheetconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [CustomAnswerSheetConfig](../../customanswersheetconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../customanswersheetconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

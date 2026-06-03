@@ -1,23 +1,23 @@
 ---
-title: AnswerSheetConfig.AnswersValues
-second_title: Aspose.OMR for .NET API 参考
-description: AnswerSheetConfig 财产. 每个值代表气泡内的符号必须具有相同的计数AnswersCount 示例新字符串 ABCD 示例新字符串 1234
+title: "AnswersValues"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "每个值表示气泡内的符号。必须与 AnswersCountaspose.omr.generation.config.elements/answersheetconfig/answerscount 的计数相同 示例 new string A B C D 示例 new string 1 2 3 4"
 type: docs
 weight: 30
 url: /zh/net/aspose.omr.generation.config.elements/answersheetconfig/answersvalues/
 ---
 ## AnswerSheetConfig.AnswersValues property
 
-每个值代表气泡内的符号。必须具有相同的计数[`AnswersCount`](../answerscount/) 示例：新字符串[] {“A”、“B”、“C”、“D”} 示例：新字符串[] {“1”、“2”、“3”、“4”}
+每个值表示气泡内的符号。必须与 [`AnswersCount`](../answerscount) 的计数相同 示例: new string[] {"A", "B", "C", "D"} 示例: new string[] {"1", "2", "3", "4"}
 
 ```csharp
 public string[] AnswersValues { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [AnswerSheetConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [AnswerSheetConfig](../../answersheetconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

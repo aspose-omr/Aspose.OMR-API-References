@@ -1,23 +1,23 @@
 ---
-title: WriteInConfig.FontSize
-second_title: Aspose.OMR for .NET API 参考
-description: WriteInConfig 财产. 的大小Hintfont
+title: "FontSize"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "Hintaspose.omr.generation.config.elements/writeinconfig/hint 字体的大小"
 type: docs
 weight: 50
 url: /zh/net/aspose.omr.generation.config.elements/writeinconfig/fontsize/
 ---
 ## WriteInConfig.FontSize property
 
-的大小[`Hint`](../hint/)font
+[`Hint`](../hint) 字体的大小
 
 ```csharp
 public int FontSize { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [WriteInConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements](../../writeinconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [WriteInConfig](../../writeinconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../writeinconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

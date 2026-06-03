@@ -1,7 +1,7 @@
 ---
-title: CustomTriggerConfig.BubbleType
-second_title: Aspose.OMR for .NET API 参考
-description: CustomTriggerConfig 财产. 气泡的类型
+title: "BubbleType"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "气泡的类型"
 type: docs
 weight: 20
 url: /zh/net/aspose.omr.generation.config.elements/customtriggerconfig/bubbletype/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.omr.generation.config.elements/customtriggerconfig/bubbletyp
 public BubbleType BubbleType { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* enum [BubbleType](../../../aspose.omr.generation.config.enums/bubbletype/)
-* class [CustomTriggerConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements](../../customtriggerconfig/)
-* 部件 [Aspose.OMR](../../../)
+* enum [BubbleType](../../../aspose.omr.generation.config.enums/bubbletype)
+* class [CustomTriggerConfig](../../customtriggerconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../customtriggerconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

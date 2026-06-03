@@ -1,23 +1,23 @@
 ---
-title: ChoiceBoxConfig.QuestionText
-second_title: Aspose.OMR for .NET API 参考
-description: ChoiceBoxConfig 财产. 获取或设置 ChoiceBox element 的问题文本
+title: "QuestionText"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "获取或设置 ChoiceBox 元素的问题文本"
 type: docs
-weight: 90
+weight: 100
 url: /zh/net/aspose.omr.generation.config.elements/choiceboxconfig/questiontext/
 ---
 ## ChoiceBoxConfig.QuestionText property
 
-获取或设置 ChoiceBox element 的问题文本
+获取或设置 ChoiceBox 元素的问题文本
 
 ```csharp
 public string QuestionText { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [ChoiceBoxConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements](../../choiceboxconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [ChoiceBoxConfig](../../choiceboxconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../choiceboxconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

@@ -1,7 +1,7 @@
 ---
-title: CompositeGridConfig.BubbleSize
-second_title: Aspose.OMR for .NET API 参考
-description: CompositeGridConfig 场地. 气泡的大小
+title: "BubbleSize"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "气泡的大小"
 type: docs
 weight: 180
 url: /zh/net/aspose.omr.generation.config.elements/compositegridconfig/bubblesize/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.omr.generation.config.elements/compositegridconfig/bubblesiz
 public BubbleSize BubbleSize;
 ```
 
-### 也可以看看
+### 另请参阅
 
-* enum [BubbleSize](../../../aspose.omr.generation/bubblesize/)
-* class [CompositeGridConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements](../../compositegridconfig/)
-* 部件 [Aspose.OMR](../../../)
+* enum [BubbleSize](../../../aspose.omr.generation/bubblesize)
+* class [CompositeGridConfig](../../compositegridconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../compositegridconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

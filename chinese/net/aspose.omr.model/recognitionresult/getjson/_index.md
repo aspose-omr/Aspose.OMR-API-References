@@ -1,38 +1,38 @@
 ---
-title: RecognitionResult.GetJson
-second_title: Aspose.OMR for .NET API 参考
-description: RecognitionResult 方法. 将识别结果形成JSON字符串为MemoryStream
+title: "GetJson"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "生成包含识别结果的 JSON 字符串（MemoryStream）"
 type: docs
 weight: 80
 url: /zh/net/aspose.omr.model/recognitionresult/getjson/
 ---
 ## GetJson(Encoding) {#getjson}
 
-将识别结果形成JSON字符串为MemoryStream
+生成包含识别结果的 JSON 字符串（MemoryStream）
 
 ```csharp
 public byte[] GetJson(Encoding encoding)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | Type | 描述 |
 | --- | --- | --- |
-| encoding | Encoding | 我们编码 JSON 字符串的编码 |
+| 编码 | 编码 | 用于对 JSON 字符串进行编码的编码方式 |
 
 ### 返回值
 
-识别结果为字节数组
+识别结果的字节数组
 
-### 也可以看看
+### 另请参阅
 
-* class [RecognitionResult](../)
-* 命名空间 [Aspose.OMR.Model](../../recognitionresult/)
-* 部件 [Aspose.OMR](../../../)
+* class [RecognitionResult](../../recognitionresult)
+* namespace [Aspose.OMR.Model](../../recognitionresult)
+* assembly [Aspose.OMR](../../../)
 
 ---
 
 ## GetJson() {#getjson_1}
 
-将识别结果形成JSON字符串
+生成包含识别结果的 JSON 字符串
 
 ```csharp
 public string GetJson()
@@ -40,12 +40,12 @@ public string GetJson()
 
 ### 返回值
 
-识别结果为 JSON 字符串
+识别结果的 JSON 字符串
 
-### 也可以看看
+### 另请参阅
 
-* class [RecognitionResult](../)
-* 命名空间 [Aspose.OMR.Model](../../recognitionresult/)
-* 部件 [Aspose.OMR](../../../)
+* class [RecognitionResult](../../recognitionresult)
+* namespace [Aspose.OMR.Model](../../recognitionresult)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

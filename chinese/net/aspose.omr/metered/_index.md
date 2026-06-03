@@ -1,9 +1,9 @@
 ---
-title: Class Metered
-second_title: Aspose.OMR for .NET API 参考
-description: Aspose.OMR.Metered 班级. 提供设置计量密钥的方法
+title: "Metered"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "提供设置计量密钥的方法。"
 type: docs
-weight: 780
+weight: 1020
 url: /zh/net/aspose.omr/metered/
 ---
 ## Metered class
@@ -16,21 +16,23 @@ public class Metered
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Metered](metered/)() | 默认构造函数。 |
+| [Metered](metered)() | 默认构造函数。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [SetMeteredKey](../../aspose.omr/metered/setmeteredkey/)(string, string) | 设置计量公钥和私钥 |
-| static [GetConsumptionCredit](../../aspose.omr/metered/getconsumptioncredit/)() | 获得消费积分 |
-| static [GetConsumptionQuantity](../../aspose.omr/metered/getconsumptionquantity/)() | 获取消费文件大小 |
+| [GetProductName](../../aspose.omr/metered/getproductname)() | 获取产品名称 |
+| [SetMeteredKey](../../aspose.omr/metered/setmeteredkey)(string, string) | 设置计量版的公钥和私钥。如果您购买了计量许可证，在启动应用程序时应调用此 API，通常这就足够了。然而，如果始终无法上传消费数据且超过 24 小时，许可证将被设置为评估状态。为避免这种情况，您应定期检查许可证状态，如果是评估状态，请再次调用此 API。 |
+| static [GetConsumptionCredit](../../aspose.omr/metered/getconsumptioncredit)() | 获取消费积分 |
+| static [GetConsumptionQuantity](../../aspose.omr/metered/getconsumptionquantity)() | 获取消费文件大小 |
+| static [IsMeteredLicensed](../../aspose.omr/metered/ismeteredlicensed)() | 检查计量版是否已授权 |
 
-### 例子
+### 示例
 
-在此示例中，将尝试设置计量公钥和私钥
+在此示例中，将尝试设置计量版的公钥和私钥
 
 ```csharp
 [C#]
@@ -45,9 +47,9 @@ Dim matered As Metered = New Metered
 matered.SetMeteredKey("PublicKey", "PrivateKey")
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.OMR](../../aspose.omr/)
-* 部件 [Aspose.OMR](../../)
+* namespace [Aspose.OMR](../../aspose.omr)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

@@ -1,36 +1,36 @@
 ---
-title: Enum RotationPointPosition
-second_title: Aspose.OMR for .NET API 参考
-description: Aspose.OMR.Generation.RotationPointPosition 枚举. 生成的 Template 上旋转点的所有可用位置
+title: "RotationPointPosition"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "生成的模板上旋转点的所有可用位置"
 type: docs
-weight: 710
+weight: 920
 url: /zh/net/aspose.omr.generation/rotationpointposition/
 ---
 ## RotationPointPosition enumeration
 
-生成的 Template 上旋转点的所有可用位置
+生成的模板上旋转点的所有可用位置
 
 ```csharp
 public enum RotationPointPosition
 ```
 
-### 价值观
+### Values
 
-| 姓名 | 价值 | 描述 |
+| 名称 | Value | 描述 |
 | --- | --- | --- |
 | undefined | `0` | 未选择旋转点 |
-| TopLeft1 | `10` | 左上参考点下的 TopLeft 位置 |
-| TopLeft2 | `11` | 左上参考点旁边的 TopLeft 位置 |
-| TopRight1 | `20` | 右上参考点下的右上位置 |
-| TopRight2 | `21` | TopRight 位置紧邻 Top Right Reference Point |
-| BottomRight1 | `30` | BottomRight 位置高于 Bottom Right 参考点 |
-| BottomRight2 | `31` | BottomRight 位置下一个 Bottom Right Reference Point |
-| BottomLeft1 | `40` | BottomLeft 位置高于左下参考点 |
-| BottomLeft2 | `41` | 左下参考点旁边的 BottomLeft 位置 |
+| TopLeft1 | `10` | TopLeft 位置位于 Top Left Reference Point 下方 |
+| TopLeft2 | `11` | TopLeft 位置位于 Top Left Reference Point 旁边 |
+| TopRight1 | `20` | TopRight 位置位于 Top Right Reference Point 下方 |
+| TopRight2 | `21` | TopRight 位置位于 Top Right Reference Point 旁边 |
+| BottomRight1 | `30` | BottomRight 位置位于 Bottom Right Reference Point 上方 |
+| BottomRight2 | `31` | BottomRight 位置位于 Bottom Right Reference Point 旁边 |
+| BottomLeft1 | `40` | BottomLeft 位置位于 Bottom Left Reference Point 上方 |
+| BottomLeft2 | `41` | BottomLeft 位置位于 Bottom Left Reference Point 旁边 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.OMR.Generation](../../aspose.omr.generation/)
-* 部件 [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation](../../aspose.omr.generation)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

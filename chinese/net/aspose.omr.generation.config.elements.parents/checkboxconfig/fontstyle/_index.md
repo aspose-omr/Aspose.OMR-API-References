@@ -1,7 +1,7 @@
 ---
-title: CheckBoxConfig.FontStyle
-second_title: Aspose.OMR for .NET API 参考
-description: CheckBoxConfig 财产. 文本的样式
+title: "FontStyle"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "文本的样式"
 type: docs
 weight: 70
 url: /zh/net/aspose.omr.generation.config.elements.parents/checkboxconfig/fontstyle/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.omr.generation.config.elements.parents/checkboxconfig/fontst
 public FontStyle FontStyle { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* enum [FontStyle](../../../aspose.omr.generation/fontstyle/)
-* class [CheckBoxConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.Parents](../../checkboxconfig/)
-* 部件 [Aspose.OMR](../../../)
+* enum [FontStyle](../../../aspose.omr.generation/fontstyle)
+* class [CheckBoxConfig](../../checkboxconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../checkboxconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

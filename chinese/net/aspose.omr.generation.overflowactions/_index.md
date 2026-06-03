@@ -1,20 +1,20 @@
 ---
-title: Aspose.OMR.Generation.OverflowActions
-second_title: Aspose.OMR for .NET API 参考
+title: "Aspose.OMR.Generation.OverflowActions"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
 description: 
 type: docs
-weight: 120
+weight: 160
 url: /zh/net/aspose.omr.generation.overflowactions/
 ---
 
 
-## 课程
+## 类
 
-| 班级 | 描述 |
+| 类 | 描述 |
 | --- | --- |
-| [Clip](./clip/) | 溢出部分将被截断。 默认情况下，父元素将在页面上占用尽可能多的空间。 如果该大小不够 - 子元素将被截断。 |
-| [NoClip](./noclip/) | 不会尝试控制溢出。 |
-| [OverflowAction](./overflowaction/) | 控制子元素溢出父元素大小的操作。 等待实现会产生不同的结果。 |
-| [Wrap](./wrap/) | 父元素将尝试在另一个 parents 中为溢出的子元素找到一个位置 |
+| [Clip](./clip) | 溢出部分将被截断。默认情况下，父元素会在页面上占用尽可能多的空间。如果该空间不足，子元素将被截断。 |
+| [NoClip](./noclip) | 不会尝试控制溢出。 |
+| [OverflowAction](./overflowaction) | 用于控制子元素相对于父元素溢出尺寸的操作。实现方式不同可能会产生不同的结果。 |
+| [Wrap](./wrap) | 父元素将尝试在其他父元素中为溢出的子元素寻找位置。 |
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

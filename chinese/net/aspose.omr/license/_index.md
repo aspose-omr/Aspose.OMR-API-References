@@ -1,14 +1,14 @@
 ---
-title: Class License
-second_title: Aspose.OMR for .NET API 参考
-description: Aspose.OMR.License 班级. 提供许可组件的方法
+title: "License"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "提供对组件进行授权的方法。"
 type: docs
-weight: 770
+weight: 1010
 url: /zh/net/aspose.omr/license/
 ---
 ## License class
 
-提供许可组件的方法。
+提供对组件进行授权的方法。
 
 ```csharp
 public class License
@@ -16,26 +16,26 @@ public class License
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [License](license/)() | 默认构造函数。 |
+| [License](license)() | 默认构造函数。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Embedded](../../aspose.omr/license/embedded/) { get; set; } | 许可证号已添加为嵌入式资源。 |
+| [Embedded](../../aspose.omr/license/embedded) { get; set; } | 许可证号已作为嵌入资源添加。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [SetLicense](../../aspose.omr/license/setlicense/#setlicense)(Stream) | 许可组件。 |
-| [SetLicense](../../aspose.omr/license/setlicense/#setlicense_1)(string) | 许可组件。 |
+| [SetLicense](../../aspose.omr/license/setlicense#setlicense)(Stream) | 为组件授权。 |
+| [SetLicense](../../aspose.omr/license/setlicense#setlicense_1)(string) | 为组件授权。 |
 
-### 例子
+### 示例
 
-在此示例中，将尝试在包含 组件的文件夹、包含调用程序集的文件夹、 入口程序集的文件夹以及嵌入的文件夹中查找名为 MyLicense.lic 的许可证文件调用程序集的资源.
+在本例中，将尝试在以下位置查找名为 MyLicense.lic 的许可证文件：包含组件的文件夹、包含调用程序集的文件夹、入口程序集所在的文件夹，然后是调用程序集的嵌入资源。
 
 ```csharp
 [C#]
@@ -50,9 +50,9 @@ Dim license As license = New license
 License.SetLicense("MyLicense.lic")
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.OMR](../../aspose.omr/)
-* 部件 [Aspose.OMR](../../)
+* namespace [Aspose.OMR](../../aspose.omr)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

@@ -1,28 +1,28 @@
 ---
-title: MemoryGenerationResult.MemoryGenerationResult
-second_title: Aspose.OMR for .NET API 参考
-description: MemoryGenerationResult 构造函数. 初始化包装器的实例
+title: "MemoryGenerationResult"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "初始化包装器实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.generation/memorygenerationresult/memorygenerationresult/
 ---
 ## MemoryGenerationResult constructor
 
-初始化包装器的实例。
+初始化包装器实例。
 
 ```csharp
 public MemoryGenerationResult(GenerationResult result)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | Type | 描述 |
 | --- | --- | --- |
-| result | GenerationResult | 成功生成模板 |
+| 结果 | GenerationResult | 成功生成的模板 |
 
-### 也可以看看
+### 另请参阅
 
-* class [GenerationResult](../../generationresult/)
-* class [MemoryGenerationResult](../)
-* 命名空间 [Aspose.OMR.Generation](../../memorygenerationresult/)
-* 部件 [Aspose.OMR](../../../)
+* class [GenerationResult](../../generationresult)
+* class [MemoryGenerationResult](../../memorygenerationresult)
+* namespace [Aspose.OMR.Generation](../../memorygenerationresult)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

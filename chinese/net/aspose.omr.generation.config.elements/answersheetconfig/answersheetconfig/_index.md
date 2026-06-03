@@ -1,7 +1,7 @@
 ---
-title: AnswerSheetConfig.AnswerSheetConfig
-second_title: Aspose.OMR for .NET API 参考
-description: AnswerSheetConfig 构造函数. 默认构造函数
+title: "AnswerSheetConfig"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.generation.config.elements/answersheetconfig/answersheetconfig/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.omr.generation.config.elements/answersheetconfig/answersheet
 public AnswerSheetConfig()
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [AnswerSheetConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [AnswerSheetConfig](../../answersheetconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

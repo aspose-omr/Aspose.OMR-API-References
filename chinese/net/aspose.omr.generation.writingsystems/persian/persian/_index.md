@@ -1,27 +1,27 @@
 ---
-title: Persian.Persian
-second_title: Aspose.OMR for .NET API 参考
-description: Persian 构造函数. 初始化波斯语言环境
+title: "波斯语"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "初始化波斯语地区。"
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.generation.writingsystems/persian/persian/
 ---
 ## Persian constructor
 
-初始化波斯语言环境。
+初始化波斯语地区。
 
 ```csharp
 public Persian(bool useNativeNumber = false)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | Type | 描述 |
 | --- | --- | --- |
-| useNativeNumber | Boolean | 当 true - ١,2,3 将被使用而不是 1,2,3 |
+| useNativeNumber | Boolean | 当为 true 时 - ١,۲, ۳ 将被用于替代 1,2,3 |
 
-### 也可以看看
+### 另请参阅
 
-* class [Persian](../)
-* 命名空间 [Aspose.OMR.Generation.WritingSystems](../../persian/)
-* 部件 [Aspose.OMR](../../../)
+* class [Persian](../../persian)
+* namespace [Aspose.OMR.Generation.WritingSystems](../../persian)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->
