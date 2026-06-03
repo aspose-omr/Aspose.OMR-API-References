@@ -1,0 +1,40 @@
+---
+title: "Лицензия"
+second_title: "Справочник API Aspose.OMR для .NET"
+description: "Инициализирует новый экземпляр этого класса."
+type: docs
+weight: 10
+url: /ru/net/aspose.omr/license/license/
+---
+## License constructor
+
+Инициализирует новый экземпляр этого класса.
+
+```csharp
+public License()
+```
+
+### Примеры
+
+В этом примере будет предпринята попытка найти файл лицензии с именем MyLicense.lic в папке, содержащей компонент, в папке, содержащей вызывающую сборку, в папке входной сборки, а затем во встроенных ресурсах вызывающей сборки.
+
+```csharp
+[C#]
+
+License license = new License();
+license.SetLicense("MyLicense.lic");
+
+
+[Visual Basic]
+
+Dim license As license = New license
+License.SetLicense("MyLicense.lic")
+```
+
+### См. также
+
+* class [License](../../license)
+* namespace [Aspose.OMR](../../license)
+* assembly [Aspose.OMR](../../../)
+
+<!-- НЕ РЕДАКТИРОВАТЬ: сгенерировано xmldocmd для Aspose.OMR.dll -->
