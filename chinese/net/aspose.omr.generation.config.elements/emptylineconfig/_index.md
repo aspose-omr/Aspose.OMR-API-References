@@ -1,14 +1,14 @@
 ---
-title: Class EmptyLineConfig
-second_title: Aspose.OMR for .NET API 参考
-description: Aspose.OMR.Generation.Config.Elements.EmptyLineConfig 班级. 空元素可以用作垂直边距可以通过属性设置跳过的高度
+title: "EmptyLineConfig"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "Empty 元素。可用作垂直间距。可通过属性设置跳过的高度。"
 type: docs
-weight: 180
+weight: 350
 url: /zh/net/aspose.omr.generation.config.elements/emptylineconfig/
 ---
 ## EmptyLineConfig class
 
-空元素。可以用作垂直边距。可以通过属性设置跳过的高度。
+Empty 元素。可用作垂直间距。可通过属性设置跳过的高度。
 
 ```csharp
 public class EmptyLineConfig : BaseConfig
@@ -16,22 +16,22 @@ public class EmptyLineConfig : BaseConfig
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [EmptyLineConfig](emptylineconfig/)() | 默认构造函数。 |
+| [EmptyLineConfig](emptylineconfig)() | 默认构造函数。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Height](../../aspose.omr.generation.config.elements/emptylineconfig/height/) { get; set; } | 以像素为单位的高度。 |
-| override [Name](../../aspose.omr.generation.config.elements/emptylineconfig/name/) { get; set; } | 空行跳过名称-不绘制或参与识别 |
-| override [Type](../../aspose.omr.generation.config.elements/emptylineconfig/type/) { get; set; } | omr 元素的类型。 JSON 序列化的必填字段. |
+| [Height](../../aspose.omr.generation.config.elements/emptylineconfig/height) { get; set; } | 像素高度。 |
+| override [Name](../../aspose.omr.generation.config.elements/emptylineconfig/name) { get; set; } | 空行跳过的名称 - 不绘制也不参与识别 |
+| override [Type](../../aspose.omr.generation.config.elements/emptylineconfig/type) { get; set; } | OMR 元素的类型。JSON 序列化所需的字段。 |
 
-### 也可以看看
+### 另请参阅
 
-* class [BaseConfig](../../aspose.omr.generation.config/baseconfig/)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements](../../aspose.omr.generation.config.elements/)
-* 部件 [Aspose.OMR](../../)
+* class [BaseConfig](../../aspose.omr.generation.config/baseconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../aspose.omr.generation.config.elements)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

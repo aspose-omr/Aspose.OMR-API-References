@@ -1,7 +1,7 @@
 ---
-title: CheckBoxConfig.BubbleType
-second_title: Aspose.OMR for .NET API 参考
-description: CheckBoxConfig 财产. 气泡的类型
+title: "BubbleType"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "气泡的类型"
 type: docs
 weight: 30
 url: /zh/net/aspose.omr.generation.config.elements.parents/checkboxconfig/bubbletype/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.omr.generation.config.elements.parents/checkboxconfig/bubble
 public BubbleType BubbleType { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* enum [BubbleType](../../../aspose.omr.generation.config.enums/bubbletype/)
-* class [CheckBoxConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.Parents](../../checkboxconfig/)
-* 部件 [Aspose.OMR](../../../)
+* enum [BubbleType](../../../aspose.omr.generation.config.enums/bubbletype)
+* class [CheckBoxConfig](../../checkboxconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../checkboxconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

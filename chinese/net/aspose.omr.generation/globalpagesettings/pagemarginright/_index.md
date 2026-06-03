@@ -1,23 +1,23 @@
 ---
-title: GlobalPageSettings.PageMarginRight
-second_title: Aspose.OMR for .NET API 参考
-description: GlobalPageSettings 场地. pixels 页面的右边距
+title: "页面右边距"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "页面右边距（像素）"
 type: docs
-weight: 110
+weight: 140
 url: /zh/net/aspose.omr.generation/globalpagesettings/pagemarginright/
 ---
 ## GlobalPageSettings.PageMarginRight field
 
-pixels 页面的右边距
+页面右边距（像素）
 
 ```csharp
 public int PageMarginRight;
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [GlobalPageSettings](../)
-* 命名空间 [Aspose.OMR.Generation](../../globalpagesettings/)
-* 部件 [Aspose.OMR](../../../)
+* class [GlobalPageSettings](../../globalpagesettings)
+* namespace [Aspose.OMR.Generation](../../globalpagesettings)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

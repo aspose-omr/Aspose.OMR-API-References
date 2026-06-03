@@ -1,7 +1,7 @@
 ---
-title: BarcodeConfig.BarcodeConfig
-second_title: Aspose.OMR for .NET API 参考
-description: BarcodeConfig 构造函数. 默认构造函数
+title: "BarcodeConfig"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.generation.config.elements/barcodeconfig/barcodeconfig/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.omr.generation.config.elements/barcodeconfig/barcodeconfig/
 public BarcodeConfig()
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [BarcodeConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [BarcodeConfig](../../barcodeconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

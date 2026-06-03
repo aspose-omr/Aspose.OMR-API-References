@@ -1,7 +1,7 @@
 ---
-title: ContentConfig.ContentType
-second_title: Aspose.OMR for .NET API 参考
-description: ContentConfig 财产. 文本显示类型
+title: "ContentType"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "文本显示类型。"
 type: docs
 weight: 40
 url: /zh/net/aspose.omr.generation.config.elements/contentconfig/contenttype/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.omr.generation.config.elements/contentconfig/contenttype/
 public ContentType ContentType { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* enum [ContentType](../../../aspose.omr.generation.config.enums/contenttype/)
-* class [ContentConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements](../../contentconfig/)
-* 部件 [Aspose.OMR](../../../)
+* enum [ContentType](../../../aspose.omr.generation.config.enums/contenttype)
+* class [ContentConfig](../../contentconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../contentconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

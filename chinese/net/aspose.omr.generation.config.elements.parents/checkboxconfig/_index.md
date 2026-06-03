@@ -1,9 +1,9 @@
 ---
-title: Class CheckBoxConfig
-second_title: Aspose.OMR for .NET API 参考
-description: Aspose.OMR.Generation.Config.Elements.Parents.CheckBoxConfig 班级. 表示 CheckBox 元素
+title: "CheckBoxConfig"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "表示 CheckBox 元素。"
 type: docs
-weight: 240
+weight: 410
 url: /zh/net/aspose.omr.generation.config.elements.parents/checkboxconfig/
 ---
 ## CheckBoxConfig class
@@ -16,30 +16,31 @@ public class CheckBoxConfig : ParentConfig
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [CheckBoxConfig](checkboxconfig/)() | 默认构造函数。 |
+| [CheckBoxConfig](checkboxconfig)() | 默认构造函数。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [BubbleSize](../../aspose.omr.generation.config.elements.parents/checkboxconfig/bubblesize/) { get; set; } | 每个选项的矩形大小（子） |
-| [BubbleType](../../aspose.omr.generation.config.elements.parents/checkboxconfig/bubbletype/) { get; set; } | 气泡的类型 |
-| override [Children](../../aspose.omr.generation.config.elements.parents/checkboxconfig/children/) { get; set; } | 子 omr 元素。在大多数情况下位于父级内部或下方。 |
-| [FontFamily](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontfamily/) { get; set; } | 文本的字体系列 |
-| [FontSize](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontsize/) { get; set; } | 文字字体的大小 |
-| [FontStyle](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontstyle/) { get; set; } | 文本的样式 |
-| [HideName](../../aspose.omr.generation.config.elements.parents/checkboxconfig/hidename/) { get; set; } | 模板中CheckBox名称的控制显示 |
-| override [Name](../../aspose.omr.generation.config.elements.parents/checkboxconfig/name/) { get; set; } | 复选框的名称。默认显示在第一个复选框之前。可以隐藏[`HideName`](./hidename/) |
-| [Orientation](../../aspose.omr.generation.config.elements.parents/checkboxconfig/orientation/) { get; set; } | 子元素的控制位置。 目前只支持横向。 |
-| [Threshold](../../aspose.omr.generation.config.elements.parents/checkboxconfig/threshold/) { get; set; } | 自定义识别标记。 默认设置为 3%。 如果复选框的 3% 区域被填充，则复选框将被视为已标记。 可以自定义为任何其他阈值。 不影响全局阈值 |
-| override [Type](../../aspose.omr.generation.config.elements.parents/checkboxconfig/type/) { get; set; } | omr 元素的类型。 JSON 序列化的必填字段. |
+| [BubbleSize](../../aspose.omr.generation.config.elements.parents/checkboxconfig/bubblesize) { get; set; } | 每个选项（子项）的矩形尺寸 |
+| [BubbleType](../../aspose.omr.generation.config.elements.parents/checkboxconfig/bubbletype) { get; set; } | 气泡的类型 |
+| override [Children](../../aspose.omr.generation.config.elements.parents/checkboxconfig/children) { get; set; } | 子 OMR 元素。大多数情况下位于父元素内部或下方。 |
+| [FontFamily](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontfamily) { get; set; } | 文本的字体族 |
+| [FontSize](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontsize) { get; set; } | 文本字体的大小 |
+| [FontStyle](../../aspose.omr.generation.config.elements.parents/checkboxconfig/fontstyle) { get; set; } | 文本的样式 |
+| [HideName](../../aspose.omr.generation.config.elements.parents/checkboxconfig/hidename) { get; set; } | 控制模板中复选框名称的显示 |
+| [Multiselect](../../aspose.omr.generation.config.elements.parents/checkboxconfig/multiselect) { get; set; } | 允许每个问题选择多个答案，覆盖 [`Multiselect`](../../aspose.omr.generation/globalpagesettings/multiselect) 中的默认设置。 |
+| override [Name](../../aspose.omr.generation.config.elements.parents/checkboxconfig/name) { get; set; } | 复选框的名称。默认显示在第一个复选框之前。可通过 [`HideName`](./hidename) 隐藏 |
+| [Orientation](../../aspose.omr.generation.config.elements.parents/checkboxconfig/orientation) { get; set; } | 控制子元素的位置。目前仅支持水平布局 |
+| [Threshold](../../aspose.omr.generation.config.elements.parents/checkboxconfig/threshold) { get; set; } | 自定义识别标记。默认设置为 3%。如果复选框区域的 3% 被填充，则视为已标记。可自定义为其他阈值。不会影响全局阈值 |
+| override [Type](../../aspose.omr.generation.config.elements.parents/checkboxconfig/type) { get; set; } | OMR 元素的类型。JSON 序列化所需的字段。 |
 
-### 也可以看看
+### 另请参阅
 
-* class [ParentConfig](../../aspose.omr.generation.config/parentconfig/)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.Parents](../../aspose.omr.generation.config.elements.parents/)
-* 部件 [Aspose.OMR](../../)
+* class [ParentConfig](../../aspose.omr.generation.config/parentconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../aspose.omr.generation.config.elements.parents)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

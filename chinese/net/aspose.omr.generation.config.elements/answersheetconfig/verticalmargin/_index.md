@@ -1,23 +1,23 @@
 ---
-title: AnswerSheetConfig.VerticalMargin
-second_title: Aspose.OMR for .NET API 参考
-description: AnswerSheetConfig 财产. 答题纸的垂直边距以像素为单位设置
+title: "VerticalMargin"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "答题卡的垂直边距。以像素为单位设置。"
 type: docs
-weight: 110
+weight: 120
 url: /zh/net/aspose.omr.generation.config.elements/answersheetconfig/verticalmargin/
 ---
 ## AnswerSheetConfig.VerticalMargin property
 
-答题纸的垂直边距。以像素为单位设置。
+答题卡的垂直边距。以像素为单位设置。
 
 ```csharp
 public int VerticalMargin { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [AnswerSheetConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [AnswerSheetConfig](../../answersheetconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

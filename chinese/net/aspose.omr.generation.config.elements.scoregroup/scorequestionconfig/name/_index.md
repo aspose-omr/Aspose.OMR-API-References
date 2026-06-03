@@ -1,7 +1,7 @@
 ---
-title: ScoreQuestionConfig.Name
-second_title: Aspose.OMR for .NET API 参考
-description: ScoreQuestionConfig 财产. RepeatRows 元素的名称
+title: "名称"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "RepeatRows 元素的名称"
 type: docs
 weight: 60
 url: /zh/net/aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/name/
@@ -14,10 +14,10 @@ RepeatRows 元素的名称
 public override string Name { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [ScoreQuestionConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scorequestionconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [ScoreQuestionConfig](../../scorequestionconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scorequestionconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

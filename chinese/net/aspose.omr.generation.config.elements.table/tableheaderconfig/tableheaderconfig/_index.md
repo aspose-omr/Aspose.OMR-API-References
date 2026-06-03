@@ -1,7 +1,7 @@
 ---
-title: TableHeaderConfig.TableHeaderConfig
-second_title: Aspose.OMR for .NET API 参考
-description: TableHeaderConfig 构造函数. 默认构造函数
+title: "TableHeaderConfig"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.generation.config.elements.table/tableheaderconfig/tableheaderconfig/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.omr.generation.config.elements.table/tableheaderconfig/table
 public TableHeaderConfig()
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [TableHeaderConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.Table](../../tableheaderconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [TableHeaderConfig](../../tableheaderconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Table](../../tableheaderconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

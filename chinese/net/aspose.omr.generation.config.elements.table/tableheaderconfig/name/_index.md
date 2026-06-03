@@ -1,7 +1,7 @@
 ---
-title: TableHeaderConfig.Name
-second_title: Aspose.OMR for .NET API 参考
-description: TableHeaderConfig 财产. 文本值
+title: "名称"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "文本值"
 type: docs
 weight: 30
 url: /zh/net/aspose.omr.generation.config.elements.table/tableheaderconfig/name/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.omr.generation.config.elements.table/tableheaderconfig/name/
 public override string Name { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [TableHeaderConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.Table](../../tableheaderconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [TableHeaderConfig](../../tableheaderconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Table](../../tableheaderconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

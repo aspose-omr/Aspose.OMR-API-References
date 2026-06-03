@@ -1,9 +1,9 @@
 ---
-title: Enum FontStyle
-second_title: Aspose.OMR for .NET API 参考
-description: Aspose.OMR.Generation.FontStyle 枚举. 字体样式
+title: "FontStyle"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "字体样式"
 type: docs
-weight: 610
+weight: 800
 url: /zh/net/aspose.omr.generation/fontstyle/
 ---
 ## FontStyle enumeration
@@ -14,20 +14,20 @@ url: /zh/net/aspose.omr.generation/fontstyle/
 public enum FontStyle
 ```
 
-### 价值观
+### Values
 
-| 姓名 | 价值 | 描述 |
+| 名称 | Value | 描述 |
 | --- | --- | --- |
-| undefined | `0` | 未设置值，必须替换 |
+| undefined | `0` | 值未设置，必须替换 |
 | Regular | `16` | 普通文本 |
 | Bold | `1` | 粗体文本 |
 | Italic | `2` | 斜体文本 |
 | Underline | `4` | 带下划线的文本 |
-| Strikeout | `8` | 中间有一条线的文本 |
+| Strikeout | `8` | 带中划线的文本 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.OMR.Generation](../../aspose.omr.generation/)
-* 部件 [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation](../../aspose.omr.generation)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

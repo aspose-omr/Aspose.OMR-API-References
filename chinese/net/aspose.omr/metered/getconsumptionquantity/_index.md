@@ -1,9 +1,9 @@
 ---
-title: Metered.GetConsumptionQuantity
-second_title: Aspose.OMR for .NET API 参考
-description: Metered 方法. 获取消费文件大小
+title: "GetConsumptionQuantity"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "获取消费文件大小"
 type: docs
-weight: 40
+weight: 50
 url: /zh/net/aspose.omr/metered/getconsumptionquantity/
 ---
 ## Metered.GetConsumptionQuantity method
@@ -16,12 +16,12 @@ public static decimal GetConsumptionQuantity()
 
 ### 返回值
 
-消费量
+消费数量
 
-### 也可以看看
+### 另请参阅
 
-* class [Metered](../)
-* 命名空间 [Aspose.OMR](../../metered/)
-* 部件 [Aspose.OMR](../../../)
+* class [Metered](../../metered)
+* namespace [Aspose.OMR](../../metered)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

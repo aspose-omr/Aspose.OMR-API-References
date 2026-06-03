@@ -1,7 +1,7 @@
 ---
-title: PageConfig.PageConfig
-second_title: Aspose.OMR for .NET API 参考
-description: PageConfig 构造函数. 默认构造函数
+title: "PageConfig"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.generation.config.elements.parents/pageconfig/pageconfig/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.omr.generation.config.elements.parents/pageconfig/pageconfig
 public PageConfig()
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [PageConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.Parents](../../pageconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [PageConfig](../../pageconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../pageconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

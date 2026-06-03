@@ -1,23 +1,23 @@
 ---
-title: BorderStyle.Disable
-second_title: Aspose.OMR for .NET API 参考
-description: BorderStyle 财产. 设置为真时  禁用 border 的这一边
+title: "禁用"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "设置为 true 时 - 禁用此侧边框"
 type: docs
 weight: 40
 url: /zh/net/aspose.omr.generation.config/borderstyle/disable/
 ---
 ## BorderStyle.Disable property
 
-设置为真时 - 禁用 border 的这一边
+设置为 true 时 - 禁用此侧边框
 
 ```csharp
 public bool Disable { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [BorderStyle](../)
-* 命名空间 [Aspose.OMR.Generation.Config](../../borderstyle/)
-* 部件 [Aspose.OMR](../../../)
+* class [BorderStyle](../../borderstyle)
+* namespace [Aspose.OMR.Generation.Config](../../borderstyle)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

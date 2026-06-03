@@ -1,23 +1,23 @@
 ---
-title: GlobalPageSettings.FontSize
-second_title: Aspose.OMR for .NET API 参考
-description: GlobalPageSettings 场地. 文字字体的大小
+title: "FontSize"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "文本字体的大小"
 type: docs
-weight: 50
+weight: 60
 url: /zh/net/aspose.omr.generation/globalpagesettings/fontsize/
 ---
 ## GlobalPageSettings.FontSize field
 
-文字字体的大小
+文本字体的大小
 
 ```csharp
 public int FontSize;
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [GlobalPageSettings](../)
-* 命名空间 [Aspose.OMR.Generation](../../globalpagesettings/)
-* 部件 [Aspose.OMR](../../../)
+* class [GlobalPageSettings](../../globalpagesettings)
+* namespace [Aspose.OMR.Generation](../../globalpagesettings)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

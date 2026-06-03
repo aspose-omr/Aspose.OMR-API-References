@@ -1,28 +1,28 @@
 ---
-title: GenerationResult.Save
-second_title: Aspose.OMR for .NET API 参考
-description: GenerationResult 方法. 保存模板图片和模板到指定文件夹
+title: "保存"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "将模板图像和模板保存为 .png 格式到指定文件夹"
 type: docs
 weight: 70
 url: /zh/net/aspose.omr.generation/generationresult/save/
 ---
 ## GenerationResult.Save method
 
-保存模板图片和模板到指定文件夹
+将模板图像和模板保存为 .png 格式到指定文件夹
 
 ```csharp
 public void Save(string folder, string name)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | Type | 描述 |
 | --- | --- | --- |
-| folder | String | 目标文件夹 |
-| name | String | 模板名称 |
+| 文件夹 | String | 目标文件夹 |
+| 名称 | String | 模板名称 |
 
-### 也可以看看
+### 另请参阅
 
-* class [GenerationResult](../)
-* 命名空间 [Aspose.OMR.Generation](../../generationresult/)
-* 部件 [Aspose.OMR](../../../)
+* class [GenerationResult](../../generationresult)
+* namespace [Aspose.OMR.Generation](../../generationresult)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

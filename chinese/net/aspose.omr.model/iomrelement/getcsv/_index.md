@@ -1,14 +1,14 @@
 ---
-title: IOmrElement.GetCsv
-second_title: Aspose.OMR for .NET API 参考
-description: IOmrElement 方法. 将答案作为逗号分隔值 string
+title: "GetCsv"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "将答案生成为逗号分隔值字符串"
 type: docs
 weight: 40
 url: /zh/net/aspose.omr.model/iomrelement/getcsv/
 ---
 ## IOmrElement.GetCsv method
 
-将答案作为逗号分隔值 string
+将答案生成为逗号分隔值字符串
 
 ```csharp
 public string GetCsv()
@@ -16,12 +16,12 @@ public string GetCsv()
 
 ### 返回值
 
-识别结果为CSV字符串
+识别结果作为 CSV 字符串
 
-### 也可以看看
+### 另请参阅
 
-* interface [IOmrElement](../)
-* 命名空间 [Aspose.OMR.Model](../../iomrelement/)
-* 部件 [Aspose.OMR](../../../)
+* interface [IOmrElement](../../iomrelement)
+* namespace [Aspose.OMR.Model](../../iomrelement)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

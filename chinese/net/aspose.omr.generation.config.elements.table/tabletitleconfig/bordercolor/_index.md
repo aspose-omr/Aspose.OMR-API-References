@@ -1,7 +1,7 @@
 ---
-title: TableTitleConfig.BorderColor
-second_title: Aspose.OMR for .NET API 参考
-description: TableTitleConfig 场地. 边框颜色
+title: "BorderColor"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "边框颜色"
 type: docs
 weight: 90
 url: /zh/net/aspose.omr.generation.config.elements.table/tabletitleconfig/bordercolor/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.omr.generation.config.elements.table/tabletitleconfig/border
 public Color BorderColor;
 ```
 
-### 也可以看看
+### 另请参阅
 
-* enum [Color](../../../aspose.omr.generation/color/)
-* class [TableTitleConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.Table](../../tabletitleconfig/)
-* 部件 [Aspose.OMR](../../../)
+* enum [Color](../../../aspose.omr.generation/color)
+* class [TableTitleConfig](../../tabletitleconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Table](../../tabletitleconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

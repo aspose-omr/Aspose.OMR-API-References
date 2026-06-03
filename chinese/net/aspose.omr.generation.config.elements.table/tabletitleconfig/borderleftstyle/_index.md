@@ -1,24 +1,24 @@
 ---
-title: TableTitleConfig.BorderLeftStyle
-second_title: Aspose.OMR for .NET API 参考
-description: TableTitleConfig 财产. 左边框的附加样式
+title: "BorderLeftStyle"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "左侧边框的附加样式"
 type: docs
 weight: 30
 url: /zh/net/aspose.omr.generation.config.elements.table/tabletitleconfig/borderleftstyle/
 ---
 ## TableTitleConfig.BorderLeftStyle property
 
-左边框的附加样式
+左侧边框的附加样式
 
 ```csharp
 public BorderStyle BorderLeftStyle { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [BorderStyle](../../../aspose.omr.generation.config/borderstyle/)
-* class [TableTitleConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.Table](../../tabletitleconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [BorderStyle](../../../aspose.omr.generation.config/borderstyle)
+* class [TableTitleConfig](../../tabletitleconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Table](../../tabletitleconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

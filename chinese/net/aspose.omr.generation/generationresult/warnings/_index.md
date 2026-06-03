@@ -1,23 +1,23 @@
 ---
-title: GenerationResult.Warnings
-second_title: Aspose.OMR for .NET API 参考
-description: GenerationResult 财产. 获取或设置描述生成期间出现的非严重故障的警告消息列表
+title: "警告"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "获取或设置警告消息列表，描述生成过程中出现的非关键故障"
 type: docs
 weight: 50
 url: /zh/net/aspose.omr.generation/generationresult/warnings/
 ---
 ## GenerationResult.Warnings property
 
-获取或设置描述生成期间出现的非严重故障的警告消息列表
+获取或设置警告消息列表，描述生成过程中出现的非关键故障
 
 ```csharp
 public List<string> Warnings { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [GenerationResult](../)
-* 命名空间 [Aspose.OMR.Generation](../../generationresult/)
-* 部件 [Aspose.OMR](../../../)
+* class [GenerationResult](../../generationresult)
+* namespace [Aspose.OMR.Generation](../../generationresult)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

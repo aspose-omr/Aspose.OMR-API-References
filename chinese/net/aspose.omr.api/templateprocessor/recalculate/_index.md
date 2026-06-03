@@ -1,9 +1,9 @@
 ---
-title: TemplateProcessor.Recalculate
-second_title: Aspose.OMR for .NET API 参考
-description: TemplateProcessor 方法. 使用微调参数更新识别结果
+title: "重新计算"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "使用微调参数更新识别结果。"
 type: docs
-weight: 10
+weight: 20
 url: /zh/net/aspose.omr.api/templateprocessor/recalculate/
 ---
 ## TemplateProcessor.Recalculate method
@@ -14,20 +14,20 @@ url: /zh/net/aspose.omr.api/templateprocessor/recalculate/
 public void Recalculate(RecognitionResult result, int recognitionThreshold = -100)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | Type | 描述 |
 | --- | --- | --- |
-| result | RecognitionResult | 要更新的识别结果。 |
-| recognitionThreshold | Int32 | （可选）范围 (0..100) 内的识别阈值。 只有填充超过阈值的元素才会被计为已填充。 |
+| 结果 | RecognitionResult | 要更新的识别结果。 |
+| recognitionThreshold | Int32 | （可选）识别阈值，范围为 (0..100)。仅阈值以上填充的元素会被计为已填充。 |
 
-### 评论
+### 备注
 
-使用此方法提高识别结果
+使用此方法来提升识别结果
 
-### 也可以看看
+### 另请参阅
 
-* class [RecognitionResult](../../../aspose.omr.model/recognitionresult/)
-* class [TemplateProcessor](../)
-* 命名空间 [Aspose.OMR.Api](../../templateprocessor/)
-* 部件 [Aspose.OMR](../../../)
+* class [RecognitionResult](../../../aspose.omr.model/recognitionresult)
+* class [TemplateProcessor](../../templateprocessor)
+* namespace [Aspose.OMR.Api](../../templateprocessor)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

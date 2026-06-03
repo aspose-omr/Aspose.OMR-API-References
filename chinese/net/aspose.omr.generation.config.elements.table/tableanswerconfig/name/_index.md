@@ -1,7 +1,7 @@
 ---
-title: TableAnswerConfig.Name
-second_title: Aspose.OMR for .NET API 参考
-description: TableAnswerConfig 财产. 列标题的标题
+title: "名称"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "列标题的标题"
 type: docs
 weight: 20
 url: /zh/net/aspose.omr.generation.config.elements.table/tableanswerconfig/name/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.omr.generation.config.elements.table/tableanswerconfig/name/
 public override string Name { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [TableAnswerConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.Table](../../tableanswerconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [TableAnswerConfig](../../tableanswerconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Table](../../tableanswerconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

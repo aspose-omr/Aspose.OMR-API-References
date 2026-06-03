@@ -1,30 +1,30 @@
 ---
-title: Enum TableType
-second_title: Aspose.OMR for .NET API 参考
-description: Aspose.OMR.Generation.Config.Enums.TableType 枚举. 表类型
+title: "TableType"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "表格类型"
 type: docs
-weight: 560
+weight: 750
 url: /zh/net/aspose.omr.generation.config.enums/tabletype/
 ---
 ## TableType enumeration
 
-表类型
+表格类型
 
 ```csharp
 public enum TableType
 ```
 
-### 价值观
+### Values
 
-| 姓名 | 价值 | 描述 |
+| 名称 | Value | 描述 |
 | --- | --- | --- |
-| None | `0` | 简单表 |
-| Striped | `1` | 条纹表 |
-| EqualCells | `2` | 每列的宽度都相等 |
+| None | `0` | 简单表格 |
+| Striped | `1` | 条纹表格 |
+| EqualCells | `2` | 每列宽度相等 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums/)
-* 部件 [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

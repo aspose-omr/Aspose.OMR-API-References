@@ -1,23 +1,23 @@
 ---
-title: License.Embedded
-second_title: Aspose.OMR for .NET API 参考
-description: License 财产. 许可证号已添加为嵌入式资源
+title: "嵌入式"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "许可证号已作为嵌入资源添加。"
 type: docs
 weight: 20
 url: /zh/net/aspose.omr/license/embedded/
 ---
 ## License.Embedded property
 
-许可证号已添加为嵌入式资源。
+许可证号已作为嵌入资源添加。
 
 ```csharp
 public bool Embedded { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [License](../)
-* 命名空间 [Aspose.OMR](../../license/)
-* 部件 [Aspose.OMR](../../../)
+* class [License](../../license)
+* namespace [Aspose.OMR](../../license)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

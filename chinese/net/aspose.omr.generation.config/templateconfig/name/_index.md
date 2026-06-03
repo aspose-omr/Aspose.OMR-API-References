@@ -1,7 +1,7 @@
 ---
-title: TemplateConfig.Name
-second_title: Aspose.OMR for .NET API 参考
-description: TemplateConfig 财产. 模板名称
+title: "名称"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "模板名称"
 type: docs
 weight: 30
 url: /zh/net/aspose.omr.generation.config/templateconfig/name/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.omr.generation.config/templateconfig/name/
 public override string Name { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [TemplateConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config](../../templateconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [TemplateConfig](../../templateconfig)
+* namespace [Aspose.OMR.Generation.Config](../../templateconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

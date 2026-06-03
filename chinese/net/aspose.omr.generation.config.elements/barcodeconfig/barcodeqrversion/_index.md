@@ -1,24 +1,24 @@
 ---
-title: BarcodeConfig.BarcodeQRVersion
-second_title: Aspose.OMR for .NET API 参考
-description: BarcodeConfig 财产. 二维码二维码
+title: "BarcodeQRVersion"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "QR 码的 QR 版本"
 type: docs
 weight: 30
 url: /zh/net/aspose.omr.generation.config.elements/barcodeconfig/barcodeqrversion/
 ---
 ## BarcodeConfig.BarcodeQRVersion property
 
-二维码二维码
+QR 码的 QR 版本
 
 ```csharp
 public QRVersion BarcodeQRVersion { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* enum [QRVersion](../../../aspose.omr.generation.config.enums/qrversion/)
-* class [BarcodeConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig/)
-* 部件 [Aspose.OMR](../../../)
+* enum [QRVersion](../../../aspose.omr.generation.config.enums/qrversion)
+* class [BarcodeConfig](../../barcodeconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

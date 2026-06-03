@@ -1,24 +1,24 @@
 ---
-title: CheckBoxConfig.Type
-second_title: Aspose.OMR for .NET API 参考
-description: CheckBoxConfig 财产. omr 元素的类型 JSON 序列化的必填字段.
+title: "Type"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "OMR 元素的类型。JSON 序列化所需的字段。"
 type: docs
-weight: 120
+weight: 130
 url: /zh/net/aspose.omr.generation.config.elements.parents/checkboxconfig/type/
 ---
 ## CheckBoxConfig.Type property
 
-omr 元素的类型。 JSON 序列化的必填字段.
+OMR 元素的类型。JSON 序列化所需的字段。
 
 ```csharp
 public override ConfigType Type { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* enum [ConfigType](../../../aspose.omr.generation.config.enums/configtype/)
-* class [CheckBoxConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.Parents](../../checkboxconfig/)
-* 部件 [Aspose.OMR](../../../)
+* enum [ConfigType](../../../aspose.omr.generation.config.enums/configtype)
+* class [CheckBoxConfig](../../checkboxconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../checkboxconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

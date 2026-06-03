@@ -1,42 +1,42 @@
 ---
-title: License.SetLicense
-second_title: Aspose.OMR for .NET API 参考
-description: License 方法. 许可组件
+title: "SetLicense"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "为组件授权。"
 type: docs
 weight: 30
 url: /zh/net/aspose.omr/license/setlicense/
 ---
 ## SetLicense(string) {#setlicense_1}
 
-许可组件。
+为组件授权。
 
 ```csharp
 public void SetLicense(string licenseName)
 ```
 
-### 评论
+### 备注
 
 尝试在以下位置查找许可证：
 
-1.显式路径。
+1. 明确路径。
 
-2. 包含Aspose组件组装的文件夹。
+2. 包含 Aspose 组件程序集的文件夹。
 
 3. 包含客户端调用程序集的文件夹。
 
 4. 包含入口（启动）程序集的文件夹。
 
-5. 客户端调用程序集中的嵌入式资源。
+5. 客户端调用程序集中的嵌入资源。
 
-**笔记：**在 .NET Compact Framework 上，尝试仅在这些位置查找许可证：
+**Note:**On the .NET Compact Framework, tries to find the license only in these locations:
 
-1.显式路径。
+1. 明确路径。
 
-2. 客户端调用程序集中的嵌入式资源。
+2. 客户端调用程序集中的嵌入资源。
 
-### 例子
+### 示例
 
-在此示例中，将尝试在包含 组件的文件夹、包含调用程序集的文件夹、 入口程序集的文件夹以及嵌入的文件夹中查找名为 MyLicense.lic 的许可证文件调用程序集的资源. 可以是完整或短文件名或嵌入资源的名称。 使用空字符串切换到评估模式。
+在本例中，将尝试在以下位置查找名为 MyLicense.lic 的许可证文件：包含组件的文件夹、包含调用程序集的文件夹、入口程序集所在的文件夹，然后是调用程序集的嵌入资源。
 
 ```csharp
 [C#]
@@ -51,31 +51,33 @@ Dim license As License = New License
 license.SetLicense("MyLicense.lic")
 ```
 
-### 也可以看看
+可以是完整或简短的文件名，或嵌入资源的名称。使用空字符串可切换到评估模式。
 
-* class [License](../)
-* 命名空间 [Aspose.OMR](../../license/)
-* 部件 [Aspose.OMR](../../../)
+### 另请参阅
+
+* class [License](../../license)
+* namespace [Aspose.OMR](../../license)
+* assembly [Aspose.OMR](../../../)
 
 ---
 
 ## SetLicense(Stream) {#setlicense}
 
-许可组件。
+为组件授权。
 
 ```csharp
 public void SetLicense(Stream stream)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | Type | 描述 |
 | --- | --- | --- |
-| stream | Stream | 包含许可证的流。 |
+| 流 | Stream | 包含许可证的流。 |
 
-### 评论
+### 备注
 
 使用此方法从流中加载许可证。
 
-### 例子
+### 示例
 
 ```csharp
 [C#]
@@ -90,10 +92,10 @@ Dim license as License = new License
 license.SetLicense(myStream)
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [License](../)
-* 命名空间 [Aspose.OMR](../../license/)
-* 部件 [Aspose.OMR](../../../)
+* class [License](../../license)
+* namespace [Aspose.OMR](../../license)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

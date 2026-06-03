@@ -1,7 +1,7 @@
 ---
-title: CorrectionControl.InitializeComponent
-second_title: Aspose.OMR for .NET API 参考
-description: CorrectionControl 方法. InitializeComponent
+title: "InitializeComponent"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "InitializeComponent"
 type: docs
 weight: 30
 url: /zh/net/aspose.omr.correctionui/correctioncontrol/initializecomponent/
@@ -14,10 +14,10 @@ InitializeComponent
 public void InitializeComponent()
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [CorrectionControl](../)
-* 命名空间 [Aspose.OMR.CorrectionUI](../../correctioncontrol/)
-* 部件 [Aspose.OMR](../../../)
+* class [CorrectionControl](../../correctioncontrol)
+* namespace [Aspose.OMR.CorrectionUI](../../correctioncontrol)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

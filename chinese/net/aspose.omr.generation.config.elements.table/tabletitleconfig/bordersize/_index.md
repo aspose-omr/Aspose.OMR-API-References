@@ -1,23 +1,23 @@
 ---
-title: TableTitleConfig.BorderSize
-second_title: Aspose.OMR for .NET API 参考
-description: TableTitleConfig 场地. border 的大小
+title: "BorderSize"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "边框的大小"
 type: docs
 weight: 100
 url: /zh/net/aspose.omr.generation.config.elements.table/tabletitleconfig/bordersize/
 ---
 ## TableTitleConfig.BorderSize field
 
-border 的大小
+边框的大小
 
 ```csharp
 public int BorderSize;
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [TableTitleConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.Table](../../tabletitleconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [TableTitleConfig](../../tabletitleconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Table](../../tabletitleconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

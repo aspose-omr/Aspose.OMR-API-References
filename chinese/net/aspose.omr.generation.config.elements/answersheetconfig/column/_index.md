@@ -1,23 +1,23 @@
 ---
-title: AnswerSheetConfig.Column
-second_title: Aspose.OMR for .NET API 参考
-description: AnswerSheetConfig 财产. 表示在哪一列绘制sheet
+title: "Column"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "指示在第几列绘制答题卡"
 type: docs
 weight: 50
 url: /zh/net/aspose.omr.generation.config.elements/answersheetconfig/column/
 ---
 ## AnswerSheetConfig.Column property
 
-表示在哪一列绘制sheet
+指示在第几列绘制答题卡
 
 ```csharp
 public int Column { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [AnswerSheetConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [AnswerSheetConfig](../../answersheetconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

@@ -1,7 +1,7 @@
 ---
-title: CorrectionControl.LoadAndDisplayImage
-second_title: Aspose.OMR for .NET API 参考
-description: CorrectionControl 方法. 加载并显示用于识别的图像
+title: "LoadAndDisplayImage"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "加载并显示用于识别的图像"
 type: docs
 weight: 40
 url: /zh/net/aspose.omr.correctionui/correctioncontrol/loadanddisplayimage/
@@ -14,14 +14,14 @@ url: /zh/net/aspose.omr.correctionui/correctioncontrol/loadanddisplayimage/
 public void LoadAndDisplayImage(string imagePath)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | Type | 描述 |
 | --- | --- | --- |
-| imagePath | String | 要识别的填充图像的路径 |
+| imagePath | String | 待识别已填充图像的路径 |
 
-### 也可以看看
+### 另请参阅
 
-* class [CorrectionControl](../)
-* 命名空间 [Aspose.OMR.CorrectionUI](../../correctioncontrol/)
-* 部件 [Aspose.OMR](../../../)
+* class [CorrectionControl](../../correctioncontrol)
+* namespace [Aspose.OMR.CorrectionUI](../../correctioncontrol)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

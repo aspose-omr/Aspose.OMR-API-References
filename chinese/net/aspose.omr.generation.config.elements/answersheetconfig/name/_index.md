@@ -1,9 +1,9 @@
 ---
-title: AnswerSheetConfig.Name
-second_title: Aspose.OMR for .NET API 参考
-description: AnswerSheetConfig 财产. 答题卡名称
+title: "名称"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "答题卡名称"
 type: docs
-weight: 80
+weight: 90
 url: /zh/net/aspose.omr.generation.config.elements/answersheetconfig/name/
 ---
 ## AnswerSheetConfig.Name property
@@ -14,10 +14,10 @@ url: /zh/net/aspose.omr.generation.config.elements/answersheetconfig/name/
 public override string Name { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [AnswerSheetConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [AnswerSheetConfig](../../answersheetconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

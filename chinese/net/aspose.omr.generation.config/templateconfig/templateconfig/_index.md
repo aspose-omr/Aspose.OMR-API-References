@@ -1,7 +1,7 @@
 ---
-title: TemplateConfig.TemplateConfig
-second_title: Aspose.OMR for .NET API 参考
-description: TemplateConfig 构造函数. 默认构造函数
+title: "模板配置"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.generation.config/templateconfig/templateconfig/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.omr.generation.config/templateconfig/templateconfig/
 public TemplateConfig()
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [TemplateConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config](../../templateconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [TemplateConfig](../../templateconfig)
+* namespace [Aspose.OMR.Generation.Config](../../templateconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

@@ -1,7 +1,7 @@
 ---
-title: BorderStyle.BorderStyle
-second_title: Aspose.OMR for .NET API 参考
-description: BorderStyle 构造函数. 默认构造函数
+title: "边框样式"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.generation.config/borderstyle/borderstyle/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.omr.generation.config/borderstyle/borderstyle/
 public BorderStyle()
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [BorderStyle](../)
-* 命名空间 [Aspose.OMR.Generation.Config](../../borderstyle/)
-* 部件 [Aspose.OMR](../../../)
+* class [BorderStyle](../../borderstyle)
+* namespace [Aspose.OMR.Generation.Config](../../borderstyle)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

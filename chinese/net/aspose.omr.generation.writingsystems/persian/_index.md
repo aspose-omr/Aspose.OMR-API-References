@@ -1,14 +1,14 @@
 ---
-title: Class Persian
-second_title: Aspose.OMR for .NET API 参考
-description: Aspose.OMR.Generation.WritingSystems.Persian 班级. 波斯语区域设置 从右到左 ١2 3
+title: "波斯语"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "波斯语地区设置 从右到左 ١۲ ۳"
 type: docs
-weight: 740
+weight: 970
 url: /zh/net/aspose.omr.generation.writingsystems/persian/
 ---
 ## Persian class
 
-波斯语区域设置 从右到左 ١,2, 3
+波斯地区设置 从右到左 ١,۲, ۳
 
 ```csharp
 public class Persian : DigitReplacement
@@ -16,14 +16,14 @@ public class Persian : DigitReplacement
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Persian](persian/)(bool) | 初始化波斯语言环境。 |
+| [Persian](persian)(bool) | 初始化波斯语地区。 |
 
-### 也可以看看
+### 另请参阅
 
-* class [DigitReplacement](../digitreplacement/)
-* 命名空间 [Aspose.OMR.Generation.WritingSystems](../../aspose.omr.generation.writingsystems/)
-* 部件 [Aspose.OMR](../../)
+* class [DigitReplacement](../digitreplacement)
+* namespace [Aspose.OMR.Generation.WritingSystems](../../aspose.omr.generation.writingsystems)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

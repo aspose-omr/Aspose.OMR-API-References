@@ -1,9 +1,9 @@
 ---
-title: AnswerConfig.BubbleType
-second_title: Aspose.OMR for .NET API 参考
-description: AnswerConfig 财产. 绘制气泡的类型
+title: "BubbleType"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "绘制气泡的类型。"
 type: docs
-weight: 30
+weight: 50
 url: /zh/net/aspose.omr.generation.config.elements.parents/answerconfig/bubbletype/
 ---
 ## AnswerConfig.BubbleType property
@@ -14,11 +14,11 @@ url: /zh/net/aspose.omr.generation.config.elements.parents/answerconfig/bubblety
 public BubbleType BubbleType { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* enum [BubbleType](../../../aspose.omr.generation.config.enums/bubbletype/)
-* class [AnswerConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.Parents](../../answerconfig/)
-* 部件 [Aspose.OMR](../../../)
+* enum [BubbleType](../../../aspose.omr.generation.config.enums/bubbletype)
+* class [AnswerConfig](../../answerconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../answerconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

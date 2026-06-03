@@ -1,7 +1,7 @@
 ---
-title: Western.Western
-second_title: Aspose.OMR for .NET API 参考
-description: Western 构造函数. 默认构造函数
+title: "西方"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.generation.writingsystems/western/western/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.omr.generation.writingsystems/western/western/
 public Western()
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [Western](../)
-* 命名空间 [Aspose.OMR.Generation.WritingSystems](../../western/)
-* 部件 [Aspose.OMR](../../../)
+* class [Western](../../western)
+* namespace [Aspose.OMR.Generation.WritingSystems](../../western)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

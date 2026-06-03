@@ -1,23 +1,24 @@
 ---
-title: OmrEngine.OmrEngine
-second_title: Aspose.OMR for .NET API 参考
-description: OmrEngine 构造函数. 默认构造函数
+title: "OmrEngine"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "创建 OmrEngine 实例以实现内部存储的内存效率。复用同一工厂来创建多个 OmrEngine 实例以提升性能。"
 type: docs
 weight: 10
 url: /zh/net/aspose.omr.api/omrengine/omrengine/
 ---
 ## OmrEngine constructor
 
-默认构造函数。
+创建 OmrEngine 实例以实现内部存储的内存效率。复用同一工厂来创建多个 OmrEngine 实例以提升性能。
 
 ```csharp
-public OmrEngine()
+public OmrEngine(PoolFactory factory = null)
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [OmrEngine](../)
-* 命名空间 [Aspose.OMR.Api](../../omrengine/)
-* 部件 [Aspose.OMR](../../../)
+* class [PoolFactory](../../../aspose.omr.buffers/poolfactory)
+* class [OmrEngine](../../omrengine)
+* namespace [Aspose.OMR.Api](../../omrengine)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

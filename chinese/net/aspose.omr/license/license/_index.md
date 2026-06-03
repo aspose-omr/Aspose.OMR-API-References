@@ -1,7 +1,7 @@
 ---
-title: License.License
-second_title: Aspose.OMR for .NET API 参考
-description: License 构造函数. 默认构造函数
+title: "License"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.omr/license/license/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.omr/license/license/
 public License()
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [License](../)
-* 命名空间 [Aspose.OMR](../../license/)
-* 部件 [Aspose.OMR](../../../)
+* class [License](../../license)
+* namespace [Aspose.OMR](../../license)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

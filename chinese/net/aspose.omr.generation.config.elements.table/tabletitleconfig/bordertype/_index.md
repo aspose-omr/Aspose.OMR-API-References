@@ -1,7 +1,7 @@
 ---
-title: TableTitleConfig.BorderType
-second_title: Aspose.OMR for .NET API 参考
-description: TableTitleConfig 场地. 边框类型
+title: "BorderType"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "边框类型"
 type: docs
 weight: 110
 url: /zh/net/aspose.omr.generation.config.elements.table/tabletitleconfig/bordertype/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.omr.generation.config.elements.table/tabletitleconfig/border
 public BorderType BorderType;
 ```
 
-### 也可以看看
+### 另请参阅
 
-* enum [BorderType](../../../aspose.omr.generation.config.enums/bordertype/)
-* class [TableTitleConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.Table](../../tabletitleconfig/)
-* 部件 [Aspose.OMR](../../../)
+* enum [BorderType](../../../aspose.omr.generation.config.enums/bordertype)
+* class [TableTitleConfig](../../tabletitleconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Table](../../tabletitleconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

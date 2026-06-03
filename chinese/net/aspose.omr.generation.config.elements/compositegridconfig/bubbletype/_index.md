@@ -1,7 +1,7 @@
 ---
-title: CompositeGridConfig.BubbleType
-second_title: Aspose.OMR for .NET API 参考
-description: CompositeGridConfig 财产. 气泡的类型
+title: "BubbleType"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "气泡的类型"
 type: docs
 weight: 20
 url: /zh/net/aspose.omr.generation.config.elements/compositegridconfig/bubbletype/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.omr.generation.config.elements/compositegridconfig/bubbletyp
 public BubbleType BubbleType { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* enum [BubbleType](../../../aspose.omr.generation.config.enums/bubbletype/)
-* class [CompositeGridConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements](../../compositegridconfig/)
-* 部件 [Aspose.OMR](../../../)
+* enum [BubbleType](../../../aspose.omr.generation.config.enums/bubbletype)
+* class [CompositeGridConfig](../../compositegridconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../compositegridconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

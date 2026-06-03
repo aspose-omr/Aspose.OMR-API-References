@@ -1,30 +1,30 @@
 ---
-title: Enum BubblePositionType
-second_title: Aspose.OMR for .NET API 参考
-description: Aspose.OMR.Generation.Config.Enums.BubblePositionType 枚举. 泡泡反对者主要内容的位置
+title: "BubblePositionType"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "气泡相对于主内容的位置"
 type: docs
-weight: 440
+weight: 620
 url: /zh/net/aspose.omr.generation.config.enums/bubblepositiontype/
 ---
 ## BubblePositionType enumeration
 
-泡泡反对者主要内容的位置
+气泡相对于主内容的位置
 
 ```csharp
 public enum BubblePositionType
 ```
 
-### 价值观
+### Values
 
-| 姓名 | 价值 | 描述 |
+| 名称 | Value | 描述 |
 | --- | --- | --- |
 | undefined | `0` | 默认值 |
-| Left | `1` | content 的左侧 |
-| Right | `2` | content 右边 |
+| Left | `1` | 内容的左侧 |
+| Right | `2` | 内容的右侧 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums/)
-* 部件 [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

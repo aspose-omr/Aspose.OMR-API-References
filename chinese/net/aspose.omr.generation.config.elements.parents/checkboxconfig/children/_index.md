@@ -1,24 +1,24 @@
 ---
-title: CheckBoxConfig.Children
-second_title: Aspose.OMR for .NET API 参考
-description: CheckBoxConfig 财产. 子 omr 元素在大多数情况下位于父级内部或下方
+title: "Children"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "子 OMR 元素。大多数情况下位于父元素内部或下方。"
 type: docs
 weight: 40
 url: /zh/net/aspose.omr.generation.config.elements.parents/checkboxconfig/children/
 ---
 ## CheckBoxConfig.Children property
 
-子 omr 元素。在大多数情况下位于父级内部或下方。
+子 OMR 元素。大多数情况下位于父元素内部或下方。
 
 ```csharp
 public override List<BaseConfig> Children { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* class [BaseConfig](../../../aspose.omr.generation.config/baseconfig/)
-* class [CheckBoxConfig](../)
-* 命名空间 [Aspose.OMR.Generation.Config.Elements.Parents](../../checkboxconfig/)
-* 部件 [Aspose.OMR](../../../)
+* class [BaseConfig](../../../aspose.omr.generation.config/baseconfig)
+* class [CheckBoxConfig](../../checkboxconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../checkboxconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

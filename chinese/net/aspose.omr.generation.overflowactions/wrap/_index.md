@@ -1,14 +1,14 @@
 ---
-title: Class Wrap
-second_title: Aspose.OMR for .NET API 参考
-description: Aspose.OMR.Generation.OverflowActions.Wrap 班级. 父元素将尝试在另一个 parents 中为溢出的子元素找到一个位置
+title: "Wrap"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "父元素将尝试在其他父元素中为溢出的子元素寻找位置。"
 type: docs
-weight: 690
+weight: 880
 url: /zh/net/aspose.omr.generation.overflowactions/wrap/
 ---
 ## Wrap class
 
-父元素将尝试在另一个 parents 中为溢出的子元素找到一个位置
+父元素将尝试在其他父元素中为溢出的子元素寻找位置。
 
 ```csharp
 public class Wrap : OverflowAction
@@ -16,14 +16,14 @@ public class Wrap : OverflowAction
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Wrap](wrap/)() | 默认构造函数。 |
+| [Wrap](wrap)() | 默认构造函数。 |
 
-### 也可以看看
+### 另请参阅
 
-* class [OverflowAction](../overflowaction/)
-* 命名空间 [Aspose.OMR.Generation.OverflowActions](../../aspose.omr.generation.overflowactions/)
-* 部件 [Aspose.OMR](../../)
+* class [OverflowAction](../overflowaction)
+* namespace [Aspose.OMR.Generation.OverflowActions](../../aspose.omr.generation.overflowactions)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

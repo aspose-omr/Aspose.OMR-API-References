@@ -1,38 +1,38 @@
 ---
-title: RecognitionResult.GetCsv
-second_title: Aspose.OMR for .NET API 参考
-description: RecognitionResult 方法. 将识别结果形成CSV字符串为MemoryStream
+title: "GetCsv"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "生成包含识别结果的 CSV 字符串（MemoryStream）"
 type: docs
 weight: 60
 url: /zh/net/aspose.omr.model/recognitionresult/getcsv/
 ---
 ## GetCsv(Encoding) {#getcsv}
 
-将识别结果形成CSV字符串为MemoryStream
+生成包含识别结果的 CSV 字符串（MemoryStream）
 
 ```csharp
 public byte[] GetCsv(Encoding encoding)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | Type | 描述 |
 | --- | --- | --- |
-| encoding | Encoding | 我们编码 CSV 字符串的编码 |
+| 编码 | 编码 | 用于对 CSV 字符串进行编码的编码方式 |
 
 ### 返回值
 
-识别结果为字节数组
+识别结果的字节数组
 
-### 也可以看看
+### 另请参阅
 
-* class [RecognitionResult](../)
-* 命名空间 [Aspose.OMR.Model](../../recognitionresult/)
-* 部件 [Aspose.OMR](../../../)
+* class [RecognitionResult](../../recognitionresult)
+* namespace [Aspose.OMR.Model](../../recognitionresult)
+* assembly [Aspose.OMR](../../../)
 
 ---
 
 ## GetCsv() {#getcsv_1}
 
-将识别结果形成CSV字符串
+生成包含识别结果的 CSV 字符串
 
 ```csharp
 public string GetCsv()
@@ -40,12 +40,12 @@ public string GetCsv()
 
 ### 返回值
 
-识别结果为 CSV 字符串
+识别结果的 CSV 字符串
 
-### 也可以看看
+### 另请参阅
 
-* class [RecognitionResult](../)
-* 命名空间 [Aspose.OMR.Model](../../recognitionresult/)
-* 部件 [Aspose.OMR](../../../)
+* class [RecognitionResult](../../recognitionresult)
+* namespace [Aspose.OMR.Model](../../recognitionresult)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->

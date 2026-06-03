@@ -1,31 +1,31 @@
 ---
-title: Enum VerticalAlignment
-second_title: Aspose.OMR for .NET API 参考
-description: Aspose.OMR.Generation.Config.Enums.VerticalAlignment 枚举. 描述子元素在 parent 中的垂直定位
+title: "垂直对齐"
+second_title: "Aspose.OMR 适用于 .NET API 参考"
+description: "描述子元素在父元素内部的垂直定位"
 type: docs
-weight: 580
+weight: 770
 url: /zh/net/aspose.omr.generation.config.enums/verticalalignment/
 ---
 ## VerticalAlignment enumeration
 
-描述子元素在 parent 中的垂直定位
+描述子元素在父元素内部的垂直定位
 
 ```csharp
 public enum VerticalAlignment
 ```
 
-### 价值观
+### Values
 
-| 姓名 | 价值 | 描述 |
+| 名称 | Value | 描述 |
 | --- | --- | --- |
-| undefined | `0` | 未设置对齐方式。将使用默认值。 |
-| Top | `10` | 在 parent 顶部对齐元素 |
-| Center | `20` | 在 parent 的中心对齐元素 |
-| Bottom | `30` | 对齐父元素底部的元素 |
+| undefined | `0` | 未设置 Alignment。将使用默认值。 |
+| Top | `10` | 将元素对齐到父级的顶部 |
+| Center | `20` | 将元素对齐到父级的中心 |
+| Bottom | `30` | 将元素对齐到父级的底部 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums/)
-* 部件 [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- 请勿编辑：由 xmldocmd 为 Aspose.OMR.dll 生成 -->
