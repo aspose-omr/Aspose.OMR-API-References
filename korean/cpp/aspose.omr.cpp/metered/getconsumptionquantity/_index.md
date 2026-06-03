@@ -1,0 +1,27 @@
+---
+title: "GetConsumptionQuantity"
+second_title: "Aspose.OMR for .NET API 레퍼런스"
+description: "소비 파일 크기를 가져옵니다"
+type: docs
+weight: 40
+url: /ko/net/aspose.omr/metered/getconsumptionquantity/
+---
+## Metered.GetConsumptionQuantity method
+
+소비 파일 크기를 가져옵니다
+
+```csharp
+public static decimal GetConsumptionQuantity()
+```
+
+### 반환 값
+
+소비량
+
+### 참고
+
+* class [Metered](../../metered)
+* namespace [Aspose.OMR](../../metered)
+* assembly [Aspose.OMR](../../../)
+
+<!-- 편집 금지: xmldocmd에 의해 Aspose.OMR.dll용으로 생성됨 -->
