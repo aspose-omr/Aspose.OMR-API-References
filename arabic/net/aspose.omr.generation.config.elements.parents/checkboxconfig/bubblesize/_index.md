@@ -1,7 +1,7 @@
 ---
-title: CheckBoxConfig.BubbleSize
-second_title: Aspose.OMR لمرجع .NET API
-description: CheckBoxConfig ملكية. حجم المستطيل لكل خيار الأطفال
+title: "BubbleSize"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "حجم المستطيل لكل optionchildren"
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.generation.config.elements.parents/checkboxconfig/bubblesize/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements.parents/checkboxconfig/bubble
 public BubbleSize BubbleSize { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [BubbleSize](../../../aspose.omr.generation/bubblesize/)
-* class [CheckBoxConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../checkboxconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [BubbleSize](../../../aspose.omr.generation/bubblesize)
+* class [CheckBoxConfig](../../checkboxconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../checkboxconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

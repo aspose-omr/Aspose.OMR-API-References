@@ -1,23 +1,23 @@
 ---
-title: ContainerConfig.BlockRightMargin
-second_title: Aspose.OMR لمرجع .NET API
-description: ContainerConfig ملكية. مقدار البكسل المراد وضعه بين الكتل الموجودة على الجانب الأيمن
+title: "BlockRightMargin"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "عدد البكسلات التي سيتم وضعها بين الكتل على الجانب الأيمن"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.generation.config.elements.parents/containerconfig/blockrightmargin/
 ---
 ## ContainerConfig.BlockRightMargin property
 
-مقدار البكسل المراد وضعه بين الكتل الموجودة على الجانب الأيمن
+عدد البكسلات التي سيتم وضعها بين الكتل على الجانب الأيمن
 
 ```csharp
 public int BlockRightMargin { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ContainerConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../containerconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [ContainerConfig](../../containerconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../containerconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

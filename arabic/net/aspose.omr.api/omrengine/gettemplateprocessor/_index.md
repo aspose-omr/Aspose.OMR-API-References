@@ -1,58 +1,70 @@
 ---
-title: OmrEngine.GetTemplateProcessor
-second_title: Aspose.OMR لمرجع .NET API
-description: OmrEngine طريقة. ينشئ ملفTemplateProcessor المثال الذي يسمح بالعمل مع قالب محدد.
+title: "GetTemplateProcessor"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "ينشئ كائن TemplateProcessoraspose.omr.api/templateprocessor الذي يسمح بالعمل مع القالب المحدد."
 type: docs
-weight: 60
+weight: 50
 url: /ar/net/aspose.omr.api/omrengine/gettemplateprocessor/
 ---
-## GetTemplateProcessor(MemoryStream, Encoding) {#gettemplateprocessor}
+## GetTemplateProcessor(MemoryStream, Encoding, FormValidationLogic) {#gettemplateprocessor}
 
-ينشئ ملف[`TemplateProcessor`](../../templateprocessor/) المثال الذي يسمح بالعمل مع قالب محدد.
+ينشئ كائن [`TemplateProcessor`](../../templateprocessor) الذي يسمح بالعمل مع القالب المحدد.
 
 ```csharp
-public TemplateProcessor GetTemplateProcessor(MemoryStream templateContent, Encoding textEncoding)
+public TemplateProcessor GetTemplateProcessor(MemoryStream templateContent, Encoding textEncoding, 
+    FormValidationLogic logic = FormValidationLogic.Ignore)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | templateContent | MemoryStream | دفق الذاكرة مع محتوى نص القالب |
-| textEncoding | Encoding | ترميز محتوى القالب |
+| textEncoding | الترميز | ترميز محتوى القالب |
+| logic | FormValidationLogic | Enum الذي يتحكم في السلوك في حال كسر أحد قواعد التحقق من القالب |
 
 ### قيمة الإرجاع
 
-ال[`TemplateProcessor`](../../templateprocessor/) مثال
+كائن [`TemplateProcessor`](../../templateprocessor)
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TemplateProcessor](../../templateprocessor/)
-* class [OmrEngine](../)
-* مساحة الاسم [Aspose.OMR.Api](../../omrengine/)
-* المجسم [Aspose.OMR](../../../)
+* class [TemplateProcessor](../../templateprocessor)
+* enum [FormValidationLogic](../../../aspose.omr.recognition.enums/formvalidationlogic)
+* class [OmrEngine](../../omrengine)
+* namespace [Aspose.OMR.Api](../../omrengine)
+* assembly [Aspose.OMR](../../../)
 
 ---
 
-## GetTemplateProcessor(string) {#gettemplateprocessor_1}
+## GetTemplateProcessor(string, FormValidationLogic) {#gettemplateprocessor_1}
 
-ينشئ ملف[`TemplateProcessor`](../../templateprocessor/) المثال الذي يسمح بالعمل مع قالب محدد.
+ينشئ كائن [`TemplateProcessor`](../../templateprocessor) الذي يسمح بالعمل مع القالب المحدد.
 
 ```csharp
-public TemplateProcessor GetTemplateProcessor(string templatePath)
+public TemplateProcessor GetTemplateProcessor(string templatePath, 
+    FormValidationLogic logic = FormValidationLogic.Ignore)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| templatePath | String | المسار إلى ملف قالب OMR |
+| templatePath | سلسلة | المسار إلى ملف قالب OMR |
+| logic | FormValidationLogic | Enum الذي يتحكم في السلوك في حال كسر أحد قواعد التحقق من القالب |
 
 ### قيمة الإرجاع
 
-ال[`TemplateProcessor`](../../templateprocessor/) مثال
+كائن [`TemplateProcessor`](../../templateprocessor)
 
-### أنظر أيضا
+### الاستثناءات
 
-* class [TemplateProcessor](../../templateprocessor/)
-* class [OmrEngine](../)
-* مساحة الاسم [Aspose.OMR.Api](../../omrengine/)
-* المجسم [Aspose.OMR](../../../)
+| استثناء | شرط |
+| --- | --- |
+| FileNotFoundException | في حالة عدم إشارة templatePath إلى ملف موجود |
 
+### انظر أيضًا
 
+* class [TemplateProcessor](../../templateprocessor)
+* enum [FormValidationLogic](../../../aspose.omr.recognition.enums/formvalidationlogic)
+* class [OmrEngine](../../omrengine)
+* namespace [Aspose.OMR.Api](../../omrengine)
+* assembly [Aspose.OMR](../../../)
+
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

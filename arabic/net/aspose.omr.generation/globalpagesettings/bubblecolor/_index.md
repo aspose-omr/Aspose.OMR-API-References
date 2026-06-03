@@ -1,9 +1,9 @@
 ---
-title: GlobalPageSettings.BubbleColor
-second_title: Aspose.OMR لمرجع .NET API
-description: GlobalPageSettings مجال. لون الفقاعات
+title: "BubbleColor"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "لون الفقاعات"
 type: docs
-weight: 20
+weight: 30
 url: /ar/net/aspose.omr.generation/globalpagesettings/bubblecolor/
 ---
 ## GlobalPageSettings.BubbleColor field
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation/globalpagesettings/bubblecolor/
 public Color BubbleColor;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [Color](../../color/)
-* class [GlobalPageSettings](../)
-* مساحة الاسم [Aspose.OMR.Generation](../../globalpagesettings/)
-* المجسم [Aspose.OMR](../../../)
+* enum [Color](../../color)
+* class [GlobalPageSettings](../../globalpagesettings)
+* namespace [Aspose.OMR.Generation](../../globalpagesettings)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

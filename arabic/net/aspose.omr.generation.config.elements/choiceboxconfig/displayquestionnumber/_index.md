@@ -1,23 +1,23 @@
 ---
-title: ChoiceBoxConfig.DisplayQuestionNumber
-second_title: Aspose.OMR لمرجع .NET API
-description: ChoiceBoxConfig ملكية. هل يجب أن نعرض رقم هذا السؤال. افتراضيًا  true
+title: "DisplayQuestionNumber"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "هل نعرض رقم هذا السؤال. بشكل افتراضي - true"
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.generation.config.elements/choiceboxconfig/displayquestionnumber/
 ---
 ## ChoiceBoxConfig.DisplayQuestionNumber property
 
-هل يجب أن نعرض رقم هذا السؤال. افتراضيًا - true
+هل نعرض رقم هذا السؤال. بشكل افتراضي - true
 
 ```csharp
 public bool DisplayQuestionNumber { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ChoiceBoxConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../choiceboxconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [ChoiceBoxConfig](../../choiceboxconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../choiceboxconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

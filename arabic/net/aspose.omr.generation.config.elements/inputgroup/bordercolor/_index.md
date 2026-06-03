@@ -1,24 +1,24 @@
 ---
-title: InputGroup.BorderColor
-second_title: Aspose.OMR لمرجع .NET API
-description: InputGroup ملكية. لون الحدود
+title: "لون الحد"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "لون الحد"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.generation.config.elements/inputgroup/bordercolor/
 ---
 ## InputGroup.BorderColor property
 
-لون الحدود
+لون الحد
 
 ```csharp
 public Color BorderColor { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [Color](../../../aspose.omr.generation/color/)
-* class [InputGroup](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../inputgroup/)
-* المجسم [Aspose.OMR](../../../)
+* enum [Color](../../../aspose.omr.generation/color)
+* class [InputGroup](../../inputgroup)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../inputgroup)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

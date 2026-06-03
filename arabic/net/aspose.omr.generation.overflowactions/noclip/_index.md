@@ -1,29 +1,29 @@
 ---
-title: Class NoClip
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.OverflowActions.NoClip فصل. لن يتم اتخاذ أي محاولة للتحكم في تجاوز السعة.
+title: "NoClip"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "لن يتم اتخاذ أي محاولة للتحكم في التجاوز."
 type: docs
-weight: 670
+weight: 860
 url: /ar/net/aspose.omr.generation.overflowactions/noclip/
 ---
 ## NoClip class
 
-لن يتم اتخاذ أي محاولة للتحكم في تجاوز السعة.
+لن يتم اتخاذ أي محاولة للتحكم في التجاوز.
 
 ```csharp
 public class NoClip : OverflowAction
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [NoClip](noclip/)() | Default_Constructor |
+| [NoClip](noclip)() | المنشئ الافتراضي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [OverflowAction](../overflowaction/)
-* مساحة الاسم [Aspose.OMR.Generation.OverflowActions](../../aspose.omr.generation.overflowactions/)
-* المجسم [Aspose.OMR](../../)
+* class [OverflowAction](../overflowaction)
+* namespace [Aspose.OMR.Generation.OverflowActions](../../aspose.omr.generation.overflowactions)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

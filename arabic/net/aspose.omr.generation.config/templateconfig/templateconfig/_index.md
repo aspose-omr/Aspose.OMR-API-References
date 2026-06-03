@@ -1,23 +1,23 @@
 ---
-title: TemplateConfig.TemplateConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: TemplateConfig البناء. Default_Constructor
+title: "TemplateConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.config/templateconfig/templateconfig/
 ---
 ## TemplateConfig constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public TemplateConfig()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TemplateConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config](../../templateconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [TemplateConfig](../../templateconfig)
+* namespace [Aspose.OMR.Generation.Config](../../templateconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

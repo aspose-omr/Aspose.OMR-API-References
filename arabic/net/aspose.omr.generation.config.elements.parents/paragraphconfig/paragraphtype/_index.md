@@ -1,7 +1,7 @@
 ---
-title: ParagraphConfig.ParagraphType
-second_title: Aspose.OMR لمرجع .NET API
-description: ParagraphConfig ملكية. نوع الفقرة
+title: "ParagraphType"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نوع الفقرة"
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.generation.config.elements.parents/paragraphconfig/paragraphtype/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements.parents/paragraphconfig/parag
 public ParagraphTypeEnum ParagraphType { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [ParagraphTypeEnum](../../../aspose.omr.generation.config.enums/paragraphtypeenum/)
-* class [ParagraphConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../paragraphconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [ParagraphTypeEnum](../../../aspose.omr.generation.config.enums/paragraphtypeenum)
+* class [ParagraphConfig](../../paragraphconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../paragraphconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,23 +1,23 @@
 ---
-title: GridConfig.SectionsCount
-second_title: Aspose.OMR لمرجع .NET API
-description: GridConfig ملكية. مقدار مربعات الاختيار داخل الشبكة  أي الأعمدة في الشبكة من أعلى إلى أسفل
+title: "SectionsCount"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "عدد صناديق الاختيار داخل الشبكة، أي الأعمدة في الشبكة من الأعلى إلى الأسفل"
 type: docs
 weight: 120
 url: /ar/net/aspose.omr.generation.config.elements/gridconfig/sectionscount/
 ---
 ## GridConfig.SectionsCount property
 
-مقدار مربعات الاختيار داخل الشبكة ، أي الأعمدة في الشبكة من أعلى إلى أسفل
+عدد صناديق الاختيار داخل الشبكة، أي الأعمدة في الشبكة من الأعلى إلى الأسفل
 
 ```csharp
 public int SectionsCount { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [GridConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../gridconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [GridConfig](../../gridconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../gridconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

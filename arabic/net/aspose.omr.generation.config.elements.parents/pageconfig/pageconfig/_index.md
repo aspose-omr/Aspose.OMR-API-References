@@ -1,23 +1,23 @@
 ---
-title: PageConfig.PageConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: PageConfig البناء. Default_Constructor
+title: "PageConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.config.elements.parents/pageconfig/pageconfig/
 ---
 ## PageConfig constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public PageConfig()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [PageConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../pageconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [PageConfig](../../pageconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../pageconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

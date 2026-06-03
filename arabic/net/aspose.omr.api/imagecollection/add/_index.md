@@ -1,7 +1,7 @@
 ---
-title: ImageCollection.Add
-second_title: Aspose.OMR لمرجع .NET API
-description: ImageCollection طريقة. إضافة صورة إلى المجموعة.
+title: "إضافة"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "إضافة صورة إلى المجموعة."
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.api/imagecollection/add/
@@ -14,15 +14,15 @@ url: /ar/net/aspose.omr.api/imagecollection/add/
 public void Add(string imageName, MemoryStream stream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| imageName | String | اسم الصورة المستخدمة في[`Name`](../../../aspose.omr.generation.config.elements/imageconfig/name/) |
-| stream | MemoryStream | محتويات ملف الصورة مثل Stream |
+| imageName | String | اسم الصورة المستخدمة في [`Name`](../../../aspose.omr.generation.config.elements/imageconfig/name) |
+| دفق | MemoryStream | محتوى ملف الصورة كـ Stream |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ImageCollection](../)
-* مساحة الاسم [Aspose.OMR.Api](../../imagecollection/)
-* المجسم [Aspose.OMR](../../../)
+* class [ImageCollection](../../imagecollection)
+* namespace [Aspose.OMR.Api](../../imagecollection)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

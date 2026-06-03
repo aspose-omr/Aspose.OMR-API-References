@@ -1,23 +1,23 @@
 ---
-title: RecognitionResult.Images
-second_title: Aspose.OMR لمرجع .NET API
-description: RecognitionResult ملكية. الحصول على أو تعيين قائمة صور الكتابة
+title: "الصور"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "يحصل أو يضبط قائمة الصور المكتوبة"
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.model/recognitionresult/images/
 ---
 ## RecognitionResult.Images property
 
-الحصول على أو تعيين قائمة صور الكتابة
+يحصل أو يضبط قائمة الصور المكتوبة
 
 ```csharp
 public List<Bitmap> Images { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [RecognitionResult](../)
-* مساحة الاسم [Aspose.OMR.Model](../../recognitionresult/)
-* المجسم [Aspose.OMR](../../../)
+* class [RecognitionResult](../../recognitionresult)
+* namespace [Aspose.OMR.Model](../../recognitionresult)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

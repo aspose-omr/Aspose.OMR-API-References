@@ -1,27 +1,27 @@
 ---
-title: MemoryGenerationResult.GetPDF
-second_title: Aspose.OMR لمرجع .NET API
-description: MemoryGenerationResult طريقة. احصل على ملفات .pdf من ملفGenerationResult مثل MemoryStream.
+title: "GetPDF"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "احصل على ملف .pdf من GenerationResultaspose.omr.generation/generationresult كـ MemoryStream. القوالب متعددة الصفحات تُحفظ كملف .pdf واحد يحتوي على عدة صفحات"
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.generation/memorygenerationresult/getpdf/
 ---
 ## MemoryGenerationResult.GetPDF method
 
-احصل على ملفات .pdf من ملف[`GenerationResult`](../../generationresult/) مثل MemoryStream.
+احصل على ملف .pdf من الـ [`GenerationResult`](../../generationresult) كـ MemoryStream. القوالب متعددة الصفحات تُحفظ كملف .pdf واحد يحتوي على عدة صفحات
 
 ```csharp
-public IEnumerable<MemoryStream> GetPDF()
+public MemoryStream GetPDF()
 ```
 
 ### قيمة الإرجاع
 
-قالب الصور بصيغة pdf
+مجموعة من MemoryStreams. كل صفحة من القالب ممثلة كملف .pdf واحد بصفحة واحدة
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [MemoryGenerationResult](../)
-* مساحة الاسم [Aspose.OMR.Generation](../../memorygenerationresult/)
-* المجسم [Aspose.OMR](../../../)
+* class [MemoryGenerationResult](../../memorygenerationresult)
+* namespace [Aspose.OMR.Generation](../../memorygenerationresult)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

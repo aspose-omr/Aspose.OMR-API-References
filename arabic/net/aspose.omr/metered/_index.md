@@ -1,36 +1,38 @@
 ---
-title: Class Metered
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Metered فصل. يوفر طرقًا لتعيين المفتاح المقنن .
+title: "Metered"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "يوفر طرقًا لتعيين المفتاح المقيس."
 type: docs
-weight: 780
+weight: 1020
 url: /ar/net/aspose.omr/metered/
 ---
 ## Metered class
 
-يوفر طرقًا لتعيين المفتاح المقنن .
+يوفر طرقًا لتعيين المفتاح المقيس.
 
 ```csharp
 public class Metered
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Metered](metered/)() | Default_Constructor |
+| [Metered](metered)() | المنشئ الافتراضي. |
 
-## طُرق
+## طرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SetMeteredKey](../../aspose.omr/metered/setmeteredkey/)(string, string) | مجموعات المفاتيح العامة والخاصة التي تم قياسها |
-| static [GetConsumptionCredit](../../aspose.omr/metered/getconsumptioncredit/)() | يحصل على ائتمان الاستهلاك |
-| static [GetConsumptionQuantity](../../aspose.omr/metered/getconsumptionquantity/)() | يحصل على حجم ملف الاستهلاك |
+| [GetProductName](../../aspose.omr/metered/getproductname)() | احصل على اسم المنتج |
+| [SetMeteredKey](../../aspose.omr/metered/setmeteredkey)(string, string) | يضبط المفتاح العام والخاص للترخيص القائم على الاستهلاك. إذا قمت بشراء ترخيص قائم على الاستهلاك، عند بدء التطبيق، يجب استدعاء هذه الواجهة البرمجية، عادةً هذا يكفي. ومع ذلك، إذا فشل دائمًا تحميل بيانات الاستهلاك وتجاوز 24 ساعة، سيتم تعيين الترخيص إلى حالة التقييم، لتجنب هذه الحالة، يجب عليك فحص حالة الترخيص بانتظام، إذا كانت في حالة التقييم، استدعِ هذه الواجهة البرمجية مرة أخرى. |
+| static [GetConsumptionCredit](../../aspose.omr/metered/getconsumptioncredit)() | يحصل على رصيد الاستهلاك |
+| static [GetConsumptionQuantity](../../aspose.omr/metered/getconsumptionquantity)() | يحصل على حجم ملف الاستهلاك |
+| static [IsMeteredLicensed](../../aspose.omr/metered/ismeteredlicensed)() | تحقق مما إذا كان الترخيص القائم على الاستهلاك مفعلًا |
 
 ### أمثلة
 
-في هذا المثال ، ستُبذل محاولة لتعيين المفتاح العام والخاص الذي تم قياسه
+في هذا المثال، سيتم محاولة ضبط المفتاح العام والخاص للترخيص القائم على الاستهلاك
 
 ```csharp
 [C#]
@@ -45,9 +47,9 @@ Dim matered As Metered = New Metered
 matered.SetMeteredKey("PublicKey", "PrivateKey")
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR](../../aspose.omr/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR](../../aspose.omr)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

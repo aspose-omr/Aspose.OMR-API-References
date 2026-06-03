@@ -1,27 +1,27 @@
 ---
-title: Arabic.Arabic
-second_title: Aspose.OMR لمرجع .NET API
-description: Arabic البناء. تهيئة اللغة العربية .
+title: "العربية"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "تهيئة الإعداد المحلي العربي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.writingsystems/arabic/arabic/
 ---
 ## Arabic constructor
 
-تهيئة اللغة العربية .
+تهيئة الإعداد المحلي العربي.
 
 ```csharp
 public Arabic(bool useNativeNumber = false)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| useNativeNumber | Boolean | عندما يكون صحيحًا - سيتم استخدام ١،٢،٣ بدلاً من ١،٢،٣ |
+| useNativeNumber | Boolean | عند true - ١,٢,٣ سيتم استخدامها بدلاً من 1,2,3 |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Arabic](../)
-* مساحة الاسم [Aspose.OMR.Generation.WritingSystems](../../arabic/)
-* المجسم [Aspose.OMR](../../../)
+* class [Arabic](../../arabic)
+* namespace [Aspose.OMR.Generation.WritingSystems](../../arabic)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

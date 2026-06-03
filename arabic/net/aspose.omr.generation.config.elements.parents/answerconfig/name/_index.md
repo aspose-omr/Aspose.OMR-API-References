@@ -1,23 +1,23 @@
 ---
-title: AnswerConfig.Name
-second_title: Aspose.OMR لمرجع .NET API
-description: AnswerConfig ملكية. نص answer
+title: "الاسم"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نص الإجابة"
 type: docs
-weight: 50
+weight: 70
 url: /ar/net/aspose.omr.generation.config.elements.parents/answerconfig/name/
 ---
 ## AnswerConfig.Name property
 
-نص answer
+نص الإجابة
 
 ```csharp
 public override string Name { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [AnswerConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../answerconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [AnswerConfig](../../answerconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../answerconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

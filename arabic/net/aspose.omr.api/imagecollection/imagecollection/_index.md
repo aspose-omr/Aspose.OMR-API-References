@@ -1,23 +1,23 @@
 ---
-title: ImageCollection.ImageCollection
-second_title: Aspose.OMR لمرجع .NET API
-description: ImageCollection البناء. Default_Constructor
+title: "ImageCollection"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.api/imagecollection/imagecollection/
 ---
 ## ImageCollection constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public ImageCollection()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ImageCollection](../)
-* مساحة الاسم [Aspose.OMR.Api](../../imagecollection/)
-* المجسم [Aspose.OMR](../../../)
+* class [ImageCollection](../../imagecollection)
+* namespace [Aspose.OMR.Api](../../imagecollection)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

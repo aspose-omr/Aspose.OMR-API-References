@@ -1,38 +1,38 @@
 ---
-title: RecognitionResult.GetXml
-second_title: Aspose.OMR لمرجع .NET API
-description: RecognitionResult طريقة. سلسلة XML للنموذج مع نتائج التعرف على أنها MemoryStream
+title: "GetXml"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "إنشاء سلسلة XML للنموذج مع نتائج التعرف كـ MemoryStream"
 type: docs
 weight: 100
 url: /ar/net/aspose.omr.model/recognitionresult/getxml/
 ---
 ## GetXml(Encoding) {#getxml}
 
-سلسلة XML للنموذج مع نتائج التعرف على أنها MemoryStream
+إنشاء سلسلة XML للنموذج مع نتائج التعرف كـ MemoryStream
 
 ```csharp
 public byte[] GetXml(Encoding encoding)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| encoding | Encoding | الترميز الذي نستخدمه في تشفير سلسلة XML |
+| ترميز | الترميز | الترميز الذي نستخدمه لتشفير سلسلة XML |
 
 ### قيمة الإرجاع
 
-نتيجة التعرف على أنها مصفوفة من البايت
+نتيجة التعرف كمصفوفة من البايتات
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [RecognitionResult](../)
-* مساحة الاسم [Aspose.OMR.Model](../../recognitionresult/)
-* المجسم [Aspose.OMR](../../../)
+* class [RecognitionResult](../../recognitionresult)
+* namespace [Aspose.OMR.Model](../../recognitionresult)
+* assembly [Aspose.OMR](../../../)
 
 ---
 
 ## GetXml() {#getxml_1}
 
-سلسلة XML للنموذج مع نتائج التعرف
+إنشاء سلسلة XML مع نتائج التعرف
 
 ```csharp
 public string GetXml()
@@ -42,10 +42,10 @@ public string GetXml()
 
 نتائج التعرف كسلسلة XML
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [RecognitionResult](../)
-* مساحة الاسم [Aspose.OMR.Model](../../recognitionresult/)
-* المجسم [Aspose.OMR](../../../)
+* class [RecognitionResult](../../recognitionresult)
+* namespace [Aspose.OMR.Model](../../recognitionresult)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

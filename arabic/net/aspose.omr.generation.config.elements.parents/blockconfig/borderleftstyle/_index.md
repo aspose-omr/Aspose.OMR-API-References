@@ -1,7 +1,7 @@
 ---
-title: BlockConfig.BorderLeftStyle
-second_title: Aspose.OMR لمرجع .NET API
-description: BlockConfig ملكية. نمط إضافي للحد الأيسر
+title: "نمط الحد الأيسر"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نمط إضافي للحد الأيسر"
 type: docs
 weight: 50
 url: /ar/net/aspose.omr.generation.config.elements.parents/blockconfig/borderleftstyle/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements.parents/blockconfig/borderlef
 public BorderStyle BorderLeftStyle { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BorderStyle](../../../aspose.omr.generation.config/borderstyle/)
-* class [BlockConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../blockconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [BorderStyle](../../../aspose.omr.generation.config/borderstyle)
+* class [BlockConfig](../../blockconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../blockconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

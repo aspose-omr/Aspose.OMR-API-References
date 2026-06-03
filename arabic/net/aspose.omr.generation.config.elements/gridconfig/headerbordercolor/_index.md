@@ -1,24 +1,24 @@
 ---
-title: GridConfig.HeaderBorderColor
-second_title: Aspose.OMR لمرجع .NET API
-description: GridConfig ملكية. لون حد مربع
+title: "HeaderBorderColor"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "لون حد المربع"
 type: docs
 weight: 70
 url: /ar/net/aspose.omr.generation.config.elements/gridconfig/headerbordercolor/
 ---
 ## GridConfig.HeaderBorderColor property
 
-لون حد مربع
+لون حد المربع
 
 ```csharp
 public Color HeaderBorderColor { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [Color](../../../aspose.omr.generation/color/)
-* class [GridConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../gridconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [Color](../../../aspose.omr.generation/color)
+* class [GridConfig](../../gridconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../gridconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

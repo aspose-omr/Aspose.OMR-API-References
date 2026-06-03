@@ -1,23 +1,23 @@
 ---
-title: GenerationResult.TemplateImage
-second_title: Aspose.OMR لمرجع .NET API
-description: GenerationResult ملكية. الحصول على أو تعيين صورة النموذج التي تم إنشاؤها
+title: "TemplateImage"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "يحصل أو يعيّن صورة القالب المُولدة"
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.generation/generationresult/templateimage/
 ---
 ## GenerationResult.TemplateImage property
 
-الحصول على أو تعيين صورة النموذج التي تم إنشاؤها
+يحصل أو يعيّن صورة القالب المُولدة
 
 ```csharp
 public Bitmap TemplateImage { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [GenerationResult](../)
-* مساحة الاسم [Aspose.OMR.Generation](../../generationresult/)
-* المجسم [Aspose.OMR](../../../)
+* class [GenerationResult](../../generationresult)
+* namespace [Aspose.OMR.Generation](../../generationresult)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

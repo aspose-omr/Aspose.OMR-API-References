@@ -1,7 +1,7 @@
 ---
-title: TableHeaderConfig.Name
-second_title: Aspose.OMR لمرجع .NET API
-description: TableHeaderConfig ملكية. قيمة النص
+title: "الاسم"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "قيمة النص"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.generation.config.elements.table/tableheaderconfig/name/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.omr.generation.config.elements.table/tableheaderconfig/name/
 public override string Name { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TableHeaderConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Table](../../tableheaderconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [TableHeaderConfig](../../tableheaderconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Table](../../tableheaderconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

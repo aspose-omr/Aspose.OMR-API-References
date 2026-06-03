@@ -1,9 +1,9 @@
 ---
-title: GlobalPageSettings.BubbleSize
-second_title: Aspose.OMR لمرجع .NET API
-description: GlobalPageSettings مجال. حجم الفقاعات
+title: "BubbleSize"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "حجم الفقاعات"
 type: docs
-weight: 30
+weight: 40
 url: /ar/net/aspose.omr.generation/globalpagesettings/bubblesize/
 ---
 ## GlobalPageSettings.BubbleSize field
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation/globalpagesettings/bubblesize/
 public BubbleSize BubbleSize;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [BubbleSize](../../bubblesize/)
-* class [GlobalPageSettings](../)
-* مساحة الاسم [Aspose.OMR.Generation](../../globalpagesettings/)
-* المجسم [Aspose.OMR](../../../)
+* enum [BubbleSize](../../bubblesize)
+* class [GlobalPageSettings](../../globalpagesettings)
+* namespace [Aspose.OMR.Generation](../../globalpagesettings)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

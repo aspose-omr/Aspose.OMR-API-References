@@ -1,7 +1,7 @@
 ---
-title: TextConfig.FontStyle
-second_title: Aspose.OMR لمرجع .NET API
-description: TextConfig ملكية. نمط النص
+title: "FontStyle"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نمط النص"
 type: docs
 weight: 50
 url: /ar/net/aspose.omr.generation.config.elements/textconfig/fontstyle/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements/textconfig/fontstyle/
 public FontStyle FontStyle { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [FontStyle](../../../aspose.omr.generation/fontstyle/)
-* class [TextConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../textconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [FontStyle](../../../aspose.omr.generation/fontstyle)
+* class [TextConfig](../../textconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../textconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

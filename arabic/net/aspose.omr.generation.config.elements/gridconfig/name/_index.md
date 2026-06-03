@@ -1,23 +1,23 @@
 ---
-title: GridConfig.Name
-second_title: Aspose.OMR لمرجع .NET API
-description: GridConfig ملكية. اسم الشبكة. تستخدم كمعرف في Recogn
+title: "الاسم"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "اسم الشبكة. يُستخدم كمعرف في التعرف"
 type: docs
 weight: 100
 url: /ar/net/aspose.omr.generation.config.elements/gridconfig/name/
 ---
 ## GridConfig.Name property
 
-اسم الشبكة. تستخدم كمعرف في Recogn
+اسم الشبكة. يُستخدم كمعرف في التعرف
 
 ```csharp
 public override string Name { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [GridConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../gridconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [GridConfig](../../gridconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../gridconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

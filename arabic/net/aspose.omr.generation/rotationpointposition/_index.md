@@ -1,36 +1,36 @@
 ---
-title: Enum RotationPointPosition
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.RotationPointPosition تعداد. جميع المواضع المتاحة لنقطة الدوران على القالب الذي تم إنشاؤه
+title: "RotationPointPosition"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "جميع المواقع المتاحة لنقطة الدوران على القالب المُولد"
 type: docs
-weight: 710
+weight: 920
 url: /ar/net/aspose.omr.generation/rotationpointposition/
 ---
 ## RotationPointPosition enumeration
 
-جميع المواضع المتاحة لنقطة الدوران على القالب الذي تم إنشاؤه
+جميع المواقع المتاحة لنقطة الدوران على القالب المُولد
 
 ```csharp
 public enum RotationPointPosition
 ```
 
-### قيم
+### Values
 
-| اسم | قيمة | وصف |
+| الاسم | Value | الوصف |
 | --- | --- | --- |
-| undefined | `0` | لم يتم تحديد نقطة الدوران |
-| TopLeft1 | `10` | أعلى الموضع الأيسر أسفل النقطة المرجعية اليسرى العلوية |
-| TopLeft2 | `11` | أعلى الموضع الأيسر بجوار النقطة المرجعية اليسرى العلوية |
-| TopRight1 | `20` | الموضع العلوي الأيمن أسفل أعلى نقطة مرجعية يمين |
-| TopRight2 | `21` | الموضع العلوي الأيمن بجوار النقطة المرجعية اليمنى العلوية |
-| BottomRight1 | `30` | الموضع الأيمن السفلي فوق النقطة المرجعية اليمنى السفلية |
-| BottomRight2 | `31` | الموضع الأيمن السفلي التالي النقطة المرجعية اليمنى السفلية |
-| BottomLeft1 | `40` | الموضع الأيسر السفلي فوق النقطة المرجعية اليسرى السفلية |
-| BottomLeft2 | `41` | الموضع الأيسر السفلي بجوار النقطة المرجعية اليسرى السفلية |
+| undefined | `0` | نقطة الدوران غير محددة |
+| TopLeft1 | `10` | موضع TopLeft تحت Top Left Reference Point |
+| TopLeft2 | `11` | موضع TopLeft بجوار Top Left Reference Point |
+| TopRight1 | `20` | موضع TopRight تحت Top Right Reference Point |
+| TopRight2 | `21` | موضع TopRight بجوار Top Right Reference Point |
+| BottomRight1 | `30` | موضع BottomRight فوق Bottom Right Reference Point |
+| BottomRight2 | `31` | موضع BottomRight بجوار Bottom Right Reference Point |
+| BottomLeft1 | `40` | موضع BottomLeft فوق Bottom Left Reference Point |
+| BottomLeft2 | `41` | موضع BottomLeft بجوار Bottom Left Reference Point |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Generation](../../aspose.omr.generation/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation](../../aspose.omr.generation)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

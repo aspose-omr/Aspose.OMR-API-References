@@ -1,24 +1,24 @@
 ---
-title: BorderStyle.BorderColor
-second_title: Aspose.OMR لمرجع .NET API
-description: BorderStyle ملكية. لون الحدود
+title: "لون الحد"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "لون الحد"
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.generation.config/borderstyle/bordercolor/
 ---
 ## BorderStyle.BorderColor property
 
-لون الحدود
+لون الحد
 
 ```csharp
 public Color BorderColor { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [Color](../../../aspose.omr.generation/color/)
-* class [BorderStyle](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config](../../borderstyle/)
-* المجسم [Aspose.OMR](../../../)
+* enum [Color](../../../aspose.omr.generation/color)
+* class [BorderStyle](../../borderstyle)
+* namespace [Aspose.OMR.Generation.Config](../../borderstyle)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

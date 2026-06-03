@@ -1,7 +1,7 @@
 ---
-title: CompositeGridConfig.VerticalMargin
-second_title: Aspose.OMR لمرجع .NET API
-description: CompositeGridConfig مجال. الهامش بين الأسطر
+title: "VerticalMargin"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "الهامش بين الأسطر"
 type: docs
 weight: 190
 url: /ar/net/aspose.omr.generation.config.elements/compositegridconfig/verticalmargin/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.omr.generation.config.elements/compositegridconfig/verticalm
 public int VerticalMargin;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [CompositeGridConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../compositegridconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [CompositeGridConfig](../../compositegridconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../compositegridconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

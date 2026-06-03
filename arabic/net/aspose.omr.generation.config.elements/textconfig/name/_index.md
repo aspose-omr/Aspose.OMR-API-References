@@ -1,23 +1,23 @@
 ---
-title: TextConfig.Name
-second_title: Aspose.OMR لمرجع .NET API
-description: TextConfig ملكية. النص المطلوب عرضه
+title: "الاسم"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "النص الذي يحتاج إلى العرض"
 type: docs
 weight: 60
 url: /ar/net/aspose.omr.generation.config.elements/textconfig/name/
 ---
 ## TextConfig.Name property
 
-النص المطلوب عرضه
+النص الذي يحتاج إلى العرض
 
 ```csharp
 public override string Name { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TextConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../textconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [TextConfig](../../textconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../textconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

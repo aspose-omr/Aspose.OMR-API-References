@@ -1,9 +1,9 @@
 ---
-title: GlobalPageSettings.Orientation
-second_title: Aspose.OMR لمرجع .NET API
-description: GlobalPageSettings مجال. اتجاه الصفحة
+title: "Orientation"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "اتجاه الصفحة"
 type: docs
-weight: 80
+weight: 110
 url: /ar/net/aspose.omr.generation/globalpagesettings/orientation/
 ---
 ## GlobalPageSettings.Orientation field
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation/globalpagesettings/orientation/
 public Orientation Orientation;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [Orientation](../../orientation/)
-* class [GlobalPageSettings](../)
-* مساحة الاسم [Aspose.OMR.Generation](../../globalpagesettings/)
-* المجسم [Aspose.OMR](../../../)
+* enum [Orientation](../../orientation)
+* class [GlobalPageSettings](../../globalpagesettings)
+* namespace [Aspose.OMR.Generation](../../globalpagesettings)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

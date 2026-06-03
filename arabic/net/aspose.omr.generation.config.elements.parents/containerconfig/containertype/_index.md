@@ -1,7 +1,7 @@
 ---
-title: ContainerConfig.ContainerType
-second_title: Aspose.OMR لمرجع .NET API
-description: ContainerConfig ملكية. نوع الحاوية
+title: "ContainerType"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نوع الحاوية"
 type: docs
 weight: 70
 url: /ar/net/aspose.omr.generation.config.elements.parents/containerconfig/containertype/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements.parents/containerconfig/conta
 public ContainerTypeEnum ContainerType { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [ContainerTypeEnum](../../../aspose.omr.generation.config.enums/containertypeenum/)
-* class [ContainerConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../containerconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [ContainerTypeEnum](../../../aspose.omr.generation.config.enums/containertypeenum)
+* class [ContainerConfig](../../containerconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../containerconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

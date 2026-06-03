@@ -1,14 +1,14 @@
 ---
-title: IOmrElement.GetCsv
-second_title: Aspose.OMR لمرجع .NET API
-description: IOmrElement طريقة. إجابات النماذج كسلسلة قيم مفصولة بفواصل
+title: "GetCsv"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "يشكّل الإجابات كسلسلة قيم مفصولة بفواصل"
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.model/iomrelement/getcsv/
 ---
 ## IOmrElement.GetCsv method
 
-إجابات النماذج كسلسلة قيم مفصولة بفواصل
+يشكّل الإجابات كسلسلة قيم مفصولة بفواصل
 
 ```csharp
 public string GetCsv()
@@ -16,12 +16,12 @@ public string GetCsv()
 
 ### قيمة الإرجاع
 
-ينتج عن التعرف سلسلة CSV
+نتائج التعرف كسلسلة CSV
 
-### أنظر أيضا
+### انظر أيضًا
 
-* interface [IOmrElement](../)
-* مساحة الاسم [Aspose.OMR.Model](../../iomrelement/)
-* المجسم [Aspose.OMR](../../../)
+* interface [IOmrElement](../../iomrelement)
+* namespace [Aspose.OMR.Model](../../iomrelement)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,37 +1,37 @@
 ---
-title: Class TemplateConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.TemplateConfig فصل. عنصر جذر يحتوي على جميع عناصر omr الأخرى
+title: "TemplateConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "العنصر الجذر الذي يحتوي على جميع عناصر omr الأخرى"
 type: docs
-weight: 600
+weight: 790
 url: /ar/net/aspose.omr.generation.config/templateconfig/
 ---
 ## TemplateConfig class
 
-عنصر جذر يحتوي على جميع عناصر omr الأخرى
+العنصر الجذر الذي يحتوي على جميع عناصر omr الأخرى
 
 ```csharp
 public class TemplateConfig : ParentConfig
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [TemplateConfig](templateconfig/)() | Default_Constructor |
+| [TemplateConfig](templateconfig)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Children](../../aspose.omr.generation.config/templateconfig/children/) { get; set; } | عناصر omr الفرعية. في معظم الحالات يتم وضعه داخل أحد الوالدين أو أقل. |
-| override [Name](../../aspose.omr.generation.config/templateconfig/name/) { get; set; } | اسم النموذج |
-| override [Type](../../aspose.omr.generation.config/templateconfig/type/) { get; set; } | نوع عنصر omr. حقل مطلوب للتسلسل JSON . |
+| override [Children](../../aspose.omr.generation.config/templateconfig/children) { get; set; } | عناصر OMR الفرعية. في معظم الحالات تكون موضوعة داخل العنصر الأب أو تحته. |
+| override [Name](../../aspose.omr.generation.config/templateconfig/name) { get; set; } | اسم القالب |
+| override [Type](../../aspose.omr.generation.config/templateconfig/type) { get; set; } | نوع عنصر OMR. حقل مطلوب لتسلسل JSON. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ParentConfig](../parentconfig/)
-* مساحة الاسم [Aspose.OMR.Generation.Config](../../aspose.omr.generation.config/)
-* المجسم [Aspose.OMR](../../)
+* class [ParentConfig](../parentconfig)
+* namespace [Aspose.OMR.Generation.Config](../../aspose.omr.generation.config)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

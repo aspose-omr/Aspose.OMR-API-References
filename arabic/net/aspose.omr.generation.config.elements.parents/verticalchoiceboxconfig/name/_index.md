@@ -1,7 +1,7 @@
 ---
-title: VerticalChoiceBoxConfig.Name
-second_title: Aspose.OMR لمرجع .NET API
-description: VerticalChoiceBoxConfig ملكية. قيمة السؤال
+title: "الاسم"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "قيمة السؤال"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/name/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.omr.generation.config.elements.parents/verticalchoiceboxconf
 public override string Name { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [VerticalChoiceBoxConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../verticalchoiceboxconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [VerticalChoiceBoxConfig](../../verticalchoiceboxconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../verticalchoiceboxconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

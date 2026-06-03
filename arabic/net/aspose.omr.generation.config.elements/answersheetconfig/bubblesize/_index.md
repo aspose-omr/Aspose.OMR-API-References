@@ -1,9 +1,9 @@
 ---
-title: AnswerSheetConfig.BubbleSize
-second_title: Aspose.OMR لمرجع .NET API
-description: AnswerSheetConfig مجال. حجم الفقاعة
+title: "BubbleSize"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "حجم الفقاعة"
 type: docs
-weight: 120
+weight: 130
 url: /ar/net/aspose.omr.generation.config.elements/answersheetconfig/bubblesize/
 ---
 ## AnswerSheetConfig.BubbleSize field
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements/answersheetconfig/bubblesize/
 public BubbleSize BubbleSize;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [BubbleSize](../../../aspose.omr.generation/bubblesize/)
-* class [AnswerSheetConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [BubbleSize](../../../aspose.omr.generation/bubblesize)
+* class [AnswerSheetConfig](../../answersheetconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,7 +1,7 @@
 ---
-title: CustomAnswerSheetConfig.BorderBottomStyle
-second_title: Aspose.OMR لمرجع .NET API
-description: CustomAnswerSheetConfig ملكية. نمط إضافي للحد السفلي
+title: "نمط الحد السفلي"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نمط إضافي للحد السفلي"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/borderbottomstyle/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements.customanswersheet/customanswe
 public BorderStyle BorderBottomStyle { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BorderStyle](../../../aspose.omr.generation.config/borderstyle/)
-* class [CustomAnswerSheetConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../customanswersheetconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [BorderStyle](../../../aspose.omr.generation.config/borderstyle)
+* class [CustomAnswerSheetConfig](../../customanswersheetconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../customanswersheetconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

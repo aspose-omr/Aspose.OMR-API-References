@@ -1,94 +1,94 @@
 ---
-title: Enum BarcodeType
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.Enums.BarcodeType تعداد. نوع الباركود المستخدم فيBarcodeConfig
+title: "BarcodeType"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نوع الباركود المستخدم في BarcodeConfig../aspose.omr.generation.config.elements/barcodeconfig"
 type: docs
-weight: 420
+weight: 600
 url: /ar/net/aspose.omr.generation.config.enums/barcodetype/
 ---
 ## BarcodeType enumeration
 
-نوع الباركود المستخدم في[`BarcodeConfig`](../../aspose.omr.generation.config.elements/barcodeconfig/)
+نوع الباركود المستخدم في [`BarcodeConfig`](../../aspose.omr.generation.config.elements/barcodeconfig)
 
 ```csharp
 public enum BarcodeType
 ```
 
-### قيم
+### Values
 
-| اسم | قيمة | وصف |
+| الاسم | Value | الوصف |
 | --- | --- | --- |
-| QR | `0` | تمثل نوع QR |
+| QR | `0` | تمثيل نوع QR |
 | Codabar | `1` | تمثيل نوع Codabar |
-| Code11 | `2` | رمز يمثل 11 type |
-| Code39Standard | `3` | رمز يمثل 39 النوع القياسي |
-| Code39Extended | `4` | رمز يمثل 39 النوع الموسع |
-| Code93Standard | `5` | رمز يمثل 93 النوع القياسي |
-| Code93Extended | `6` | تمثل الرمز 93 النوع الموسع |
-| Code128 | `7` | تمثيل الكود 128 type |
-| GS1Code128 | `8` | تمثل GS1Code128 type |
+| Code11 | `2` | تمثيل نوع Code11 |
+| Code39Standard | `3` | تمثيل نوع Code39Standard |
+| Code39Extended | `4` | تمثيل نوع Code39Extended |
+| Code93Standard | `5` | تمثيل نوع Code93Standard |
+| Code93Extended | `6` | تمثيل نوع Code93Extended |
+| Code128 | `7` | تمثيل نوع Code128 |
+| GS1Code128 | `8` | تمثيل نوع GS1Code128 |
 | EAN8 | `9` | تمثيل نوع EAN8 |
-| EAN13 | `10` | تمثل EAN13 type |
+| EAN13 | `10` | تمثيل نوع EAN13 |
 | EAN14 | `11` | تمثيل نوع EAN14 |
-| SCC14 | `12` | تمثل SCC14 type |
-| SSCC18 | `13` | تمثل SSCC18 type |
-| UPCA | `14` | تمثل نوع UPCA |
-| UPCE | `15` | تمثل نوع UPCE |
-| ISBN | `16` | تقديم نوع ISBN |
-| ISSN | `17` | تقديم نوع ISSN |
-| ISMN | `18` | تقديم نوع ISMN |
-| Standard2of5 | `19` | تمثل النوع Standard2of5 |
-| Interleaved2of5 | `20` | تمثيل نوع 2of5 معشق |
+| SCC14 | `12` | تمثيل نوع SCC14 |
+| SSCC18 | `13` | تمثيل نوع SSCC18 |
+| UPCA | `14` | تمثيل نوع UPCA |
+| UPCE | `15` | تمثيل نوع UPCE |
+| ISBN | `16` | تمثيل نوع ISBN |
+| ISSN | `17` | تمثيل نوع ISSN |
+| ISMN | `18` | تمثيل نوع ISMN |
+| Standard2of5 | `19` | تمثيل نوع Standard2of5 |
+| Interleaved2of5 | `20` | تمثيل نوع Interleaved2of5 |
 | Matrix2of5 | `21` | تمثيل نوع Matrix2of5 |
-| ItalianPost25 | `22` | تمثل ItalianPost25 type |
-| IATA2of5 | `23` | تمثل IATA2of5 type |
-| ITF14 | `24` | تمثل ITF14 type |
-| ITF6 | `25` | تمثل نوع ITF6 |
+| ItalianPost25 | `22` | تمثيل نوع ItalianPost25 |
+| IATA2of5 | `23` | تمثيل نوع IATA2of5 |
+| ITF14 | `24` | تمثيل نوع ITF14 |
+| ITF6 | `25` | تمثيل نوع ITF6 |
 | MSI | `26` | تمثيل نوع MSI |
-| VIN | `27` | تمثل VIN type |
-| DeutschePostIdentcode | `28` | تمثل نوع رمز تعريف DeutschePostIdent |
-| DeutschePostLeitcode | `29` | تمثل نوع رمز DeutschePostLeitcode |
-| OPC | `30` | تمثل نوع OPC |
-| PZN | `31` | تمثل نوع PZN |
-| Code16K | `32` | رمز يمثل 16 كيلو نوع |
-| Pharmacode | `33` | تقديم نوع رمز الدواء |
+| VIN | `27` | تمثيل نوع VIN |
+| DeutschePostIdentcode | `28` | تمثيل نوع DeutschePostIdentcode |
+| DeutschePostLeitcode | `29` | تمثيل نوع DeutschePostLeitcode |
+| OPC | `30` | تمثيل نوع OPC |
+| PZN | `31` | تمثيل نوع PZN |
+| Code16K | `32` | تمثيل نوع Code16K |
+| Pharmacode | `33` | تمثيل نوع Pharmacode |
 | DataMatrix | `34` | تمثيل نوع DataMatrix |
 | Aztec | `35` | تمثيل نوع Aztec |
 | Pdf417 | `36` | تمثيل نوع Pdf417 |
-| MacroPdf417 | `37` | تمثيل MacroPdf417 type |
-| AustraliaPost | `38` | تمثل أستراليا نوع البريد |
+| MacroPdf417 | `37` | تمثيل نوع MacroPdf417 |
+| AustraliaPost | `38` | تمثيل نوع AustraliaPost |
 | Postnet | `39` | تمثيل نوع Postnet |
-| Planet | `40` | تمثل نوع الكوكب |
+| Planet | `40` | تمثيل نوع Planet |
 | OneCode | `41` | تمثيل نوع OneCode |
-| RM4SCC | `42` | تمثل نوع RM4SCC |
-| Mailmark | `43` | تقديم نوع العلامة البريدية |
-| DatabarOmniDirectional | `44` | تمثل قاعدة البيانات OmniDirectional type |
-| DatabarTruncated | `45` | تمثيل قاعدة البيانات النوع المقطوع |
-| DatabarLimited | `46` | تمثيل قاعدة البيانات النوع المحدود |
-| DatabarExpanded | `47` | تمثل قاعدة البيانات النوع الموسع |
-| SingaporePost | `48` | تمثل سنغافورة نوع البريد |
-| GS1DataMatrix | `49` | تمثل نوع GS1DataMatrix |
-| AustralianPosteParcel | `50` | تمثل AustralianPosteParcel type |
-| SwissPostParcel | `51` | تمثل SwissPostParcel type |
-| PatchCode | `52` | تمثيل نوع رمز التصحيح |
-| DatabarExpandedStacked | `53` | يمثل قاعدة البيانات نوع مكدس موسع |
-| DatabarStacked | `54` | تمثل قاعدة البيانات النوع المكدس |
-| DatabarStackedOmniDirectional | `55` | تمثل قاعدة البيانات StackedOmniDirectional type |
-| MicroPdf417 | `56` | تمثل نوع MicroPdf417 |
-| GS1QR | `57` | تمثل نوع GS1QR |
+| RM4SCC | `42` | تمثيل نوع RM4SCC |
+| Mailmark | `43` | تمثيل نوع Mailmark |
+| DatabarOmniDirectional | `44` | تمثيل نوع DatabarOmniDirectional |
+| DatabarTruncated | `45` | تمثيل نوع DatabarTruncated |
+| DatabarLimited | `46` | تمثيل نوع DatabarLimited |
+| DatabarExpanded | `47` | تمثيل نوع DatabarExpanded |
+| SingaporePost | `48` | تمثيل نوع SingaporePost |
+| GS1DataMatrix | `49` | تمثيل نوع GS1DataMatrix |
+| AustralianPosteParcel | `50` | تمثيل نوع AustralianPosteParcel |
+| SwissPostParcel | `51` | تمثيل نوع SwissPostParcel |
+| PatchCode | `52` | تمثيل نوع PatchCode |
+| DatabarExpandedStacked | `53` | تمثيل نوع DatabarExpandedStacked |
+| DatabarStacked | `54` | تمثيل نوع DatabarStacked |
+| DatabarStackedOmniDirectional | `55` | تمثيل نوع DatabarStackedOmniDirectional |
+| MicroPdf417 | `56` | تمثيل نوع MicroPdf417 |
+| GS1QR | `57` | تمثيل نوع GS1QR |
 | MaxiCode | `58` | تمثيل نوع MaxiCode |
-| Code32 | `59` | تمثيل الرمز 32 type |
-| DataLogic2of5 | `60` | تمثيل DataLogic2of5 type |
+| Code32 | `59` | تمثيل نوع Code32 |
+| DataLogic2of5 | `60` | تمثيل نوع DataLogic2of5 |
 | DotCode | `61` | تمثيل نوع DotCode |
-| DutchKIX | `62` | تمثل DutchKIX type |
-| UpcaGs1Code128Coupon | `63` | تمثل UpcaGs1Code128 نوع الكوبون |
-| UpcaGs1DatabarCoupon | `64` | تمثل UpcaGs1Databar نوع الكوبون |
+| DutchKIX | `62` | تمثيل نوع DutchKIX |
+| UpcaGs1Code128Coupon | `63` | تمثيل نوع UpcaGs1Code128Coupon |
+| UpcaGs1DatabarCoupon | `64` | تمثيل نوع UpcaGs1DatabarCoupon |
 | CodablockF | `65` | تمثيل نوع CodablockF |
-| GS1CodablockF | `66` | تمثل GS1CodablockF type |
+| GS1CodablockF | `66` | تمثيل نوع GS1CodablockF |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

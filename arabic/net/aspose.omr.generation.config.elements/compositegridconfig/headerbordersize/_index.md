@@ -1,23 +1,23 @@
 ---
-title: CompositeGridConfig.HeaderBorderSize
-second_title: Aspose.OMR لمرجع .NET API
-description: CompositeGridConfig ملكية. حجم حد مربع
+title: "HeaderBorderSize"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "حجم حد المربع"
 type: docs
 weight: 100
 url: /ar/net/aspose.omr.generation.config.elements/compositegridconfig/headerbordersize/
 ---
 ## CompositeGridConfig.HeaderBorderSize property
 
-حجم حد مربع
+حجم حد المربع
 
 ```csharp
 public int HeaderBorderSize { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [CompositeGridConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../compositegridconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [CompositeGridConfig](../../compositegridconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../compositegridconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

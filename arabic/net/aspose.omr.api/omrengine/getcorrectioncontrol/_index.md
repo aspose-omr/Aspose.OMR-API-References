@@ -1,33 +1,33 @@
 ---
-title: OmrEngine.GetCorrectionControl
-second_title: Aspose.OMR لمرجع .NET API
-description: OmrEngine طريقة. ينشئ ملفCorrectionControl المثال الذي يسمح بالعمل مع واجهة برمجة تطبيقات OMR باستخدام واجهة المستخدم الرسوميةTemplateProcessor كمعامل ويعمل فقط مع الصور التي تم إنشاؤها باستخدام template المحدد
+title: "GetCorrectionControl"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "ينشئ كائن CorrectionControlaspose.omr.correctionui/correctioncontrol الذي يسمح بالعمل مع OMR API باستخدام واجهة المستخدم الرسومية. يأخذ TemplateProcessoraspose.omr.api/templateprocessor كمعامل ولا يعمل إلا مع الصور التي تم إنشاؤها باستخدام القالب المحدد"
 type: docs
-weight: 50
+weight: 40
 url: /ar/net/aspose.omr.api/omrengine/getcorrectioncontrol/
 ---
 ## OmrEngine.GetCorrectionControl method
 
-ينشئ ملف[`CorrectionControl`](../../../aspose.omr.correctionui/correctioncontrol/) المثال الذي يسمح بالعمل مع واجهة برمجة تطبيقات OMR باستخدام واجهة المستخدم الرسومية[`TemplateProcessor`](../../templateprocessor/) كمعامل ويعمل فقط مع الصور التي تم إنشاؤها باستخدام template المحدد
+ينشئ كائن [`CorrectionControl`](../../../aspose.omr.correctionui/correctioncontrol) الذي يسمح بالعمل مع OMR API باستخدام واجهة المستخدم الرسومية. يأخذ [`TemplateProcessor`](../../templateprocessor) كمعامل ولا يعمل إلا مع الصور التي تم إنشاؤها باستخدام القالب المحدد
 
 ```csharp
 public CorrectionControl GetCorrectionControl(TemplateProcessor processor)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | processor | TemplateProcessor | معالج القالب |
 
 ### قيمة الإرجاع
 
-ال[`CorrectionControl`](../../../aspose.omr.correctionui/correctioncontrol/) مثال
+كائن [`CorrectionControl`](../../../aspose.omr.correctionui/correctioncontrol)
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [CorrectionControl](../../../aspose.omr.correctionui/correctioncontrol/)
-* class [TemplateProcessor](../../templateprocessor/)
-* class [OmrEngine](../)
-* مساحة الاسم [Aspose.OMR.Api](../../omrengine/)
-* المجسم [Aspose.OMR](../../../)
+* class [CorrectionControl](../../../aspose.omr.correctionui/correctioncontrol)
+* class [TemplateProcessor](../../templateprocessor)
+* class [OmrEngine](../../omrengine)
+* namespace [Aspose.OMR.Api](../../omrengine)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

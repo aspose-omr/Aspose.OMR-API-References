@@ -1,24 +1,24 @@
 ---
-title: ContentConfig.Alignment
-second_title: Aspose.OMR لمرجع .NET API
-description: ContentConfig ملكية. محاذاة سلسلة المحتوى داخل parent
+title: "محاذاة"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "محاذاة سلسلة المحتوى داخل العنصر الأب"
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.generation.config.elements/contentconfig/alignment/
 ---
 ## ContentConfig.Alignment property
 
-محاذاة سلسلة المحتوى داخل parent
+محاذاة سلسلة المحتوى داخل العنصر الأب
 
 ```csharp
 public AlignmentEnum Alignment { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [AlignmentEnum](../../../aspose.omr.generation.config.enums/alignmentenum/)
-* class [ContentConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../contentconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [AlignmentEnum](../../../aspose.omr.generation.config.enums/alignmentenum)
+* class [ContentConfig](../../contentconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../contentconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

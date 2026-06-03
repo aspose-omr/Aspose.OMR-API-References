@@ -1,9 +1,9 @@
 ---
-title: Enum BorderType
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.Enums.BorderType تعداد. نوع الحد
+title: "نوع الحد"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نوع الحد"
 type: docs
-weight: 430
+weight: 610
 url: /ar/net/aspose.omr.generation.config.enums/bordertype/
 ---
 ## BorderType enumeration
@@ -14,17 +14,17 @@ url: /ar/net/aspose.omr.generation.config.enums/bordertype/
 public enum BorderType
 ```
 
-### قيم
+### Values
 
-| اسم | قيمة | وصف |
+| الاسم | Value | الوصف |
 | --- | --- | --- |
-| None | `0` | بدون تأطير |
+| None | `0` | بدون إطار |
 | Square | `1` | إطار مربع |
 | Rounded | `2` | إطار مستدير |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,23 +1,23 @@
 ---
-title: AnswerSheetConfig.VerticalMargin
-second_title: Aspose.OMR لمرجع .NET API
-description: AnswerSheetConfig ملكية. الهامش الرأسي لورقة الإجابة. ضبط بالبكسل.
+title: "VerticalMargin"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "الهامش العمودي لورقة الإجابات. يُحدد بالبكسل."
 type: docs
-weight: 110
+weight: 120
 url: /ar/net/aspose.omr.generation.config.elements/answersheetconfig/verticalmargin/
 ---
 ## AnswerSheetConfig.VerticalMargin property
 
-الهامش الرأسي لورقة الإجابة. ضبط بالبكسل.
+الهامش العمودي لورقة الإجابات. يُحدد بالبكسل.
 
 ```csharp
 public int VerticalMargin { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [AnswerSheetConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [AnswerSheetConfig](../../answersheetconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

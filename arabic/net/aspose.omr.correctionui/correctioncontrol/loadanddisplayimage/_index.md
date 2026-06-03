@@ -1,27 +1,27 @@
 ---
-title: CorrectionControl.LoadAndDisplayImage
-second_title: Aspose.OMR لمرجع .NET API
-description: CorrectionControl طريقة. تحميل وعرض الصورة من أجل التعرف
+title: "LoadAndDisplayImage"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "تحميل وعرض الصورة للتعرف"
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.correctionui/correctioncontrol/loadanddisplayimage/
 ---
 ## CorrectionControl.LoadAndDisplayImage method
 
-تحميل وعرض الصورة من أجل التعرف
+تحميل وعرض الصورة للتعرف
 
 ```csharp
 public void LoadAndDisplayImage(string imagePath)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| imagePath | String | المسار إلى الصورة المملوءة للتعرف عليها |
+| imagePath | سلسلة | المسار إلى الصورة المملوءة للتعرف |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [CorrectionControl](../)
-* مساحة الاسم [Aspose.OMR.CorrectionUI](../../correctioncontrol/)
-* المجسم [Aspose.OMR](../../../)
+* class [CorrectionControl](../../correctioncontrol)
+* namespace [Aspose.OMR.CorrectionUI](../../correctioncontrol)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

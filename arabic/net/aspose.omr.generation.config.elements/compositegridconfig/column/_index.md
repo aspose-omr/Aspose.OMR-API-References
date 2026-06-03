@@ -1,23 +1,23 @@
 ---
-title: CompositeGridConfig.Column
-second_title: Aspose.OMR لمرجع .NET API
-description: CompositeGridConfig ملكية. عند رسم عنصر في أصل متعدد الأعمدة  يمثل الموضع.
+title: "عمود"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "عند رسم العنصر في عنصر أب متعدد الأعمدة - يمثل الموقع."
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.generation.config.elements/compositegridconfig/column/
 ---
 ## CompositeGridConfig.Column property
 
-عند رسم عنصر في أصل متعدد الأعمدة - يمثل الموضع.
+عند رسم العنصر في عنصر أب متعدد الأعمدة - يمثل الموقع.
 
 ```csharp
 public int Column { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [CompositeGridConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../compositegridconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [CompositeGridConfig](../../compositegridconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../compositegridconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,23 +1,23 @@
 ---
-title: AnswerSheetConfig.AnswersValues
-second_title: Aspose.OMR لمرجع .NET API
-description: AnswerSheetConfig ملكية. تمثل كل قيمة رمزًا داخل الفقاعة. يجب أن يكون له نفس عددAnswersCount مثال سلسلة جديدة  A B C D مثال سلسلة جديدة  1 2 3 4
+title: "AnswersValues"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "كل قيمة تمثل رمزًا داخل الفقاعة. يجب أن يكون عددها مساويًا لـ AnswersCountaspose.omr.generation.config.elements/answersheetconfig/answerscount مثال new string A B C D مثال new string 1 2 3 4"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.generation.config.elements/answersheetconfig/answersvalues/
 ---
 ## AnswerSheetConfig.AnswersValues property
 
-تمثل كل قيمة رمزًا داخل الفقاعة. يجب أن يكون له نفس عدد[`AnswersCount`](../answerscount/) مثال: سلسلة جديدة [] {"A"، "B"، "C"، "D"} مثال: سلسلة جديدة [] {"1"، "2"، "3"، "4"}
+كل قيمة تمثل رمزًا داخل الفقاعة. يجب أن يكون عددها مساويًا لـ [`AnswersCount`](../answerscount) مثال: new string[]{"A", "B", "C", "D"} مثال: new string[]{"1", "2", "3", "4"}
 
 ```csharp
 public string[] AnswersValues { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [AnswerSheetConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [AnswerSheetConfig](../../answersheetconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../answersheetconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

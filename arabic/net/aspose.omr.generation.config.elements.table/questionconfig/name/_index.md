@@ -1,7 +1,7 @@
 ---
-title: QuestionConfig.Name
-second_title: Aspose.OMR لمرجع .NET API
-description: QuestionConfig ملكية. قيمة السؤال
+title: "الاسم"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "قيمة السؤال"
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.generation.config.elements.table/questionconfig/name/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.omr.generation.config.elements.table/questionconfig/name/
 public override string Name { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [QuestionConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Table](../../questionconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [QuestionConfig](../../questionconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Table](../../questionconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

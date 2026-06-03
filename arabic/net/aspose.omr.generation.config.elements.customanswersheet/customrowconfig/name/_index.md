@@ -1,7 +1,7 @@
 ---
-title: CustomRowConfig.Name
-second_title: Aspose.OMR لمرجع .NET API
-description: CustomRowConfig ملكية. اسم الصف المخصص
+title: "الاسم"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "اسم الصف المخصص"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.generation.config.elements.customanswersheet/customrowconfig/name/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.omr.generation.config.elements.customanswersheet/customrowco
 public override string Name { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [CustomRowConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../customrowconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [CustomRowConfig](../../customrowconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../customrowconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

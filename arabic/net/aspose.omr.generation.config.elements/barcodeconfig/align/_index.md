@@ -1,24 +1,24 @@
 ---
-title: BarcodeConfig.Align
-second_title: Aspose.OMR لمرجع .NET API
-description: BarcodeConfig ملكية. محاذاة الباركود في page
+title: "Align"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "محاذاة الباركود على الصفحة"
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.generation.config.elements/barcodeconfig/align/
 ---
 ## BarcodeConfig.Align property
 
-محاذاة الباركود في page
+محاذاة الباركود على الصفحة
 
 ```csharp
 public AlignmentEnum Align { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [AlignmentEnum](../../../aspose.omr.generation.config.enums/alignmentenum/)
-* class [BarcodeConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [AlignmentEnum](../../../aspose.omr.generation.config.enums/alignmentenum)
+* class [BarcodeConfig](../../barcodeconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

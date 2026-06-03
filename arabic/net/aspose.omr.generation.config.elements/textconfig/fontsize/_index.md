@@ -1,23 +1,23 @@
 ---
-title: TextConfig.FontSize
-second_title: Aspose.OMR لمرجع .NET API
-description: TextConfig ملكية. حجم النص font
+title: "حجم الخط"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "حجم خط النص"
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.generation.config.elements/textconfig/fontsize/
 ---
 ## TextConfig.FontSize property
 
-حجم النص font
+حجم خط النص
 
 ```csharp
 public int FontSize { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TextConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../textconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [TextConfig](../../textconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../textconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

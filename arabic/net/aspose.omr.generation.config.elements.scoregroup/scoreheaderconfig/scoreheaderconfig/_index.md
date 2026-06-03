@@ -1,23 +1,23 @@
 ---
-title: ScoreHeaderConfig.ScoreHeaderConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: ScoreHeaderConfig البناء. Default_Constructor
+title: "ScoreHeaderConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/scoreheaderconfig/
 ---
 ## ScoreHeaderConfig constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public ScoreHeaderConfig()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ScoreHeaderConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scoreheaderconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [ScoreHeaderConfig](../../scoreheaderconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scoreheaderconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

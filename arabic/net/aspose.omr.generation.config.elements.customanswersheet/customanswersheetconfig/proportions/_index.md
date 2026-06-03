@@ -1,23 +1,23 @@
 ---
-title: CustomAnswerSheetConfig.Proportions
-second_title: Aspose.OMR لمرجع .NET API
-description: CustomAnswerSheetConfig ملكية. نسبة العرض لكل عمود بداخله
+title: "Proportions"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نسبة عرض كل عمود داخله"
 type: docs
 weight: 130
 url: /ar/net/aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/proportions/
 ---
 ## CustomAnswerSheetConfig.Proportions property
 
-نسبة العرض لكل عمود بداخله
+نسبة عرض كل عمود داخله
 
 ```csharp
 public List<int> Proportions { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [CustomAnswerSheetConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../customanswersheetconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [CustomAnswerSheetConfig](../../customanswersheetconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../customanswersheetconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

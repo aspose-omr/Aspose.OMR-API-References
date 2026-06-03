@@ -1,22 +1,22 @@
 ---
-title: Class WritingSystem
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.WritingSystems.WritingSystem فصل. الإعدادات الثقافية
+title: "WritingSystem"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "إعدادات ثقافية"
 type: docs
-weight: 760
+weight: 1000
 url: /ar/net/aspose.omr.generation.writingsystems/writingsystem/
 ---
 ## WritingSystem class
 
-الإعدادات الثقافية
+إعدادات ثقافية
 
 ```csharp
 public abstract class WritingSystem
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Generation.WritingSystems](../../aspose.omr.generation.writingsystems/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation.WritingSystems](../../aspose.omr.generation.writingsystems)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

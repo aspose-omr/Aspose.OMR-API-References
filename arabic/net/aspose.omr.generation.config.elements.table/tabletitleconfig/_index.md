@@ -1,53 +1,53 @@
 ---
-title: Class TableTitleConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.Elements.Table.TableTitleConfig فصل. يمثل عنصر عنوان الجدول . عنوان العرض. يستعمل معTableConfig
+title: "TableTitleConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "يمثل عنصر TableTitle. يعرض العنوان. يُستخدم مع TableConfig./tableconfig"
 type: docs
-weight: 380
+weight: 560
 url: /ar/net/aspose.omr.generation.config.elements.table/tabletitleconfig/
 ---
 ## TableTitleConfig class
 
-يمثل عنصر عنوان الجدول . عنوان العرض. يستعمل مع[`TableConfig`](../tableconfig/)
+يمثل عنصر TableTitle. يعرض العنوان. يُستخدم مع [`TableConfig`](../tableconfig)
 
 ```csharp
 public class TableTitleConfig : BaseConfig
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [TableTitleConfig](tabletitleconfig/)() | Default_Constructor |
+| [TableTitleConfig](tabletitleconfig)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BorderBottomStyle](../../aspose.omr.generation.config.elements.table/tabletitleconfig/borderbottomstyle/) { get; set; } | نمط إضافي للحد السفلي |
-| [BorderLeftStyle](../../aspose.omr.generation.config.elements.table/tabletitleconfig/borderleftstyle/) { get; set; } | نمط إضافي للحد الأيسر |
-| [BorderRightStyle](../../aspose.omr.generation.config.elements.table/tabletitleconfig/borderrightstyle/) { get; set; } | نمط إضافي للحد الأيمن |
-| [BorderTopStyle](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordertopstyle/) { get; set; } | نمط إضافي للحد العلوي |
-| override [Name](../../aspose.omr.generation.config.elements.table/tabletitleconfig/name/) { get; set; } | قيمة نصية للعنوان |
-| override [Type](../../aspose.omr.generation.config.elements.table/tabletitleconfig/type/) { get; set; } | نوع عنصر omr. حقل مطلوب للتسلسل JSON . |
+| [BorderBottomStyle](../../aspose.omr.generation.config.elements.table/tabletitleconfig/borderbottomstyle) { get; set; } | نمط إضافي للحد السفلي |
+| [BorderLeftStyle](../../aspose.omr.generation.config.elements.table/tabletitleconfig/borderleftstyle) { get; set; } | نمط إضافي للحد الأيسر |
+| [BorderRightStyle](../../aspose.omr.generation.config.elements.table/tabletitleconfig/borderrightstyle) { get; set; } | نمط إضافي للحد الأيمن |
+| [BorderTopStyle](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordertopstyle) { get; set; } | نمط إضافي للحد العلوي |
+| override [Name](../../aspose.omr.generation.config.elements.table/tabletitleconfig/name) { get; set; } | قيمة النص للعنوان |
+| override [Type](../../aspose.omr.generation.config.elements.table/tabletitleconfig/type) { get; set; } | نوع عنصر OMR. حقل مطلوب لتسلسل JSON. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BackgroundColor](../../aspose.omr.generation.config.elements.table/tabletitleconfig/backgroundcolor/) | لون خلفية عنوان الجدول |
-| [BorderColor](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordercolor/) | لون الحدود |
-| [BorderSize](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordersize/) | حجم الحدود |
-| [BorderType](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordertype/) | نوع الحد |
-| [Color](../../aspose.omr.generation.config.elements.table/tabletitleconfig/color/) | لون النص |
-| [FontFamily](../../aspose.omr.generation.config.elements.table/tabletitleconfig/fontfamily/) | عائلة الخطوط للنص text |
-| [FontSize](../../aspose.omr.generation.config.elements.table/tabletitleconfig/fontsize/) | حجم النص font |
-| [FontStyle](../../aspose.omr.generation.config.elements.table/tabletitleconfig/fontstyle/) | نمط النص |
+| [BackgroundColor](../../aspose.omr.generation.config.elements.table/tabletitleconfig/backgroundcolor) | لون الخلفية لعنوان الجدول |
+| [BorderColor](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordercolor) | لون الحد |
+| [BorderSize](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordersize) | حجم الحد |
+| [BorderType](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordertype) | نوع الحد |
+| [Color](../../aspose.omr.generation.config.elements.table/tabletitleconfig/color) | لون النص |
+| [FontFamily](../../aspose.omr.generation.config.elements.table/tabletitleconfig/fontfamily) | عائلة الخط للنص |
+| [FontSize](../../aspose.omr.generation.config.elements.table/tabletitleconfig/fontsize) | حجم خط النص |
+| [FontStyle](../../aspose.omr.generation.config.elements.table/tabletitleconfig/fontstyle) | نمط النص |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BaseConfig](../../aspose.omr.generation.config/baseconfig/)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Table](../../aspose.omr.generation.config.elements.table/)
-* المجسم [Aspose.OMR](../../)
+* class [BaseConfig](../../aspose.omr.generation.config/baseconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Table](../../aspose.omr.generation.config.elements.table)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

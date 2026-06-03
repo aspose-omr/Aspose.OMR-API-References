@@ -1,14 +1,14 @@
 ---
-title: Class GenerationResult
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.GenerationResult فصل. نتيجة إنشاء النموذج . يحتوي على صورة القالب والقالب json الذي يصف موقع العناصر على الصورة .
+title: "GenerationResult"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نتيجة إنشاء القالب. يحتوي على صورة القالب وملف json للقالب الذي يصف موقع العناصر على الصورة."
 type: docs
-weight: 620
+weight: 810
 url: /ar/net/aspose.omr.generation/generationresult/
 ---
 ## GenerationResult class
 
-نتيجة إنشاء النموذج . يحتوي على صورة القالب والقالب (json الذي يصف موقع العناصر على الصورة) .
+نتيجة إنشاء القالب. يحتوي على صورة القالب والقالب (json الذي يصف موقع العناصر على الصورة).
 
 ```csharp
 public class GenerationResult
@@ -16,30 +16,31 @@ public class GenerationResult
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ErrorCode](../../aspose.omr.generation/generationresult/errorcode/) { get; set; } | الحصول على رمز الخطأ أو تعيينه. يساوي 0 في حالة عدم حدوث أخطاء. |
-| [ErrorMessage](../../aspose.omr.generation/generationresult/errormessage/) { get; set; } | الحصول على أو تعيين الرسالة التي تصف الخطأ. فارغ في حالة عدم حدوث أخطاء. |
-| [Template](../../aspose.omr.generation/generationresult/template/) { get; set; } | الحصول على أو تعيين نموذج JSON string |
-| [TemplateImage](../../aspose.omr.generation/generationresult/templateimage/) { get; set; } | الحصول على أو تعيين صورة النموذج التي تم إنشاؤها |
-| [Warnings](../../aspose.omr.generation/generationresult/warnings/) { get; set; } | الحصول على أو تعيين قائمة برسائل التحذيرات التي تصف الأخطاء غير الحرجة التي ظهرت أثناء التوليد |
+| [ErrorCode](../../aspose.omr.generation/generationresult/errorcode) { get; set; } | يحصل أو يعيّن رمز الخطأ. يساوي 0 إذا لم تحدث أخطاء. |
+| [ErrorMessage](../../aspose.omr.generation/generationresult/errormessage) { get; set; } | يحصل أو يعيّن الرسالة التي تصف الخطأ. تكون فارغة إذا لم تحدث أخطاء. |
+| [Template](../../aspose.omr.generation/generationresult/template) { get; set; } | يحصل أو يعيّن سلسلة JSON للقالب |
+| [TemplateImage](../../aspose.omr.generation/generationresult/templateimage) { get; set; } | يحصل أو يعيّن صورة القالب المُولدة |
+| [Warnings](../../aspose.omr.generation/generationresult/warnings) { get; set; } | يحصل أو يعيّن قائمة رسائل التحذير التي تصف الأخطاء غير الحرجة التي ظهرت أثناء الإنشاء |
 
-## طُرق
+## طرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Save](../../aspose.omr.generation/generationresult/save/)(string, string) | حفظ صور القالب والقالب في المجلد المحدد |
-| [SaveAsPdf](../../aspose.omr.generation/generationresult/saveaspdf/)(string, string) | حفظ صور القالب والقالب في المجلد المحدد حفظ صورة النموذج بتنسيق pdf |
+| [Save](../../aspose.omr.generation/generationresult/save)(string, string) | احفظ صور القالب والقالب في المجلد المحدد بصيغة .png |
+| [SaveAsInteractivePdf](../../aspose.omr.generation/generationresult/saveasinteractivepdf)(string, string) | احفظ نموذجًا إلى ملف PDF تفاعلي، مما يتيح للمستخدمين ملء الحقول مباشرة على حاسوبهم أو هاتفهم الذكي وإرساله إلكترونيًا. |
+| [SaveAsPdf](../../aspose.omr.generation/generationresult/saveaspdf)(string, string) | احفظ صور القالب في المجلد المحدد بصيغة .pdf. القوالب متعددة الصفحات تُحفظ كملف .pdf واحد يحتوي على عدة صفحات. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [MultipageTemplateImages](../../aspose.omr.generation/generationresult/multipagetemplateimages/) | الحصول على أو تعيين مجموعة الصور المُنشأة لقالب متعدد الصفحات |
+| [MultipageTemplateImages](../../aspose.omr.generation/generationresult/multipagetemplateimages) | يحصل أو يعيّن مجموعة الصور المُولدة لقالب متعدد الصفحات |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Generation](../../aspose.omr.generation/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation](../../aspose.omr.generation)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

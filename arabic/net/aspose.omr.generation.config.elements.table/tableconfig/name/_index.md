@@ -1,7 +1,7 @@
 ---
-title: TableConfig.Name
-second_title: Aspose.OMR لمرجع .NET API
-description: TableConfig ملكية. اسم عنصر الجدول
+title: "الاسم"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "اسم عنصر الجدول"
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.generation.config.elements.table/tableconfig/name/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.omr.generation.config.elements.table/tableconfig/name/
 public override string Name { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TableConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Table](../../tableconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [TableConfig](../../tableconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Table](../../tableconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

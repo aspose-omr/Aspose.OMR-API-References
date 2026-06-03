@@ -1,38 +1,38 @@
 ---
-title: Class ScoreGroupConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.Elements.ScoreGroup.ScoreGroupConfig فصل. تجميع الوالد. الجدول على أساس النتيجة.
+title: "ScoreGroupConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المجموعة الأصلية. جدول يعتمد على النقاط."
 type: docs
-weight: 300
+weight: 480
 url: /ar/net/aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/
 ---
 ## ScoreGroupConfig class
 
-تجميع الوالد. الجدول على أساس النتيجة.
+المجموعة الأصلية. جدول يعتمد على النقاط.
 
 ```csharp
 public class ScoreGroupConfig : ParentConfig
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ScoreGroupConfig](scoregroupconfig/)() | Default_Constructor |
+| [ScoreGroupConfig](scoregroupconfig)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Children](../../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/children/) { get; set; } | عناصر omr الفرعية. في معظم الحالات يتم وضعه داخل أحد الوالدين أو أقل. |
-| override [Name](../../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/name/) { get; set; } | اسم عنصر صفوف التكرار |
-| [ScoreGroupType](../../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/scoregrouptype/) { get; set; } | نوع مجموعة النقاط |
-| override [Type](../../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/type/) { get; set; } | نوع عنصر omr. حقل مطلوب للتسلسل JSON . |
+| override [Children](../../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/children) { get; set; } | عناصر OMR الفرعية. في معظم الحالات تكون موضوعة داخل العنصر الأب أو تحته. |
+| override [Name](../../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/name) { get; set; } | اسم عنصر RepeatRows |
+| [ScoreGroupType](../../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/scoregrouptype) { get; set; } | نوع مجموعة الدرجات |
+| override [Type](../../aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/type) { get; set; } | نوع عنصر OMR. حقل مطلوب لتسلسل JSON. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ParentConfig](../../aspose.omr.generation.config/parentconfig/)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../aspose.omr.generation.config.elements.scoregroup/)
-* المجسم [Aspose.OMR](../../)
+* class [ParentConfig](../../aspose.omr.generation.config/parentconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../aspose.omr.generation.config.elements.scoregroup)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

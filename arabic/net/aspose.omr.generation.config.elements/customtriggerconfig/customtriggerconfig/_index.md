@@ -1,23 +1,23 @@
 ---
-title: CustomTriggerConfig.CustomTriggerConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: CustomTriggerConfig البناء. Default_Constructor
+title: "CustomTriggerConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.config.elements/customtriggerconfig/customtriggerconfig/
 ---
 ## CustomTriggerConfig constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public CustomTriggerConfig()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [CustomTriggerConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../customtriggerconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [CustomTriggerConfig](../../customtriggerconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../customtriggerconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

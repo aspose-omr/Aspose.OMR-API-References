@@ -1,23 +1,23 @@
 ---
-title: BarcodeConfig.Height
-second_title: Aspose.OMR لمرجع .NET API
-description: BarcodeConfig ملكية. الارتفاع المستهدف لصورة الرمز الشريطي
+title: "ارتفاع"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "الارتفاع المستهدف لصورة الباركود"
 type: docs
 weight: 60
 url: /ar/net/aspose.omr.generation.config.elements/barcodeconfig/height/
 ---
 ## BarcodeConfig.Height property
 
-الارتفاع المستهدف لصورة الرمز الشريطي
+الارتفاع المستهدف لصورة الباركود
 
 ```csharp
 public int Height { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BarcodeConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [BarcodeConfig](../../barcodeconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,24 +1,24 @@
 ---
-title: InputGroup.LabelBorder
-second_title: Aspose.OMR لمرجع .NET API
-description: InputGroup ملكية. نوع الحدود المرسومة
+title: "LabelBorder"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نوع الحد المرسوم"
 type: docs
 weight: 100
 url: /ar/net/aspose.omr.generation.config.elements/inputgroup/labelborder/
 ---
 ## InputGroup.LabelBorder property
 
-نوع الحدود المرسومة
+نوع الحد المرسوم
 
 ```csharp
 public BorderType LabelBorder { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [BorderType](../../../aspose.omr.generation.config.enums/bordertype/)
-* class [InputGroup](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../inputgroup/)
-* المجسم [Aspose.OMR](../../../)
+* enum [BorderType](../../../aspose.omr.generation.config.enums/bordertype)
+* class [InputGroup](../../inputgroup)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../inputgroup)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,7 +1,7 @@
 ---
-title: ParagraphConfig.Name
-second_title: Aspose.OMR لمرجع .NET API
-description: ParagraphConfig ملكية. اسم الفقرة
+title: "الاسم"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "اسم الفقرة"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.generation.config.elements.parents/paragraphconfig/name/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.omr.generation.config.elements.parents/paragraphconfig/name/
 public override string Name { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ParagraphConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../paragraphconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [ParagraphConfig](../../paragraphconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../paragraphconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

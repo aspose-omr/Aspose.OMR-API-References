@@ -1,7 +1,7 @@
 ---
-title: TableTitleConfig.BorderTopStyle
-second_title: Aspose.OMR لمرجع .NET API
-description: TableTitleConfig ملكية. نمط إضافي للحد العلوي
+title: "نمط الحد العلوي"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نمط إضافي للحد العلوي"
 type: docs
 weight: 50
 url: /ar/net/aspose.omr.generation.config.elements.table/tabletitleconfig/bordertopstyle/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements.table/tabletitleconfig/border
 public BorderStyle BorderTopStyle { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BorderStyle](../../../aspose.omr.generation.config/borderstyle/)
-* class [TableTitleConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Table](../../tabletitleconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [BorderStyle](../../../aspose.omr.generation.config/borderstyle)
+* class [TableTitleConfig](../../tabletitleconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Table](../../tabletitleconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

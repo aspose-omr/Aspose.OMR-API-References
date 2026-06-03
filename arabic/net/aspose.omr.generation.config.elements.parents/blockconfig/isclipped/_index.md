@@ -1,23 +1,23 @@
 ---
-title: BlockConfig.IsClipped
-second_title: Aspose.OMR لمرجع .NET API
-description: BlockConfig ملكية. إذا كان الحظر صحيحًا  فسيتم قص كل محتوياته كصورة عند التعرف على
+title: "IsClipped"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "إذا كانت القيمة true، سيتم قطع الكتلة وكل محتواها كصورة عند التعرف"
 type: docs
 weight: 140
 url: /ar/net/aspose.omr.generation.config.elements.parents/blockconfig/isclipped/
 ---
 ## BlockConfig.IsClipped property
 
-إذا كان الحظر صحيحًا ، فسيتم قص كل محتوياته كصورة عند التعرف على
+إذا كانت الكتلة صحيحة، فسيتم قص جميع محتواها كصورة عند التعرف
 
 ```csharp
 public bool IsClipped { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BlockConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../blockconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [BlockConfig](../../blockconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../blockconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

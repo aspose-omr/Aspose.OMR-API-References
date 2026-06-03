@@ -1,44 +1,44 @@
 ---
-title: Class TableContentConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.Elements.ScoreGroup.TableContentConfig فصل. نص داخل هيكل الجدول
+title: "TableContentConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نص داخل بنية الجدول"
 type: docs
-weight: 330
+weight: 510
 url: /ar/net/aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/
 ---
 ## TableContentConfig class
 
-نص داخل هيكل الجدول
+نص داخل بنية الجدول
 
 ```csharp
 public class TableContentConfig : ContentConfig
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [TableContentConfig](tablecontentconfig/)() | Default_Constructor |
+| [TableContentConfig](tablecontentconfig)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Alignment](../../aspose.omr.generation.config.elements/contentconfig/alignment/) { get; set; } | محاذاة سلسلة المحتوى داخل parent |
-| [Color](../../aspose.omr.generation.config.elements/contentconfig/color/) { get; set; } | لون النص |
-| [Column](../../aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/column/) { get; set; } | موضع العمود في الجدول . العمود الأول - '1' |
-| [ContentType](../../aspose.omr.generation.config.elements/contentconfig/contenttype/) { get; set; } | نوع عرض النص . |
-| [FontFamily](../../aspose.omr.generation.config.elements/contentconfig/fontfamily/) { get; set; } | عائلة الخطوط للنص text |
-| [FontSize](../../aspose.omr.generation.config.elements/contentconfig/fontsize/) { get; set; } | حجم النص font |
-| [FontStyle](../../aspose.omr.generation.config.elements/contentconfig/fontstyle/) { get; set; } | نمط النص |
-| override [Name](../../aspose.omr.generation.config.elements/contentconfig/name/) { get; set; } | قيمة المحتوى |
-| [Row](../../aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/row/) { get; set; } | موضع الصف في table الصف الأول - '1' |
-| override [Type](../../aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/type/) { get; set; } | نوع عنصر omr. حقل مطلوب للتسلسل JSON . |
+| [Alignment](../../aspose.omr.generation.config.elements/contentconfig/alignment) { get; set; } | محاذاة سلسلة المحتوى داخل العنصر الأب |
+| [Color](../../aspose.omr.generation.config.elements/contentconfig/color) { get; set; } | لون النص |
+| [Column](../../aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/column) { get; set; } | موضع العمود في الجدول. العمود الأول - '1' |
+| [ContentType](../../aspose.omr.generation.config.elements/contentconfig/contenttype) { get; set; } | نوع عرض النص. |
+| [FontFamily](../../aspose.omr.generation.config.elements/contentconfig/fontfamily) { get; set; } | عائلة الخط للنص |
+| [FontSize](../../aspose.omr.generation.config.elements/contentconfig/fontsize) { get; set; } | حجم خط النص |
+| [FontStyle](../../aspose.omr.generation.config.elements/contentconfig/fontstyle) { get; set; } | نمط النص |
+| override [Name](../../aspose.omr.generation.config.elements/contentconfig/name) { get; set; } | قيمة المحتوى |
+| [Row](../../aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/row) { get; set; } | موضع الصف في الجدول. الصف الأول - '1' |
+| override [Type](../../aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/type) { get; set; } | نوع عنصر OMR. حقل مطلوب لتسلسل JSON. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ContentConfig](../../aspose.omr.generation.config.elements/contentconfig/)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../aspose.omr.generation.config.elements.scoregroup/)
-* المجسم [Aspose.OMR](../../)
+* class [ContentConfig](../../aspose.omr.generation.config.elements/contentconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../aspose.omr.generation.config.elements.scoregroup)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

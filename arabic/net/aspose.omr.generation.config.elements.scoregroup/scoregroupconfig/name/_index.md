@@ -1,23 +1,23 @@
 ---
-title: ScoreGroupConfig.Name
-second_title: Aspose.OMR لمرجع .NET API
-description: ScoreGroupConfig ملكية. اسم عنصر صفوف التكرار
+title: "الاسم"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "اسم عنصر RepeatRows"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/name/
 ---
 ## ScoreGroupConfig.Name property
 
-اسم عنصر صفوف التكرار
+اسم عنصر RepeatRows
 
 ```csharp
 public override string Name { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ScoreGroupConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scoregroupconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [ScoreGroupConfig](../../scoregroupconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scoregroupconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

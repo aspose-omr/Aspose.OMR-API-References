@@ -1,23 +1,23 @@
 ---
-title: BorderStyle.Disable
-second_title: Aspose.OMR لمرجع .NET API
-description: BorderStyle ملكية. عند التعيين على صواب  قم بتعطيل هذا الجانب من border
+title: "تعطيل"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "عند تعيينه إلى true - تعطيل هذا الجانب من الحد"
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.generation.config/borderstyle/disable/
 ---
 ## BorderStyle.Disable property
 
-عند التعيين على "صواب" - قم بتعطيل هذا الجانب من border
+عند تعيينه إلى true - تعطيل هذا الجانب من الحد
 
 ```csharp
 public bool Disable { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BorderStyle](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config](../../borderstyle/)
-* المجسم [Aspose.OMR](../../../)
+* class [BorderStyle](../../borderstyle)
+* namespace [Aspose.OMR.Generation.Config](../../borderstyle)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

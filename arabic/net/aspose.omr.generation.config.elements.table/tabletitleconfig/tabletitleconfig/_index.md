@@ -1,23 +1,23 @@
 ---
-title: TableTitleConfig.TableTitleConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: TableTitleConfig البناء. Default_Constructor
+title: "TableTitleConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.config.elements.table/tabletitleconfig/tabletitleconfig/
 ---
 ## TableTitleConfig constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public TableTitleConfig()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [TableTitleConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Table](../../tabletitleconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [TableTitleConfig](../../tabletitleconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Table](../../tabletitleconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

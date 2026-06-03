@@ -1,23 +1,23 @@
 ---
-title: WriteInConfig.FontSize
-second_title: Aspose.OMR لمرجع .NET API
-description: WriteInConfig ملكية. حجم ملفHint font
+title: "حجم الخط"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "حجم خط Hintaspose.omr.generation.config.elements/writeinconfig/hint"
 type: docs
 weight: 50
 url: /ar/net/aspose.omr.generation.config.elements/writeinconfig/fontsize/
 ---
 ## WriteInConfig.FontSize property
 
-حجم ملف[`Hint`](../hint/) font
+حجم خط [`Hint`](../hint)
 
 ```csharp
 public int FontSize { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [WriteInConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../writeinconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [WriteInConfig](../../writeinconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../writeinconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

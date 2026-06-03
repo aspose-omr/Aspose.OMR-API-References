@@ -1,24 +1,24 @@
 ---
-title: GlobalPageSettings.Overflow
-second_title: Aspose.OMR لمرجع .NET API
-description: GlobalPageSettings مجال. تعيين إجراء تجاوز السعة لكل عنصر في هذه الصفحة . التحكم في OverflowAction في العلاقات بين الوالدين والطفل عندما يتجاوز حجم العنصر الفرعي حجم العنصر الأصل المخصص .
+title: "تجاوز"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "تعيين إجراء الفائض لكل عنصر في هذه الصفحة. يتحكم OverflowAction في علاقات الأب-ابن عندما يتجاوز حجم العنصر الفرعي الحجم المخصص للعنصر الأب."
 type: docs
-weight: 90
+weight: 120
 url: /ar/net/aspose.omr.generation/globalpagesettings/overflow/
 ---
 ## GlobalPageSettings.Overflow field
 
-تعيين إجراء تجاوز السعة لكل عنصر في هذه الصفحة . التحكم في OverflowAction في العلاقات بين الوالدين والطفل عندما يتجاوز حجم العنصر الفرعي حجم العنصر الأصل المخصص .
+تعيين إجراء الفائض لكل عنصر في هذه الصفحة. يتحكم OverflowAction في علاقات الأب-ابن عندما يتجاوز حجم العنصر الفرعي الحجم المخصص للعنصر الأب.
 
 ```csharp
 public OverflowAction Overflow;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [OverflowAction](../../../aspose.omr.generation.overflowactions/overflowaction/)
-* class [GlobalPageSettings](../)
-* مساحة الاسم [Aspose.OMR.Generation](../../globalpagesettings/)
-* المجسم [Aspose.OMR](../../../)
+* class [OverflowAction](../../../aspose.omr.generation.overflowactions/overflowaction)
+* class [GlobalPageSettings](../../globalpagesettings)
+* namespace [Aspose.OMR.Generation](../../globalpagesettings)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,23 +1,23 @@
 ---
-title: WriteInConfig.FontFamily
-second_title: Aspose.OMR لمرجع .NET API
-description: WriteInConfig ملكية. عائلة الخطوط لملفHint
+title: "عائلة الخط"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "عائلة الخط لـ Hintaspose.omr.generation.config.elements/writeinconfig/hint"
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.generation.config.elements/writeinconfig/fontfamily/
 ---
 ## WriteInConfig.FontFamily property
 
-عائلة الخطوط لملف[`Hint`](../hint/)
+عائلة الخط لـ [`Hint`](../hint)
 
 ```csharp
 public string FontFamily { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [WriteInConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../writeinconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [WriteInConfig](../../writeinconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../writeinconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

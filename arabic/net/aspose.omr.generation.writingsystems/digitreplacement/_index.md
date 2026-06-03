@@ -1,9 +1,9 @@
 ---
-title: Class DigitReplacement
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.WritingSystems.DigitReplacement فصل. يمكن استبدال الأرقام
+title: "DigitReplacement"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "يمكن استبدال الأرقام"
 type: docs
-weight: 730
+weight: 950
 url: /ar/net/aspose.omr.generation.writingsystems/digitreplacement/
 ---
 ## DigitReplacement class
@@ -14,10 +14,10 @@ url: /ar/net/aspose.omr.generation.writingsystems/digitreplacement/
 public abstract class DigitReplacement : WritingSystem
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [WritingSystem](../writingsystem/)
-* مساحة الاسم [Aspose.OMR.Generation.WritingSystems](../../aspose.omr.generation.writingsystems/)
-* المجسم [Aspose.OMR](../../)
+* class [WritingSystem](../writingsystem)
+* namespace [Aspose.OMR.Generation.WritingSystems](../../aspose.omr.generation.writingsystems)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

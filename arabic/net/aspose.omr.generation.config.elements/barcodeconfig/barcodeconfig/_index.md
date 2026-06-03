@@ -1,23 +1,23 @@
 ---
-title: BarcodeConfig.BarcodeConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: BarcodeConfig البناء. Default_Constructor
+title: "BarcodeConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.config.elements/barcodeconfig/barcodeconfig/
 ---
 ## BarcodeConfig constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public BarcodeConfig()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BarcodeConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [BarcodeConfig](../../barcodeconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

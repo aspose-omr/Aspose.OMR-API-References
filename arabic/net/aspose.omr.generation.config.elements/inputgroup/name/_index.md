@@ -1,7 +1,7 @@
 ---
-title: InputGroup.Name
-second_title: Aspose.OMR لمرجع .NET API
-description: InputGroup ملكية. اسم عنصر التجميع
+title: "الاسم"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "اسم عنصر التجميع"
 type: docs
 weight: 110
 url: /ar/net/aspose.omr.generation.config.elements/inputgroup/name/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.omr.generation.config.elements/inputgroup/name/
 public override string Name { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [InputGroup](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../inputgroup/)
-* المجسم [Aspose.OMR](../../../)
+* class [InputGroup](../../inputgroup)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../inputgroup)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

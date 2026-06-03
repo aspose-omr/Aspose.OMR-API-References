@@ -1,14 +1,14 @@
 ---
-title: GlobalPageSettings.WritingSystem
-second_title: Aspose.OMR لمرجع .NET API
-description: GlobalPageSettings مجال. الإعداد المسبق لإعدادات إنشاء القالب . تضمين الاتجاه يسار إلى يمين أو يمين إلى يسار واستخدام الأرقام
+title: "WritingSystem"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "إعداد مسبق لإعدادات إنشاء القالب. يشمل اتجاه النص من اليسار إلى اليمين أو من اليمين إلى اليسار واستخدام الأرقام"
 type: docs
-weight: 140
+weight: 170
 url: /ar/net/aspose.omr.generation/globalpagesettings/writingsystem/
 ---
 ## GlobalPageSettings.WritingSystem field
 
-الإعداد المسبق لإعدادات إنشاء القالب . تضمين الاتجاه (يسار إلى يمين أو يمين إلى يسار) واستخدام الأرقام
+إعداد مسبق لإعدادات إنشاء القالب. يتضمن الاتجاهية (LeftToRight أو RightToLeft) واستخدام الأرقام
 
 ```csharp
 public WritingSystem WritingSystem;
@@ -16,13 +16,13 @@ public WritingSystem WritingSystem;
 
 ### أمثلة
 
-WritingSystem = new Western () ؛ WritingSystem = عربي جديد (صحيح) ؛
+WritingSystem = new Western(); WritingSystem = new Arabic(true);
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [WritingSystem](../../../aspose.omr.generation.writingsystems/writingsystem/)
-* class [GlobalPageSettings](../)
-* مساحة الاسم [Aspose.OMR.Generation](../../globalpagesettings/)
-* المجسم [Aspose.OMR](../../../)
+* class [WritingSystem](../../../aspose.omr.generation.writingsystems/writingsystem)
+* class [GlobalPageSettings](../../globalpagesettings)
+* namespace [Aspose.OMR.Generation](../../globalpagesettings)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

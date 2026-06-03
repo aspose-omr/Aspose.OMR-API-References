@@ -1,7 +1,7 @@
 ---
-title: CheckBoxConfig.FontStyle
-second_title: Aspose.OMR لمرجع .NET API
-description: CheckBoxConfig ملكية. نمط النص
+title: "FontStyle"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نمط النص"
 type: docs
 weight: 70
 url: /ar/net/aspose.omr.generation.config.elements.parents/checkboxconfig/fontstyle/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements.parents/checkboxconfig/fontst
 public FontStyle FontStyle { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [FontStyle](../../../aspose.omr.generation/fontstyle/)
-* class [CheckBoxConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../checkboxconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [FontStyle](../../../aspose.omr.generation/fontstyle)
+* class [CheckBoxConfig](../../checkboxconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../checkboxconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

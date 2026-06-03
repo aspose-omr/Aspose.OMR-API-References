@@ -1,23 +1,23 @@
 ---
-title: EmptyLineConfig.EmptyLineConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: EmptyLineConfig البناء. Default_Constructor
+title: "إعدادات السطر الفارغ"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.config.elements/emptylineconfig/emptylineconfig/
 ---
 ## EmptyLineConfig constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public EmptyLineConfig()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [EmptyLineConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../emptylineconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [EmptyLineConfig](../../emptylineconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../emptylineconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

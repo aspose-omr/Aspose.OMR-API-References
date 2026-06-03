@@ -1,23 +1,23 @@
 ---
-title: BubbleArrayConfig.BubbleArrayConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: BubbleArrayConfig البناء. Default_Constructor
+title: "BubbleArrayConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.config.elements.customanswersheet/bubblearrayconfig/bubblearrayconfig/
 ---
 ## BubbleArrayConfig constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public BubbleArrayConfig()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BubbleArrayConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../bubblearrayconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [BubbleArrayConfig](../../bubblearrayconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../bubblearrayconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

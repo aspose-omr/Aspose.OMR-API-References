@@ -1,29 +1,29 @@
 ---
-title: Class Arabic
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.WritingSystems.Arabic فصل. الإعداد المسبق للثقافة العربية . اليمين إلى اليسار و ١  ٢  ٣_  ٠٠٠٠ د_
+title: "العربية"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "إعداد الثقافة العربية. RightToLeft و ١٢٣"
 type: docs
-weight: 720
+weight: 930
 url: /ar/net/aspose.omr.generation.writingsystems/arabic/
 ---
 ## Arabic class
 
-الإعداد المسبق للثقافة العربية . اليمين إلى اليسار و ١ ، ٢ ، ٣_ × ٠٠٠٠ د_
+إعداد الثقافة العربية. RightToLeft و ١,٢,٣
 
 ```csharp
 public class Arabic : DigitReplacement
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Arabic](arabic/)(bool) | تهيئة اللغة العربية . |
+| [Arabic](arabic)(bool) | تهيئة الإعداد المحلي العربي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [DigitReplacement](../digitreplacement/)
-* مساحة الاسم [Aspose.OMR.Generation.WritingSystems](../../aspose.omr.generation.writingsystems/)
-* المجسم [Aspose.OMR](../../)
+* class [DigitReplacement](../digitreplacement)
+* namespace [Aspose.OMR.Generation.WritingSystems](../../aspose.omr.generation.writingsystems)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,23 +1,23 @@
 ---
-title: BarcodeConfig.Name
-second_title: Aspose.OMR لمرجع .NET API
-description: BarcodeConfig ملكية. اسم الرمز الشريطي. من أجل القيمةValue
+title: "الاسم"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "اسم الباركود. للقيمة Valueaspose.omr.generation.config.elements/barcodeconfig/value"
 type: docs
 weight: 70
 url: /ar/net/aspose.omr.generation.config.elements/barcodeconfig/name/
 ---
 ## BarcodeConfig.Name property
 
-اسم الرمز الشريطي. من أجل القيمة[`Value`](../value/)
+اسم الباركود. للقيمة [`Value`](../value)
 
 ```csharp
 public override string Name { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BarcodeConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [BarcodeConfig](../../barcodeconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../barcodeconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

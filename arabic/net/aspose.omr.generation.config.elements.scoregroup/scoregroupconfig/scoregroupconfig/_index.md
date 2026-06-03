@@ -1,23 +1,23 @@
 ---
-title: ScoreGroupConfig.ScoreGroupConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: ScoreGroupConfig البناء. Default_Constructor
+title: "ScoreGroupConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/scoregroupconfig/
 ---
 ## ScoreGroupConfig constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public ScoreGroupConfig()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ScoreGroupConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scoregroupconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [ScoreGroupConfig](../../scoregroupconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scoregroupconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

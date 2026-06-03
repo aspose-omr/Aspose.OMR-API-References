@@ -1,9 +1,9 @@
 ---
-title: Metered.GetConsumptionQuantity
-second_title: Aspose.OMR لمرجع .NET API
-description: Metered طريقة. يحصل على حجم ملف الاستهلاك
+title: "GetConsumptionQuantity"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "يحصل على حجم ملف الاستهلاك"
 type: docs
-weight: 40
+weight: 50
 url: /ar/net/aspose.omr/metered/getconsumptionquantity/
 ---
 ## Metered.GetConsumptionQuantity method
@@ -18,10 +18,10 @@ public static decimal GetConsumptionQuantity()
 
 كمية الاستهلاك
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Metered](../)
-* مساحة الاسم [Aspose.OMR](../../metered/)
-* المجسم [Aspose.OMR](../../../)
+* class [Metered](../../metered)
+* namespace [Aspose.OMR](../../metered)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

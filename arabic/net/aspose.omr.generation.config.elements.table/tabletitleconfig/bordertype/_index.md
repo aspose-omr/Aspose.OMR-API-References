@@ -1,7 +1,7 @@
 ---
-title: TableTitleConfig.BorderType
-second_title: Aspose.OMR لمرجع .NET API
-description: TableTitleConfig مجال. نوع الحد
+title: "نوع الحد"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نوع الحد"
 type: docs
 weight: 110
 url: /ar/net/aspose.omr.generation.config.elements.table/tabletitleconfig/bordertype/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements.table/tabletitleconfig/border
 public BorderType BorderType;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [BorderType](../../../aspose.omr.generation.config.enums/bordertype/)
-* class [TableTitleConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Table](../../tabletitleconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [BorderType](../../../aspose.omr.generation.config.enums/bordertype)
+* class [TableTitleConfig](../../tabletitleconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Table](../../tabletitleconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,24 +1,24 @@
 ---
-title: CompositeGridConfig.GridOrientation
-second_title: Aspose.OMR لمرجع .NET API
-description: CompositeGridConfig ملكية. اتجاه الشبكة أفقي أو عمودي. يشير إلى كيفية وضع العناصر الفرعية
+title: "GridOrientation"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "اتجاه الشبكة أفقي أو عمودي. يحدد كيفية وضع العناصر الفرعية"
 type: docs
 weight: 80
 url: /ar/net/aspose.omr.generation.config.elements/compositegridconfig/gridorientation/
 ---
 ## CompositeGridConfig.GridOrientation property
 
-اتجاه الشبكة: أفقي أو عمودي. يشير إلى كيفية وضع العناصر الفرعية
+اتجاه الشبكة: أفقي أو عمودي. يشير إلى كيفية تموضع العناصر الفرعية
 
 ```csharp
 public Orientation GridOrientation { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [Orientation](../../../aspose.omr.generation/orientation/)
-* class [CompositeGridConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../compositegridconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [Orientation](../../../aspose.omr.generation/orientation)
+* class [CompositeGridConfig](../../compositegridconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../compositegridconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

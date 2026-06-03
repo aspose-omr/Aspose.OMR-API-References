@@ -1,29 +1,29 @@
 ---
-title: Enum BubbleType
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.Enums.BubbleType تعداد. نوع الفقاعة .
+title: "BubbleType"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نوع الفقاعة."
 type: docs
-weight: 450
+weight: 630
 url: /ar/net/aspose.omr.generation.config.enums/bubbletype/
 ---
 ## BubbleType enumeration
 
-نوع الفقاعة .
+نوع الفقاعة.
 
 ```csharp
 public enum BubbleType
 ```
 
-### قيم
+### Values
 
-| اسم | قيمة | وصف |
+| الاسم | Value | الوصف |
 | --- | --- | --- |
 | Round | `0` | فقاعة مستديرة |
 | Square | `1` | فقاعة مربعة |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation.Config.Enums](../../aspose.omr.generation.config.enums)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

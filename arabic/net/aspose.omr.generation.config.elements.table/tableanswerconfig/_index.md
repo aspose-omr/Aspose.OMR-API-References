@@ -1,36 +1,36 @@
 ---
-title: Class TableAnswerConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.Elements.Table.TableAnswerConfig فصل. عنصرTableHeaderConfig . تمثيل رأس العمود.
+title: "TableAnswerConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "عنصر من TableHeaderConfig./tableheaderconfig. يمثل رأس العمود."
 type: docs
-weight: 350
+weight: 530
 url: /ar/net/aspose.omr.generation.config.elements.table/tableanswerconfig/
 ---
 ## TableAnswerConfig class
 
-عنصر[`TableHeaderConfig`](../tableheaderconfig/) . تمثيل رأس العمود.
+عنصر من [`TableHeaderConfig`](../tableheaderconfig). يمثل رأس العمود.
 
 ```csharp
 public class TableAnswerConfig : BaseConfig
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [TableAnswerConfig](tableanswerconfig/)() | Default_Constructor |
+| [TableAnswerConfig](tableanswerconfig)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Name](../../aspose.omr.generation.config.elements.table/tableanswerconfig/name/) { get; set; } | عنوان رأس العمود |
-| override [Type](../../aspose.omr.generation.config.elements.table/tableanswerconfig/type/) { get; set; } | نوع عنصر omr. حقل مطلوب للتسلسل JSON . |
+| override [Name](../../aspose.omr.generation.config.elements.table/tableanswerconfig/name) { get; set; } | عنوان رأس العمود |
+| override [Type](../../aspose.omr.generation.config.elements.table/tableanswerconfig/type) { get; set; } | نوع عنصر OMR. حقل مطلوب لتسلسل JSON. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BaseConfig](../../aspose.omr.generation.config/baseconfig/)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Table](../../aspose.omr.generation.config.elements.table/)
-* المجسم [Aspose.OMR](../../)
+* class [BaseConfig](../../aspose.omr.generation.config/baseconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Table](../../aspose.omr.generation.config.elements.table)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

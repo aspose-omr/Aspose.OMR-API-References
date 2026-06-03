@@ -1,34 +1,34 @@
 ---
-title: Class ImageCollection
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Api.ImageCollection فصل. مجموعة من الصور التي يمكن استخدامها لإنشاء القوالب. على سبيل المثالAspose.OMR.Api.OmrEngine.GenerateTemplateMemoryStream ImageCollection يمكن أن تكون مفيدة عندما لا تكون صورك في نظام الملفات.
+title: "ImageCollection"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "مجموعة من الصور التي يمكن استخدامها لإنشاء القالب. على سبيل المثال Generate./omrengine/generate يمكن أن تكون مفيدة عندما لا تكون صورك في نظام الملفات."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.api/imagecollection/
 ---
 ## ImageCollection class
 
-مجموعة من الصور التي يمكن استخدامها لإنشاء القوالب. على سبيل المثال!:Aspose.OMR.Api.OmrEngine.GenerateTemplate(MemoryStream, ImageCollection) يمكن أن تكون مفيدة عندما لا تكون صورك في نظام الملفات.
+مجموعة من الصور التي يمكن استخدامها لإنشاء القالب. على سبيل المثال [`Generate`](../omrengine/generate) يمكن أن تكون مفيدة عندما لا تكون صورك في نظام الملفات.
 
 ```csharp
 public class ImageCollection
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ImageCollection](imagecollection/)() | Default_Constructor |
+| [ImageCollection](imagecollection)() | المنشئ الافتراضي. |
 
-## طُرق
+## طرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Add](../../aspose.omr.api/imagecollection/add/)(string, MemoryStream) | إضافة صورة إلى المجموعة. |
+| [Add](../../aspose.omr.api/imagecollection/add)(string, MemoryStream) | إضافة صورة إلى المجموعة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Api](../../aspose.omr.api/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Api](../../aspose.omr.api)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

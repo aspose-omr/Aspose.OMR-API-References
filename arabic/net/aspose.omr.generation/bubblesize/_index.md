@@ -1,9 +1,9 @@
 ---
-title: Enum BubbleSize
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.BubbleSize تعداد. أحجام الفقاعات
+title: "BubbleSize"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "أحجام الفقاعات"
 type: docs
-weight: 50
+weight: 210
 url: /ar/net/aspose.omr.generation/bubblesize/
 ---
 ## BubbleSize enumeration
@@ -14,20 +14,20 @@ url: /ar/net/aspose.omr.generation/bubblesize/
 public enum BubbleSize
 ```
 
-### قيم
+### Values
 
-| اسم | قيمة | وصف |
+| الاسم | Value | الوصف |
 | --- | --- | --- |
-| undefined | `0` | لم يتم تعيين القيمة ويجب استبدالها |
+| undefined | `0` | القيمة لم يتم تعيينها ويجب استبدالها |
 | Extrasmall | `10` | مسؤول عن حجم الفقاعة 40 |
 | Small | `20` | مسؤول عن حجم الفقاعة 50 |
-| Normal | `30` | مسؤول عن حجم الفقاعة: 60 |
+| Normal | `30` | مسؤول عن حجم الفقاعة 60 |
 | Large | `40` | مسؤول عن حجم الفقاعة 80 |
-| Extralarge | `50` | مسؤول عن حجم الفقاعة 100 |
+| Extralarge | `50` | مسؤول عن حجم الفقاعات 100 |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Generation](../../aspose.omr.generation/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation](../../aspose.omr.generation)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

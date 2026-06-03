@@ -1,28 +1,28 @@
 ---
-title: GenerationResult.SaveAsPdf
-second_title: Aspose.OMR لمرجع .NET API
-description: GenerationResult طريقة. حفظ صور القالب والقالب في المجلد المحدد حفظ صورة النموذج بتنسيق pdf
+title: "SaveAsPdf"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "احفظ صور القالب في المجلد المحدد بصيغة .pdf. القوالب متعددة الصفحات تُحفظ كملف .pdf واحد يحتوي على عدة صفحات."
 type: docs
-weight: 80
+weight: 90
 url: /ar/net/aspose.omr.generation/generationresult/saveaspdf/
 ---
 ## GenerationResult.SaveAsPdf method
 
-حفظ صور القالب والقالب في المجلد المحدد حفظ صورة النموذج بتنسيق pdf
+احفظ صور القالب في المجلد المحدد بصيغة .pdf. القوالب متعددة الصفحات تُحفظ كملف .pdf واحد يحتوي على عدة صفحات.
 
 ```csharp
 public void SaveAsPdf(string folder, string name)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| folder | String | مجلد الوجهة |
-| name | String | اسم النموذج |
+| مجلد | سلسلة | مجلد الوجهة |
+| الاسم | سلسلة | اسم القالب |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [GenerationResult](../)
-* مساحة الاسم [Aspose.OMR.Generation](../../generationresult/)
-* المجسم [Aspose.OMR](../../../)
+* class [GenerationResult](../../generationresult)
+* namespace [Aspose.OMR.Generation](../../generationresult)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

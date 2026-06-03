@@ -1,24 +1,24 @@
 ---
-title: BlockConfig.BorderType
-second_title: Aspose.OMR لمرجع .NET API
-description: BlockConfig ملكية. نوع الحدود المرسومة
+title: "نوع الحد"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نوع الحد المرسوم"
 type: docs
 weight: 90
 url: /ar/net/aspose.omr.generation.config.elements.parents/blockconfig/bordertype/
 ---
 ## BlockConfig.BorderType property
 
-نوع الحدود المرسومة
+نوع الحد المرسوم
 
 ```csharp
 public BorderType BorderType { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [BorderType](../../../aspose.omr.generation.config.enums/bordertype/)
-* class [BlockConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../blockconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [BorderType](../../../aspose.omr.generation.config.enums/bordertype)
+* class [BlockConfig](../../blockconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../blockconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

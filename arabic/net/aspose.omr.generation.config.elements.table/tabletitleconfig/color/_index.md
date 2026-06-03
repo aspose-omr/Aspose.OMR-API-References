@@ -1,7 +1,7 @@
 ---
-title: TableTitleConfig.Color
-second_title: Aspose.OMR لمرجع .NET API
-description: TableTitleConfig مجال. لون النص
+title: "اللون"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "لون النص"
 type: docs
 weight: 120
 url: /ar/net/aspose.omr.generation.config.elements.table/tabletitleconfig/color/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements.table/tabletitleconfig/color/
 public Color Color;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [Color](../../../aspose.omr.generation/color/)
-* class [TableTitleConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Table](../../tabletitleconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [Color](../../../aspose.omr.generation/color)
+* class [TableTitleConfig](../../tabletitleconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Table](../../tabletitleconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

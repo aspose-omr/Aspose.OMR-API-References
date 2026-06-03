@@ -1,39 +1,39 @@
 ---
-title: Class VerticalChoiceBoxConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.Elements.Parents.VerticalChoiceBoxConfig فصل. يتكون VerticalChoiceBox من ملفAnswerConfig عنصر يحتوي على رد قصير وContentConfig العناصر التي تصف خيار الاستجابة بالتفصيل. يمكن أن تحتوي أيضًا على ملفWriteInConfigعنصر يمكن للمستخدم إدخال إجابته فيه.
+title: "VerticalChoiceBoxConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "يتكون VerticalChoiceBox من عنصر AnswerConfig./answerconfig يحتوي على استجابة قصيرة وعناصر ContentConfig../aspose.omr.generation.config.elements/contentconfig التي تصف خيار الاستجابة بالتفصيل. يمكنه أيضًا احتواء عنصر WriteInConfig../aspose.omr.generation.config.elements/writeinconfig الذي يمكن للمستخدم من خلاله إدخال إجابته الخاصة."
 type: docs
-weight: 280
+weight: 460
 url: /ar/net/aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/
 ---
 ## VerticalChoiceBoxConfig class
 
-يتكون VerticalChoiceBox من ملف[`AnswerConfig`](../answerconfig/) عنصر يحتوي على رد قصير و[`ContentConfig`](../../aspose.omr.generation.config.elements/contentconfig/) العناصر التي تصف خيار الاستجابة بالتفصيل. يمكن أن تحتوي أيضًا على ملف[`WriteInConfig`](../../aspose.omr.generation.config.elements/writeinconfig/)عنصر يمكن للمستخدم إدخال إجابته فيه.
+يتكون VerticalChoiceBox من عنصر [`AnswerConfig`](../answerconfig) يحتوي على استجابة قصيرة وعناصر [`ContentConfig`](../../aspose.omr.generation.config.elements/contentconfig) التي تصف خيار الاستجابة بالتفصيل. يمكنه أيضًا احتواء عنصر [`WriteInConfig`](../../aspose.omr.generation.config.elements/writeinconfig) الذي يمكن للمستخدم من خلاله إدخال إجابته الخاصة.
 
 ```csharp
 public class VerticalChoiceBoxConfig : ParentConfig
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [VerticalChoiceBoxConfig](verticalchoiceboxconfig/)() | Default_Constructor |
+| [VerticalChoiceBoxConfig](verticalchoiceboxconfig)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Children](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/children/) { get; set; } | عناصر omr الفرعية. في معظم الحالات يتم وضعه داخل أحد الوالدين أو أقل. |
-| override [Name](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/name/) { get; set; } | قيمة السؤال |
-| [Threshold](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/threshold/) { get; set; } | النسبة المئوية لوحدات البكسل التي يتم بعدها تمييز الفقاعات التفسيرية |
-| [TopPadding](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/toppadding/) { get; set; } | مقدار البكسل. يمكن استخدامها لإضافة مساحة إضافية فوق العنصر. أو إزالة المساحة الموجودة عن طريق تعيين قيمة سالبة (على سبيل المثال -40) |
-| override [Type](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/type/) { get; set; } | نوع عنصر omr. حقل مطلوب للتسلسل JSON . |
+| override [Children](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/children) { get; set; } | عناصر OMR الفرعية. في معظم الحالات تكون موضوعة داخل العنصر الأب أو تحته. |
+| override [Name](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/name) { get; set; } | قيمة السؤال |
+| [Threshold](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/threshold) { get; set; } | نسبة البكسلات التي بعد تجاوزها تُعتبر الفقاعات مُعلَّمة. إذا كانت موجودة، تتجاوز العتبة العالمية المقدمة أثناء التعرف. |
+| [TopPadding](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/toppadding) { get; set; } | عدد البكسلات. يمكن استخدامه لإضافة مساحة إضافية فوق العنصر. أو إزالة المساحة الحالية بتعيين قيمة سلبية (مثال: -40). |
+| override [Type](../../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig/type) { get; set; } | نوع عنصر OMR. حقل مطلوب لتسلسل JSON. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ParentConfig](../../aspose.omr.generation.config/parentconfig/)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Parents](../../aspose.omr.generation.config.elements.parents/)
-* المجسم [Aspose.OMR](../../)
+* class [ParentConfig](../../aspose.omr.generation.config/parentconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Parents](../../aspose.omr.generation.config.elements.parents)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

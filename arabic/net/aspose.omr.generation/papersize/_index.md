@@ -1,33 +1,35 @@
 ---
-title: Enum PaperSize
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.PaperSize تعداد. حجم الورقة
+title: "PaperSize"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "حجم الورق"
 type: docs
-weight: 700
+weight: 890
 url: /ar/net/aspose.omr.generation/papersize/
 ---
 ## PaperSize enumeration
 
-حجم الورقة
+حجم الورق
 
 ```csharp
 public enum PaperSize
 ```
 
-### قيم
+### Values
 
-| اسم | قيمة | وصف |
+| الاسم | Value | الوصف |
 | --- | --- | --- |
-| Letter | `0` | حجم الرسالة (2551 × 3295 بكسل) |
+| undefined | `0` | سيتم استخدام القيمة الافتراضية |
+| Letter | `7` | حجم Letter (2551 × 3295 بكسل) |
 | A4 | `1` | حجم A4 (2480 × 3508 بكسل) |
-| Legal | `2` | الحجم القانوني (2551 × 4205 بكسل) |
-| Tabloid | `3` | Tabloid ، مقاس 11 × 17 بوصة (3295 × 5102) |
-| p8519 | `4` | 8.5 "× 19" حجم (2551 × 5702) |
-| p8521 | `5` | 8.5 × 21 بوصة الحجم (2551 × 6302) |
+| Legal | `2` | حجم Legal (2551 × 4205 بكسل) |
+| Tabloid | `3` | Tabloid, 11\" x 17\" حجم(3295 x 5102) |
+| p8519 | `4` | 8.5\" x 19\" حجم(2551 x 5702) |
+| p8521 | `5` | 8.5 x 21\" حجم(2551 x 6302) |
+| A3 | `6` | 11.69\" x 16.54\" حجم(3508 x 4961) |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Generation](../../aspose.omr.generation/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation](../../aspose.omr.generation)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,7 +1,7 @@
 ---
-title: ScoreQuestionConfig.FontStyle
-second_title: Aspose.OMR لمرجع .NET API
-description: ScoreQuestionConfig ملكية. نمط النص
+title: "FontStyle"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نمط النص"
 type: docs
 weight: 50
 url: /ar/net/aspose.omr.generation.config.elements.scoregroup/scorequestionconfig/fontstyle/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements.scoregroup/scorequestionconfi
 public FontStyle FontStyle { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [FontStyle](../../../aspose.omr.generation/fontstyle/)
-* class [ScoreQuestionConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scorequestionconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [FontStyle](../../../aspose.omr.generation/fontstyle)
+* class [ScoreQuestionConfig](../../scorequestionconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.ScoreGroup](../../scorequestionconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

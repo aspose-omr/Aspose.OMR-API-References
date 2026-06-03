@@ -1,24 +1,24 @@
 ---
-title: CustomAnswerSheetConfig.Type
-second_title: Aspose.OMR لمرجع .NET API
-description: CustomAnswerSheetConfig ملكية. نوع عنصر omr. حقل مطلوب للتسلسل JSON .
+title: "النوع"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نوع عنصر OMR. حقل مطلوب لتسلسل JSON."
 type: docs
-weight: 140
+weight: 150
 url: /ar/net/aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/type/
 ---
 ## CustomAnswerSheetConfig.Type property
 
-نوع عنصر omr. حقل مطلوب للتسلسل JSON .
+نوع عنصر OMR. حقل مطلوب لتسلسل JSON.
 
 ```csharp
 public override ConfigType Type { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [ConfigType](../../../aspose.omr.generation.config.enums/configtype/)
-* class [CustomAnswerSheetConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../customanswersheetconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [ConfigType](../../../aspose.omr.generation.config.enums/configtype)
+* class [CustomAnswerSheetConfig](../../customanswersheetconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.CustomAnswerSheet](../../customanswersheetconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

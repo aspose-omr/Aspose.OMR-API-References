@@ -1,23 +1,23 @@
 ---
-title: ChoiceBoxConfig.FontFamily
-second_title: Aspose.OMR لمرجع .NET API
-description: ChoiceBoxConfig ملكية. عائلة الخطوط للنص text
+title: "عائلة الخط"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "عائلة الخط للنص"
 type: docs
 weight: 50
 url: /ar/net/aspose.omr.generation.config.elements/choiceboxconfig/fontfamily/
 ---
 ## ChoiceBoxConfig.FontFamily property
 
-عائلة الخطوط للنص text
+عائلة الخط للنص
 
 ```csharp
 public string FontFamily { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [ChoiceBoxConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../choiceboxconfig/)
-* المجسم [Aspose.OMR](../../../)
+* class [ChoiceBoxConfig](../../choiceboxconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../choiceboxconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,7 +1,7 @@
 ---
-title: TableHeaderConfig.FontStyle
-second_title: Aspose.OMR لمرجع .NET API
-description: TableHeaderConfig مجال. نمط النص
+title: "FontStyle"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "نمط النص"
 type: docs
 weight: 70
 url: /ar/net/aspose.omr.generation.config.elements.table/tableheaderconfig/fontstyle/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements.table/tableheaderconfig/fonts
 public FontStyle FontStyle;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* enum [FontStyle](../../../aspose.omr.generation/fontstyle/)
-* class [TableHeaderConfig](../)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements.Table](../../tableheaderconfig/)
-* المجسم [Aspose.OMR](../../../)
+* enum [FontStyle](../../../aspose.omr.generation/fontstyle)
+* class [TableHeaderConfig](../../tableheaderconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements.Table](../../tableheaderconfig)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

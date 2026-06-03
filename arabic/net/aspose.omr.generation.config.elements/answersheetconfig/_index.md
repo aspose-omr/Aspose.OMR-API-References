@@ -1,50 +1,51 @@
 ---
-title: Class AnswerSheetConfig
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.Config.Elements.AnswerSheetConfig فصل. يمثل عنصر ورقة الإجابة. يسمح بإضافة مربعات اختيار مجمعة في أعمدة وصفوف. استخدم ورقة الإجابة إذا كنت ترغب في احتواء الكثير من الأسئلة على إحدى الصفحات نظرًا لأنها تقع بالقرب من بعضها البعض .
+title: "AnswerSheetConfig"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "يمثل عنصر ورقة الإجابة. يسمح بإضافة صناديق اختيار مُجمعة في أعمدة وصفوف. استخدم ورقة الإجابة إذا أردت وضع عدد كبير من الأسئلة على صفحة لأنها تقع بالقرب من بعضها البعض."
 type: docs
-weight: 90
+weight: 250
 url: /ar/net/aspose.omr.generation.config.elements/answersheetconfig/
 ---
 ## AnswerSheetConfig class
 
-يمثل عنصر ورقة الإجابة. يسمح بإضافة مربعات اختيار مجمعة في أعمدة وصفوف. استخدم ورقة الإجابة إذا كنت ترغب في احتواء الكثير من الأسئلة على إحدى الصفحات نظرًا لأنها تقع بالقرب من بعضها البعض .
+يمثل عنصر ورقة الإجابة. يسمح بإضافة صناديق اختيار مُجمعة في أعمدة وصفوف. استخدم ورقة الإجابة إذا أردت وضع عدد كبير من الأسئلة على صفحة لأنها تقع بالقرب من بعضها البعض.
 
 ```csharp
 public class AnswerSheetConfig : BaseConfig
 ```
 
-## المنشئون
+## المنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AnswerSheetConfig](answersheetconfig/)() | Default_Constructor |
+| [AnswerSheetConfig](answersheetconfig)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AnswersCount](../../aspose.omr.generation.config.elements/answersheetconfig/answerscount/) { get; set; } | عدد خيارات الإجابة لكل سؤال في ورقة الإجابة. |
-| [AnswersValues](../../aspose.omr.generation.config.elements/answersheetconfig/answersvalues/) { get; set; } | تمثل كل قيمة رمزًا داخل الفقاعة. يجب أن يكون له نفس عدد[`AnswersCount`](./answerscount/) مثال: سلسلة جديدة [] {"A"، "B"، "C"، "D"} مثال: سلسلة جديدة [] {"1"، "2"، "3"، "4"} |
-| [BubbleType](../../aspose.omr.generation.config.elements/answersheetconfig/bubbletype/) { get; set; } | نوع الفقاعة |
-| [Column](../../aspose.omr.generation.config.elements/answersheetconfig/column/) { get; set; } | يشير إلى العمود الذي سيتم رسم الورقة فيه |
-| [ColumnsCount](../../aspose.omr.generation.config.elements/answersheetconfig/columnscount/) { get; set; } | يحدد عدد الأعمدة المراد رسمها. |
-| [ElementsCount](../../aspose.omr.generation.config.elements/answersheetconfig/elementscount/) { get; set; } | يحدد العدد الإجمالي للأسئلة في ورقة الإجابة. |
-| override [Name](../../aspose.omr.generation.config.elements/answersheetconfig/name/) { get; set; } | اسم ورقة الإجابة |
-| [StartId](../../aspose.omr.generation.config.elements/answersheetconfig/startid/) { get; set; } | فهرس البداية للأسئلة numbering |
-| override [Type](../../aspose.omr.generation.config.elements/answersheetconfig/type/) { get; set; } | نوع عنصر omr. حقل مطلوب للتسلسل JSON . |
-| [VerticalMargin](../../aspose.omr.generation.config.elements/answersheetconfig/verticalmargin/) { get; set; } | الهامش الرأسي لورقة الإجابة. ضبط بالبكسل. |
+| [AnswersCount](../../aspose.omr.generation.config.elements/answersheetconfig/answerscount) { get; set; } | عدد خيارات الإجابة لكل سؤال في ورقة الإجابات. |
+| [AnswersValues](../../aspose.omr.generation.config.elements/answersheetconfig/answersvalues) { get; set; } | كل قيمة تمثل رمزًا داخل الفقاعة. يجب أن يكون العدد نفسه كما في [`AnswersCount`](./answerscount) مثال: new string[] {\"A\", \"B\", \"C\", \"D\"} مثال: new string[] {\"1\", \"2\", \"3\", \"4\"} |
+| [BubbleType](../../aspose.omr.generation.config.elements/answersheetconfig/bubbletype) { get; set; } | نوع الفقاعة |
+| [Column](../../aspose.omr.generation.config.elements/answersheetconfig/column) { get; set; } | يشير إلى العمود الذي سيتم رسم الورقة فيه |
+| [ColumnsCount](../../aspose.omr.generation.config.elements/answersheetconfig/columnscount) { get; set; } | يضبط عدد الأعمدة التي سيتم رسمها. |
+| [ElementsCount](../../aspose.omr.generation.config.elements/answersheetconfig/elementscount) { get; set; } | يحدد إجمالي عدد الأسئلة في ورقة الإجابات. |
+| [Multiselect](../../aspose.omr.generation.config.elements/answersheetconfig/multiselect) { get; set; } | السماح باختيار إجابات متعددة لكل سؤال يتجاوز الإعدادات الافتراضية في [`Multiselect`](../../aspose.omr.generation/globalpagesettings/multiselect) |
+| override [Name](../../aspose.omr.generation.config.elements/answersheetconfig/name) { get; set; } | اسم ورقة الإجابات |
+| [StartId](../../aspose.omr.generation.config.elements/answersheetconfig/startid) { get; set; } | الفهرس الابتدائي لترقيم الأسئلة |
+| override [Type](../../aspose.omr.generation.config.elements/answersheetconfig/type) { get; set; } | نوع عنصر OMR. حقل مطلوب لتسلسل JSON. |
+| [VerticalMargin](../../aspose.omr.generation.config.elements/answersheetconfig/verticalmargin) { get; set; } | الهامش العمودي لورقة الإجابات. يُحدد بالبكسل. |
 
-## مجالات
+## الحقول
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BubbleSize](../../aspose.omr.generation.config.elements/answersheetconfig/bubblesize/) | حجم الفقاعة |
+| [BubbleSize](../../aspose.omr.generation.config.elements/answersheetconfig/bubblesize) | حجم الفقاعة |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [BaseConfig](../../aspose.omr.generation.config/baseconfig/)
-* مساحة الاسم [Aspose.OMR.Generation.Config.Elements](../../aspose.omr.generation.config.elements/)
-* المجسم [Aspose.OMR](../../)
+* class [BaseConfig](../../aspose.omr.generation.config/baseconfig)
+* namespace [Aspose.OMR.Generation.Config.Elements](../../aspose.omr.generation.config.elements)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

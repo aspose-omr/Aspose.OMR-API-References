@@ -1,23 +1,23 @@
 ---
-title: IOmrElement.QuestionName
-second_title: Aspose.OMR لمرجع .NET API
-description: IOmrElement ملكية. الحصول على اسم السؤال أو تعيينه
+title: "QuestionName"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "يحصل أو يعيّن Question Name"
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.model/iomrelement/questionname/
 ---
 ## IOmrElement.QuestionName property
 
-الحصول على اسم السؤال أو تعيينه
+يحصل أو يعيّن Question Name
 
 ```csharp
 public string QuestionName { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* interface [IOmrElement](../)
-* مساحة الاسم [Aspose.OMR.Model](../../iomrelement/)
-* المجسم [Aspose.OMR](../../../)
+* interface [IOmrElement](../../iomrelement)
+* namespace [Aspose.OMR.Model](../../iomrelement)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

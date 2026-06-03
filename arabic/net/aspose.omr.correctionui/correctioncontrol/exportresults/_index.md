@@ -1,7 +1,7 @@
 ---
-title: CorrectionControl.ExportResults
-second_title: Aspose.OMR لمرجع .NET API
-description: CorrectionControl طريقة. تصدير نتائج التعرف للصورة
+title: "ExportResults"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "تصدير نتائج التعرف للصورة"
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.correctionui/correctioncontrol/exportresults/
@@ -14,14 +14,14 @@ url: /ar/net/aspose.omr.correctionui/correctioncontrol/exportresults/
 public void ExportResults(string exportPath)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| exportPath | String | مسار التصدير |
+| exportPath | سلسلة | المسار إلى التصدير |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [CorrectionControl](../)
-* مساحة الاسم [Aspose.OMR.CorrectionUI](../../correctioncontrol/)
-* المجسم [Aspose.OMR](../../../)
+* class [CorrectionControl](../../correctioncontrol)
+* namespace [Aspose.OMR.CorrectionUI](../../correctioncontrol)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

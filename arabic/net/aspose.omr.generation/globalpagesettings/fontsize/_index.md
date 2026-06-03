@@ -1,23 +1,23 @@
 ---
-title: GlobalPageSettings.FontSize
-second_title: Aspose.OMR لمرجع .NET API
-description: GlobalPageSettings مجال. حجم النص font
+title: "حجم الخط"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "حجم خط النص"
 type: docs
-weight: 50
+weight: 60
 url: /ar/net/aspose.omr.generation/globalpagesettings/fontsize/
 ---
 ## GlobalPageSettings.FontSize field
 
-حجم النص font
+حجم خط النص
 
 ```csharp
 public int FontSize;
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [GlobalPageSettings](../)
-* مساحة الاسم [Aspose.OMR.Generation](../../globalpagesettings/)
-* المجسم [Aspose.OMR](../../../)
+* class [GlobalPageSettings](../../globalpagesettings)
+* namespace [Aspose.OMR.Generation](../../globalpagesettings)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

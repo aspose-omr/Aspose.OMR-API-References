@@ -1,9 +1,9 @@
 ---
-title: Enum FontStyle
-second_title: Aspose.OMR لمرجع .NET API
-description: Aspose.OMR.Generation.FontStyle تعداد. أنماط الخط
+title: "FontStyle"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "أنماط الخط"
 type: docs
-weight: 610
+weight: 800
 url: /ar/net/aspose.omr.generation/fontstyle/
 ---
 ## FontStyle enumeration
@@ -14,20 +14,20 @@ url: /ar/net/aspose.omr.generation/fontstyle/
 public enum FontStyle
 ```
 
-### قيم
+### Values
 
-| اسم | قيمة | وصف |
+| الاسم | Value | الوصف |
 | --- | --- | --- |
-| undefined | `0` | لم يتم تعيين القيمة ويجب استبدالها |
+| undefined | `0` | القيمة لم يتم تعيينها ويجب استبدالها |
 | Regular | `16` | نص عادي |
-| Bold | `1` | النص الجريء |
+| Bold | `1` | النص الغامق |
 | Italic | `2` | نص مائل |
-| Underline | `4` | نص تحته خط |
-| Strikeout | `8` | نص بخط يمر بالوسط |
+| Underline | `4` | نص تحت خط |
+| Strikeout | `8` | نص بخط عبر الوسط |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.OMR.Generation](../../aspose.omr.generation/)
-* المجسم [Aspose.OMR](../../)
+* namespace [Aspose.OMR.Generation](../../aspose.omr.generation)
+* assembly [Aspose.OMR](../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

@@ -1,23 +1,23 @@
 ---
-title: Wrap.Wrap
-second_title: Aspose.OMR لمرجع .NET API
-description: Wrap البناء. Default_Constructor
+title: "تغليف"
+second_title: "Aspose.OMR لـ .NET مرجع API"
+description: "المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.overflowactions/wrap/wrap/
 ---
 ## Wrap constructor
 
-Default_Constructor
+المنشئ الافتراضي.
 
 ```csharp
 public Wrap()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* class [Wrap](../)
-* مساحة الاسم [Aspose.OMR.Generation.OverflowActions](../../wrap/)
-* المجسم [Aspose.OMR](../../../)
+* class [Wrap](../../wrap)
+* namespace [Aspose.OMR.Generation.OverflowActions](../../wrap)
+* assembly [Aspose.OMR](../../../)
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

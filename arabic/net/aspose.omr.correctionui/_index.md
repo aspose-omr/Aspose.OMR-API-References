@@ -1,17 +1,17 @@
 ---
-title: Aspose.OMR.CorrectionUI
-second_title: Aspose.OMR لمرجع .NET API
+title: "Aspose.OMR.CorrectionUI"
+second_title: "Aspose.OMR لـ .NET مرجع API"
 description: 
 type: docs
-weight: 30
+weight: 60
 url: /ar/net/aspose.omr.correctionui/
 ---
 
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| الفئة | الوصف |
 | --- | --- |
-| [CorrectionControl](./correctioncontrol/) | تحكم المستخدم الذي يسمح بالتعرف على الصور وتصحيح ومعايرة معلمات التعرف |
+| [CorrectionControl](./correctioncontrol) | عنصر التحكم المستخدم الذي يسمح بالتعرف على الصور وتصحيح ومعايرة معلمات التعرف |
 
-
+<!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->
