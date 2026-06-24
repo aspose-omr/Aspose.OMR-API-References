@@ -1,14 +1,14 @@
 ---
 title: "النوع"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "نوع عنصر omr. لا يحتوي على قيمة افتراضية. يجب تجاوزه."
+description: "نوع عنصر OMR. لا يحتوي على قيمة افتراضية. يجب تجاوزها."
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.generation.config/baseconfig/type/
 ---
 ## BaseConfig.Type property
 
-نوع عنصر omr. لا يحتوي على قيمة افتراضية. يجب تجاوزه.
+نوع عنصر OMR. لا يحتوي على قيمة افتراضية. يجب تجاوزها.
 
 ```csharp
 public abstract ConfigType Type { get; set; }

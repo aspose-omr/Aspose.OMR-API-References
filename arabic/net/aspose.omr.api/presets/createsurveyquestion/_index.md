@@ -1,7 +1,7 @@
 ---
 title: "CreateSurveyQuestion"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "إنشاء سؤال بعدد متغيّر من الإجابات. يُستخدم في CreateSurveystring GlobalPageSettings ChoiceBoxConfig."
+description: "إنشاء سؤال بعدد متغيّر من الإجابات. يُستخدم في CreateSurveystring GlobalPageSettings ChoiceBoxConfig"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.api/presets/createsurveyquestion/
@@ -16,12 +16,12 @@ public static ChoiceBoxConfig CreateSurveyQuestion(string question, params strin
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| question | سلسلة | نص السؤال. |
-| answers | String[] | إجابات السؤال. |
+| سؤال | String | نص السؤال. |
+| الإجابات | String[] | إجابات السؤال. |
 
 ### قيمة الإرجاع
 
-كائن يمثل سؤالًا وجميع الإجابات.
+كائن يمثل سؤالًا وجميع الإجابات
 
 ### أمثلة
 

@@ -1,14 +1,14 @@
 ---
 title: "توليد"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "ينشئ GenerationResultaspose.omr.generation/generationresult الذي يحتوي على قالب .omr وصورة القالب بناءً على تدفق العلامات."
+description: "ينشئ GenerationResultaspose.omr.generation/generationresult الذي يحتوي على قالب .omr وصورة القالب بناءً على تدفق العلامات"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.api/omrengine/generate/
 ---
 ## Generate(Stream, GlobalPageSettings, ImageCollection, Encoding) {#generate_1}
 
-ينشئ [`GenerationResult`](../../../aspose.omr.generation/generationresult) الذي يحتوي على قالب (.omr) وصورة القالب بناءً على تدفق العلامات.
+ينشئ [`GenerationResult`](../../../aspose.omr.generation/generationresult) الذي يحتوي على قالب (.omr) وصورة القالب بناءً على تدفق العلامات
 
 ```csharp
 public GenerationResult Generate(Stream markupStream, GlobalPageSettings settings = null, 
@@ -18,20 +18,20 @@ public GenerationResult Generate(Stream markupStream, GlobalPageSettings setting
 | معامل | النوع | الوصف |
 | --- | --- | --- |
 | markupStream | Stream | تدفق قابل للقراءة يحتوي على سطور العلامات لتكوين القالب (txt أو json) |
-| الإعدادات | GlobalPageSettings | الإعدادات العامة المستخدمة في إنشاء القالب لجميع الصفحات |
-| مجموعة | ImageCollection | مجموعة من الصور التي يمكن استخدامها لإنشاء قالب. تسمح باستخدام الصور من MemoryStream بدلاً من نظام الملفات. |
-| ترميز | الترميز | ترميز سطور العلامات، يُستخدم UTF-8 افتراضيًا |
+| الإعدادات | GlobalPageSettings | الإعدادات العامة المستخدمة في توليد القالب لجميع الصفحات |
+| المجموعة | ImageCollection | مجموعة من الصور التي يمكن استخدامها لتوليد قالب. يسمح باستخدام الصور من MemoryStream بدلاً من نظام الملفات |
+| الترميز | الترميز | ترميز سطور العلامات، يُستخدم UTF-8 افتراضيًا |
 
 ### قيمة الإرجاع
 
-نتيجة الإنشاء
+نتيجة التوليد
 
 ### الاستثناءات
 
 | استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | markupPath |
-| [RuntimeExceptionOMR](../../../aspose.omr.exceptions/runtimeexceptionomr) | إنشاء القالب |
+| [RuntimeExceptionOMR](../../../aspose.omr.exceptions/runtimeexceptionomr) | توليد القالب |
 
 ### انظر أيضًا
 
@@ -55,14 +55,14 @@ public GenerationResult Generate(string markupPath, GlobalPageSettings settings 
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| markupPath | سلسلة | مسار إلى ملف يحتوي على سطور العلامات لتكوين القالب (txt أو json) |
-| الإعدادات | GlobalPageSettings | الإعدادات العامة المستخدمة في إنشاء القالب لجميع الصفحات |
-| imagesPaths | String[] | المسار إلى الصور التي ستُستخدم لتوليد قالب |
-| ترميز | الترميز | ترميز سطور العلامات، يُستخدم UTF-8 افتراضيًا |
+| markupPath | String | المسار إلى ملف يحتوي على سطور العلامات لتكوين القالب (txt أو json) |
+| الإعدادات | GlobalPageSettings | الإعدادات العامة المستخدمة في توليد القالب لجميع الصفحات |
+| imagesPaths | String[] | المسار إلى الصور التي ستُستخدم لإنشاء قالب |
+| الترميز | الترميز | ترميز سطور العلامات، يُستخدم UTF-8 افتراضيًا |
 
 ### قيمة الإرجاع
 
-نتيجة الإنشاء
+نتيجة التوليد
 
 ### الاستثناءات
 
@@ -70,7 +70,7 @@ public GenerationResult Generate(string markupPath, GlobalPageSettings settings 
 | --- | --- |
 | ArgumentNullException | markupPath |
 | FileNotFoundException | markupPath |
-| [RuntimeExceptionOMR](../../../aspose.omr.exceptions/runtimeexceptionomr) | إنشاء القالب |
+| [RuntimeExceptionOMR](../../../aspose.omr.exceptions/runtimeexceptionomr) | توليد القالب |
 
 ### انظر أيضًا
 
@@ -93,20 +93,20 @@ public GenerationResult Generate(string[] markupContent, GlobalPageSettings sett
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| markupContent | String[] | مجموعة سطور العلامات لتكوين القالب (txt أو json) |
-| الإعدادات | GlobalPageSettings | الإعدادات العامة المستخدمة في إنشاء القالب لجميع الصفحات |
-| مجموعة | ImageCollection | مجموعة من الصور التي يمكن استخدامها لإنشاء قالب. تسمح باستخدام الصور من MemoryStream بدلاً من نظام الملفات. |
+| markupContent | String[] | مجموعة خطوط العلامات لتكوين القالب (txt أو json) |
+| الإعدادات | GlobalPageSettings | الإعدادات العامة المستخدمة في توليد القالب لجميع الصفحات |
+| المجموعة | ImageCollection | مجموعة من الصور التي يمكن استخدامها لتوليد قالب. يسمح باستخدام الصور من MemoryStream بدلاً من نظام الملفات |
 
 ### قيمة الإرجاع
 
-نتيجة الإنشاء
+نتيجة التوليد
 
 ### الاستثناءات
 
 | استثناء | شرط |
 | --- | --- |
 | ArgumentNullException |  |
-| [RuntimeExceptionOMR](../../../aspose.omr.exceptions/runtimeexceptionomr) | إنشاء القالب |
+| [RuntimeExceptionOMR](../../../aspose.omr.exceptions/runtimeexceptionomr) | توليد القالب |
 
 ### انظر أيضًا
 
@@ -131,18 +131,18 @@ public GenerationResult Generate(TemplateConfig config, GlobalPageSettings setti
 | معامل | النوع | الوصف |
 | --- | --- | --- |
 | config | TemplateConfig | تكوين القالب، |
-| الإعدادات | GlobalPageSettings | الإعدادات العامة المستخدمة في إنشاء القالب لجميع الصفحات |
-| مجموعة | ImageCollection | مجموعة من الصور التي يمكن استخدامها لإنشاء قالب. تسمح باستخدام الصور من MemoryStream بدلاً من نظام الملفات. |
+| الإعدادات | GlobalPageSettings | الإعدادات العامة المستخدمة في توليد القالب لجميع الصفحات |
+| المجموعة | ImageCollection | مجموعة من الصور التي يمكن استخدامها لتوليد قالب. يسمح باستخدام الصور من MemoryStream بدلاً من نظام الملفات |
 
 ### قيمة الإرجاع
 
-نتيجة الإنشاء
+نتيجة التوليد
 
 ### الاستثناءات
 
 | استثناء | شرط |
 | --- | --- |
-| [RuntimeExceptionOMR](../../../aspose.omr.exceptions/runtimeexceptionomr) | إنشاء القالب |
+| [RuntimeExceptionOMR](../../../aspose.omr.exceptions/runtimeexceptionomr) | توليد القالب |
 
 ### انظر أيضًا
 

@@ -1,14 +1,14 @@
 ---
 title: "GetCsv"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "إنشاء سلسلة CSV مع نتائج التعرف كـ MemoryStream"
+description: "تكوين سلسلة CSV مع نتائج التعرف كـ MemoryStream"
 type: docs
 weight: 60
 url: /ar/net/aspose.omr.model/recognitionresult/getcsv/
 ---
 ## GetCsv(Encoding) {#getcsv}
 
-إنشاء سلسلة CSV مع نتائج التعرف كـ MemoryStream
+تكوين سلسلة CSV مع نتائج التعرف كـ MemoryStream
 
 ```csharp
 public byte[] GetCsv(Encoding encoding)
@@ -16,7 +16,7 @@ public byte[] GetCsv(Encoding encoding)
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| ترميز | الترميز | الترميز الذي نستخدمه لتشفير سلسلة CSV |
+| الترميز | الترميز | الترميز الذي نستخدمه لتشفير سلسلة CSV |
 
 ### قيمة الإرجاع
 
@@ -32,7 +32,7 @@ public byte[] GetCsv(Encoding encoding)
 
 ## GetCsv() {#getcsv_1}
 
-إنشاء سلسلة CSV مع نتائج التعرف
+تكوين سلسلة CSV مع نتائج التعرف
 
 ```csharp
 public string GetCsv()

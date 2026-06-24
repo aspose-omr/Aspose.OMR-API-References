@@ -17,10 +17,10 @@ public static void CreateSurvey(string fullPath, string title = null,
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| fullPath | سلسلة | مسار نسبي أو مطلق إلى صورة الاستبيان المُولدة. |
-| title | سلسلة | عنوان اختياري للاستبيان. |
+| fullPath | String | المسار النسبي أو المطلق إلى صورة الاستبيان المُولدة. |
+| title | String | عنوان اختياري للاستبيان. |
 | الإعدادات | GlobalPageSettings | إعدادات تخطيط الصفحة الاختيارية. |
-| questions | ChoiceBoxConfig[] | قائمة من الأسئلة، مُكوَّنة باستخدام [`CreateSurveyQuestion`](../createsurveyquestion). |
+| questions | ChoiceBoxConfig[] | قائمة من الأسئلة، تم تكوينها باستخدام [`CreateSurveyQuestion`](../createsurveyquestion). |
 
 ### أمثلة
 

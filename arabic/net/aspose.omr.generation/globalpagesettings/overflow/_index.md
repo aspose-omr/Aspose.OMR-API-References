@@ -1,14 +1,14 @@
 ---
 title: "تجاوز"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "تعيين إجراء الفائض لكل عنصر في هذه الصفحة. يتحكم OverflowAction في علاقات الأب-ابن عندما يتجاوز حجم العنصر الفرعي الحجم المخصص للعنصر الأب."
+description: "تعيين إجراء التدفق لكل عنصر في هذه الصفحة. يتحكم OverflowAction في علاقات الأب-الابن عندما يتجاوز حجم العنصر الفرعي الحجم المخصص للعنصر الأب"
 type: docs
 weight: 120
 url: /ar/net/aspose.omr.generation/globalpagesettings/overflow/
 ---
 ## GlobalPageSettings.Overflow field
 
-تعيين إجراء الفائض لكل عنصر في هذه الصفحة. يتحكم OverflowAction في علاقات الأب-ابن عندما يتجاوز حجم العنصر الفرعي الحجم المخصص للعنصر الأب.
+تعيين إجراء التدفق لكل عنصر في هذه الصفحة. يتحكم OverflowAction في علاقات الأب-الابن عندما يتجاوز حجم العنصر الفرعي الحجم المخصص للعنصر الأب
 
 ```csharp
 public OverflowAction Overflow;

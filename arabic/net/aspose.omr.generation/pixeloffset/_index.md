@@ -1,20 +1,20 @@
 ---
 title: "PixelOffset"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "الإزاحة محددة بالبكسل px."
+description: "الإزاحة محددة بوحدات البكسل px."
 type: docs
 weight: 900
 url: /ar/net/aspose.omr.generation/pixeloffset/
 ---
 ## PixelOffset class
 
-الإزاحة مضبوطة بالبكسل (px).
+الإزاحة محددة بالبكسل (px).
 
 ```csharp
 public class PixelOffset : BaseOffset
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -24,10 +24,10 @@ public class PixelOffset : BaseOffset
 
 | الاسم | الوصف |
 | --- | --- |
-| [Bottom](../../aspose.omr.generation/baseoffset/bottom) { get; set; } | قيمة الإزاحة السفلية المحددة بوحدة القياس المحددة |
-| [Left](../../aspose.omr.generation/baseoffset/left) { get; set; } | قيمة الإزاحة اليسرى المحددة بوحدة القياس المحددة |
-| [Right](../../aspose.omr.generation/baseoffset/right) { get; set; } | قيمة الإزاحة اليمنى المحددة بوحدة القياس المحددة |
-| [Top](../../aspose.omr.generation/baseoffset/top) { get; set; } | قيمة الإزاحة العلوية المحددة بوحدة القياس المحددة |
+| [Bottom](../../aspose.omr.generation/baseoffset/bottom) { get; set; } | كمية الإزاحة السفلية المحددة بوحدة القياس المحددة. |
+| [Left](../../aspose.omr.generation/baseoffset/left) { get; set; } | كمية الإزاحة اليسرى المحددة بوحدة القياس المحددة. |
+| [Right](../../aspose.omr.generation/baseoffset/right) { get; set; } | كمية الإزاحة اليمنى المحددة بوحدة القياس المحددة. |
+| [Top](../../aspose.omr.generation/baseoffset/top) { get; set; } | كمية الإزاحة العلوية المحددة بوحدة القياس المحددة. |
 
 ### انظر أيضًا
 

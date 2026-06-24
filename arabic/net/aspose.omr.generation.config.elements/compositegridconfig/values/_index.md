@@ -1,14 +1,14 @@
 ---
 title: "Values"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "مجموعة من السلاسل التي ستصف الرموز المحتملة في كل عمود. القيم الخاصة بكل عمود موضوعة في ExtraRowaspose.omr.generation.config.elements/compositegridconfig/extrarow"
+description: "مجموعة من السلاسل التي ستصف الرموز الممكنة في كل عمود. القيم الخاصة بالعمود موضوعة في ExtraRowaspose.omr.generation.config.elements/compositegridconfig/extrarow"
 type: docs
 weight: 150
 url: /ar/net/aspose.omr.generation.config.elements/compositegridconfig/values/
 ---
 ## CompositeGridConfig.Values property
 
-مجموعة من السلاسل التي ستصف الرموز المحتملة في كل عمود. القيم الخاصة بكل عمود موضوعة في [`ExtraRow`](../extrarow)
+مجموعة من السلاسل التي ستصف الرموز الممكنة في كل عمود. القيم الخاصة بالعمود موضوعة في [`ExtraRow`](../extrarow)
 
 ```csharp
 public List<string> Values { get; set; }

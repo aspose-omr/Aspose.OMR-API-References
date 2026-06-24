@@ -12,12 +12,12 @@ url: /ar/net/aspose.omr.generation/
 
 | الفئة | الوصف |
 | --- | --- |
-| [BaseOffset](./baseoffset) | عقد أساسي يُستخدم لتعيين الإزاحة في قياسات مختلفة |
+| [BaseOffset](./baseoffset) | العقد الأساسي المستخدم لتعيين الإزاحة في قياسات مختلفة |
 | [GenerationResult](./generationresult) | نتيجة إنشاء القالب. يحتوي على صورة القالب والقالب (json الذي يصف موقع العناصر على الصورة). |
 | [GlobalPageSettings](./globalpagesettings) | الإعدادات العامة المطبقة على جميع عناصر الصفحة. |
-| [MemoryGenerationResult](./memorygenerationresult) | مغلف [`GenerationResult`](../aspose.omr.generation/generationresult). يسمح بحفظ النتيجة كـ MemoryStream |
-| [PixelOffset](./pixeloffset) | الإزاحة مضبوطة بالبكسل (px). |
-| [ReferencePointsSettings](./referencepointssettings) | إعدادات تصف سلوك نقطة المرجع للقالب: مربعات سوداء في الزوايا ومستطيل أسود كعلامة دوران بينهما. |
+| [MemoryGenerationResult](./memorygenerationresult) | غلاف [`GenerationResult`](../aspose.omr.generation/generationresult). يسمح بحفظ النتيجة كـ MemoryStream |
+| [PixelOffset](./pixeloffset) | الإزاحة محددة بالبكسل (px). |
+| [ReferencePointsSettings](./referencepointssettings) | الإعدادات التي تصف سلوك نقطة المرجع للقالب: مربعات سوداء في الزوايا ومربع أسود كعلامة دوران بينهما. |
 ## تعداد
 
 | تعداد | الوصف |
@@ -27,6 +27,6 @@ url: /ar/net/aspose.omr.generation/
 | [FontStyle](./fontstyle) | أنماط الخط |
 | [Orientation](./orientation) | الاتجاه |
 | [PaperSize](./papersize) | حجم الورق |
-| [RotationPointPosition](./rotationpointposition) | جميع المواقع المتاحة لنقطة الدوران على القالب المُولد |
+| [RotationPointPosition](./rotationpointposition) | جميع المواقع المتاحة لنقطة الدوران على القالب المُنشأ |
 
 <!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

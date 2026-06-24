@@ -1,5 +1,5 @@
 ---
-title: "إعدادات الشبكة"
+title: "إعداد الشبكة"
 second_title: "Aspose.OMR لـ .NET مرجع API"
 description: "المنشئ الافتراضي."
 type: docs

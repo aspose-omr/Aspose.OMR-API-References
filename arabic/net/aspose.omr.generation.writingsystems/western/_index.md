@@ -1,20 +1,20 @@
 ---
-title: "غربي"
+title: "Western"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "إعدادات الإقليمي الافتراضية للـ 123 و LTR"
+description: "الإعدادات الافتراضية للغة للـ 123 و LTR"
 type: docs
 weight: 990
 url: /ar/net/aspose.omr.generation.writingsystems/western/
 ---
 ## Western class
 
-إعدادات اللغة الافتراضية لـ 1,2,3 و LTR
+إعدادات اللغة الافتراضية للأرقام 1,2,3 و من اليسار إلى اليمين
 
 ```csharp
 public class Western : WritingSystem
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |

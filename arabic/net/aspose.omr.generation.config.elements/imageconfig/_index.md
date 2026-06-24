@@ -1,20 +1,20 @@
 ---
 title: "ImageConfig"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "يمثل عنصر الصورة. يتم إدراجه من نظام الملفات باستخدام المسار المقدم"
+description: "يمثل عنصر الصورة. يتم إدخاله من نظام الملفات باستخدام المسار المقدم"
 type: docs
 weight: 370
 url: /ar/net/aspose.omr.generation.config.elements/imageconfig/
 ---
 ## ImageConfig class
 
-يمثل عنصر الصورة. يتم إدراجه من نظام الملفات باستخدام المسار المقدم
+يمثل عنصر الصورة. يتم إدخاله من نظام الملفات باستخدام المسار المقدم
 
 ```csharp
 public class ImageConfig : BaseConfig
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |

@@ -1,14 +1,14 @@
 ---
 title: "QRVersion"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "نوع QR الذي سيُستخدم لـ BarcodeConfig../aspose.omr.generation.config.elements/barcodeconfig مسؤول عن الحد الأقصى لعدد البايتات المشفرة بواسطة QR. إذا كنت غير متأكد - استخدم Auto. المكتبة ستختار الحجم المناسب تلقائيًا"
+description: "نوع QR الذي سيُستخدم لـ BarcodeConfig../aspose.omr.generation.config.elements/barcodeconfig مسؤول عن الحد الأقصى لعدد البايتات المشفرة بواسطة QR. إذا لم تكن متأكدًا - استخدم Auto. المكتبة ستختار الحجم المناسب تلقائيًا"
 type: docs
 weight: 710
 url: /ar/net/aspose.omr.generation.config.enums/qrversion/
 ---
 ## QRVersion enumeration
 
-نوع QR الذي سيُستخدم لـ [`BarcodeConfig`](../../aspose.omr.generation.config.elements/barcodeconfig) مسؤول عن الحد الأقصى لعدد البايتات المشفرة بواسطة QR. إذا كنت غير متأكد - استخدم Auto. المكتبة ستختار الحجم المناسب تلقائيًا
+نوع QR الذي سيُستخدم لـ [`BarcodeConfig`](../../aspose.omr.generation.config.elements/barcodeconfig) مسؤول عن الحد الأقصى لعدد البايتات المشفرة بواسطة QR. إذا لم تكن متأكدًا - استخدم Auto. المكتبة ستختار الحجم المناسب تلقائيًا
 
 ```csharp
 public enum QRVersion
@@ -53,16 +53,16 @@ public enum QRVersion
 | Version32 | `32` | تمثيل QR الإصدار 32 |
 | Version33 | `33` | تمثيل QR الإصدار 33 |
 | Version34 | `34` | تمثيل QR الإصدار 34 |
-| Version35 | `35` | تمثيل إصدار QR 35 |
-| Version36 | `36` | تمثيل إصدار QR 36 |
-| Version37 | `37` | تمثيل إصدار QR 37 |
-| Version38 | `38` | تمثيل إصدار QR 38 |
-| Version39 | `39` | تمثيل إصدار QR 39 |
-| Version40 | `40` | تمثيل إصدار QR 40 |
-| VersionM1 | `101` | تمثيل إصدار QR M1 |
-| VersionM2 | `102` | تمثيل إصدار QR M2 |
-| VersionM3 | `103` | تمثيل إصدار QR M3 |
-| VersionM4 | `104` | تمثيل إصدار QR M4 |
+| Version35 | `35` | تمثيل نسخة QR 35 |
+| Version36 | `36` | تمثيل نسخة QR 36 |
+| Version37 | `37` | تمثيل نسخة QR 37 |
+| Version38 | `38` | تمثيل نسخة QR 38 |
+| Version39 | `39` | تمثيل نسخة QR 39 |
+| Version40 | `40` | تمثيل نسخة QR 40 |
+| VersionM1 | `101` | تمثيل نسخة QR M1 |
+| VersionM2 | `102` | تمثيل نسخة QR M2 |
+| VersionM3 | `103` | تمثيل نسخة QR M3 |
+| VersionM4 | `104` | تمثيل نسخة QR M4 |
 
 ### انظر أيضًا
 

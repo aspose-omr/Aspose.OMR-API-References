@@ -1,14 +1,14 @@
 ---
 title: "TriggerType"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "نوع المشغل. يصف سلوك المشغل"
+description: "نوع المشغل. وصف سلوك المشغل"
 type: docs
 weight: 50
 url: /ar/net/aspose.omr.generation.config.elements/customtriggerconfig/triggertype/
 ---
 ## CustomTriggerConfig.TriggerType property
 
-نوع المشغل. يصف سلوك المشغل
+نوع المشغل. وصف سلوك المشغل
 
 ```csharp
 public TriggerType TriggerType { get; set; }

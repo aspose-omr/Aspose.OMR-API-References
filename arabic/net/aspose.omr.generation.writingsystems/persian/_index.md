@@ -1,7 +1,7 @@
 ---
-title: "الفارسية"
+title: "Persian"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "إعدادات الإقليمي الفارسي من اليمين إلى اليسار ١۲ ۳"
+description: "إعدادات اللغة الفارسية من اليمين إلى اليسار ١۲ ۳"
 type: docs
 weight: 970
 url: /ar/net/aspose.omr.generation.writingsystems/persian/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.writingsystems/persian/
 public class Persian : DigitReplacement
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [Persian](persian)(bool) | تهيئة الإعداد المحلي الفارسي. |
+| [Persian](persian)(bool) | تهيئة اللغة الفارسية. |
 
 ### انظر أيضًا
 

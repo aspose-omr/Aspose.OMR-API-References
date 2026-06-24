@@ -17,10 +17,10 @@ public static string RecognizeSurvey(string fullPath, string title,
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| fullPath | سلسلة | مسار نسبي أو مطلق إلى صورة الاستبيان المُولدة. |
-| title | سلسلة | عنوان الاستبيان. |
+| fullPath | String | المسار النسبي أو المطلق إلى صورة الاستبيان المُولدة. |
+| title | String | عنوان الاستبيان. |
 | الإعدادات | GlobalPageSettings | إعدادات تخطيط الصفحة. |
-| questions | ChoiceBoxConfig[] | قائمة من الأسئلة، مُكوَّنة باستخدام !:CreateSurveyLine(string, string[]). |
+| الأسئلة | ChoiceBoxConfig[] | قائمة من الأسئلة، مُكوَّنة باستخدام !:CreateSurveyLine(string, string[]). |
 
 ### قيمة الإرجاع
 

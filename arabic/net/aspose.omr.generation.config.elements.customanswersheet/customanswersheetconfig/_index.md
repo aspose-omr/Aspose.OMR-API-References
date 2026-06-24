@@ -14,7 +14,7 @@ url: /ar/net/aspose.omr.generation.config.elements.customanswersheet/customanswe
 public class CustomAnswerSheetConfig : ParentConfig
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -24,9 +24,9 @@ public class CustomAnswerSheetConfig : ParentConfig
 
 | الاسم | الوصف |
 | --- | --- |
-| [Amount](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/amount) { get; set; } | العدد الإجمالي للصفوف |
+| [Amount](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/amount) { get; set; } | الإجمالي الكلي للصفوف |
 | [BorderBottomStyle](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/borderbottomstyle) { get; set; } | نمط إضافي للحد السفلي |
-| [BorderColor](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordercolor) { get; set; } | لون الحد |
+| [BorderColor](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordercolor) { get; set; } | لون الحدود |
 | [BorderLeftStyle](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/borderleftstyle) { get; set; } | نمط إضافي للحد الأيسر |
 | [BorderRightStyle](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/borderrightstyle) { get; set; } | نمط إضافي للحد الأيمن |
 | [BorderSize](../../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/bordersize) { get; set; } | حجم خط الحد |

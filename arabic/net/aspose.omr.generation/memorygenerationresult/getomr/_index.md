@@ -8,7 +8,7 @@ url: /ar/net/aspose.omr.generation/memorygenerationresult/getomr/
 ---
 ## MemoryGenerationResult.GetOmr method
 
-احصل على محتوى ملف .omr من الـ [`GenerationResult`](../../generationresult) كـ MemoryStream. بشكل افتراضي يتم ترميز النص بترميز UTF8.
+احصل على محتوى ملف .omr من [`GenerationResult`](../../generationresult) كـ MemoryStream. بشكل افتراضي يتم ترميز النص بترميز UTF8.
 
 ```csharp
 public MemoryStream GetOmr(Encoding encoding = null)
@@ -16,7 +16,7 @@ public MemoryStream GetOmr(Encoding encoding = null)
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| ترميز | الترميز | نوع الترميز الذي سيُستخدم لترميز النص إلى بايتات |
+| الترميز | الترميز | نوع الترميز الذي سيُستخدم لترميز النص إلى بايتات |
 
 ### قيمة الإرجاع
 

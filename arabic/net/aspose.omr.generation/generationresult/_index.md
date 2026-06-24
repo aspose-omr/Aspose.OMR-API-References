@@ -1,7 +1,7 @@
 ---
 title: "GenerationResult"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "نتيجة إنشاء القالب. يحتوي على صورة القالب وملف json للقالب الذي يصف موقع العناصر على الصورة."
+description: "نتيجة توليد القالب. تحتوي على صورة القالب وملف json الخاص بالقالب الذي يصف موقع العناصر على الصورة."
 type: docs
 weight: 810
 url: /ar/net/aspose.omr.generation/generationresult/
@@ -20,23 +20,23 @@ public class GenerationResult
 | --- | --- |
 | [ErrorCode](../../aspose.omr.generation/generationresult/errorcode) { get; set; } | يحصل أو يعيّن رمز الخطأ. يساوي 0 إذا لم تحدث أخطاء. |
 | [ErrorMessage](../../aspose.omr.generation/generationresult/errormessage) { get; set; } | يحصل أو يعيّن الرسالة التي تصف الخطأ. تكون فارغة إذا لم تحدث أخطاء. |
-| [Template](../../aspose.omr.generation/generationresult/template) { get; set; } | يحصل أو يعيّن سلسلة JSON للقالب |
-| [TemplateImage](../../aspose.omr.generation/generationresult/templateimage) { get; set; } | يحصل أو يعيّن صورة القالب المُولدة |
-| [Warnings](../../aspose.omr.generation/generationresult/warnings) { get; set; } | يحصل أو يعيّن قائمة رسائل التحذير التي تصف الأخطاء غير الحرجة التي ظهرت أثناء الإنشاء |
+| [Template](../../aspose.omr.generation/generationresult/template) { get; set; } | يحصل أو يعيّن سلسلة Template JSON |
+| [TemplateImage](../../aspose.omr.generation/generationresult/templateimage) { get; set; } | يحصل أو يعيّن Template Image المولدة |
+| [Warnings](../../aspose.omr.generation/generationresult/warnings) { get; set; } | يحصل أو يعيّن قائمة رسائل التحذير التي تصف الأخطاء غير الحرجة التي ظهرت أثناء التوليد. |
 
-## طرق
+## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
 | [Save](../../aspose.omr.generation/generationresult/save)(string, string) | احفظ صور القالب والقالب في المجلد المحدد بصيغة .png |
-| [SaveAsInteractivePdf](../../aspose.omr.generation/generationresult/saveasinteractivepdf)(string, string) | احفظ نموذجًا إلى ملف PDF تفاعلي، مما يتيح للمستخدمين ملء الحقول مباشرة على حاسوبهم أو هاتفهم الذكي وإرساله إلكترونيًا. |
+| [SaveAsInteractivePdf](../../aspose.omr.generation/generationresult/saveasinteractivepdf)(string, string) | احفظ نموذجًا إلى ملف PDF تفاعلي، مما يتيح للمستخدمين ملء الحقول مباشرة على حواسيبهم أو هواتفهم الذكية وإرسالها إلكترونيًا. |
 | [SaveAsPdf](../../aspose.omr.generation/generationresult/saveaspdf)(string, string) | احفظ صور القالب في المجلد المحدد بصيغة .pdf. القوالب متعددة الصفحات تُحفظ كملف .pdf واحد يحتوي على عدة صفحات. |
 
 ## الحقول
 
 | الاسم | الوصف |
 | --- | --- |
-| [MultipageTemplateImages](../../aspose.omr.generation/generationresult/multipagetemplateimages) | يحصل أو يعيّن مجموعة الصور المُولدة لقالب متعدد الصفحات |
+| [MultipageTemplateImages](../../aspose.omr.generation/generationresult/multipagetemplateimages) | يحصل أو يعيّن مجموعة الصور المولدة لقالب متعدد الصفحات. |
 
 ### انظر أيضًا
 

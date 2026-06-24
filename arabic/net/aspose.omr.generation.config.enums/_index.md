@@ -12,7 +12,7 @@ url: /ar/net/aspose.omr.generation.config.enums/
 
 | تعداد | الوصف |
 | --- | --- |
-| [AlignmentEnum](./alignmentenum) | نوع المحاذاة الأفقية بالنسبة إلى الأصل. يستخدم في العديد من العناصر. |
+| [AlignmentEnum](./alignmentenum) | نوع المحاذاة الأفقية بالنسبة إلى الأصل. يُستخدم في العديد من العناصر. |
 | [BarcodeType](./barcodetype) | نوع الباركود المستخدم في [`BarcodeConfig`](../aspose.omr.generation.config.elements/barcodeconfig) |
 | [BorderType](./bordertype) | نوع الحد |
 | [BubblePositionType](./bubblepositiontype) | موضع الفقاعة مقابل المحتوى الرئيسي |
@@ -22,14 +22,14 @@ url: /ar/net/aspose.omr.generation.config.enums/
 | [ContentType](./contenttype) | نوع عرض المحتوى |
 | [Directionality](./directionality) | اتجاه رسم العناصر والنص. |
 | [GridHeaderTypeEnum](./gridheadertypeenum) | نوع رأس الشبكة |
-| [LongWordHandling](./longwordhandling) | يصف سلوك توليد القالب عند مواجهة كلمة أبعادها أكبر من الحاوية الأصلية. في هذه الحالة لا يمكن عرض الكلمة بشكل صحيح داخل الحاوية الأصلية ولا يمكن لفها. |
+| [LongWordHandling](./longwordhandling) | يصف سلوك إنشاء القالب عند مواجهة كلمة أبعادها أكبر من الحاوية الأصلية. في هذه الحالة لا يمكن عرض الكلمة بشكل صحيح داخل الحاوية الأصلية ولا يمكن لفها. |
 | [ParagraphTypeEnum](./paragraphtypeenum) | نوع [`ParagraphConfig`](../aspose.omr.generation.config.elements.parents/paragraphconfig) |
-| [QRVersion](./qrversion) | نوع QR الذي سيُستخدم في [`BarcodeConfig`](../aspose.omr.generation.config.elements/barcodeconfig) مسؤول عن الحد الأقصى لعدد البايتات المشفرة بواسطة QR. إذا لم تكن متأكدًا - استخدم Auto. المكتبة ستختار الحجم المناسب تلقائيًا |
-| [ScoreDisplay](./scoredisplay) | التحكم في عرض قيمة النتيجة. |
+| [QRVersion](./qrversion) | نوع QR الذي سيُستخدم لـ [`BarcodeConfig`](../aspose.omr.generation.config.elements/barcodeconfig). مسؤول عن الحد الأقصى لعدد البايتات المشفرة بواسطة QR. إذا لم تكن متأكدًا - استخدم Auto. ستختار المكتبة الحجم المناسب تلقائيًا. |
+| [ScoreDisplay](./scoredisplay) | التحكم في عرض قيمة الدرجة. |
 | [ScoreGroupType](./scoregrouptype) | نوع مجموعة النقاط. يؤثر على رسم عنصر مجموعة النقاط |
 | [ScoreHeaderType](./scoreheadertype) | نوع رأس النقاط. |
 | [TableType](./tabletype) | نوع الجدول |
-| [TriggerType](./triggertype) | نوع المشغل. يصف سلوك المشغل |
+| [TriggerType](./triggertype) | نوع المشغل. وصف سلوك المشغل |
 | [VerticalAlignment](./verticalalignment) | يصف التموضع العمودي للعنصر الفرعي داخل العنصر الأب |
 
 <!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

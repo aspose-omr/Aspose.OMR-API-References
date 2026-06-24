@@ -1,5 +1,5 @@
 ---
-title: "تعرف"
+title: "تعرّف"
 second_title: "Aspose.OMR لـ .NET مرجع API"
 description: "التعرف على مجلد أو ملف"
 type: docs
@@ -16,12 +16,12 @@ public BatchRecognitionResult Recognize(string path, int recognitionThreshold = 
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| المسار | سلسلة | المسار إلى مجلد أو ملف |
-| recognitionThreshold | Int32 | (اختياري) عتبة التعرف في النطاق (0..100). سيتم احتساب العناصر المملوءة فوق العتبة فقط كملء |
+| المسار | String | المسار إلى مجلد أو ملف |
+| recognitionThreshold | Int32 | (اختياري) عتبة التعرف في النطاق (0..100). فقط العناصر المملوءة فوق العتبة ستحسب كمملوءة. |
 
 ### قيمة الإرجاع
 
-نتيجة التعرف على دفعة لملف أو جميع الملفات داخل المجلد
+نتيجة التعرف الدفعي لملف أو جميع الملفات داخل المجلد
 
 ### الاستثناءات
 
@@ -49,11 +49,11 @@ public BatchRecognitionResult Recognize(Stream stream, int recognitionThreshold 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
 | دفق | Stream | دفق قابل للقراءة مع قالب واحد |
-| recognitionThreshold | Int32 | (اختياري) عتبة التعرف في النطاق (0..100). سيتم احتساب العناصر المملوءة فوق العتبة فقط كملء |
+| recognitionThreshold | Int32 | (اختياري) عتبة التعرف في النطاق (0..100). فقط العناصر المملوءة فوق العتبة ستحسب كمملوءة. |
 
 ### قيمة الإرجاع
 
-نتيجة التعرف الجماعي على نموذج قالب واحد
+نتيجة التعرف الدفعي على نموذج قالب واحد
 
 ### انظر أيضًا
 
@@ -66,7 +66,7 @@ public BatchRecognitionResult Recognize(Stream stream, int recognitionThreshold 
 
 ## Recognize(IEnumerable&lt;string&gt;, int) {#recognize}
 
-التعرف على ملفات متعددة
+التعرف على عدة ملفات
 
 ```csharp
 public BatchRecognitionResult Recognize(IEnumerable<string> files, int recognitionThreshold = -100)
@@ -75,11 +75,11 @@ public BatchRecognitionResult Recognize(IEnumerable<string> files, int recogniti
 | معامل | النوع | الوصف |
 | --- | --- | --- |
 | ملفات | IEnumerable`1 | مجموعة من المسارات الكاملة للملفات |
-| recognitionThreshold | Int32 | (اختياري) عتبة التعرف في النطاق (0..100). سيتم احتساب العناصر المملوءة فوق العتبة فقط كملء |
+| recognitionThreshold | Int32 | (اختياري) عتبة التعرف في النطاق (0..100). فقط العناصر المملوءة فوق العتبة ستحسب كمملوءة. |
 
 ### قيمة الإرجاع
 
-نتيجة التعرف الجماعي على نماذج متعددة
+نتيجة التعرف الدفعي على نماذج متعددة
 
 ### انظر أيضًا
 

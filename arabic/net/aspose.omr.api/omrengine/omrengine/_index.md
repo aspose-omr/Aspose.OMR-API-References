@@ -1,14 +1,14 @@
 ---
 title: "OmrEngine"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "إنشاء مثيل من OmrEngine لتخزين داخلي من أجل كفاءة الذاكرة. أعد استخدام نفس المصنع لعدة مثيلات من OmrEngine لتحسين الأداء."
+description: "إنشاء مثيل من OmrEngine لتخزين داخلي من أجل كفاءة الذاكرة. إعادة استخدام نفس المصنع لعدة مثيلات من OmrEngine لتحسين الأداء."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.api/omrengine/omrengine/
 ---
 ## OmrEngine constructor
 
-إنشاء مثيل من OmrEngine لتخزين داخلي من أجل كفاءة الذاكرة. أعد استخدام نفس المصنع لعدة مثيلات من OmrEngine لتحسين الأداء.
+إنشاء مثيل من OmrEngine لتخزين داخلي من أجل كفاءة الذاكرة. إعادة استخدام نفس المصنع لعدة مثيلات من OmrEngine لتحسين الأداء.
 
 ```csharp
 public OmrEngine(PoolFactory factory = null)

@@ -1,7 +1,7 @@
 ---
 title: "TextAlignment"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "تشير محاذاة النص إلى المكان الذي يجب رسم النص فيه على الصفحة"
+description: "Text alignment تشير إلى المكان الذي يجب رسم النص فيه على الصفحة"
 type: docs
 weight: 70
 url: /ar/net/aspose.omr.generation.config.elements/textconfig/textalignment/

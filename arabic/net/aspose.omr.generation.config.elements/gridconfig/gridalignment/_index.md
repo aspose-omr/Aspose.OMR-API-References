@@ -1,7 +1,7 @@
 ---
 title: "GridAlignment"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "تشير محاذاة الشبكة إلى المكان الذي يجب رسم الشبكة فيه على الصفحة"
+description: "Grid alignment يشير إلى المكان الذي يجب رسم الشبكة فيه على الصفحة"
 type: docs
 weight: 50
 url: /ar/net/aspose.omr.generation.config.elements/gridconfig/gridalignment/

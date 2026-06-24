@@ -16,14 +16,14 @@ public void Save(string folderPath, string domrName)
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| folderPath | سلسلة | المسار الكامل إلى الدليل للصور وملف .domr |
-| domrName | سلسلة | اسم ملف نمط التعرف، مع الامتداد |
+| folderPath | String | المسار الكامل إلى الدليل للصور وملف .domr |
+| domrName | String | اسم ملف نمط التعرف، مع الامتداد |
 
 ### الاستثناءات
 
 | استثناء | شرط |
 | --- | --- |
-| DirectoryNotFoundException | عند عدم وجود المجلد |
+| DirectoryNotFoundException | عندما لا يكون المجلد موجودًا |
 
 ### انظر أيضًا
 

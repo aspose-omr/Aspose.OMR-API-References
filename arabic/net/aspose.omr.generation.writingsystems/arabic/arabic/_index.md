@@ -1,14 +1,14 @@
 ---
-title: "العربية"
+title: "Arabic"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "تهيئة الإعداد المحلي العربي."
+description: "تهيئة اللغة العربية."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.writingsystems/arabic/arabic/
 ---
 ## Arabic constructor
 
-تهيئة الإعداد المحلي العربي.
+تهيئة اللغة العربية.
 
 ```csharp
 public Arabic(bool useNativeNumber = false)

@@ -1,14 +1,14 @@
 ---
 title: "SaveAsInteractivePdf"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "احفظ نموذجًا إلى ملف PDF تفاعلي يتيح للمستخدمين ملء الحقول مباشرة على جهاز الكمبيوتر أو الهاتف الذكي وتقديمه إلكترونيًا."
+description: "احفظ نموذجًا كملف PDF تفاعلي يتيح للمستخدمين ملء الحقول مباشرةً على حاسوبهم أو هاتفهم الذكي وإرساله إلكترونيًا."
 type: docs
 weight: 80
 url: /ar/net/aspose.omr.generation/generationresult/saveasinteractivepdf/
 ---
 ## GenerationResult.SaveAsInteractivePdf method
 
-احفظ نموذجًا إلى ملف PDF تفاعلي، مما يتيح للمستخدمين ملء الحقول مباشرة على حاسوبهم أو هاتفهم الذكي وإرساله إلكترونيًا.
+احفظ نموذجًا إلى ملف PDF تفاعلي، مما يتيح للمستخدمين ملء الحقول مباشرة على حواسيبهم أو هواتفهم الذكية وإرسالها إلكترونيًا.
 
 ```csharp
 public void SaveAsInteractivePdf(string folder, string name)
@@ -16,8 +16,8 @@ public void SaveAsInteractivePdf(string folder, string name)
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| مجلد | سلسلة | مجلد الوجهة |
-| الاسم | سلسلة | اسم القالب |
+| المجلد | String | مجلد الوجهة |
+| الاسم | String | اسم القالب |
 
 ### انظر أيضًا
 

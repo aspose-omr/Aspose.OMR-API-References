@@ -12,6 +12,6 @@ url: /ar/net/aspose.omr.buffers/
 
 | الفئة | الوصف |
 | --- | --- |
-| [PoolFactory](./poolfactory) | تخزين أحواض الذاكرة. إعادة استخدام نفس المثيل من Aspose.OMR.Buffers.PoolFactory في عدة مثيلات من Aspose.OMR.Api.OmrEngine سيحسن الأداء. |
+| [PoolFactory](./poolfactory) | تخزين مجمعات الذاكرة. إعادة استخدام نفس نسخة Aspose.OMR.Buffers.PoolFactory في عدة نسخ من Aspose.OMR.Api.OmrEngine سيحسن الأداء. |
 
 <!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

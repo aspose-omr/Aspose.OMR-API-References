@@ -1,14 +1,14 @@
 ---
 title: "LoadFromJsonString"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "استيراد مجموعة البيانات من محتوى ملف .json مناسب لمجموعات البيانات الصغيرة"
+description: "استيراد مجموعة البيانات من محتوى ملف .json مناسب للمجموعات الصغيرة"
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.batchprocessings/dataset/loadfromjsonstring/
 ---
 ## DataSet.LoadFromJsonString method
 
-استيراد مجموعة البيانات من محتوى ملف .json مناسب لمجموعات البيانات الصغيرة
+استيراد مجموعة البيانات من محتوى ملف .json مناسب للمجموعات الصغيرة
 
 ```csharp
 public static DataSet LoadFromJsonString(string jsonContent)
@@ -16,11 +16,11 @@ public static DataSet LoadFromJsonString(string jsonContent)
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| jsonContent | سلسلة | محتوى ملف .json |
+| jsonContent | String | محتوى ملف .json |
 
 ### قيمة الإرجاع
 
-مثيل DataSet مع مجموعة من الملف
+مثيل DataSet مع مجموعة من البيانات من الملف
 
 ### انظر أيضًا
 

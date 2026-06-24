@@ -1,5 +1,5 @@
 ---
-title: "تغليف"
+title: "التفاف"
 second_title: "Aspose.OMR لـ .NET مرجع API"
 description: "سيحاول العنصر الأب العثور على مكان للعنصر الفرعي المتجاوز في عناصر أب أخرى."
 type: docs
@@ -14,7 +14,7 @@ url: /ar/net/aspose.omr.generation.overflowactions/wrap/
 public class Wrap : OverflowAction
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |

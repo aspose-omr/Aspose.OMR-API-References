@@ -1,7 +1,7 @@
 ---
 title: "SectionsCount"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "عدد صناديق الاختيار داخل الشبكة، أي الأعمدة في الشبكة من الأعلى إلى الأسفل"
+description: "عدد صناديق الاختيار داخل الشبكة، أي الأعمدة في الشبكة العمودية"
 type: docs
 weight: 120
 url: /ar/net/aspose.omr.generation.config.elements/gridconfig/sectionscount/

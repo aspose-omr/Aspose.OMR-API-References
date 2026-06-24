@@ -1,14 +1,14 @@
 ---
 title: "RecognizeBubbleSheet"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "تعرّف على ورقة الفقاعات التي تم إنشاؤها باستخدام طريقة CreateBubbleSheetaspose.omr.api/presets/createbubblesheet. للحفاظ على التناسق في التعرف على النماذج، قدم نفس المعلمات كما هي في طريقة CreateBubbleSheetaspose.omr.api/presets/createbubblesheet."
+description: "تعرّف على ورقة الفقاعات التي تم إنشاؤها باستخدام طريقة CreateBubbleSheetaspose.omr.api/presets/createbubblesheet. للحفاظ على التناسق في التعرف على النماذج، قدم نفس المعلمات كما في طريقة CreateBubbleSheetaspose.omr.api/presets/createbubblesheet."
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.api/presets/recognizebubblesheet/
 ---
 ## Presets.RecognizeBubbleSheet method
 
-تعرّف على ورقة الفقاعات التي تم إنشاؤها باستخدام طريقة [`CreateBubbleSheet`](../createbubblesheet). للحفاظ على التناسق في التعرف على النماذج، قدم نفس المعلمات كما هي في طريقة [`CreateBubbleSheet`](../createbubblesheet).
+تعرّف على ورقة الفقاعات التي تم إنشاؤها باستخدام طريقة [`CreateBubbleSheet`](../createbubblesheet). للحفاظ على التناسق في التعرف على النماذج، قدم نفس المعلمات كما في طريقة [`CreateBubbleSheet`](../createbubblesheet).
 
 ```csharp
 public static string RecognizeBubbleSheet(string fullPath, int elementsCount, int columns, 
@@ -18,11 +18,11 @@ public static string RecognizeBubbleSheet(string fullPath, int elementsCount, in
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| fullPath | سلسلة | مسار نسبي أو مطلق إلى صورة النموذج المكتمل. |
+| fullPath | String | المسار النسبي أو المطلق إلى صورة النموذج المكتمل. |
 | elementsCount | Int32 | إجمالي عدد الأسئلة في التقييم التكميلي. |
-| columns | Int32 | عدد الأعمدة التي تُرتب فيها الأسئلة. |
+| columns | Int32 | عدد الأعمدة التي تُرتّب فيها الأسئلة. |
 | answersCount | Int32 | إجمالي عدد الفقاعات (الإجابات) لكل سؤال. |
-| title | سلسلة | عنوان ورقة الفقاعات. |
+| title | String | عنوان ورقة الفقاعات. |
 | bubbleType | BubbleType | نمط الفقاعات. |
 | bubbleSize | BubbleSize | حجم الفقاعات. |
 | الإعدادات | GlobalPageSettings | إعدادات تخطيط الصفحة. |

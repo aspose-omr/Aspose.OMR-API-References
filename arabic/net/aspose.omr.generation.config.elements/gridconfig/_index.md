@@ -1,5 +1,5 @@
 ---
-title: "إعدادات الشبكة"
+title: "إعداد الشبكة"
 second_title: "Aspose.OMR لـ .NET مرجع API"
 description: "يمثل جدولًا من الفقاعات. معرف السؤال وإجابات متعددة للاختيار. يمكن أن يكون خط الإجابات أفقيًا أو عموديًا."
 type: docs
@@ -14,7 +14,7 @@ url: /ar/net/aspose.omr.generation.config.elements/gridconfig/
 public class GridConfig : BaseConfig
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -26,12 +26,12 @@ public class GridConfig : BaseConfig
 | --- | --- |
 | [BubbleSize](../../aspose.omr.generation.config.elements/gridconfig/bubblesize) { get; set; } | حجم الفقاعة |
 | [BubbleType](../../aspose.omr.generation.config.elements/gridconfig/bubbletype) { get; set; } | نوع الفقاعة |
-| [Column](../../aspose.omr.generation.config.elements/gridconfig/column) { get; set; } | عند رسم العنصر في عنصر أب متعدد الأعمدة - يمثل الموقع. |
+| [Column](../../aspose.omr.generation.config.elements/gridconfig/column) { get; set; } | عند رسم العنصر في أصل متعدد الأعمدة - يمثل الموضع. |
 | [GridAlignment](../../aspose.omr.generation.config.elements/gridconfig/gridalignment) { get; set; } | محاذاة الشبكة، تشير إلى مكان رسم الشبكة على الصفحة |
-| [GridOrientation](../../aspose.omr.generation.config.elements/gridconfig/gridorientation) { get; set; } | اتجاه الشبكة: أفقي أو عمودي. يشير إلى كيفية تموضع العناصر الفرعية |
+| [GridOrientation](../../aspose.omr.generation.config.elements/gridconfig/gridorientation) { get; set; } | اتجاه الشبكة: أفقي أو عمودي. يوضح كيفية تموضع العناصر الفرعية |
 | [HeaderBorderColor](../../aspose.omr.generation.config.elements/gridconfig/headerbordercolor) { get; set; } | لون حد المربع |
 | [HeaderBorderSize](../../aspose.omr.generation.config.elements/gridconfig/headerbordersize) { get; set; } | حجم حد المربع |
-| [HeaderType](../../aspose.omr.generation.config.elements/gridconfig/headertype) { get; set; } | يشير إلى نوع العنصر الذي يجب رسمه في بداية الشبكة |
+| [HeaderType](../../aspose.omr.generation.config.elements/gridconfig/headertype) { get; set; } | يحدد نوع العنصر الذي يجب رسمه في بداية الشبكة |
 | override [Name](../../aspose.omr.generation.config.elements/gridconfig/name) { get; set; } | اسم الشبكة. يُستخدم كمعرف في التعرف |
 | [OptionsCount](../../aspose.omr.generation.config.elements/gridconfig/optionscount) { get; set; } | عدد خيارات الإجابة في كل صندوق اختيار، أي الصفوف في الشبكة من الأعلى إلى الأسفل |
 | [SectionsCount](../../aspose.omr.generation.config.elements/gridconfig/sectionscount) { get; set; } | عدد صناديق الاختيار داخل الشبكة، أي الأعمدة في الشبكة من الأعلى إلى الأسفل |

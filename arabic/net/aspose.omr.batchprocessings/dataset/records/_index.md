@@ -1,5 +1,5 @@
 ---
-title: "سجلات"
+title: "السجلات"
 second_title: "Aspose.OMR لـ .NET مرجع API"
 description: "مجموعة من مثيلات القالب التي تُستدعى بشكل كسول أثناء توليد القوالب"
 type: docs

@@ -1,14 +1,14 @@
 ---
 title: "Adaptive"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "اضبط سلوك الرسم على التكيف. سلوك التكيف يرسم writeIn بناءً على ارتفاع العنصر الأصل."
+description: "اضبط سلوك الرسم إلى التكيف. السلوك المتكيف يرسم writeIn بناءً على ارتفاع العنصر الأب"
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.generation.config.elements/writeinconfig/adaptive/
 ---
 ## WriteInConfig.Adaptive property
 
-اضبط سلوك الرسم على التكيف. سلوك التكيف يرسم writeIn بناءً على ارتفاع العنصر الأصل.
+اضبط سلوك الرسم إلى التكيف. السلوك المتكيف يرسم writeIn بناءً على ارتفاع العنصر الأب
 
 ```csharp
 public bool Adaptive { get; set; }

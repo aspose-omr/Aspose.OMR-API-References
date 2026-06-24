@@ -1,14 +1,14 @@
 ---
 title: "أسفل"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "قيمة الإزاحة السفلية المحددة بوحدة القياس المحددة"
+description: "كمية الإزاحة السفلية المحددة بوحدة القياس المحددة."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation/baseoffset/bottom/
 ---
 ## BaseOffset.Bottom property
 
-قيمة الإزاحة السفلية المحددة بوحدة القياس المحددة
+كمية الإزاحة السفلية المحددة بوحدة القياس المحددة.
 
 ```csharp
 public float Bottom { get; set; }

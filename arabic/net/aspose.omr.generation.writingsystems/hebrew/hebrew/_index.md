@@ -1,14 +1,14 @@
 ---
-title: "العبرية"
+title: "Hebrew"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "تهيئة الإعداد المحلي العبرية."
+description: "تهيئة اللغة العبرية."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.writingsystems/hebrew/hebrew/
 ---
 ## Hebrew constructor
 
-تهيئة الإعداد المحلي العبرية.
+تهيئة اللغة العبرية.
 
 ```csharp
 public Hebrew(bool useNativeNumber = false)

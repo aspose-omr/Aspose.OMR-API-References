@@ -1,20 +1,20 @@
 ---
 title: "PositionedBlockConfig"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "عنصر التجميع. يضع أي عنصر فرعي في إحداثيات مطلقة على القماش"
+description: "عنصر التجميع. وضع أي عنصر فرعي في إحداثيات مطلقة على اللوحة."
 type: docs
 weight: 450
 url: /ar/net/aspose.omr.generation.config.elements.parents/positionedblockconfig/
 ---
 ## PositionedBlockConfig class
 
-عنصر التجميع. يضع أي عنصر فرعي في إحداثيات مطلقة على القماش
+عنصر التجميع. وضع أي عنصر فرعي في إحداثيات مطلقة على اللوحة.
 
 ```csharp
 public class PositionedBlockConfig : ParentConfig
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |

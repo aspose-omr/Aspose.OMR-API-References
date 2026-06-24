@@ -1,5 +1,5 @@
 ---
-title: "النقطة"
+title: "النقاط"
 second_title: "Aspose.OMR لـ .NET مرجع API"
 description: "كمية النقاط"
 type: docs

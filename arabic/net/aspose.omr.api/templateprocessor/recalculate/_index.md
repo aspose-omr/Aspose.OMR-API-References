@@ -17,7 +17,7 @@ public void Recalculate(RecognitionResult result, int recognitionThreshold = -10
 | معامل | النوع | الوصف |
 | --- | --- | --- |
 | النتيجة | RecognitionResult | نتيجة التعرف لتحديثها. |
-| recognitionThreshold | Int32 | (اختياري) عتبة التعرف في النطاق (0..100). سيتم احتساب العناصر المملوءة فوق العتبة فقط كملء |
+| recognitionThreshold | Int32 | (اختياري) عتبة التعرف في النطاق (0..100). فقط العناصر المملوءة فوق العتبة ستحسب كمملوءة. |
 
 ### ملاحظات
 

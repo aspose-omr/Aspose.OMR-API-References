@@ -1,14 +1,14 @@
 ---
 title: "Selectable"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "إذا تم تعيينه إلى false، إخفاء رسم الفقاعة والتعرف لهذا العنصر Answer"
+description: "إذا تم تعيينه إلى false، يتم إخفاء رسم الفقاعة والتعرف عليها لهذا عنصر الإجابة"
 type: docs
 weight: 80
 url: /ar/net/aspose.omr.generation.config.elements.parents/answerconfig/selectable/
 ---
 ## AnswerConfig.Selectable property
 
-إذا تم تعيينه إلى false، إخفاء رسم الفقاعة والتعرف لهذا العنصر Answer
+إذا تم تعيينه إلى false، يتم إخفاء رسم الفقاعة والتعرف عليها لهذا عنصر الإجابة
 
 ```csharp
 public bool Selectable { get; set; }

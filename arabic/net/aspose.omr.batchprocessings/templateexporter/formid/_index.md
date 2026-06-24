@@ -8,7 +8,7 @@ url: /ar/net/aspose.omr.batchprocessings/templateexporter/formid/
 ---
 ## TemplateExporter.FormId field
 
-معرّف فريد للنموذج القالب الحالي مأخوذ من الحقل [`Id`](../../datarecord/id)
+معرّف فريد للنموذج القالب الحالي مأخوذ من الحقل [`Id`](../../datarecord/id) حقل
 
 ```csharp
 public string FormId;

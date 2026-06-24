@@ -8,7 +8,7 @@ url: /ar/net/aspose.omr.generation.config.elements.parents/pageconfig/rotationpo
 ---
 ## PageConfig.RotationPointPosition property
 
-موضع نقطة الدوران المطلوبة على هذه الصفحة إذا لم يتم تعيينه - سيتم استخدام TopRight1 يتجاوز القيمة المقدمة من !:GlobalPageSettings.RotationPointPosition
+موضع نقطة الدوران المطلوبة على هذه الصفحة إذا لم يتم تعيينه - سيتم استخدام TopRight1. يتجاوز القيمة المقدمة من !:GlobalPageSettings.RotationPointPosition
 
 ```csharp
 public RotationPointPosition RotationPointPosition { get; set; }

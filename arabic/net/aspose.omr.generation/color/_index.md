@@ -33,31 +33,31 @@ public enum Color
 | Brown | `39` | لون Brown |
 | BurlyWood | `40` | لون BurlyWood |
 | CadetBlue | `41` | لون CadetBlue |
-| Chartreuse | `42` | لون شارتروز |
-| Chocolate | `43` | لون شوكولاتة |
-| Coral | `44` | لون مرجاني |
-| CornflowerBlue | `45` | لون أزرق زهرة الذرة |
-| Cornsilk | `46` | لون حرير الذرة |
-| Crimson | `47` | لون قرمزي |
-| Cyan | `48` | لون سماوي |
-| DarkBlue | `49` | لون أزرق داكن |
-| DarkCyan | `50` | لون سماوي داكن |
-| DarkGoldenrod | `51` | لون قوس ذهبي داكن |
-| DarkGray | `52` | لون رمادي داكن |
-| DarkGreen | `53` | لون أخضر داكن |
-| DarkKhaki | `54` | لون كاكي داكن |
-| DarkMagenta | `55` | لون أرجواني داكن |
-| DarkOliveGreen | `56` | لون أخضر زيتوني داكن |
-| DarkOrange | `57` | لون برتقالي داكن |
-| DarkOrchid | `58` | لون أوركيد داكن |
-| DarkRed | `59` | لون أحمر داكن |
-| DarkSalmon | `60` | لون سلمون داكن |
-| DarkSeaGreen | `61` | لون أخضر بحري داكن |
-| DarkSlateBlue | `62` | لون أزرق صخري داكن |
-| DarkSlateGray | `63` | لون رمادي صخري داكن |
-| DarkTurquoise | `64` | لون فيروزي داكن |
-| DarkViolet | `65` | لون بنفسجي داكن |
-| DeepPink | `66` | لون وردي عميق |
+| Chartreuse | `42` | لون Chartreuse |
+| Chocolate | `43` | لون Chocolate |
+| Coral | `44` | لون Coral |
+| CornflowerBlue | `45` | لون CornflowerBlue |
+| Cornsilk | `46` | لون Cornsilk |
+| Crimson | `47` | لون Crimson |
+| Cyan | `48` | لون Cyan |
+| DarkBlue | `49` | لون DarkBlue |
+| DarkCyan | `50` | لون DarkCyan |
+| DarkGoldenrod | `51` | لون DarkGoldenrod |
+| DarkGray | `52` | لون DarkGray |
+| DarkGreen | `53` | لون DarkGreen |
+| DarkKhaki | `54` | لون DarkKhaki |
+| DarkMagenta | `55` | لون DarkMagenta |
+| DarkOliveGreen | `56` | لون DarkOliveGreen |
+| DarkOrange | `57` | لون DarkOrange |
+| DarkOrchid | `58` | لون DarkOrchid |
+| DarkRed | `59` | لون DarkRed |
+| DarkSalmon | `60` | لون DarkSalmon |
+| DarkSeaGreen | `61` | لون DarkSeaGreen |
+| DarkSlateBlue | `62` | لون DarkSlateBlue |
+| DarkSlateGray | `63` | لون DarkSlateGray |
+| DarkTurquoise | `64` | لون DarkTurquoise |
+| DarkViolet | `65` | لون DarkViolet |
+| DeepPink | `66` | لون DeepPink |
 | DeepSkyBlue | `67` | لون DeepSkyBlue |
 | DimGray | `68` | لون DimGray |
 | DodgerBlue | `69` | لون DodgerBlue |
@@ -133,31 +133,31 @@ public enum Color
 | PowderBlue | `139` | PowderBlue لون |
 | Purple | `140` | Purple لون |
 | Red | `141` | Red نوع اللون |
-| RosyBrown | `142` | RosyBrown لون |
-| RoyalBlue | `143` | RoyalBlue لون |
-| SaddleBrown | `144` | SaddleBrown لون |
-| Salmon | `145` | Salmon لون |
-| SandyBrown | `146` | SandyBrown لون |
-| SeaGreen | `147` | SeaGreen لون |
-| SeaShell | `148` | SeaShell لون |
-| Sienna | `149` | Sienna لون |
-| Silver | `150` | Silver لون |
-| SkyBlue | `151` | SkyBlue لون |
-| SlateBlue | `152` | SlateBlue لون |
-| SlateGray | `153` | SlateGray لون |
-| Snow | `154` | Snow لون |
-| SpringGreen | `155` | SpringGreen لون |
-| SteelBlue | `156` | SteelBlue لون |
-| Tan | `157` | Tan لون نوع |
-| Teal | `158` | Teal لون |
-| Thistle | `159` | Thistle لون |
-| Tomato | `160` | Tomato لون |
-| Turquoise | `161` | Turquoise لون |
-| Violet | `162` | Violet لون |
-| Wheat | `163` | Wheat لون |
-| White | `164` | White لون |
-| WhiteSmoke | `165` | WhiteSmoke لون |
-| Yellow | `166` | Yellow لون |
+| RosyBrown | `142` | لون RosyBrown |
+| RoyalBlue | `143` | لون RoyalBlue |
+| SaddleBrown | `144` | لون SaddleBrown |
+| Salmon | `145` | لون Salmon |
+| SandyBrown | `146` | لون SandyBrown |
+| SeaGreen | `147` | لون SeaGreen |
+| SeaShell | `148` | لون SeaShell |
+| Sienna | `149` | لون Sienna |
+| Silver | `150` | لون Silver |
+| SkyBlue | `151` | لون SkyBlue |
+| SlateBlue | `152` | لون SlateBlue |
+| SlateGray | `153` | لون SlateGray |
+| Snow | `154` | لون Snow |
+| SpringGreen | `155` | لون SpringGreen |
+| SteelBlue | `156` | لون SteelBlue |
+| Tan | `157` | Tan نوع اللون |
+| Teal | `158` | لون Teal |
+| Thistle | `159` | لون Thistle |
+| Tomato | `160` | لون Tomato |
+| Turquoise | `161` | لون Turquoise |
+| Violet | `162` | لون Violet |
+| Wheat | `163` | لون Wheat |
+| White | `164` | لون White |
+| WhiteSmoke | `165` | لون WhiteSmoke |
+| Yellow | `166` | لون Yellow |
 | YellowGreen | `167` | لون أصفر أخضر |
 
 ### انظر أيضًا

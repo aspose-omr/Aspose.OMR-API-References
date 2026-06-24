@@ -1,5 +1,5 @@
 ---
-title: "معرّف"
+title: "معرف"
 second_title: "Aspose.OMR لـ .NET مرجع API"
 description: "معرّف فريد للسجل. مثال: Guid.New"
 type: docs

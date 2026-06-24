@@ -1,7 +1,7 @@
 ---
 title: "OptionsCount"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "عدد خيارات الإجابة في كل صندوق اختيار، أي الصفوف في الشبكة من الأعلى إلى الأسفل"
+description: "عدد خيارات الإجابة في كل صندوق اختيار، أي الصفوف في الشبكة العمودية"
 type: docs
 weight: 110
 url: /ar/net/aspose.omr.generation.config.elements/gridconfig/optionscount/

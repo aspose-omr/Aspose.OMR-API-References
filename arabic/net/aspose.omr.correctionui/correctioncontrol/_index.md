@@ -16,7 +16,7 @@ CorrectionControl
 public class CorrectionControl : UserControl, IComponentConnector
 ```
 
-## طرق
+## الطرق
 
 | الاسم | الوصف |
 | --- | --- |

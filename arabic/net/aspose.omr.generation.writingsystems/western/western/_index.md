@@ -1,5 +1,5 @@
 ---
-title: "غربي"
+title: "Western"
 second_title: "Aspose.OMR لـ .NET مرجع API"
 description: "المنشئ الافتراضي."
 type: docs

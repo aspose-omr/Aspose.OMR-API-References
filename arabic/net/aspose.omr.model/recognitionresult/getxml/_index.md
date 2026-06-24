@@ -1,14 +1,14 @@
 ---
 title: "GetXml"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "إنشاء سلسلة XML للنموذج مع نتائج التعرف كـ MemoryStream"
+description: "سلسلة XML للنموذج مع نتائج التعرف كـ MemoryStream"
 type: docs
 weight: 100
 url: /ar/net/aspose.omr.model/recognitionresult/getxml/
 ---
 ## GetXml(Encoding) {#getxml}
 
-إنشاء سلسلة XML للنموذج مع نتائج التعرف كـ MemoryStream
+سلسلة XML للنموذج مع نتائج التعرف كـ MemoryStream
 
 ```csharp
 public byte[] GetXml(Encoding encoding)
@@ -16,7 +16,7 @@ public byte[] GetXml(Encoding encoding)
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| ترميز | الترميز | الترميز الذي نستخدمه لتشفير سلسلة XML |
+| الترميز | الترميز | الترميز الذي نستخدمه لتشفير سلسلة XML |
 
 ### قيمة الإرجاع
 
@@ -32,7 +32,7 @@ public byte[] GetXml(Encoding encoding)
 
 ## GetXml() {#getxml_1}
 
-إنشاء سلسلة XML مع نتائج التعرف
+تكوين سلسلة XML مع نتائج التعرف
 
 ```csharp
 public string GetXml()

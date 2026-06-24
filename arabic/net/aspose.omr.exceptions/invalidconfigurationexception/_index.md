@@ -1,14 +1,14 @@
 ---
 title: "InvalidConfigurationException"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "المشكلة الموصوفة حدثت أثناء التحقق من صحة إدخال OMR."
+description: "حدثت المشكلة الموصوفة أثناء التحقق من صحة مدخلات OMR."
 type: docs
 weight: 160
 url: /ar/net/aspose.omr.exceptions/invalidconfigurationexception/
 ---
 ## InvalidConfigurationException class
 
-المشكلة الموصوفة حدثت أثناء التحقق من صحة إدخال OMR.
+حدثت المشكلة الموصوفة أثناء التحقق من صحة مدخلات OMR.
 
 ```csharp
 public class InvalidConfigurationException : OMRException

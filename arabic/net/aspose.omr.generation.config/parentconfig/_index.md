@@ -20,7 +20,7 @@ public abstract class ParentConfig : BaseConfig
 | --- | --- |
 | abstract [Children](../../aspose.omr.generation.config/parentconfig/children) { get; set; } | عناصر OMR الفرعية. في معظم الحالات تكون موضوعة داخل العنصر الأب أو تحته. |
 | abstract [Name](../../aspose.omr.generation.config/baseconfig/name) { get; set; } | اسم عنصر OMR. يمكن استخدامه في حالات مختلفة بناءً على العنصر |
-| abstract [Type](../../aspose.omr.generation.config/baseconfig/type) { get; set; } | نوع عنصر omr. لا يحتوي على قيمة افتراضية. يجب تجاوزه. |
+| abstract [Type](../../aspose.omr.generation.config/baseconfig/type) { get; set; } | نوع عنصر OMR. لا يحتوي على قيمة افتراضية. يجب تجاوزها. |
 
 ### انظر أيضًا
 

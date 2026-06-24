@@ -1,14 +1,14 @@
 ---
 title: "يسار"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "قيمة الإزاحة اليسرى المحددة بوحدة القياس المحددة"
+description: "كمية الإزاحة اليسرى المحددة بوحدة القياس المحددة."
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.generation/baseoffset/left/
 ---
 ## BaseOffset.Left property
 
-قيمة الإزاحة اليسرى المحددة بوحدة القياس المحددة
+كمية الإزاحة اليسرى المحددة بوحدة القياس المحددة.
 
 ```csharp
 public float Left { get; set; }

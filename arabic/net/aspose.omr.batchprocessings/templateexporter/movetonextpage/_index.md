@@ -1,14 +1,14 @@
 ---
 title: "MoveToNextPage"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "يتقدم عداد الصفحات للنموذج القالب الحالي إلى الصفحة التالية"
+description: "يتقدم عداد الصفحات لنموذج القالب الحالي إلى الصفحة التالية"
 type: docs
 weight: 100
 url: /ar/net/aspose.omr.batchprocessings/templateexporter/movetonextpage/
 ---
 ## TemplateExporter.MoveToNextPage method
 
-يتقدم عداد الصفحات للنموذج القالب الحالي إلى الصفحة التالية
+يتقدم عداد الصفحات لنموذج القالب الحالي إلى الصفحة التالية
 
 ```csharp
 public bool MoveToNextPage()

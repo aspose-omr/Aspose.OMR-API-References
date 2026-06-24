@@ -18,10 +18,10 @@ public interface IOmrElement
 
 | الاسم | الوصف |
 | --- | --- |
-| [QuestionName](../../aspose.omr.model/iomrelement/questionname) { get; set; } | يحصل أو يعيّن Question Name |
-| [SortWeight](../../aspose.omr.model/iomrelement/sortweight) { get; set; } | كلما ارتفعت القيمة - سيظهر العنصر الأخير في csv |
+| [QuestionName](../../aspose.omr.model/iomrelement/questionname) { get; set; } | يحصل أو يعيّن اسم السؤال |
+| [SortWeight](../../aspose.omr.model/iomrelement/sortweight) { get; set; } | كلما ارتفعت القيمة - سيظهر العنصر لاحقًا في csv |
 
-## طرق
+## الطرق
 
 | الاسم | الوصف |
 | --- | --- |

@@ -1,20 +1,20 @@
 ---
 title: "ChoiceBoxConfig"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "صندوق الاختيار هو عنصر أساسي يمثل سؤالًا واحدًا مع عدد محدد من الإجابات."
+description: "صندوق الاختيار هو عنصر أساسي يمثل سؤالًا واحدًا بعدد محدد من الإجابات."
 type: docs
 weight: 280
 url: /ar/net/aspose.omr.generation.config.elements/choiceboxconfig/
 ---
 ## ChoiceBoxConfig class
 
-صندوق الاختيار هو عنصر أساسي يمثل سؤالًا واحدًا مع عدد محدد من الإجابات.
+صندوق الاختيار هو عنصر أساسي يمثل سؤالًا واحدًا بعدد محدد من الإجابات.
 
 ```csharp
 public class ChoiceBoxConfig : ParentConfig
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |

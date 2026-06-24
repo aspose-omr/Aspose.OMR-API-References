@@ -1,20 +1,20 @@
 ---
 title: "PoolFactory"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "تخزين أحواض الذاكرة. إعادة استخدام نفس المثيل من Aspose.OMR.Buffers.PoolFactory في عدة مثيلات من Aspose.OMR.Api.OmrEngine سيحسن الأداء."
+description: "تخزين مجمعات الذاكرة. إعادة استخدام نفس نسخة Aspose.OMR.Buffers.PoolFactory في عدة نسخ من Aspose.OMR.Api.OmrEngine سيحسن الأداء."
 type: docs
 weight: 130
 url: /ar/net/aspose.omr.buffers/poolfactory/
 ---
 ## PoolFactory class
 
-تخزين أحواض الذاكرة. إعادة استخدام نفس المثيل من Aspose.OMR.Buffers.PoolFactory في عدة مثيلات من Aspose.OMR.Api.OmrEngine سيحسن الأداء.
+تخزين مجمعات الذاكرة. إعادة استخدام نفس نسخة Aspose.OMR.Buffers.PoolFactory في عدة نسخ من Aspose.OMR.Api.OmrEngine سيحسن الأداء.
 
 ```csharp
 public class PoolFactory
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |

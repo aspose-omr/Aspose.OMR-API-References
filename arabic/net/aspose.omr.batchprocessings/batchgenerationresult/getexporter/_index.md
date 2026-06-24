@@ -1,14 +1,14 @@
 ---
 title: "GetExporter"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "مصدّر القالب - أداة لتخزين النتائج بدقة أكبر عادةً إلى الدفقات"
+description: "مُصدّر القالب - أداة لتخزين النتائج بدقة أكبر عادةً إلى الدفقات"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.batchprocessings/batchgenerationresult/getexporter/
 ---
 ## BatchGenerationResult.GetExporter method
 
-مصدّر القالب - أداة لتخزين النتائج بدقة أكبر عادةً إلى الدفقات
+مُصدّر القالب - أداة لتخزين النتائج بدقة أكبر عادةً إلى الدفقات
 
 ```csharp
 public TemplateExporter GetExporter()
@@ -16,7 +16,7 @@ public TemplateExporter GetExporter()
 
 ### قيمة الإرجاع
 
-نسخة جديدة من TemplateExporter مرتبطة بهذا BatchGenerationResult
+مثال جديد من TemplateExporter مرتبط بهذا BatchGenerationResult
 
 ### انظر أيضًا
 

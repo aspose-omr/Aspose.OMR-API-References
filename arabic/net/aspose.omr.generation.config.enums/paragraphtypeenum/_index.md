@@ -21,7 +21,7 @@ public enum ParagraphTypeEnum
 | Normal | `0` | محاذاة الفقرة للعناصر عموديًا |
 | Multiple | `1` | ستحاول الفقرة تغليف العديد من [`ContentConfig`](../../aspose.omr.generation.config.elements/contentconfig) حول واحد [`ImageConfig`](../../aspose.omr.generation.config.elements/imageconfig) نسخة مكررة من ImageWrap تُستخدم كدعم قديم |
 | ImageWrap | `2` | ستحاول الفقرة تغليف العديد من [`ContentConfig`](../../aspose.omr.generation.config.elements/contentconfig) حول واحد [`ImageConfig`](../../aspose.omr.generation.config.elements/imageconfig) |
-| Inline | `3` | تخصيص العناصر في سطر أفقي واحد (من اليسار إلى اليمين) |
+| Inline | `3` | تخصيص العناصر في سطر أفقي واحد (LTR) |
 
 ### انظر أيضًا
 

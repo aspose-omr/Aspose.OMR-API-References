@@ -16,7 +16,7 @@ public void LoadAndDisplayImage(string imagePath)
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| imagePath | سلسلة | المسار إلى الصورة المملوءة للتعرف |
+| imagePath | String | المسار إلى الصورة المملوءة للتعرف |
 
 ### انظر أيضًا
 

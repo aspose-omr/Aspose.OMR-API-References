@@ -1,20 +1,20 @@
 ---
 title: "CustomRowConfig"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "وصف الـ CustomRow. يُستخدم مع CustomAnswerSheetConfig./customanswersheetconfig"
+description: "وصف CustomRow. يُستخدم مع CustomAnswerSheetConfig./customanswersheetconfig"
 type: docs
 weight: 330
 url: /ar/net/aspose.omr.generation.config.elements.customanswersheet/customrowconfig/
 ---
 ## CustomRowConfig class
 
-وصف الـ CustomRow. يُستخدم مع [`CustomAnswerSheetConfig`](../customanswersheetconfig)
+وصف CustomRow. يُستخدم مع [`CustomAnswerSheetConfig`](../customanswersheetconfig)
 
 ```csharp
 public class CustomRowConfig : ParentConfig
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |
