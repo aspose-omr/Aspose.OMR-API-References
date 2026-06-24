@@ -1,6 +1,6 @@
 ---
 title: "ChoiceBoxElement"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: "يمثل سؤال ChoiceBox"
 type: docs
 weight: 11
@@ -16,15 +16,15 @@ public class ChoiceBoxElement extends OmrElement
 يمثل سؤال ChoiceBox
 ## المُنشئات
 
-| مُنشئ | الوصف |
+| المُنشئ | الوصف |
 | --- | --- |
-| [ChoiceBoxElement()](#ChoiceBoxElement) | يُنشئ مثيلاً جديدًا من الفئة [ChoiceBoxElement](../../com.aspose.omr/choiceboxelement/) |
+| [ChoiceBoxElement()](#ChoiceBoxElement) | يقوم بتهيئة نسخة جديدة من الفئة [ChoiceBoxElement](../../com.aspose.omr/choiceboxelement/) |
 ## الحقول
 
 | حقل | الوصف |
 | --- | --- |
 | [ElementType](#ElementType) |  |
-## طرق
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |
@@ -36,26 +36,26 @@ public class ChoiceBoxElement extends OmrElement
 | [getClass()](#getClass) |  |
 | [getHeight()](#getHeight) | يحصل أو يضبط ارتفاع السؤال |
 | [getLeft()](#getLeft) | يحصل أو يضبط موضع السؤال الأيسر |
-| [getMultipleSelectionAllowed()](#getMultipleSelectionAllowed) | يحصل أو يعيّن قيمة تشير إلى ما إذا كان السماح بالاختيار المتعدد |
+| [getMultipleSelectionAllowed()](#getMultipleSelectionAllowed) | يحصل أو يعيّن قيمة تشير إلى ما إذا كان اختيار متعدد مسموحًا |
 | [getName()](#getName) | يحصل على اسم السؤال |
 | [getOrientation()](#getOrientation) |  |
-| [getOrientationString()](#getOrientationString) | يحصل على تمثيل نصي لخاصية الاتجاه |
+| [getOrientationString()](#getOrientationString) | يحصل على تمثيل النص لخاصية الاتجاه |
 | [getRect()](#getRect) |  |
 | [getTop()](#getTop) | يحصل أو يضبط موضع السؤال العلوي |
 | [getWidth()](#getWidth) | يحصل أو يضبط عرض السؤال |
 | [hashCode()](#hashCode) |  |
-| [isAlignedHorizontal()](#isAlignedHorizontal) | يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصطفة أفقياً |
-| [isAlignedVertical()](#isAlignedVertical) | يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصطفة عمودياً |
+| [isAlignedHorizontal()](#isAlignedHorizontal) | يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة أفقياً |
+| [isAlignedVertical()](#isAlignedVertical) | يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة رأسياً |
 | [notify()](#notify) |  |
 | [notifyAll()](#notifyAll) |  |
-| [setAlignedHorizontal(boolean value)](#setAlignedHorizontal-boolean) | يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصطفة أفقياً |
-| [setAlignedVertical(boolean value)](#setAlignedVertical-boolean) | يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصطفة عمودياً |
+| [setAlignedHorizontal(boolean value)](#setAlignedHorizontal-boolean) | يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة أفقياً |
+| [setAlignedVertical(boolean value)](#setAlignedVertical-boolean) | يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة رأسياً |
 | [setBubbleHeight(double value)](#setBubbleHeight-double) |  |
 | [setBubbleWidth(double value)](#setBubbleWidth-double) |  |
 | [setBubbles(System.Collections.Generic.List<OmrBubble> value)](#setBubbles-com.aspose.ms.System.Collections.Generic.List-com.aspose.omr.OmrBubble) | يحصل أو يعيّن مجموعة الفقاعات |
 | [setHeight(double value)](#setHeight-double) | يحصل أو يضبط ارتفاع السؤال |
 | [setLeft(double value)](#setLeft-double) | يحصل أو يضبط موضع السؤال الأيسر |
-| [setMultipleSelectionAllowed(boolean value)](#setMultipleSelectionAllowed-boolean) | يحصل أو يعيّن قيمة تشير إلى ما إذا كان السماح بالاختيار المتعدد |
+| [setMultipleSelectionAllowed(boolean value)](#setMultipleSelectionAllowed-boolean) | يحصل أو يعيّن قيمة تشير إلى ما إذا كان اختيار متعدد مسموحًا |
 | [setName(String value)](#setName-java.lang.String) | يضبط اسم السؤال |
 | [setOrientation(int value)](#setOrientation-int) |  |
 | [setTop(double value)](#setTop-double) | يحصل أو يضبط موضع السؤال العلوي |
@@ -70,7 +70,7 @@ public ChoiceBoxElement()
 ```
 
 
-يُنشئ مثيلاً جديدًا من الفئة [ChoiceBoxElement](../../com.aspose.omr/choiceboxelement/)
+يقوم بتهيئة نسخة جديدة من الفئة [ChoiceBoxElement](../../com.aspose.omr/choiceboxelement/)
 
 ### ElementType {#ElementType}
 ```
@@ -177,10 +177,10 @@ public final boolean getMultipleSelectionAllowed()
 ```
 
 
-يحصل أو يعيّن قيمة تشير إلى ما إذا كان السماح بالاختيار المتعدد
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان اختيار متعدد مسموحًا
 
 **Returns:**
-boolean - قيمة تشير إلى ما إذا كان السماح بالاختيار المتعدد
+boolean - قيمة تشير إلى ما إذا كان اختيار متعدد مسموحًا
 ### getName() {#getName}
 ```
 public final String getName()
@@ -207,10 +207,10 @@ public final String getOrientationString()
 ```
 
 
-يحصل على تمثيل نصي لخاصية الاتجاه
+يحصل على تمثيل النص لخاصية الاتجاه
 
 **Returns:**
-java.lang.String - تمثيل نصي لخاصية الاتجاه
+java.lang.String - تمثيل النص لخاصية الاتجاه
 ### getRect() {#getRect}
 ```
 public System.Drawing.RectangleF getRect()
@@ -257,20 +257,20 @@ public final boolean isAlignedHorizontal()
 ```
 
 
-يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصطفة أفقياً
+يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة أفقياً
 
 **Returns:**
-boolean - قيمة تشير إلى ما إذا كانت الفقاعات مصطفة أفقياً
+boolean - قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة أفقياً
 ### isAlignedVertical() {#isAlignedVertical}
 ```
 public final boolean isAlignedVertical()
 ```
 
 
-يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصطفة عمودياً
+يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة رأسياً
 
 **Returns:**
-boolean - قيمة تشير إلى ما إذا كانت الفقاعات مصطفة عمودياً
+boolean - قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة رأسياً
 ### notify() {#notify}
 ```
 public final native void notify()
@@ -293,12 +293,12 @@ public final void setAlignedHorizontal(boolean value)
 ```
 
 
-يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصطفة أفقياً
+يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة أفقياً
 
 **Parameters:**
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| قيمة | boolean | قيمة تشير إلى ما إذا كانت الفقاعات مصطفة أفقياً |
+| قيمة | boolean | قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة أفقياً |
 
 ### setAlignedVertical(boolean value) {#setAlignedVertical-boolean}
 ```
@@ -306,12 +306,12 @@ public final void setAlignedVertical(boolean value)
 ```
 
 
-يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصطفة عمودياً
+يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة رأسياً
 
 **Parameters:**
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| قيمة | boolean | قيمة تشير إلى ما إذا كانت الفقاعات مصطفة عمودياً |
+| قيمة | boolean | قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة رأسياً |
 
 ### setBubbleHeight(double value) {#setBubbleHeight-double}
 ```
@@ -384,12 +384,12 @@ public final void setMultipleSelectionAllowed(boolean value)
 ```
 
 
-يحصل أو يعيّن قيمة تشير إلى ما إذا كان السماح بالاختيار المتعدد
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان اختيار متعدد مسموحًا
 
 **Parameters:**
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| قيمة | boolean | قيمة تشير إلى ما إذا كان السماح بالاختيار المتعدد |
+| قيمة | boolean | قيمة تشير إلى ما إذا كان اختيار متعدد مسموحًا |
 
 ### setName(String value) {#setName-java.lang.String}
 ```

@@ -1,6 +1,6 @@
 ---
 title: "BubbleSize"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: 
 type: docs
 weight: 34
@@ -22,7 +22,7 @@ public enum BubbleSize extends Enum<BubbleSize>
 | [Normal](#Normal) |  |
 | [Small](#Small) |  |
 | [undefined](#undefined) |  |
-## طرق
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |

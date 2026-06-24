@@ -1,6 +1,6 @@
 ---
 title: "GridElement"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: 
 type: docs
 weight: 16
@@ -14,7 +14,7 @@ public class GridElement extends OmrElement
 ```
 ## المُنشئات
 
-| مُنشئ | الوصف |
+| المُنشئ | الوصف |
 | --- | --- |
 | [GridElement()](#GridElement) |  |
 ## الحقول
@@ -22,7 +22,7 @@ public class GridElement extends OmrElement
 | حقل | الوصف |
 | --- | --- |
 | [ElementType](#ElementType) |  |
-## طرق
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |
@@ -40,12 +40,12 @@ public class GridElement extends OmrElement
 | [getTop()](#getTop) | يحصل أو يضبط موضع السؤال العلوي |
 | [getWidth()](#getWidth) | يحصل أو يضبط عرض السؤال |
 | [hashCode()](#hashCode) |  |
-| [isAlignedHorizontal()](#isAlignedHorizontal) | يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصطفة أفقياً |
-| [isAlignedVertical()](#isAlignedVertical) | يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصطفة عمودياً |
+| [isAlignedHorizontal()](#isAlignedHorizontal) | يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة أفقياً |
+| [isAlignedVertical()](#isAlignedVertical) | يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة رأسياً |
 | [notify()](#notify) |  |
 | [notifyAll()](#notifyAll) |  |
-| [setAlignedHorizontal(boolean value)](#setAlignedHorizontal-boolean) | يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصطفة أفقياً |
-| [setAlignedVertical(boolean value)](#setAlignedVertical-boolean) | يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصطفة عمودياً |
+| [setAlignedHorizontal(boolean value)](#setAlignedHorizontal-boolean) | يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة أفقياً |
+| [setAlignedVertical(boolean value)](#setAlignedVertical-boolean) | يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة رأسياً |
 | [setChoiceBoxes(System.Collections.Generic.List<OmrElement> value)](#setChoiceBoxes-com.aspose.ms.System.Collections.Generic.List-com.aspose.omr.OmrElement) |  |
 | [setHeight(double value)](#setHeight-double) | يحصل أو يضبط ارتفاع السؤال |
 | [setLeft(double value)](#setLeft-double) | يحصل أو يضبط موضع السؤال الأيسر |
@@ -232,20 +232,20 @@ public final boolean isAlignedHorizontal()
 ```
 
 
-يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصطفة أفقياً
+يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة أفقياً
 
 **Returns:**
-boolean - قيمة تشير إلى ما إذا كانت الفقاعات مصطفة أفقياً
+boolean - قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة أفقياً
 ### isAlignedVertical() {#isAlignedVertical}
 ```
 public final boolean isAlignedVertical()
 ```
 
 
-يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصطفة عمودياً
+يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة رأسياً
 
 **Returns:**
-boolean - قيمة تشير إلى ما إذا كانت الفقاعات مصطفة عمودياً
+boolean - قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة رأسياً
 ### notify() {#notify}
 ```
 public final native void notify()
@@ -268,12 +268,12 @@ public final void setAlignedHorizontal(boolean value)
 ```
 
 
-يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصطفة أفقياً
+يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة أفقياً
 
 **Parameters:**
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| قيمة | boolean | قيمة تشير إلى ما إذا كانت الفقاعات مصطفة أفقياً |
+| قيمة | boolean | قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة أفقياً |
 
 ### setAlignedVertical(boolean value) {#setAlignedVertical-boolean}
 ```
@@ -281,12 +281,12 @@ public final void setAlignedVertical(boolean value)
 ```
 
 
-يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصطفة عمودياً
+يحصل أو يعيّن قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة رأسياً
 
 **Parameters:**
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| قيمة | boolean | قيمة تشير إلى ما إذا كانت الفقاعات مصطفة عمودياً |
+| قيمة | boolean | قيمة تشير إلى ما إذا كانت الفقاعات مصفوفة رأسياً |
 
 ### setChoiceBoxes(System.Collections.Generic.List<OmrElement> value) {#setChoiceBoxes-com.aspose.ms.System.Collections.Generic.List-com.aspose.omr.OmrElement}
 ```

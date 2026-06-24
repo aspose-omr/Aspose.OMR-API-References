@@ -1,7 +1,7 @@
 ---
 title: "ReferencePointsSettings"
-second_title: "مرجع Aspose.OMR لـ Java API"
-description: "الإعدادات العامة لنقاط الإشارة المطبقة على جميع عناصر الصفحة"
+second_title: "مرجع API لـ Aspose.OMR for Java"
+description: "الإعدادات العامة لنقاط المرجع القابلة للتطبيق على جميع عناصر الصفحة"
 type: docs
 weight: 29
 url: /ar/java/com.aspose.omr/referencepointssettings/
@@ -15,18 +15,18 @@ public class ReferencePointsSettings
 
 الإعدادات العامة لنقاط المرجعية القابلة للتطبيق على جميع عناصر الصفحة.
 
-الإعدادات التي تصف سلوك نقطة الإشارة في القالب، مثل المربعات السوداء في الزوايا ومستطيل العلامة الدوارة الأسود بينهما.
+إعدادات تصف سلوك نقطة المرجع في القالب مثل المربعات السوداء في الزوايا ومستطيل علامة الدوران الأسود بينهما.
 ## المُنشئات
 
-| مُنشئ | الوصف |
+| المُنشئ | الوصف |
 | --- | --- |
 | [ReferencePointsSettings()](#ReferencePointsSettings) |  |
 ## الحقول
 
 | حقل | الوصف |
 | --- | --- |
-| [RotationMarkerPosition](#RotationMarkerPosition) | الموضع المطلوب لعلامة الدوران على القالب. |
-## طرق
+| [RotationMarkerPosition](#RotationMarkerPosition) | الموقع المطلوب لعلامة الدوران على القالب. |
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |
@@ -51,7 +51,7 @@ public RotationPointPosition RotationMarkerPosition
 ```
 
 
-الموضع المطلوب لعلامة الدوران على القالب. إذا لم يتم تعيينه، سيُستخدم RotationPointPosition.TopRight1. تُرسم العلامة كخمس مستطيل أسود.
+الموقع المطلوب لعلامة الدوران على القالب. إذا لم يتم تعيينه، سيُستخدم RotationPointPosition.TopRight1. تُرسم العلامة كمستطيل أسود خامس.
 
 ### equals(Object arg0) {#equals-java.lang.Object}
 ```

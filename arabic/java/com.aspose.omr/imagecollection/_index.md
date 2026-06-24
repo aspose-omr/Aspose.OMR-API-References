@@ -1,6 +1,6 @@
 ---
 title: "ImageCollection"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: "مجموعة من الصور التي يمكن استخدامها لإنشاء القالب"
 type: docs
 weight: 17
@@ -16,14 +16,14 @@ public class ImageCollection
 مجموعة من الصور التي يمكن استخدامها لتوليد القالب.
 ## المُنشئات
 
-| مُنشئ | الوصف |
+| المُنشئ | الوصف |
 | --- | --- |
-| [ImageCollection()](#ImageCollection) | البناء الافتراضي لإنشاء مثيل من المجموعة |
-## طرق
+| [ImageCollection()](#ImageCollection) | المنشئ الافتراضي لإنشاء نسخة من المجموعة |
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |
-| [add(String imageName, InputStream stream)](#add-java.lang.String-java.io.InputStream) | أدرج صورة في هذه المجموعة. |
+| [add(String imageName, InputStream stream)](#add-java.lang.String-java.io.InputStream) | إدراج صورة في هذه المجموعة. |
 | [equals(Object arg0)](#equals-java.lang.Object) |  |
 | [getClass()](#getClass) |  |
 | [hashCode()](#hashCode) |  |
@@ -39,7 +39,7 @@ public ImageCollection()
 ```
 
 
-البناء الافتراضي لإنشاء مثيل من المجموعة
+المنشئ الافتراضي لإنشاء نسخة من المجموعة
 
 ### add(String imageName, InputStream stream) {#add-java.lang.String-java.io.InputStream}
 ```
@@ -47,13 +47,13 @@ public void add(String imageName, InputStream stream)
 ```
 
 
-أدرج صورة في هذه المجموعة.
+إدراج صورة في هذه المجموعة.
 
 **Parameters:**
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | imageName | java.lang.String | يجب أن يكون مساويًا لعنصر ?image مثل ?image=logo.png collection.Add("logo.png",stream) |
-| دفق | java.io.InputStream |  |
+| تدفق | java.io.InputStream |  |
 
 ### equals(Object arg0) {#equals-java.lang.Object}
 ```

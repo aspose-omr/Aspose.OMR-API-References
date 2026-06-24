@@ -1,6 +1,6 @@
 ---
 title: "محاذاة"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: 
 type: docs
 weight: 32
@@ -20,7 +20,7 @@ public enum Alignment extends Enum<Alignment>
 | [Left](#Left) |  |
 | [Right](#Right) |  |
 | [undefined](#undefined) |  |
-## طرق
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: "RotationPointPosition"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: 
 type: docs
 weight: 39
@@ -26,7 +26,7 @@ public enum RotationPointPosition extends Enum<RotationPointPosition>
 | [TopRight1](#TopRight1) |  |
 | [TopRight2](#TopRight2) |  |
 | [undefined](#undefined) |  |
-## طرق
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |

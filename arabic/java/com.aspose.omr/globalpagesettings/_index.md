@@ -1,6 +1,6 @@
 ---
 title: "GlobalPageSettings"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: "الإعدادات العامة المطبقة على جميع عناصر الصفحة"
 type: docs
 weight: 15
@@ -16,7 +16,7 @@ public class GlobalPageSettings
 الإعدادات العامة المطبقة على جميع عناصر الصفحة.
 ## المُنشئات
 
-| مُنشئ | الوصف |
+| المُنشئ | الوصف |
 | --- | --- |
 | [GlobalPageSettings()](#GlobalPageSettings) |  |
 ## الحقول
@@ -25,13 +25,13 @@ public class GlobalPageSettings
 | --- | --- |
 | [BubbleColor](#BubbleColor) | لون كل فقاعة على الصفحة |
 | [BubbleSize](#BubbleSize) |  |
-| [FontColor](#FontColor) | لون جميع رموز النص يمكن تجاوزه عن طريق تحديد اللون في عنصر النص نفسه |
+| [FontColor](#FontColor) | لون جميع رموز النص يمكن تجاوزه بتحديد اللون في عنصر النص نفسه |
 | [FontFamily](#FontFamily) | عائلة الخط |
 | [FontSize](#FontSize) | حجم الخط |
 | [FontStyle](#FontStyle) | نمط الخط |
 | [PaperSize](#PaperSize) | حجم الصفحة. |
-| [ReferencePoints](#ReferencePoints) | الإعدادات التي تصف سلوك نقطة المرجع للقالب: مربعات سوداء في الزوايا ومربع أسود كعلامة دوران بينهما. |
-## طرق
+| [ReferencePoints](#ReferencePoints) | الإعدادات التي تصف سلوك Reference Point للقالب: مربعات سوداء في الزوايا وعلامة دوران مستطيل أسود بينها. |
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |
@@ -70,7 +70,7 @@ public DrawingColor FontColor
 ```
 
 
-لون جميع رموز النص يمكن تجاوزه عن طريق تحديد اللون في عنصر النص نفسه
+لون جميع رموز النص يمكن تجاوزه بتحديد اللون في عنصر النص نفسه
 
 ### FontFamily {#FontFamily}
 ```
@@ -102,7 +102,7 @@ public PaperSize PaperSize
 ```
 
 
-حجم الصفحة. يستخدم نسب الورق عند 300 dpi.
+حجم الصفحة. يستخدم نسب الورق عند 300 نقطة في البوصة.
 
 ### ReferencePoints {#ReferencePoints}
 ```
@@ -110,7 +110,7 @@ public ReferencePointsSettings ReferencePoints
 ```
 
 
-الإعدادات التي تصف سلوك نقطة المرجع للقالب: مربعات سوداء في الزوايا ومربع أسود كعلامة دوران بينهما. \*
+الإعدادات التي تصف سلوك Reference Point للقالب: مربعات سوداء في الزوايا وعلامة دوران مستطيل أسود بينها. \*
 
 ### equals(Object arg0) {#equals-java.lang.Object}
 ```

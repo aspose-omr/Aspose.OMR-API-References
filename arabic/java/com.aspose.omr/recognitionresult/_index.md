@@ -1,6 +1,6 @@
 ---
 title: "RecognitionResult"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: "نتيجة التعرف على الصورة"
 type: docs
 weight: 27
@@ -13,8 +13,8 @@ java.lang.Object
 public class RecognitionResult
 ```
 
-نتيجة التعرف على الصورة. يحتوي على جميع عناصر OMR مع معلومات التعرف التفصيلية وطرق تصدير النتائج.
-## طرق
+نتيجة التعرف على الصورة. يحتوي على جميع عناصر OMR مع معلومات تفصيلية عن التعرف وطرق لتصدير النتائج.
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |

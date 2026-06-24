@@ -1,7 +1,7 @@
 ---
 title: "OmrElement"
-second_title: "مرجع Aspose.OMR لـ Java API"
-description: "فئة مجرد تمثيل سؤال omr أساسي  يحتوي على خصائص مشتركة لجميع الأسئلة"
+second_title: "مرجع API لـ Aspose.OMR for Java"
+description: "فئة مجردة تمثل سؤال omr الأساسي وتحتوي على خصائص مشتركة لجميع الأسئلة"
 type: docs
 weight: 21
 url: /ar/java/com.aspose.omr/omrelement/
@@ -16,10 +16,10 @@ public abstract class OmrElement
 فئة مجردة تمثل سؤال OMR الأساسي تحتوي على خصائص مشتركة لجميع الأسئلة
 ## المُنشئات
 
-| مُنشئ | الوصف |
+| المُنشئ | الوصف |
 | --- | --- |
 | [OmrElement()](#OmrElement) |  |
-## طرق
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |
