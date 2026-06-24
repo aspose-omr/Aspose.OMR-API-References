@@ -1,7 +1,7 @@
 ---
 title: "OmrPage"
 second_title: "Aspose.OMR for Java API 参考"
-description: "表示单个 omr 页面"
+description: "表示单个 OMR 页面"
 type: docs
 weight: 24
 url: /zh/java/com.aspose.omr/omrpage/
@@ -13,12 +13,12 @@ java.lang.Object
 public class OmrPage
 ```
 
-表示单个 omr 页面
+表示单个 OMR 页面
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [OmrPage()](#OmrPage) | 初始化 [OmrPage](../../com.aspose.omr/omrpage/) 类的新实例 |
+| [OmrPage()](#OmrPage) | 初始化一个新的 [OmrPage](../../com.aspose.omr/omrpage/) 类实例 |
 ## 方法
 
 | 方法 | 描述 |
@@ -56,7 +56,7 @@ public OmrPage()
 ```
 
 
-初始化 [OmrPage](../../com.aspose.omr/omrpage/) 类的新实例
+初始化一个新的 [OmrPage](../../com.aspose.omr/omrpage/) 类实例
 
 ### addBarcodeElement(BarcodeElement element) {#addBarcodeElement-com.aspose.omr.BarcodeElement}
 ```

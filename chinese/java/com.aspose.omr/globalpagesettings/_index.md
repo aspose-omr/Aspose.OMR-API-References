@@ -1,5 +1,5 @@
 ---
-title: "GlobalPageSettings"
+title: "全局页面设置"
 second_title: "Aspose.OMR for Java API 参考"
 description: "适用于所有页面元素的全局设置"
 type: docs
@@ -30,7 +30,7 @@ public class GlobalPageSettings
 | [FontSize](#FontSize) | 字体大小 |
 | [FontStyle](#FontStyle) | 字体样式 |
 | [PaperSize](#PaperSize) | 页面大小。 |
-| [ReferencePoints](#ReferencePoints) | 设置描述模板参考点的行为：角落的黑色方块以及之间的旋转标记黑色矩形。 |
+| [ReferencePoints](#ReferencePoints) | 描述模板参考点行为的设置：角落的黑色方块以及之间的旋转标记黑色矩形。 |
 ## 方法
 
 | 方法 | 描述 |
@@ -110,7 +110,7 @@ public ReferencePointsSettings ReferencePoints
 ```
 
 
-设置描述模板参考点的行为：角落的黑色方块以及之间的旋转标记黑色矩形。 \*
+描述模板参考点行为的设置：角落的黑色方块以及之间的旋转标记黑色矩形。 \*
 
 ### equals(Object arg0) {#equals-java.lang.Object}
 ```

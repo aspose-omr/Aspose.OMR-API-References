@@ -15,7 +15,7 @@ public class License
 
 提供对组件授权的方法。
 
-在此示例中，将尝试在包含组件的文件夹、包含调用程序集的文件夹、入口程序集的文件夹以及调用程序集的嵌入资源中查找名为 MyLicense.lic 的许可证文件。
+在本示例中，将尝试在包含组件的文件夹、包含调用程序集的文件夹、入口程序集的文件夹以及调用程序集的嵌入资源中查找名为 MyLicense.lic 的许可证文件。
 
 License license = new License();
 license.setLicense("MyLicense.lic");
@@ -33,8 +33,8 @@ license.setLicense("MyLicense.lic");
 | [hashCode()](#hashCode) |  |
 | [notify()](#notify) |  |
 | [notifyAll()](#notifyAll) |  |
-| [setLicense(InputStream stream)](#setLicense-java.io.InputStream) | 授权组件。 |
-| [setLicense(String licenseName)](#setLicense-java.lang.String) | 授权组件。 |
+| [setLicense(InputStream stream)](#setLicense-java.io.InputStream) | 对组件进行授权。 |
+| [setLicense(String licenseName)](#setLicense-java.lang.String) | 对组件进行授权。 |
 | [toString()](#toString) |  |
 | [wait()](#wait) |  |
 | [wait(long arg0)](#wait-long) |  |
@@ -47,7 +47,7 @@ public License()
 
 初始化此类的新实例。
 
-在此示例中，将尝试在包含组件的文件夹、包含调用程序集的文件夹、入口程序集的文件夹以及调用程序集的嵌入资源中查找名为 MyLicense.lic 的许可证文件。
+在本示例中，将尝试在包含组件的文件夹、包含调用程序集的文件夹、入口程序集的文件夹以及调用程序集的嵌入资源中查找名为 MyLicense.lic 的许可证文件。
 
 License license = new License();
 license.setLicense("MyLicense.lic");
@@ -109,7 +109,7 @@ public void setLicense(InputStream stream)
 ```
 
 
-授权组件。
+对组件进行授权。
 
 包含许可证的流。
 
@@ -121,7 +121,7 @@ license.setLicense(myStream);
 **Parameters:**
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | java.io.InputStream | 许可证流 |
+| 流 | java.io.InputStream | license 流 |
 
 ### setLicense(String licenseName) {#setLicense-java.lang.String}
 ```
@@ -129,15 +129,15 @@ public void setLicense(String licenseName)
 ```
 
 
-授权组件。
+对组件进行授权。
 
 尝试在以下位置查找许可证：
 
 1. 明确路径。
 
-2. 组件 jar 文件所在的文件夹。
+2. 组件 jar 文件的文件夹。
 
-在此示例中，将尝试在包含组件的文件夹、包含调用程序集的文件夹、入口程序集的文件夹以及调用程序集的嵌入资源中查找名为 MyLicense.lic 的许可证文件。
+在本示例中，将尝试在包含组件的文件夹、包含调用程序集的文件夹、入口程序集的文件夹以及调用程序集的嵌入资源中查找名为 MyLicense.lic 的许可证文件。
 
 License license = new License();
 license.setLicense("MyLicense.lic");

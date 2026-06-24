@@ -1,7 +1,7 @@
 ---
 title: "OmrBubble"
 second_title: "Aspose.OMR for Java API 参考"
-description: "表示单个 omr 泡泡"
+description: "表示单个 OMR 泡泡"
 type: docs
 weight: 20
 url: /zh/java/com.aspose.omr/omrbubble/
@@ -13,7 +13,7 @@ java.lang.Object
 public class OmrBubble
 ```
 
-表示单个 omr 泡泡
+表示单个 OMR 泡泡
 ## 构造函数
 
 | 构造函数 | 描述 |
@@ -27,7 +27,7 @@ public class OmrBubble
 | [getClass()](#getClass) |  |
 | [getLeft()](#getLeft) | 获取气泡的绝对左侧位置 |
 | [getTop()](#getTop) | 获取气泡的绝对顶部位置 |
-| [getValue()](#getValue) | 获取气泡的答案值，即。 |
+| [getValue()](#getValue) | 获取气泡的答案值，即 |
 | [hashCode()](#hashCode) |  |
 | [isValid()](#isValid) | 获取指示气泡是否在有效位置的值 |
 | [notify()](#notify) |  |
@@ -35,7 +35,7 @@ public class OmrBubble
 | [setLeft(double value)](#setLeft-double) | 设置气泡的绝对左侧位置 |
 | [setTop(double value)](#setTop-double) | 设置气泡的绝对顶部位置 |
 | [setValid(boolean value)](#setValid-boolean) | 设置指示气泡是否在有效位置的值 |
-| [setValue(String value)](#setValue-java.lang.String) | 设置气泡的答案值，即。 |
+| [setValue(String value)](#setValue-java.lang.String) | 设置气泡的答案值，即 |
 | [toString()](#toString) |  |
 | [wait()](#wait) |  |
 | [wait(long arg0)](#wait-long) |  |
@@ -80,7 +80,7 @@ public final double getLeft()
 获取气泡的绝对左侧位置
 
 **Returns:**
-double - 气泡绝对左侧位置
+double - 泡沫绝对左侧位置
 ### getTop() {#getTop}
 ```
 public final double getTop()
@@ -90,17 +90,17 @@ public final double getTop()
 获取气泡的绝对顶部位置
 
 **Returns:**
-double - 气泡绝对顶部位置
+double - 泡沫绝对顶部位置
 ### getValue() {#getValue}
 ```
 public final String getValue()
 ```
 
 
-获取气泡答案值，即映射值
+获取泡沫答案值，即映射值
 
 **Returns:**
-java.lang.String - 气泡答案值
+java.lang.String - 泡沫答案值
 ### hashCode() {#hashCode}
 ```
 public native int hashCode()
@@ -120,7 +120,7 @@ public final boolean isValid()
 获取指示气泡是否在有效位置的值
 
 **Returns:**
-boolean - 表示气泡是否在有效位置的值
+boolean - 指示泡沫是否在有效位置的值
 ### notify() {#notify}
 ```
 public final native void notify()
@@ -148,7 +148,7 @@ public final void setLeft(double value)
 **Parameters:**
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 值 | double | 气泡绝对左侧位置 |
+| 值 | double | 泡沫绝对左侧位置 |
 
 ### setTop(double value) {#setTop-double}
 ```
@@ -161,7 +161,7 @@ public final void setTop(double value)
 **Parameters:**
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 值 | double | 气泡绝对顶部位置 |
+| 值 | double | 泡沫绝对顶部位置 |
 
 ### setValid(boolean value) {#setValid-boolean}
 ```
@@ -174,7 +174,7 @@ public final void setValid(boolean value)
 **Parameters:**
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 值 | boolean | 表示气泡是否在有效位置的值 |
+| 值 | boolean | 指示泡沫是否在有效位置的值 |
 
 ### setValue(String value) {#setValue-java.lang.String}
 ```
@@ -182,12 +182,12 @@ public final void setValue(String value)
 ```
 
 
-设置气泡答案值，即映射值
+设置泡沫答案值，即映射值
 
 **Parameters:**
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 值 | java.lang.String | 气泡答案值 |
+| 值 | java.lang.String | 泡沫答案值 |
 
 ### toString() {#toString}
 ```

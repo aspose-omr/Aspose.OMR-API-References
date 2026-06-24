@@ -69,7 +69,7 @@ public final int getErrorCode()
 ```
 
 
-获取或设置错误代码。如果没有错误发生，则等于 0。
+获取或设置错误代码。如果没有错误则等于 0。
 
 **Returns:**
 int - 错误代码
@@ -79,7 +79,7 @@ public final String getErrorMessage()
 ```
 
 
-获取或设置描述错误的消息。如果没有错误发生，则为空。
+获取或设置描述错误的消息。如果没有错误则为空。
 
 **Returns:**
 java.lang.String - 描述错误的消息
@@ -159,7 +159,7 @@ public final void setErrorCode(int value)
 ```
 
 
-获取或设置错误代码。如果没有错误发生，则等于 0。
+获取或设置错误代码。如果没有错误则等于 0。
 
 **Parameters:**
 | 参数 | 类型 | 描述 |
@@ -172,7 +172,7 @@ public final void setErrorMessage(String value)
 ```
 
 
-获取或设置描述错误的消息。如果没有错误发生，则为空。
+获取或设置描述错误的消息。如果没有错误则为空。
 
 **Parameters:**
 | 参数 | 类型 | 描述 |

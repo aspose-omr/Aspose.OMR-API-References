@@ -1,5 +1,5 @@
 ---
-title: "PaperSize"
+title: "纸张大小"
 second_title: "Aspose.OMR for Java API 参考"
 description: "支持的纸张尺寸"
 type: docs
@@ -21,7 +21,7 @@ public enum PaperSize extends Enum<PaperSize>
 | [A4](#A4) | A4 大小(2480 x 3508 像素) |
 | [Legal](#Legal) | Legal 大小(2551 x 4205 像素) |
 | [Letter](#Letter) | Letter 大小(2551 x 3295 像素) |
-| [Tabloid](#Tabloid) | Tabloid，11\" x 17\" 大小(3295 x 5102) |
+| [Tabloid](#Tabloid) | 小报，11\" x 17\" 大小(3295 x 5102) |
 | [p8519](#p8519) | 8.5\" x 19\" 大小(2551 x 5702) |
 | [p8521](#p8521) | 8.5 x 21\" 大小(2551 x 6302) |
 ## 方法
@@ -74,7 +74,7 @@ public static final PaperSize Tabloid
 ```
 
 
-Tabloid，11\" x 17\" 大小(3295 x 5102)
+小报，11\" x 17\" 大小(3295 x 5102)
 
 ### p8519 {#p8519}
 ```

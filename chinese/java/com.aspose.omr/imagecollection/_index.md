@@ -53,7 +53,7 @@ public void add(String imageName, InputStream stream)
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | imageName | java.lang.String | 必须等于 ?image 元素，例如 ?image=logo.png collection.Add("logo.png",stream) |
-| stream | java.io.InputStream |  |
+| 流 | java.io.InputStream |  |
 
 ### equals(Object arg0) {#equals-java.lang.Object}
 ```

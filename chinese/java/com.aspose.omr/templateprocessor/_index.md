@@ -111,7 +111,7 @@ public final void recalculate(RecognitionResult result, int recognitionThreshold
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | result | [RecognitionResult](../../com.aspose.omr/recognitionresult/) | 要更新的识别结果。 |
-| recognitionThreshold | int | （可选）识别阈值，范围为 (0..100)。仅阈值以上填充的元素将被计为已填充。 |
+| recognitionThreshold | int | （可选）识别阈值，范围为 (0..100)。仅在阈值以上填充的元素会被计为已填充。 |
 
 ### recognizeImage(BufferedImage bufferedImage) {#recognizeImage-java.awt.image.BufferedImage}
 ```
@@ -124,7 +124,7 @@ public final RecognitionResult recognizeImage(BufferedImage bufferedImage)
 **Parameters:**
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| bufferedImage | java.awt.image.BufferedImage | 要识别的图像 |
+| bufferedImage | java.awt.image.BufferedImage | 待识别的图像 |
 
 **Returns:**
 [RecognitionResult](../../com.aspose.omr/recognitionresult/) - The recognition result
@@ -139,8 +139,8 @@ public final RecognitionResult recognizeImage(BufferedImage bufferedImage, int r
 **Parameters:**
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| bufferedImage | java.awt.image.BufferedImage | 要识别的图像 |
-| recognitionThreshold | int | （可选）识别阈值，范围为 (0..100)。仅阈值以上填充的元素将被计为已填充。 |
+| bufferedImage | java.awt.image.BufferedImage | 待识别的图像 |
+| recognitionThreshold | int | （可选）识别阈值，范围为 (0..100)。仅在阈值以上填充的元素会被计为已填充。 |
 
 **Returns:**
 [RecognitionResult](../../com.aspose.omr/recognitionresult/) - The recognition result
@@ -171,7 +171,7 @@ public final RecognitionResult recognizeImage(InputStream inputStream, int recog
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | inputStream | java.io.InputStream | 图像的流 |
-| recognitionThreshold | int | （可选）识别阈值，范围为 (0..100)。仅阈值以上填充的元素将被计为已填充。 |
+| recognitionThreshold | int | （可选）识别阈值，范围为 (0..100)。仅在阈值以上填充的元素会被计为已填充。 |
 
 **Returns:**
 [RecognitionResult](../../com.aspose.omr/recognitionresult/) - The recognition result
@@ -186,7 +186,7 @@ public final RecognitionResult recognizeImage(String imagePath)
 **Parameters:**
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| imagePath | java.lang.String | 要识别的图像路径 |
+| imagePath | java.lang.String | 待识别图像的路径 |
 
 **Returns:**
 [RecognitionResult](../../com.aspose.omr/recognitionresult/) - The recognition result
@@ -201,8 +201,8 @@ public final RecognitionResult recognizeImage(String imagePath, int recognitionT
 **Parameters:**
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| imagePath | java.lang.String | 要识别的图像路径 |
-| recognitionThreshold | int | （可选）识别阈值，范围为 (0..100) 仅阈值以上填充的元素将被计为已填充。 |
+| imagePath | java.lang.String | 待识别图像的路径 |
+| recognitionThreshold | int | （可选）识别阈值，范围为 (0..100)。仅在阈值以上填充的元素会被计为已填充。 |
 
 **Returns:**
 [RecognitionResult](../../com.aspose.omr/recognitionresult/) - The recognition result

@@ -50,75 +50,75 @@ public enum DrawingColor extends Enum<DrawingColor>
 | [DarkOrange](#DarkOrange) | 深橙色 |
 | [DarkOrchid](#DarkOrchid) | 深兰花紫 |
 | [DarkRed](#DarkRed) | 深红色 |
-| [DarkSalmon](#DarkSalmon) | 深鲑色 |
+| [DarkSalmon](#DarkSalmon) | 深鲑鱼色 |
 | [DarkSeaGreen](#DarkSeaGreen) | 深海绿色 |
-| [DarkSlateBlue](#DarkSlateBlue) | 深板岩蓝 |
-| [DarkSlateGray](#DarkSlateGray) | 深板岩灰 |
-| [DarkTurquoise](#DarkTurquoise) | 深青绿色 |
+| [DarkSlateBlue](#DarkSlateBlue) | 深石板蓝色 |
+| [DarkSlateGray](#DarkSlateGray) | 深石板灰色 |
+| [DarkTurquoise](#DarkTurquoise) | 深青色 |
 | [DarkViolet](#DarkViolet) | 深紫罗兰色 |
 | [DeepPink](#DeepPink) | 深粉红色 |
 | [DeepSkyBlue](#DeepSkyBlue) | 深天蓝色 |
 | [DimGray](#DimGray) | 暗灰色 |
-| [DodgerBlue](#DodgerBlue) | 道奇蓝 |
+| [DodgerBlue](#DodgerBlue) | 道奇蓝色 |
 | [Firebrick](#Firebrick) | 砖红色 |
 | [FloralWhite](#FloralWhite) | 花卉白色 |
 | [ForestGreen](#ForestGreen) | 森林绿 |
 | [Fuchsia](#Fuchsia) | 紫红色 |
 | [Gainsboro](#Gainsboro) | 淡灰色 |
-| [GhostWhite](#GhostWhite) | 幽灵白 |
+| [GhostWhite](#GhostWhite) | 幽灵白色 |
 | [Gold](#Gold) | 金色 |
 | [Goldenrod](#Goldenrod) | 金菊色 |
 | [Gray](#Gray) | 灰色 |
-| [Green](#Green) | 绿色 |
-| [GreenYellow](#GreenYellow) | 黄绿色 |
-| [Honeydew](#Honeydew) | 蜜瓜色 |
-| [HotPink](#HotPink) | 热粉色 |
-| [IndianRed](#IndianRed) | 印度红色 |
-| [Indigo](#Indigo) | 靛蓝色 |
-| [Ivory](#Ivory) | 象牙色 |
-| [Khaki](#Khaki) | 卡其色 |
-| [Lavender](#Lavender) | 薰衣草色 |
-| [LavenderBlush](#LavenderBlush) | 薰衣草腮红色 |
-| [LawnGreen](#LawnGreen) | 草坪绿 |
-| [LemonChiffon](#LemonChiffon) | 柠檬绸色 |
-| [LightBlue](#LightBlue) | 淡蓝色 |
-| [LightCoral](#LightCoral) | 淡珊瑚色 |
-| [LightCyan](#LightCyan) | 淡青色 |
-| [LightGoldenrodYellow](#LightGoldenrodYellow) | 淡金菊黄 |
-| [LightGray](#LightGray) | 淡灰色 |
-| [LightGreen](#LightGreen) | 淡绿色 |
-| [LightPink](#LightPink) | 淡粉色 |
-| [LightSalmon](#LightSalmon) | 淡鲑鱼色 |
-| [LightSeaGreen](#LightSeaGreen) | 淡海绿色 |
-| [LightSkyBlue](#LightSkyBlue) | 淡天空蓝 |
-| [LightSlateGray](#LightSlateGray) | 淡石板灰 |
-| [LightSteelBlue](#LightSteelBlue) | 淡钢蓝色 |
-| [LightYellow](#LightYellow) | 淡黄色 |
-| [Lime](#Lime) | 青柠色 |
-| [LimeGreen](#LimeGreen) | 酸橙绿 |
-| [Linen](#Linen) | 亚麻色 |
-| [Magenta](#Magenta) | 洋红色 |
-| [Maroon](#Maroon) | 栗色 |
-| [MediumAquamarine](#MediumAquamarine) | 中等海蓝色 |
-| [MediumBlue](#MediumBlue) | 中等蓝色 |
-| [MediumOrchid](#MediumOrchid) | 中等兰花色 |
-| [MediumPurple](#MediumPurple) | 中等紫色 |
-| [MediumSeaGreen](#MediumSeaGreen) | 中等海绿色 |
-| [MediumSlateBlue](#MediumSlateBlue) | 中等板岩蓝色 |
-| [MediumSpringGreen](#MediumSpringGreen) | 中等春绿 |
-| [MediumTurquoise](#MediumTurquoise) | 中等绿松石色 |
-| [MediumVioletRed](#MediumVioletRed) | 中等紫红色 |
-| [MidnightBlue](#MidnightBlue) | 午夜蓝色 |
-| [MintCream](#MintCream) | 薄荷奶油色 |
-| [MistyRose](#MistyRose) | 雾玫瑰色 |
-| [Moccasin](#Moccasin) | 鹿皮色 |
-| [NavajoWhite](#NavajoWhite) | 纳瓦霍白色 |
-| [Navy](#Navy) | 海军蓝色 |
-| [OldLace](#OldLace) | 旧蕾丝色 |
-| [Olive](#Olive) | 橄榄色 |
-| [OliveDrab](#OliveDrab) | 橄榄土色 |
-| [Orange](#Orange) | 橙色 |
-| [OrangeRed](#OrangeRed) | 橙红色 |
+| [Green](#Green) | 绿色颜色 |
+| [GreenYellow](#GreenYellow) | 黄绿色颜色 |
+| [Honeydew](#Honeydew) | 蜜瓜颜色 |
+| [HotPink](#HotPink) | 热粉颜色 |
+| [IndianRed](#IndianRed) | 印度红颜色 |
+| [Indigo](#Indigo) | 靛蓝颜色 |
+| [Ivory](#Ivory) | 象牙颜色 |
+| [Khaki](#Khaki) | 黄褐颜色 |
+| [Lavender](#Lavender) | 淡紫颜色 |
+| [LavenderBlush](#LavenderBlush) | 淡紫红颜色 |
+| [LawnGreen](#LawnGreen) | 草绿色颜色 |
+| [LemonChiffon](#LemonChiffon) | 柠檬绸颜色 |
+| [LightBlue](#LightBlue) | 淡蓝颜色 |
+| [LightCoral](#LightCoral) | 淡珊瑚颜色 |
+| [LightCyan](#LightCyan) | 淡青颜色 |
+| [LightGoldenrodYellow](#LightGoldenrodYellow) | 淡金菊黄颜色 |
+| [LightGray](#LightGray) | 淡灰颜色 |
+| [LightGreen](#LightGreen) | 淡绿色颜色 |
+| [LightPink](#LightPink) | 淡粉颜色 |
+| [LightSalmon](#LightSalmon) | 淡鲑鱼颜色 |
+| [LightSeaGreen](#LightSeaGreen) | 淡海绿色颜色 |
+| [LightSkyBlue](#LightSkyBlue) | 淡天蓝颜色 |
+| [LightSlateGray](#LightSlateGray) | 淡石板灰颜色 |
+| [LightSteelBlue](#LightSteelBlue) | 淡钢蓝颜色 |
+| [LightYellow](#LightYellow) | 淡黄色颜色 |
+| [Lime](#Lime) | 酸橙颜色 |
+| [LimeGreen](#LimeGreen) | 酸橙绿颜色 |
+| [Linen](#Linen) | 亚麻颜色 |
+| [Magenta](#Magenta) | 洋红颜色 |
+| [Maroon](#Maroon) | 栗色颜色 |
+| [MediumAquamarine](#MediumAquamarine) | 中等海蓝宝石颜色 |
+| [MediumBlue](#MediumBlue) | 中等蓝色颜色 |
+| [MediumOrchid](#MediumOrchid) | 中等兰花紫颜色 |
+| [MediumPurple](#MediumPurple) | 中等紫色颜色 |
+| [MediumSeaGreen](#MediumSeaGreen) | 中等海绿色颜色 |
+| [MediumSlateBlue](#MediumSlateBlue) | 中等板岩蓝颜色 |
+| [MediumSpringGreen](#MediumSpringGreen) | 中等春绿颜色 |
+| [MediumTurquoise](#MediumTurquoise) | 中等绿松石颜色 |
+| [MediumVioletRed](#MediumVioletRed) | 中等紫罗兰红颜色 |
+| [MidnightBlue](#MidnightBlue) | 午夜蓝颜色 |
+| [MintCream](#MintCream) | 薄荷奶油颜色 |
+| [MistyRose](#MistyRose) | 薄雾玫瑰颜色 |
+| [Moccasin](#Moccasin) | 鹿皮鞋颜色 |
+| [NavajoWhite](#NavajoWhite) | 纳瓦霍白颜色 |
+| [Navy](#Navy) | 海军蓝颜色 |
+| [OldLace](#OldLace) | 老花边颜色 |
+| [Olive](#Olive) | 橄榄颜色 |
+| [OliveDrab](#OliveDrab) | 橄榄土色颜色 |
+| [Orange](#Orange) | 橙色颜色 |
+| [OrangeRed](#OrangeRed) | 橙红色颜色 |
 | [Orchid](#Orchid) | 兰花色 |
 | [PaleGoldenrod](#PaleGoldenrod) | 淡金菊色 |
 | [PaleGreen](#PaleGreen) | 淡绿色 |
@@ -127,14 +127,14 @@ public enum DrawingColor extends Enum<DrawingColor>
 | [PapayaWhip](#PapayaWhip) | 木瓜绸色 |
 | [PeachPuff](#PeachPuff) | 桃肉色 |
 | [Peru](#Peru) | 秘鲁色 |
-| [Pink](#Pink) | 粉色 |
-| [Plum](#Plum) | 梅子色 |
+| [Pink](#Pink) | 粉红色 |
+| [Plum](#Plum) | 李子色 |
 | [PowderBlue](#PowderBlue) | 粉蓝色 |
 | [Purple](#Purple) | 紫色 |
 | [Red](#Red) | 红色类型 |
 | [RosyBrown](#RosyBrown) | 玫瑰棕色 |
 | [RoyalBlue](#RoyalBlue) | 皇家蓝色 |
-| [SaddleBrown](#SaddleBrown) | 马鞍棕色 |
+| [SaddleBrown](#SaddleBrown) | 鞍棕色 |
 | [Salmon](#Salmon) | 鲑鱼色 |
 | [SandyBrown](#SandyBrown) | 沙棕色 |
 | [SeaGreen](#SeaGreen) | 海绿色 |
@@ -442,7 +442,7 @@ public static final DrawingColor DarkSalmon
 ```
 
 
-深鲑色
+深鲑鱼色
 
 ### DarkSeaGreen {#DarkSeaGreen}
 ```
@@ -458,7 +458,7 @@ public static final DrawingColor DarkSlateBlue
 ```
 
 
-深板岩蓝
+深石板蓝色
 
 ### DarkSlateGray {#DarkSlateGray}
 ```
@@ -466,7 +466,7 @@ public static final DrawingColor DarkSlateGray
 ```
 
 
-深板岩灰
+深石板灰色
 
 ### DarkTurquoise {#DarkTurquoise}
 ```
@@ -474,7 +474,7 @@ public static final DrawingColor DarkTurquoise
 ```
 
 
-深青绿色
+深青色
 
 ### DarkViolet {#DarkViolet}
 ```
@@ -514,7 +514,7 @@ public static final DrawingColor DodgerBlue
 ```
 
 
-道奇蓝
+道奇蓝色
 
 ### Firebrick {#Firebrick}
 ```
@@ -562,7 +562,7 @@ public static final DrawingColor GhostWhite
 ```
 
 
-幽灵白
+幽灵白色
 
 ### Gold {#Gold}
 ```
@@ -594,7 +594,7 @@ public static final DrawingColor Green
 ```
 
 
-绿色
+绿色颜色
 
 ### GreenYellow {#GreenYellow}
 ```
@@ -602,7 +602,7 @@ public static final DrawingColor GreenYellow
 ```
 
 
-黄绿色
+黄绿色颜色
 
 ### Honeydew {#Honeydew}
 ```
@@ -610,7 +610,7 @@ public static final DrawingColor Honeydew
 ```
 
 
-蜜瓜色
+蜜瓜颜色
 
 ### HotPink {#HotPink}
 ```
@@ -618,7 +618,7 @@ public static final DrawingColor HotPink
 ```
 
 
-热粉色
+热粉颜色
 
 ### IndianRed {#IndianRed}
 ```
@@ -626,7 +626,7 @@ public static final DrawingColor IndianRed
 ```
 
 
-印度红色
+印度红颜色
 
 ### Indigo {#Indigo}
 ```
@@ -634,7 +634,7 @@ public static final DrawingColor Indigo
 ```
 
 
-靛蓝色
+靛蓝颜色
 
 ### Ivory {#Ivory}
 ```
@@ -642,7 +642,7 @@ public static final DrawingColor Ivory
 ```
 
 
-象牙色
+象牙颜色
 
 ### Khaki {#Khaki}
 ```
@@ -650,7 +650,7 @@ public static final DrawingColor Khaki
 ```
 
 
-卡其色
+黄褐颜色
 
 ### Lavender {#Lavender}
 ```
@@ -658,7 +658,7 @@ public static final DrawingColor Lavender
 ```
 
 
-薰衣草色
+淡紫颜色
 
 ### LavenderBlush {#LavenderBlush}
 ```
@@ -666,7 +666,7 @@ public static final DrawingColor LavenderBlush
 ```
 
 
-薰衣草腮红色
+淡紫红颜色
 
 ### LawnGreen {#LawnGreen}
 ```
@@ -674,7 +674,7 @@ public static final DrawingColor LawnGreen
 ```
 
 
-草坪绿
+草绿色颜色
 
 ### LemonChiffon {#LemonChiffon}
 ```
@@ -682,7 +682,7 @@ public static final DrawingColor LemonChiffon
 ```
 
 
-柠檬绸色
+柠檬绸颜色
 
 ### LightBlue {#LightBlue}
 ```
@@ -690,7 +690,7 @@ public static final DrawingColor LightBlue
 ```
 
 
-淡蓝色
+淡蓝颜色
 
 ### LightCoral {#LightCoral}
 ```
@@ -698,7 +698,7 @@ public static final DrawingColor LightCoral
 ```
 
 
-淡珊瑚色
+淡珊瑚颜色
 
 ### LightCyan {#LightCyan}
 ```
@@ -706,7 +706,7 @@ public static final DrawingColor LightCyan
 ```
 
 
-淡青色
+淡青颜色
 
 ### LightGoldenrodYellow {#LightGoldenrodYellow}
 ```
@@ -714,7 +714,7 @@ public static final DrawingColor LightGoldenrodYellow
 ```
 
 
-淡金菊黄
+淡金菊黄颜色
 
 ### LightGray {#LightGray}
 ```
@@ -722,7 +722,7 @@ public static final DrawingColor LightGray
 ```
 
 
-淡灰色
+淡灰颜色
 
 ### LightGreen {#LightGreen}
 ```
@@ -730,7 +730,7 @@ public static final DrawingColor LightGreen
 ```
 
 
-淡绿色
+淡绿色颜色
 
 ### LightPink {#LightPink}
 ```
@@ -738,7 +738,7 @@ public static final DrawingColor LightPink
 ```
 
 
-淡粉色
+淡粉颜色
 
 ### LightSalmon {#LightSalmon}
 ```
@@ -746,7 +746,7 @@ public static final DrawingColor LightSalmon
 ```
 
 
-淡鲑鱼色
+淡鲑鱼颜色
 
 ### LightSeaGreen {#LightSeaGreen}
 ```
@@ -754,7 +754,7 @@ public static final DrawingColor LightSeaGreen
 ```
 
 
-淡海绿色
+淡海绿色颜色
 
 ### LightSkyBlue {#LightSkyBlue}
 ```
@@ -762,7 +762,7 @@ public static final DrawingColor LightSkyBlue
 ```
 
 
-淡天空蓝
+淡天蓝颜色
 
 ### LightSlateGray {#LightSlateGray}
 ```
@@ -770,7 +770,7 @@ public static final DrawingColor LightSlateGray
 ```
 
 
-淡石板灰
+淡石板灰颜色
 
 ### LightSteelBlue {#LightSteelBlue}
 ```
@@ -778,7 +778,7 @@ public static final DrawingColor LightSteelBlue
 ```
 
 
-淡钢蓝色
+淡钢蓝颜色
 
 ### LightYellow {#LightYellow}
 ```
@@ -786,7 +786,7 @@ public static final DrawingColor LightYellow
 ```
 
 
-淡黄色
+淡黄色颜色
 
 ### Lime {#Lime}
 ```
@@ -794,7 +794,7 @@ public static final DrawingColor Lime
 ```
 
 
-青柠色
+酸橙颜色
 
 ### LimeGreen {#LimeGreen}
 ```
@@ -802,7 +802,7 @@ public static final DrawingColor LimeGreen
 ```
 
 
-酸橙绿
+酸橙绿颜色
 
 ### Linen {#Linen}
 ```
@@ -810,7 +810,7 @@ public static final DrawingColor Linen
 ```
 
 
-亚麻色
+亚麻颜色
 
 ### Magenta {#Magenta}
 ```
@@ -818,7 +818,7 @@ public static final DrawingColor Magenta
 ```
 
 
-洋红色
+洋红颜色
 
 ### Maroon {#Maroon}
 ```
@@ -826,7 +826,7 @@ public static final DrawingColor Maroon
 ```
 
 
-栗色
+栗色颜色
 
 ### MediumAquamarine {#MediumAquamarine}
 ```
@@ -834,7 +834,7 @@ public static final DrawingColor MediumAquamarine
 ```
 
 
-中等海蓝色
+中等海蓝宝石颜色
 
 ### MediumBlue {#MediumBlue}
 ```
@@ -842,7 +842,7 @@ public static final DrawingColor MediumBlue
 ```
 
 
-中等蓝色
+中等蓝色颜色
 
 ### MediumOrchid {#MediumOrchid}
 ```
@@ -850,7 +850,7 @@ public static final DrawingColor MediumOrchid
 ```
 
 
-中等兰花色
+中等兰花紫颜色
 
 ### MediumPurple {#MediumPurple}
 ```
@@ -858,7 +858,7 @@ public static final DrawingColor MediumPurple
 ```
 
 
-中等紫色
+中等紫色颜色
 
 ### MediumSeaGreen {#MediumSeaGreen}
 ```
@@ -866,7 +866,7 @@ public static final DrawingColor MediumSeaGreen
 ```
 
 
-中等海绿色
+中等海绿色颜色
 
 ### MediumSlateBlue {#MediumSlateBlue}
 ```
@@ -874,7 +874,7 @@ public static final DrawingColor MediumSlateBlue
 ```
 
 
-中等板岩蓝色
+中等板岩蓝颜色
 
 ### MediumSpringGreen {#MediumSpringGreen}
 ```
@@ -882,7 +882,7 @@ public static final DrawingColor MediumSpringGreen
 ```
 
 
-中等春绿
+中等春绿颜色
 
 ### MediumTurquoise {#MediumTurquoise}
 ```
@@ -890,7 +890,7 @@ public static final DrawingColor MediumTurquoise
 ```
 
 
-中等绿松石色
+中等绿松石颜色
 
 ### MediumVioletRed {#MediumVioletRed}
 ```
@@ -898,7 +898,7 @@ public static final DrawingColor MediumVioletRed
 ```
 
 
-中等紫红色
+中等紫罗兰红颜色
 
 ### MidnightBlue {#MidnightBlue}
 ```
@@ -906,7 +906,7 @@ public static final DrawingColor MidnightBlue
 ```
 
 
-午夜蓝色
+午夜蓝颜色
 
 ### MintCream {#MintCream}
 ```
@@ -914,7 +914,7 @@ public static final DrawingColor MintCream
 ```
 
 
-薄荷奶油色
+薄荷奶油颜色
 
 ### MistyRose {#MistyRose}
 ```
@@ -922,7 +922,7 @@ public static final DrawingColor MistyRose
 ```
 
 
-雾玫瑰色
+薄雾玫瑰颜色
 
 ### Moccasin {#Moccasin}
 ```
@@ -930,7 +930,7 @@ public static final DrawingColor Moccasin
 ```
 
 
-鹿皮色
+鹿皮鞋颜色
 
 ### NavajoWhite {#NavajoWhite}
 ```
@@ -938,7 +938,7 @@ public static final DrawingColor NavajoWhite
 ```
 
 
-纳瓦霍白色
+纳瓦霍白颜色
 
 ### Navy {#Navy}
 ```
@@ -946,7 +946,7 @@ public static final DrawingColor Navy
 ```
 
 
-海军蓝色
+海军蓝颜色
 
 ### OldLace {#OldLace}
 ```
@@ -954,7 +954,7 @@ public static final DrawingColor OldLace
 ```
 
 
-旧蕾丝色
+老花边颜色
 
 ### Olive {#Olive}
 ```
@@ -962,7 +962,7 @@ public static final DrawingColor Olive
 ```
 
 
-橄榄色
+橄榄颜色
 
 ### OliveDrab {#OliveDrab}
 ```
@@ -970,7 +970,7 @@ public static final DrawingColor OliveDrab
 ```
 
 
-橄榄土色
+橄榄土色颜色
 
 ### Orange {#Orange}
 ```
@@ -978,7 +978,7 @@ public static final DrawingColor Orange
 ```
 
 
-橙色
+橙色颜色
 
 ### OrangeRed {#OrangeRed}
 ```
@@ -986,7 +986,7 @@ public static final DrawingColor OrangeRed
 ```
 
 
-橙红色
+橙红色颜色
 
 ### Orchid {#Orchid}
 ```
@@ -1058,7 +1058,7 @@ public static final DrawingColor Pink
 ```
 
 
-粉色
+粉红色
 
 ### Plum {#Plum}
 ```
@@ -1066,7 +1066,7 @@ public static final DrawingColor Plum
 ```
 
 
-梅子色
+李子色
 
 ### PowderBlue {#PowderBlue}
 ```
@@ -1114,7 +1114,7 @@ public static final DrawingColor SaddleBrown
 ```
 
 
-马鞍棕色
+鞍棕色
 
 ### Salmon {#Salmon}
 ```

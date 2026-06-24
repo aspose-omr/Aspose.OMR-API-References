@@ -13,7 +13,7 @@ java.lang.Object
 public class OmrEngine
 ```
 
-OMR 引擎。负责创建模板和图像处理类以及 GUI 组件。
+OMR 引擎。负责模板和图像处理类以及 GUI 组件的创建。
 ## 构造函数
 
 | 构造函数 | 描述 |
