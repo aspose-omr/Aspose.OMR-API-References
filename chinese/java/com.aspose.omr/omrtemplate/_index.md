@@ -1,7 +1,7 @@
 ---
 title: "OmrTemplate"
 second_title: "Aspose.OMR for Java API 参考"
-description: "表示 omr 模板"
+description: "表示 OMR 模板"
 type: docs
 weight: 25
 url: /zh/java/com.aspose.omr/omrtemplate/
@@ -13,12 +13,12 @@ java.lang.Object
 public class OmrTemplate
 ```
 
-表示 omr 模板
+表示 OMR 模板
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [OmrTemplate()](#OmrTemplate) | 初始化 [OmrTemplate](../../com.aspose.omr/omrtemplate/) 类的新实例 |
+| [OmrTemplate()](#OmrTemplate) | 初始化一个新的 [OmrTemplate](../../com.aspose.omr/omrtemplate/) 类实例 |
 ## 字段
 
 | 字段 | 描述 |
@@ -54,7 +54,7 @@ public OmrTemplate()
 ```
 
 
-初始化 [OmrTemplate](../../com.aspose.omr/omrtemplate/) 类的新实例
+初始化一个新的 [OmrTemplate](../../com.aspose.omr/omrtemplate/) 类实例
 
 ### Version {#Version}
 ```

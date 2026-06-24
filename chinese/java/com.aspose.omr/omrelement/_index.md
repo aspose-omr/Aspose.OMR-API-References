@@ -1,7 +1,7 @@
 ---
 title: "OmrElement"
 second_title: "Aspose.OMR for Java API 参考"
-description: "抽象类，表示基础 OMR 问题，包含所有问题的通用属性"
+description: "抽象类表示基础 omr 问题，包含所有问题的通用属性"
 type: docs
 weight: 21
 url: /zh/java/com.aspose.omr/omrelement/
@@ -13,7 +13,7 @@ java.lang.Object
 public abstract class OmrElement
 ```
 
-抽象类，表示基础 omr 问题，包含所有问题的通用属性
+抽象类，表示基础 OMR 问题，包含所有问题的通用属性
 ## 构造函数
 
 | 构造函数 | 描述 |

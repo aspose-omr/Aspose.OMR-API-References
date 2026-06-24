@@ -15,7 +15,7 @@ OMR 元素的接口
 
 | 方法 | 描述 |
 | --- | --- |
-| [getAnswer()](#getAnswer) | 形成包含识别结果的字符串 |
+| [getAnswer()](#getAnswer) | 生成包含识别结果的字符串 |
 | [getCsv()](#getCsv) | 将答案形成逗号分隔值字符串 |
 | [getQuestionName()](#getQuestionName) | 获取问题名称 |
 | [setQuestionName(String value)](#setQuestionName-java.lang.String) | 设置问题名称 |
@@ -25,7 +25,7 @@ public abstract String getAnswer()
 ```
 
 
-形成包含识别结果的字符串
+生成包含识别结果的字符串
 
 **Returns:**
 java.lang.String - 包含识别结果的字符串
@@ -38,7 +38,7 @@ public abstract String getCsv()
 将答案形成逗号分隔值字符串
 
 **Returns:**
-java.lang.String - 识别结果的 CSV 字符串
+java.lang.String - 以 CSV 字符串形式的识别结果
 ### getQuestionName() {#getQuestionName}
 ```
 public abstract String getQuestionName()

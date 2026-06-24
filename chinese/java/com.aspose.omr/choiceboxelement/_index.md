@@ -36,7 +36,7 @@ public class ChoiceBoxElement extends OmrElement
 | [getClass()](#getClass) |  |
 | [getHeight()](#getHeight) | 获取或设置问题高度 |
 | [getLeft()](#getLeft) | 获取或设置问题左侧位置 |
-| [getMultipleSelectionAllowed()](#getMultipleSelectionAllowed) | 获取或设置指示是否允许多选的值 |
+| [getMultipleSelectionAllowed()](#getMultipleSelectionAllowed) | 获取或设置一个指示是否允许多选的值 |
 | [getName()](#getName) | 获取问题名称 |
 | [getOrientation()](#getOrientation) |  |
 | [getOrientationString()](#getOrientationString) | 获取方向属性的字符串表示 |
@@ -55,7 +55,7 @@ public class ChoiceBoxElement extends OmrElement
 | [setBubbles(System.Collections.Generic.List<OmrBubble> value)](#setBubbles-com.aspose.ms.System.Collections.Generic.List-com.aspose.omr.OmrBubble) | 获取或设置气泡集合 |
 | [setHeight(double value)](#setHeight-double) | 获取或设置问题高度 |
 | [setLeft(double value)](#setLeft-double) | 获取或设置问题左侧位置 |
-| [setMultipleSelectionAllowed(boolean value)](#setMultipleSelectionAllowed-boolean) | 获取或设置指示是否允许多选的值 |
+| [setMultipleSelectionAllowed(boolean value)](#setMultipleSelectionAllowed-boolean) | 获取或设置一个指示是否允许多选的值 |
 | [setName(String value)](#setName-java.lang.String) | 设置问题名称 |
 | [setOrientation(int value)](#setOrientation-int) |  |
 | [setTop(double value)](#setTop-double) | 获取或设置问题顶部位置 |
@@ -177,7 +177,7 @@ public final boolean getMultipleSelectionAllowed()
 ```
 
 
-获取或设置指示是否允许多选的值
+获取或设置一个指示是否允许多选的值
 
 **Returns:**
 boolean - 指示是否允许多选的值
@@ -384,12 +384,12 @@ public final void setMultipleSelectionAllowed(boolean value)
 ```
 
 
-获取或设置指示是否允许多选的值
+获取或设置一个指示是否允许多选的值
 
 **Parameters:**
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 值 | boolean | 指示是否允许多选的值 |
+| 值 | boolean | 一个指示是否允许多选的值 |
 
 ### setName(String value) {#setName-java.lang.String}
 ```

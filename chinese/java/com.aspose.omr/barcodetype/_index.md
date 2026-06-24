@@ -1,7 +1,7 @@
 ---
 title: "BarcodeType"
 second_title: "Aspose.OMR for Java API 参考"
-description: "允许在条形码生成识别中使用的条形码类型"
+description: "在条码生成和识别中允许的条码类型"
 type: docs
 weight: 33
 url: /zh/java/com.aspose.omr/barcodetype/

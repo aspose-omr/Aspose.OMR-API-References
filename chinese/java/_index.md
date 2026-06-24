@@ -10,4 +10,4 @@ is_root: true
 ## Packages
 | 包 | 描述 |
 | --- | --- |
-| [com.aspose.omr](./com.aspose.omr/) | 该 **com.aspose.omr** 包提供用于创建和识别 omr 表单的类。 |
+| [com.aspose.omr](./com.aspose.omr/) | 该 **com.aspose.omr** 包提供用于创建和识别 OMR 表单的类。 |

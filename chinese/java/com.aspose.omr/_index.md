@@ -1,14 +1,14 @@
 ---
 title: "com.aspose.omr"
 second_title: "Aspose.OMR for Java API 参考"
-description: "该 com.aspose.omr 包提供用于创建和识别 omr 表单的类。"
+description: "该 com.aspose.omr 包提供用于创建和识别 OMR 表单的类"
 type: docs
 weight: 10
 url: /zh/java/com.aspose.omr/
 ---
 
 
-该 **com.aspose.omr** 包提供用于创建和识别 omr 表单的类。
+该 **com.aspose.omr** 包提供用于创建和识别 OMR 表单的类。
 
 
 ## 类
@@ -25,12 +25,12 @@ url: /zh/java/com.aspose.omr/
 | [ImageCollection](../com.aspose.omr/imagecollection/) | 可用于模板生成的图像集合。 |
 | [License](../com.aspose.omr/license/) | 提供对组件授权的方法。 |
 | [Metered](../com.aspose.omr/metered/) | 提供设置计量密钥的方法。 |
-| [OmrBubble](../com.aspose.omr/omrbubble/) | 表示单个 omr 泡泡 |
-| [OmrElement](../com.aspose.omr/omrelement/) | 抽象类，表示基础 omr 问题，包含所有问题的通用属性 |
+| [OmrBubble](../com.aspose.omr/omrbubble/) | 表示单个 OMR 泡泡 |
+| [OmrElement](../com.aspose.omr/omrelement/) | 抽象类，表示基础 OMR 问题，包含所有问题的通用属性 |
 | [OmrEngine](../com.aspose.omr/omrengine/) | OMR 引擎。 |
 | [OmrImage](../com.aspose.omr/omrimage/) |  |
-| [OmrPage](../com.aspose.omr/omrpage/) | 表示单个 omr 页面 |
-| [OmrTemplate](../com.aspose.omr/omrtemplate/) | 表示 omr 模板 |
+| [OmrPage](../com.aspose.omr/omrpage/) | 表示单个 OMR 页面 |
+| [OmrTemplate](../com.aspose.omr/omrtemplate/) | 表示 OMR 模板 |
 | [Orientations](../com.aspose.omr/orientations/) | 可能的问题方向 |
 | [RecognitionResult](../com.aspose.omr/recognitionresult/) | 图像识别的结果。 |
 | [ReferencePointElement](../com.aspose.omr/referencepointelement/) |  |
