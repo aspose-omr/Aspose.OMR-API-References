@@ -1,6 +1,6 @@
 ---
 title: "GetConsumptionQuantity"
-second_title: "مرجع API لـ Aspose.OMR لـ .NET"
+second_title: "مرجع API لـ Aspose.OMR للـ .NET"
 description: "يحصل على حجم ملف الاستهلاك"
 type: docs
 weight: 40
