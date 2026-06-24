@@ -1,6 +1,6 @@
 ---
 title: "OmrBubble"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: "يمثل فقاعة OMR واحدة"
 type: docs
 weight: 20
@@ -16,10 +16,10 @@ public class OmrBubble
 يمثل فقاعة OMR واحدة
 ## المُنشئات
 
-| مُنشئ | الوصف |
+| المُنشئ | الوصف |
 | --- | --- |
 | [OmrBubble()](#OmrBubble) |  |
-## طرق
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |
@@ -27,7 +27,7 @@ public class OmrBubble
 | [getClass()](#getClass) |  |
 | [getLeft()](#getLeft) | يحصل على الموضع الأيسر المطلق للفقاعة |
 | [getTop()](#getTop) | يحصل على الموضع العلوي المطلق للفقاعة |
-| [getValue()](#getValue) | يحصل على قيمة إجابة الفقاعة، أي. |
+| [getValue()](#getValue) | يحصل على قيمة إجابة الفقاعة، أي |
 | [hashCode()](#hashCode) |  |
 | [isValid()](#isValid) | يحصل على قيمة تشير إلى ما إذا كانت الفقاعة في موضع صالح |
 | [notify()](#notify) |  |

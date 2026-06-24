@@ -1,6 +1,6 @@
 ---
 title: "ClipAreaElement"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: "يمثل عنصر منطقة القص"
 type: docs
 weight: 12
@@ -16,10 +16,10 @@ public class ClipAreaElement extends OmrElement
 يمثل عنصر منطقة القص
 ## المُنشئات
 
-| مُنشئ | الوصف |
+| المُنشئ | الوصف |
 | --- | --- |
 | [ClipAreaElement()](#ClipAreaElement) |  |
-## طرق
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: "ReferencePointElement"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: 
 type: docs
 weight: 28
@@ -14,7 +14,7 @@ public class ReferencePointElement extends OmrElement
 ```
 ## المُنشئات
 
-| مُنشئ | الوصف |
+| المُنشئ | الوصف |
 | --- | --- |
 | [ReferencePointElement()](#ReferencePointElement) |  |
 ## الحقول
@@ -23,7 +23,7 @@ public class ReferencePointElement extends OmrElement
 | --- | --- |
 | [ElementType](#ElementType) |  |
 | [ReferenceType](#ReferenceType) |  |
-## طرق
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |

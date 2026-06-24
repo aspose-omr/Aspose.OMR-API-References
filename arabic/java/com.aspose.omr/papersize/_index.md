@@ -1,6 +1,6 @@
 ---
 title: "PaperSize"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: "أحجام الورق المدعومة"
 type: docs
 weight: 37
@@ -20,11 +20,11 @@ public enum PaperSize extends Enum<PaperSize>
 | --- | --- |
 | [A4](#A4) | حجم A4(2480 x 3508 بكسل) |
 | [Legal](#Legal) | حجم قانوني(2551 x 4205 بكسل) |
-| [Letter](#Letter) | حجم رسالة(2551 x 3295 بكسل) |
+| [Letter](#Letter) | حجم Letter(2551 x 3295 بكسل) |
 | [Tabloid](#Tabloid) | حجم تابلويد، 11\" x 17\" (3295 x 5102) |
-| [p8519](#p8519) | حجم 8.5\" x 19\" (2551 x 5702) |
-| [p8521](#p8521) | حجم 8.5 x 21\" (2551 x 6302) |
-## طرق
+| [p8519](#p8519) | 8.5\" x 19\" حجم(2551 x 5702) |
+| [p8521](#p8521) | 8.5 x 21\" حجم(2551 x 6302) |
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |
@@ -66,7 +66,7 @@ public static final PaperSize Letter
 ```
 
 
-حجم رسالة(2551 x 3295 بكسل)
+حجم Letter(2551 x 3295 بكسل)
 
 ### Tabloid {#Tabloid}
 ```
@@ -82,7 +82,7 @@ public static final PaperSize p8519
 ```
 
 
-حجم 8.5\" x 19\" (2551 x 5702)
+8.5\" x 19\" حجم(2551 x 5702)
 
 ### p8521 {#p8521}
 ```
@@ -90,7 +90,7 @@ public static final PaperSize p8521
 ```
 
 
-حجم 8.5 x 21\" (2551 x 6302)
+8.5 x 21\" حجم(2551 x 6302)
 
 ### <T>valueOf(Class<T> arg0, String arg1) {#-T-valueOf-java.lang.Class-T--java.lang.String}
 ```

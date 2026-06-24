@@ -1,6 +1,6 @@
 ---
 title: "الاتجاهات"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: "اتجاه السؤال المحتمل"
 type: docs
 weight: 26
@@ -21,7 +21,7 @@ public final class Orientations extends System.Enum
 | [EnumSeparatorCharArray](#EnumSeparatorCharArray) |  |
 | [Horizontal](#Horizontal) | الاتجاه الأفقي |
 | [Vertical](#Vertical) | الاتجاه العمودي |
-## طرق
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |

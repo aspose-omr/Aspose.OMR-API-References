@@ -1,6 +1,6 @@
 ---
 title: "QrVersion"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: 
 type: docs
 weight: 38
@@ -61,7 +61,7 @@ public enum QrVersion extends Enum<QrVersion>
 | [VersionM2](#VersionM2) |  |
 | [VersionM3](#VersionM3) |  |
 | [VersionM4](#VersionM4) |  |
-## طرق
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |

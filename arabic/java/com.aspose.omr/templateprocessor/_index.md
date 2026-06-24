@@ -1,6 +1,6 @@
 ---
 title: "TemplateProcessor"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: "فئة لمعالجة القوالب والصور"
 type: docs
 weight: 30
@@ -14,7 +14,7 @@ public class TemplateProcessor
 ```
 
 فئة لمعالجة القوالب والصور.
-## طرق
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |
@@ -23,8 +23,8 @@ public class TemplateProcessor
 | [hashCode()](#hashCode) |  |
 | [notify()](#notify) |  |
 | [notifyAll()](#notifyAll) |  |
-| [recalculate(RecognitionResult result)](#recalculate-com.aspose.omr.RecognitionResult) | يقوم بتحديث نتيجة التعرف باستخدام معلمات مُضبوطة بدقة. |
-| [recalculate(RecognitionResult result, int recognitionThreshold)](#recalculate-com.aspose.omr.RecognitionResult-int) | يقوم بتحديث نتيجة التعرف باستخدام معلمات مُضبوطة بدقة. |
+| [recalculate(RecognitionResult result)](#recalculate-com.aspose.omr.RecognitionResult) | يحدّث نتيجة التعرف باستخدام معلمات مُضبوطة بدقة. |
+| [recalculate(RecognitionResult result, int recognitionThreshold)](#recalculate-com.aspose.omr.RecognitionResult-int) | يحدّث نتيجة التعرف باستخدام معلمات مُضبوطة بدقة. |
 | [recognizeImage(BufferedImage bufferedImage)](#recognizeImage-java.awt.image.BufferedImage) | يتعرف على الصورة |
 | [recognizeImage(BufferedImage bufferedImage, int recognitionThreshold)](#recognizeImage-java.awt.image.BufferedImage-int) | يتعرف على الصورة |
 | [recognizeImage(InputStream inputStream)](#recognizeImage-java.io.InputStream) | يتعرف على الصورة |
@@ -92,7 +92,7 @@ public final void recalculate(RecognitionResult result)
 ```
 
 
-يقوم بتحديث نتيجة التعرف باستخدام معلمات مُضبوطة بدقة.
+يحدّث نتيجة التعرف باستخدام معلمات مُضبوطة بدقة.
 
 **Parameters:**
 | معامل | نوع | الوصف |
@@ -105,7 +105,7 @@ public final void recalculate(RecognitionResult result, int recognitionThreshold
 ```
 
 
-يقوم بتحديث نتيجة التعرف باستخدام معلمات مُضبوطة بدقة.
+يحدّث نتيجة التعرف باستخدام معلمات مُضبوطة بدقة.
 
 **Parameters:**
 | معامل | نوع | الوصف |
@@ -155,7 +155,7 @@ public final RecognitionResult recognizeImage(InputStream inputStream)
 **Parameters:**
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| inputStream | java.io.InputStream | دفق الصورة |
+| inputStream | java.io.InputStream | تدفق الصورة |
 
 **Returns:**
 [RecognitionResult](../../com.aspose.omr/recognitionresult/) - The recognition result
@@ -170,7 +170,7 @@ public final RecognitionResult recognizeImage(InputStream inputStream, int recog
 **Parameters:**
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| inputStream | java.io.InputStream | دفق الصورة |
+| inputStream | java.io.InputStream | تدفق الصورة |
 | recognitionThreshold | int | (اختياري) عتبة التعرف في النطاق (0..100). فقط العناصر المملوءة فوق العتبة سيتم احتسابها كمملوءة. |
 
 **Returns:**

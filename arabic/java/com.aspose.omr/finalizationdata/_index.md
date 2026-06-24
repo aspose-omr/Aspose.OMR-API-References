@@ -1,6 +1,6 @@
 ---
 title: "FinalizationData"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: "يمثل بيانات الإنهاء"
 type: docs
 weight: 13
@@ -16,24 +16,24 @@ public class FinalizationData
 يمثل بيانات الإنهاء
 ## المُنشئات
 
-| مُنشئ | الوصف |
+| المُنشئ | الوصف |
 | --- | --- |
 | [FinalizationData()](#FinalizationData) |  |
-## طرق
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |
 | [equals(Object arg0)](#equals-java.lang.Object) |  |
-| [getAnswerText()](#getAnswerText) | يحصل أو يضبط نتيجة التعرف على صورة القالب |
+| [getAnswerText()](#getAnswerText) | الحصول أو تعيين نتيجة التعرف لصورة القالب |
 | [getAnswers()](#getAnswers) |  |
 | [getClass()](#getClass) |  |
-| [getWarnings()](#getWarnings) | يحصل أو يضبط التحذيرات المستلمة من OMR Core |
+| [getWarnings()](#getWarnings) | الحصول أو تعيين التحذيرات المستلمة من OMR Core |
 | [hashCode()](#hashCode) |  |
 | [notify()](#notify) |  |
 | [notifyAll()](#notifyAll) |  |
-| [setAnswerText(String[] value)](#setAnswerText-java.lang.String) | يحصل أو يضبط نتيجة التعرف على صورة القالب |
+| [setAnswerText(String[] value)](#setAnswerText-java.lang.String) | الحصول أو تعيين نتيجة التعرف لصورة القالب |
 | [setAnswers(String value)](#setAnswers-java.lang.String) |  |
-| [setWarnings(String[] value)](#setWarnings-java.lang.String) | يحصل أو يضبط التحذيرات المستلمة من OMR Core |
+| [setWarnings(String[] value)](#setWarnings-java.lang.String) | الحصول أو تعيين التحذيرات المستلمة من OMR Core |
 | [toString()](#toString) |  |
 | [wait()](#wait) |  |
 | [wait(long arg0)](#wait-long) |  |
@@ -65,10 +65,10 @@ public final String[] getAnswerText()
 ```
 
 
-يحصل أو يضبط نتيجة التعرف على صورة القالب
+الحصول أو تعيين نتيجة التعرف لصورة القالب
 
 **Returns:**
-java.lang.String[] - نتيجة التعرف على صورة القالب
+java.lang.String[] - نتيجة التعرف لصورة القالب
 ### getAnswers() {#getAnswers}
 ```
 public final String getAnswers()
@@ -95,7 +95,7 @@ public final String[] getWarnings()
 ```
 
 
-يحصل أو يضبط التحذيرات المستلمة من OMR Core
+الحصول أو تعيين التحذيرات المستلمة من OMR Core
 
 **Returns:**
 java.lang.String[] - التحذيرات المستلمة من OMR Core
@@ -131,12 +131,12 @@ public final void setAnswerText(String[] value)
 ```
 
 
-يحصل أو يضبط نتيجة التعرف على صورة القالب
+الحصول أو تعيين نتيجة التعرف لصورة القالب
 
 **Parameters:**
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| قيمة | java.lang.String[] | نتيجة التعرف على صورة القالب |
+| قيمة | java.lang.String[] | نتيجة التعرف لصورة القالب |
 
 ### setAnswers(String value) {#setAnswers-java.lang.String}
 ```
@@ -157,7 +157,7 @@ public final void setWarnings(String[] value)
 ```
 
 
-يحصل أو يضبط التحذيرات المستلمة من OMR Core
+الحصول أو تعيين التحذيرات المستلمة من OMR Core
 
 **Parameters:**
 | معامل | نوع | الوصف |

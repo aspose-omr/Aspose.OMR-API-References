@@ -1,6 +1,6 @@
 ---
 title: "مقاس"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: "يوفر طرقًا لتعيين المفتاح المقاس"
 type: docs
 weight: 19
@@ -13,7 +13,7 @@ java.lang.Object
 public class Metered
 ```
 
-يوفر طرقًا لتعيين المفتاح المقيس.
+يوفر طرقًا لتعيين المفتاح المقنن.
 
 --------------------
 
@@ -27,10 +27,10 @@ The component jar file:
 ```
 ## المُنشئات
 
-| مُنشئ | الوصف |
+| المُنشئ | الوصف |
 | --- | --- |
-| [Metered()](#Metered) | يُنشئ مثيلًا جديدًا لهذه الفئة. |
-## طرق
+| [Metered()](#Metered) | يقوم بتهيئة نسخة جديدة من هذه الفئة. |
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |
@@ -52,7 +52,7 @@ public Metered()
 ```
 
 
-يُنشئ مثيلًا جديدًا لهذه الفئة.
+يقوم بتهيئة نسخة جديدة من هذه الفئة.
 
 ### equals(Object arg0) {#equals-java.lang.Object}
 ```

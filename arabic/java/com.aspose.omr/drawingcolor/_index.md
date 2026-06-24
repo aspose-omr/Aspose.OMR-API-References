@@ -1,7 +1,7 @@
 ---
 title: "DrawingColor"
-second_title: "مرجع Aspose.OMR لـ Java API"
-description: "اللون المستخدم في إنشاء القالب"
+second_title: "مرجع API لـ Aspose.OMR for Java"
+description: "اللون المستخدم في توليد القالب"
 type: docs
 weight: 35
 url: /ar/java/com.aspose.omr/drawingcolor/
@@ -13,7 +13,7 @@ java.lang.Object, java.lang.Enum
 public enum DrawingColor extends Enum<DrawingColor>
 ```
 
-اللون المستخدم في إنشاء القالب
+اللون المستخدم في توليد القالب
 ## الحقول
 
 | حقل | الوصف |
@@ -44,18 +44,18 @@ public enum DrawingColor extends Enum<DrawingColor>
 | [DarkGoldenrod](#DarkGoldenrod) | لون DarkGoldenrod |
 | [DarkGray](#DarkGray) | لون DarkGray |
 | [DarkGreen](#DarkGreen) | لون DarkGreen |
-| [DarkKhaki](#DarkKhaki) | لون كاكي غامق |
-| [DarkMagenta](#DarkMagenta) | لون أرجواني غامق |
-| [DarkOliveGreen](#DarkOliveGreen) | لون زيتوني غامق |
-| [DarkOrange](#DarkOrange) | لون برتقالي غامق |
-| [DarkOrchid](#DarkOrchid) | لون أوركيد غامق |
-| [DarkRed](#DarkRed) | لون أحمر غامق |
-| [DarkSalmon](#DarkSalmon) | لون سلمون غامق |
-| [DarkSeaGreen](#DarkSeaGreen) | لون أخضر بحري غامق |
-| [DarkSlateBlue](#DarkSlateBlue) | لون أزرق صخري غامق |
-| [DarkSlateGray](#DarkSlateGray) | لون رمادي صخري غامق |
-| [DarkTurquoise](#DarkTurquoise) | لون تركواز غامق |
-| [DarkViolet](#DarkViolet) | لون بنفسجي غامق |
+| [DarkKhaki](#DarkKhaki) | لون كاكي داكن |
+| [DarkMagenta](#DarkMagenta) | لون ماجنتا داكن |
+| [DarkOliveGreen](#DarkOliveGreen) | لون أخضر زيتوني داكن |
+| [DarkOrange](#DarkOrange) | لون برتقالي داكن |
+| [DarkOrchid](#DarkOrchid) | لون أوركيد داكن |
+| [DarkRed](#DarkRed) | لون أحمر داكن |
+| [DarkSalmon](#DarkSalmon) | لون سلمون داكن |
+| [DarkSeaGreen](#DarkSeaGreen) | لون أخضر بحري داكن |
+| [DarkSlateBlue](#DarkSlateBlue) | لون أزرق صخري داكن |
+| [DarkSlateGray](#DarkSlateGray) | لون رمادي صخري داكن |
+| [DarkTurquoise](#DarkTurquoise) | لون فيروزي داكن |
+| [DarkViolet](#DarkViolet) | لون بنفسجي داكن |
 | [DeepPink](#DeepPink) | لون وردي عميق |
 | [DeepSkyBlue](#DeepSkyBlue) | لون أزرق سماوي عميق |
 | [DimGray](#DimGray) | لون رمادي خافت |
@@ -66,8 +66,8 @@ public enum DrawingColor extends Enum<DrawingColor>
 | [Fuchsia](#Fuchsia) | لون فوشيا |
 | [Gainsboro](#Gainsboro) | لون جاينسبورو |
 | [GhostWhite](#GhostWhite) | لون أبيض شبح |
-| [Gold](#Gold) | لون ذهبي |
-| [Goldenrod](#Goldenrod) | لون ذهبي أصفر |
+| [Gold](#Gold) | لون ذهب |
+| [Goldenrod](#Goldenrod) | لون قضبان ذهبي |
 | [Gray](#Gray) | لون رمادي |
 | [Green](#Green) | لون أخضر |
 | [GreenYellow](#GreenYellow) | لون أخضر أصفر |
@@ -75,14 +75,14 @@ public enum DrawingColor extends Enum<DrawingColor>
 | [HotPink](#HotPink) | لون وردي ساخن |
 | [IndianRed](#IndianRed) | لون أحمر هندي |
 | [Indigo](#Indigo) | لون نيلي |
-| [Ivory](#Ivory) | لون عاج |
+| [Ivory](#Ivory) | لون عاجي |
 | [Khaki](#Khaki) | لون كاكي |
-| [Lavender](#Lavender) | لون خزامى |
-| [LavenderBlush](#LavenderBlush) | لون خزامى خفيف |
-| [LawnGreen](#LawnGreen) | لون أخضر عشب |
-| [LemonChiffon](#LemonChiffon) | لون شيفون الليمون |
+| [Lavender](#Lavender) | لون لافندر |
+| [LavenderBlush](#LavenderBlush) | لون لافندر خفيف |
+| [LawnGreen](#LawnGreen) | لون أخضر العشب |
+| [LemonChiffon](#LemonChiffon) | لون كريم ليموني |
 | [LightBlue](#LightBlue) | لون أزرق فاتح |
-| [LightCoral](#LightCoral) | لون مرجاني فاتح |
+| [LightCoral](#LightCoral) | لون مرجان فاتح |
 | [LightCyan](#LightCyan) | لون سماوي فاتح |
 | [LightGoldenrodYellow](#LightGoldenrodYellow) | لون أصفر ذهبي فاتح |
 | [LightGray](#LightGray) | لون رمادي فاتح |
@@ -91,41 +91,41 @@ public enum DrawingColor extends Enum<DrawingColor>
 | [LightSalmon](#LightSalmon) | لون سلمون فاتح |
 | [LightSeaGreen](#LightSeaGreen) | لون أخضر بحري فاتح |
 | [LightSkyBlue](#LightSkyBlue) | لون أزرق سماوي فاتح |
-| [LightSlateGray](#LightSlateGray) | لون رمادي صخري فاتح |
+| [LightSlateGray](#LightSlateGray) | لون رمادي حجري فاتح |
 | [LightSteelBlue](#LightSteelBlue) | لون أزرق فولاذي فاتح |
 | [LightYellow](#LightYellow) | لون أصفر فاتح |
 | [Lime](#Lime) | لون الليمون |
-| [LimeGreen](#LimeGreen) | لون الأخضر الليموني |
+| [LimeGreen](#LimeGreen) | لون أخضر الليمون |
 | [Linen](#Linen) | لون الكتان |
-| [Magenta](#Magenta) | لون الماجنتا |
-| [Maroon](#Maroon) | لون المارون |
-| [MediumAquamarine](#MediumAquamarine) | لون الأكوامارين المتوسط |
-| [MediumBlue](#MediumBlue) | لون الأزرق المتوسط |
-| [MediumOrchid](#MediumOrchid) | لون الأوركيد المتوسط |
-| [MediumPurple](#MediumPurple) | لون الأرجواني المتوسط |
-| [MediumSeaGreen](#MediumSeaGreen) | لون الأخضر البحري المتوسط |
-| [MediumSlateBlue](#MediumSlateBlue) | لون الأزرق الصخري المتوسط |
-| [MediumSpringGreen](#MediumSpringGreen) | لون الأخضر الربيعي المتوسط |
-| [MediumTurquoise](#MediumTurquoise) | لون الفيروز المتوسط |
-| [MediumVioletRed](#MediumVioletRed) | لون الأحمر البنفسجي المتوسط |
-| [MidnightBlue](#MidnightBlue) | لون الأزرق منتصف الليل |
+| [Magenta](#Magenta) | لون ماجنتا |
+| [Maroon](#Maroon) | لون العنابي |
+| [MediumAquamarine](#MediumAquamarine) | لون أكوامارين متوسط |
+| [MediumBlue](#MediumBlue) | لون أزرق متوسط |
+| [MediumOrchid](#MediumOrchid) | لون سحلية متوسط |
+| [MediumPurple](#MediumPurple) | لون أرجواني متوسط |
+| [MediumSeaGreen](#MediumSeaGreen) | لون أخضر بحري متوسط |
+| [MediumSlateBlue](#MediumSlateBlue) | لون أزرق صخري متوسط |
+| [MediumSpringGreen](#MediumSpringGreen) | لون أخضر ربيعي متوسط |
+| [MediumTurquoise](#MediumTurquoise) | لون تركواز متوسط |
+| [MediumVioletRed](#MediumVioletRed) | لون أحمر بنفسجي متوسط |
+| [MidnightBlue](#MidnightBlue) | لون أزرق منتصف الليل |
 | [MintCream](#MintCream) | لون كريم النعناع |
-| [MistyRose](#MistyRose) | لون الورد الضبابي |
-| [Moccasin](#Moccasin) | لون الموكاسين |
-| [NavajoWhite](#NavajoWhite) | لون الأبيض النفاجو |
-| [Navy](#Navy) | لون البحرية |
-| [OldLace](#OldLace) | لون الدانتيل القديم |
-| [Olive](#Olive) | لون الزيتون |
-| [OliveDrab](#OliveDrab) | لون الزيتون الباهت |
-| [Orange](#Orange) | لون البرتقالي |
-| [OrangeRed](#OrangeRed) | لون البرتقالي الأحمر |
+| [MistyRose](#MistyRose) | لون وردة ضبابية |
+| [Moccasin](#Moccasin) | لون موكاسين |
+| [NavajoWhite](#NavajoWhite) | لون أبيض نافاجو |
+| [Navy](#Navy) | لون بحري |
+| [OldLace](#OldLace) | لون دانتيل قديم |
+| [Olive](#Olive) | لون زيتوني |
+| [OliveDrab](#OliveDrab) | لون زيتوني باهت |
+| [Orange](#Orange) | لون برتقالي |
+| [OrangeRed](#OrangeRed) | لون برتقالي أحمر |
 | [Orchid](#Orchid) | لون الأوركيد |
-| [PaleGoldenrod](#PaleGoldenrod) | لون ذهبي شاحب |
-| [PaleGreen](#PaleGreen) | لون أخضر شاحب |
-| [PaleTurquoise](#PaleTurquoise) | لون فيروزي شاحب |
-| [PaleVioletRed](#PaleVioletRed) | لون أحمر بنفسجي شاحب |
+| [PaleGoldenrod](#PaleGoldenrod) | لون باهت جولدنرود |
+| [PaleGreen](#PaleGreen) | لون أخضر باهت |
+| [PaleTurquoise](#PaleTurquoise) | لون تركواز باهت |
+| [PaleVioletRed](#PaleVioletRed) | لون أحمر بنفسجي باهت |
 | [PapayaWhip](#PapayaWhip) | لون صقيل بابايا |
-| [PeachPuff](#PeachPuff) | لون خوخ خفيف |
+| [PeachPuff](#PeachPuff) | لون نفخة خوخ |
 | [Peru](#Peru) | لون بيرو |
 | [Pink](#Pink) | لون وردي |
 | [Plum](#Plum) | لون برقوق |
@@ -138,28 +138,28 @@ public enum DrawingColor extends Enum<DrawingColor>
 | [Salmon](#Salmon) | لون سلمون |
 | [SandyBrown](#SandyBrown) | لون بني رملي |
 | [SeaGreen](#SeaGreen) | لون أخضر بحري |
-| [SeaShell](#SeaShell) | لون قشرة بحر |
+| [SeaShell](#SeaShell) | لون صدف البحر |
 | [Sienna](#Sienna) | لون سيينا |
 | [Silver](#Silver) | لون فضي |
 | [SkyBlue](#SkyBlue) | لون أزرق سماوي |
-| [SlateBlue](#SlateBlue) | لون أزرق صخري |
-| [SlateGray](#SlateGray) | لون رمادي صخري |
+| [SlateBlue](#SlateBlue) | لون أزرق أردوازي |
+| [SlateGray](#SlateGray) | لون رمادي أردوازي |
 | [Snow](#Snow) | لون الثلج |
-| [SpringGreen](#SpringGreen) | لون السبرينغ جرين |
-| [SteelBlue](#SteelBlue) | لون الفولاذ الأزرق |
-| [Tan](#Tan) | نوع لون الأسمر |
-| [Teal](#Teal) | لون الأخضر الداكن |
-| [Thistle](#Thistle) | لون الشوك |
-| [Tomato](#Tomato) | لون الطماطم |
-| [Turquoise](#Turquoise) | لون الفيروزي |
-| [Violet](#Violet) | لون البنفسجي |
-| [Wheat](#Wheat) | لون القمح |
-| [White](#White) | لون الأبيض |
-| [WhiteSmoke](#WhiteSmoke) | لون الدخان الأبيض |
-| [Yellow](#Yellow) | لون الأصفر |
-| [YellowGreen](#YellowGreen) | لون الأصفر الأخضر |
+| [SpringGreen](#SpringGreen) | لون SpringGreen |
+| [SteelBlue](#SteelBlue) | لون SteelBlue |
+| [Tan](#Tan) | نوع لون Tan |
+| [Teal](#Teal) | لون Teal |
+| [Thistle](#Thistle) | لون Thistle |
+| [Tomato](#Tomato) | لون Tomato |
+| [Turquoise](#Turquoise) | لون Turquoise |
+| [Violet](#Violet) | لون Violet |
+| [Wheat](#Wheat) | لون Wheat |
+| [White](#White) | لون White |
+| [WhiteSmoke](#WhiteSmoke) | لون WhiteSmoke |
+| [Yellow](#Yellow) | لون Yellow |
+| [YellowGreen](#YellowGreen) | لون YellowGreen |
 | [undefined](#undefined) | لون غير معرف. |
-## طرق
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |
@@ -394,7 +394,7 @@ public static final DrawingColor DarkKhaki
 ```
 
 
-لون كاكي غامق
+لون كاكي داكن
 
 ### DarkMagenta {#DarkMagenta}
 ```
@@ -402,7 +402,7 @@ public static final DrawingColor DarkMagenta
 ```
 
 
-لون أرجواني غامق
+لون ماجنتا داكن
 
 ### DarkOliveGreen {#DarkOliveGreen}
 ```
@@ -410,7 +410,7 @@ public static final DrawingColor DarkOliveGreen
 ```
 
 
-لون زيتوني غامق
+لون أخضر زيتوني داكن
 
 ### DarkOrange {#DarkOrange}
 ```
@@ -418,7 +418,7 @@ public static final DrawingColor DarkOrange
 ```
 
 
-لون برتقالي غامق
+لون برتقالي داكن
 
 ### DarkOrchid {#DarkOrchid}
 ```
@@ -426,7 +426,7 @@ public static final DrawingColor DarkOrchid
 ```
 
 
-لون أوركيد غامق
+لون أوركيد داكن
 
 ### DarkRed {#DarkRed}
 ```
@@ -434,7 +434,7 @@ public static final DrawingColor DarkRed
 ```
 
 
-لون أحمر غامق
+لون أحمر داكن
 
 ### DarkSalmon {#DarkSalmon}
 ```
@@ -442,7 +442,7 @@ public static final DrawingColor DarkSalmon
 ```
 
 
-لون سلمون غامق
+لون سلمون داكن
 
 ### DarkSeaGreen {#DarkSeaGreen}
 ```
@@ -450,7 +450,7 @@ public static final DrawingColor DarkSeaGreen
 ```
 
 
-لون أخضر بحري غامق
+لون أخضر بحري داكن
 
 ### DarkSlateBlue {#DarkSlateBlue}
 ```
@@ -458,7 +458,7 @@ public static final DrawingColor DarkSlateBlue
 ```
 
 
-لون أزرق صخري غامق
+لون أزرق صخري داكن
 
 ### DarkSlateGray {#DarkSlateGray}
 ```
@@ -466,7 +466,7 @@ public static final DrawingColor DarkSlateGray
 ```
 
 
-لون رمادي صخري غامق
+لون رمادي صخري داكن
 
 ### DarkTurquoise {#DarkTurquoise}
 ```
@@ -474,7 +474,7 @@ public static final DrawingColor DarkTurquoise
 ```
 
 
-لون تركواز غامق
+لون فيروزي داكن
 
 ### DarkViolet {#DarkViolet}
 ```
@@ -482,7 +482,7 @@ public static final DrawingColor DarkViolet
 ```
 
 
-لون بنفسجي غامق
+لون بنفسجي داكن
 
 ### DeepPink {#DeepPink}
 ```
@@ -570,7 +570,7 @@ public static final DrawingColor Gold
 ```
 
 
-لون ذهبي
+لون ذهب
 
 ### Goldenrod {#Goldenrod}
 ```
@@ -578,7 +578,7 @@ public static final DrawingColor Goldenrod
 ```
 
 
-لون ذهبي أصفر
+لون قضبان ذهبي
 
 ### Gray {#Gray}
 ```
@@ -642,7 +642,7 @@ public static final DrawingColor Ivory
 ```
 
 
-لون عاج
+لون عاجي
 
 ### Khaki {#Khaki}
 ```
@@ -658,7 +658,7 @@ public static final DrawingColor Lavender
 ```
 
 
-لون خزامى
+لون لافندر
 
 ### LavenderBlush {#LavenderBlush}
 ```
@@ -666,7 +666,7 @@ public static final DrawingColor LavenderBlush
 ```
 
 
-لون خزامى خفيف
+لون لافندر خفيف
 
 ### LawnGreen {#LawnGreen}
 ```
@@ -674,7 +674,7 @@ public static final DrawingColor LawnGreen
 ```
 
 
-لون أخضر عشب
+لون أخضر العشب
 
 ### LemonChiffon {#LemonChiffon}
 ```
@@ -682,7 +682,7 @@ public static final DrawingColor LemonChiffon
 ```
 
 
-لون شيفون الليمون
+لون كريم ليموني
 
 ### LightBlue {#LightBlue}
 ```
@@ -698,7 +698,7 @@ public static final DrawingColor LightCoral
 ```
 
 
-لون مرجاني فاتح
+لون مرجان فاتح
 
 ### LightCyan {#LightCyan}
 ```
@@ -770,7 +770,7 @@ public static final DrawingColor LightSlateGray
 ```
 
 
-لون رمادي صخري فاتح
+لون رمادي حجري فاتح
 
 ### LightSteelBlue {#LightSteelBlue}
 ```
@@ -802,7 +802,7 @@ public static final DrawingColor LimeGreen
 ```
 
 
-لون الأخضر الليموني
+لون أخضر الليمون
 
 ### Linen {#Linen}
 ```
@@ -818,7 +818,7 @@ public static final DrawingColor Magenta
 ```
 
 
-لون الماجنتا
+لون ماجنتا
 
 ### Maroon {#Maroon}
 ```
@@ -826,7 +826,7 @@ public static final DrawingColor Maroon
 ```
 
 
-لون المارون
+لون العنابي
 
 ### MediumAquamarine {#MediumAquamarine}
 ```
@@ -834,7 +834,7 @@ public static final DrawingColor MediumAquamarine
 ```
 
 
-لون الأكوامارين المتوسط
+لون أكوامارين متوسط
 
 ### MediumBlue {#MediumBlue}
 ```
@@ -842,7 +842,7 @@ public static final DrawingColor MediumBlue
 ```
 
 
-لون الأزرق المتوسط
+لون أزرق متوسط
 
 ### MediumOrchid {#MediumOrchid}
 ```
@@ -850,7 +850,7 @@ public static final DrawingColor MediumOrchid
 ```
 
 
-لون الأوركيد المتوسط
+لون سحلية متوسط
 
 ### MediumPurple {#MediumPurple}
 ```
@@ -858,7 +858,7 @@ public static final DrawingColor MediumPurple
 ```
 
 
-لون الأرجواني المتوسط
+لون أرجواني متوسط
 
 ### MediumSeaGreen {#MediumSeaGreen}
 ```
@@ -866,7 +866,7 @@ public static final DrawingColor MediumSeaGreen
 ```
 
 
-لون الأخضر البحري المتوسط
+لون أخضر بحري متوسط
 
 ### MediumSlateBlue {#MediumSlateBlue}
 ```
@@ -874,7 +874,7 @@ public static final DrawingColor MediumSlateBlue
 ```
 
 
-لون الأزرق الصخري المتوسط
+لون أزرق صخري متوسط
 
 ### MediumSpringGreen {#MediumSpringGreen}
 ```
@@ -882,7 +882,7 @@ public static final DrawingColor MediumSpringGreen
 ```
 
 
-لون الأخضر الربيعي المتوسط
+لون أخضر ربيعي متوسط
 
 ### MediumTurquoise {#MediumTurquoise}
 ```
@@ -890,7 +890,7 @@ public static final DrawingColor MediumTurquoise
 ```
 
 
-لون الفيروز المتوسط
+لون تركواز متوسط
 
 ### MediumVioletRed {#MediumVioletRed}
 ```
@@ -898,7 +898,7 @@ public static final DrawingColor MediumVioletRed
 ```
 
 
-لون الأحمر البنفسجي المتوسط
+لون أحمر بنفسجي متوسط
 
 ### MidnightBlue {#MidnightBlue}
 ```
@@ -906,7 +906,7 @@ public static final DrawingColor MidnightBlue
 ```
 
 
-لون الأزرق منتصف الليل
+لون أزرق منتصف الليل
 
 ### MintCream {#MintCream}
 ```
@@ -922,7 +922,7 @@ public static final DrawingColor MistyRose
 ```
 
 
-لون الورد الضبابي
+لون وردة ضبابية
 
 ### Moccasin {#Moccasin}
 ```
@@ -930,7 +930,7 @@ public static final DrawingColor Moccasin
 ```
 
 
-لون الموكاسين
+لون موكاسين
 
 ### NavajoWhite {#NavajoWhite}
 ```
@@ -938,7 +938,7 @@ public static final DrawingColor NavajoWhite
 ```
 
 
-لون الأبيض النفاجو
+لون أبيض نافاجو
 
 ### Navy {#Navy}
 ```
@@ -946,7 +946,7 @@ public static final DrawingColor Navy
 ```
 
 
-لون البحرية
+لون بحري
 
 ### OldLace {#OldLace}
 ```
@@ -954,7 +954,7 @@ public static final DrawingColor OldLace
 ```
 
 
-لون الدانتيل القديم
+لون دانتيل قديم
 
 ### Olive {#Olive}
 ```
@@ -962,7 +962,7 @@ public static final DrawingColor Olive
 ```
 
 
-لون الزيتون
+لون زيتوني
 
 ### OliveDrab {#OliveDrab}
 ```
@@ -970,7 +970,7 @@ public static final DrawingColor OliveDrab
 ```
 
 
-لون الزيتون الباهت
+لون زيتوني باهت
 
 ### Orange {#Orange}
 ```
@@ -978,7 +978,7 @@ public static final DrawingColor Orange
 ```
 
 
-لون البرتقالي
+لون برتقالي
 
 ### OrangeRed {#OrangeRed}
 ```
@@ -986,7 +986,7 @@ public static final DrawingColor OrangeRed
 ```
 
 
-لون البرتقالي الأحمر
+لون برتقالي أحمر
 
 ### Orchid {#Orchid}
 ```
@@ -1002,7 +1002,7 @@ public static final DrawingColor PaleGoldenrod
 ```
 
 
-لون ذهبي شاحب
+لون باهت جولدنرود
 
 ### PaleGreen {#PaleGreen}
 ```
@@ -1010,7 +1010,7 @@ public static final DrawingColor PaleGreen
 ```
 
 
-لون أخضر شاحب
+لون أخضر باهت
 
 ### PaleTurquoise {#PaleTurquoise}
 ```
@@ -1018,7 +1018,7 @@ public static final DrawingColor PaleTurquoise
 ```
 
 
-لون فيروزي شاحب
+لون تركواز باهت
 
 ### PaleVioletRed {#PaleVioletRed}
 ```
@@ -1026,7 +1026,7 @@ public static final DrawingColor PaleVioletRed
 ```
 
 
-لون أحمر بنفسجي شاحب
+لون أحمر بنفسجي باهت
 
 ### PapayaWhip {#PapayaWhip}
 ```
@@ -1042,7 +1042,7 @@ public static final DrawingColor PeachPuff
 ```
 
 
-لون خوخ خفيف
+لون نفخة خوخ
 
 ### Peru {#Peru}
 ```
@@ -1146,7 +1146,7 @@ public static final DrawingColor SeaShell
 ```
 
 
-لون قشرة بحر
+لون صدف البحر
 
 ### Sienna {#Sienna}
 ```
@@ -1178,7 +1178,7 @@ public static final DrawingColor SlateBlue
 ```
 
 
-لون أزرق صخري
+لون أزرق أردوازي
 
 ### SlateGray {#SlateGray}
 ```
@@ -1186,7 +1186,7 @@ public static final DrawingColor SlateGray
 ```
 
 
-لون رمادي صخري
+لون رمادي أردوازي
 
 ### Snow {#Snow}
 ```
@@ -1202,7 +1202,7 @@ public static final DrawingColor SpringGreen
 ```
 
 
-لون السبرينغ جرين
+لون SpringGreen
 
 ### SteelBlue {#SteelBlue}
 ```
@@ -1210,7 +1210,7 @@ public static final DrawingColor SteelBlue
 ```
 
 
-لون الفولاذ الأزرق
+لون SteelBlue
 
 ### Tan {#Tan}
 ```
@@ -1218,7 +1218,7 @@ public static final DrawingColor Tan
 ```
 
 
-نوع لون الأسمر
+نوع لون Tan
 
 ### Teal {#Teal}
 ```
@@ -1226,7 +1226,7 @@ public static final DrawingColor Teal
 ```
 
 
-لون الأخضر الداكن
+لون Teal
 
 ### Thistle {#Thistle}
 ```
@@ -1234,7 +1234,7 @@ public static final DrawingColor Thistle
 ```
 
 
-لون الشوك
+لون Thistle
 
 ### Tomato {#Tomato}
 ```
@@ -1242,7 +1242,7 @@ public static final DrawingColor Tomato
 ```
 
 
-لون الطماطم
+لون Tomato
 
 ### Turquoise {#Turquoise}
 ```
@@ -1250,7 +1250,7 @@ public static final DrawingColor Turquoise
 ```
 
 
-لون الفيروزي
+لون Turquoise
 
 ### Violet {#Violet}
 ```
@@ -1258,7 +1258,7 @@ public static final DrawingColor Violet
 ```
 
 
-لون البنفسجي
+لون Violet
 
 ### Wheat {#Wheat}
 ```
@@ -1266,7 +1266,7 @@ public static final DrawingColor Wheat
 ```
 
 
-لون القمح
+لون Wheat
 
 ### White {#White}
 ```
@@ -1274,7 +1274,7 @@ public static final DrawingColor White
 ```
 
 
-لون الأبيض
+لون White
 
 ### WhiteSmoke {#WhiteSmoke}
 ```
@@ -1282,7 +1282,7 @@ public static final DrawingColor WhiteSmoke
 ```
 
 
-لون الدخان الأبيض
+لون WhiteSmoke
 
 ### Yellow {#Yellow}
 ```
@@ -1290,7 +1290,7 @@ public static final DrawingColor Yellow
 ```
 
 
-لون الأصفر
+لون Yellow
 
 ### YellowGreen {#YellowGreen}
 ```
@@ -1298,7 +1298,7 @@ public static final DrawingColor YellowGreen
 ```
 
 
-لون الأصفر الأخضر
+لون YellowGreen
 
 ### undefined {#undefined}
 ```

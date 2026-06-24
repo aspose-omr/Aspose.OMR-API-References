@@ -1,6 +1,6 @@
 ---
 title: "OmrTemplate"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: "يمثل قالب OMR"
 type: docs
 weight: 25
@@ -16,7 +16,7 @@ public class OmrTemplate
 يمثل قالب OMR
 ## المُنشئات
 
-| مُنشئ | الوصف |
+| المُنشئ | الوصف |
 | --- | --- |
 | [OmrTemplate()](#OmrTemplate) | ينشئ مثيلاً جديداً من الفئة [OmrTemplate](../../com.aspose.omr/omrtemplate/) |
 ## الحقول
@@ -24,7 +24,7 @@ public class OmrTemplate
 | حقل | الوصف |
 | --- | --- |
 | [Version](#Version) | يحصل أو يعيّن نسخة ترميز القالب |
-## طرق
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |

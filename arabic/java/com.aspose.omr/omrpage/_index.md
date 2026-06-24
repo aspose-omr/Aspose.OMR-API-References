@@ -1,6 +1,6 @@
 ---
 title: "OmrPage"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: "يمثل صفحة OMR واحدة"
 type: docs
 weight: 24
@@ -16,10 +16,10 @@ public class OmrPage
 يمثل صفحة OMR واحدة
 ## المُنشئات
 
-| مُنشئ | الوصف |
+| المُنشئ | الوصف |
 | --- | --- |
-| [OmrPage()](#OmrPage) | يُنشئ مثلاً جديداً من الفئة [OmrPage](../../com.aspose.omr/omrpage/) |
-## طرق
+| [OmrPage()](#OmrPage) | يُنشئ مثيلًا جديدًا من الفئة [OmrPage](../../com.aspose.omr/omrpage/) |
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |
@@ -32,20 +32,20 @@ public class OmrPage
 | [equals(Object arg0)](#equals-java.lang.Object) |  |
 | [getClass()](#getClass) |  |
 | [getElements()](#getElements) | يحصل أو يضبط قائمة العناصر على الصفحة |
-| [getHeight()](#getHeight) | يحصل أو يضبط ارتفاع الصفحة |
-| [getImageFormat()](#getImageFormat) | يحصل أو يضبط تنسيق ملف الصورة |
-| [getImageName()](#getImageName) | يحصل أو يضبط بيانات الصورة |
-| [getRotationPointPosition()](#getRotationPointPosition) | يحصل أو يضبط RotationPointPosition |
-| [getWidth()](#getWidth) | يحصل أو يضبط عرض الصفحة |
+| [getHeight()](#getHeight) | الحصول أو تعيين ارتفاع الصفحة |
+| [getImageFormat()](#getImageFormat) | الحصول أو تعيين تنسيق ملف الصورة |
+| [getImageName()](#getImageName) | الحصول أو تعيين بيانات الصورة |
+| [getRotationPointPosition()](#getRotationPointPosition) | الحصول أو تعيين RotationPointPosition |
+| [getWidth()](#getWidth) | الحصول أو تعيين عرض الصفحة |
 | [hashCode()](#hashCode) |  |
 | [notify()](#notify) |  |
 | [notifyAll()](#notifyAll) |  |
 | [setElements(System.Collections.Generic.List<OmrElement> value)](#setElements-com.aspose.ms.System.Collections.Generic.List-com.aspose.omr.OmrElement) | يحصل أو يضبط قائمة العناصر على الصفحة |
-| [setHeight(double value)](#setHeight-double) | يحصل أو يضبط ارتفاع الصفحة |
-| [setImageFormat(String value)](#setImageFormat-java.lang.String) | يحصل أو يضبط تنسيق ملف الصورة |
-| [setImageName(String value)](#setImageName-java.lang.String) | يحصل أو يضبط اسم الصورة |
-| [setRotationPointPosition(RotationPointPosition value)](#setRotationPointPosition-com.aspose.omr.RotationPointPosition) | يحصل أو يضبط RotationPointPosition |
-| [setWidth(double value)](#setWidth-double) | يحصل أو يضبط عرض الصفحة |
+| [setHeight(double value)](#setHeight-double) | الحصول أو تعيين ارتفاع الصفحة |
+| [setImageFormat(String value)](#setImageFormat-java.lang.String) | الحصول أو تعيين تنسيق ملف الصورة |
+| [setImageName(String value)](#setImageName-java.lang.String) | الحصول أو تعيين اسم الصورة |
+| [setRotationPointPosition(RotationPointPosition value)](#setRotationPointPosition-com.aspose.omr.RotationPointPosition) | الحصول أو تعيين RotationPointPosition |
+| [setWidth(double value)](#setWidth-double) | الحصول أو تعيين عرض الصفحة |
 | [toString()](#toString) |  |
 | [wait()](#wait) |  |
 | [wait(long arg0)](#wait-long) |  |
@@ -56,7 +56,7 @@ public OmrPage()
 ```
 
 
-يُنشئ مثلاً جديداً من الفئة [OmrPage](../../com.aspose.omr/omrpage/)
+يُنشئ مثيلًا جديدًا من الفئة [OmrPage](../../com.aspose.omr/omrpage/)
 
 ### addBarcodeElement(BarcodeElement element) {#addBarcodeElement-com.aspose.omr.BarcodeElement}
 ```
@@ -195,7 +195,7 @@ public final double getHeight()
 ```
 
 
-يحصل أو يضبط ارتفاع الصفحة
+الحصول أو تعيين ارتفاع الصفحة
 
 **Returns:**
 double - ارتفاع الصفحة
@@ -205,7 +205,7 @@ public final String getImageFormat()
 ```
 
 
-يحصل أو يضبط تنسيق ملف الصورة
+الحصول أو تعيين تنسيق ملف الصورة
 
 **Returns:**
 java.lang.String - تنسيق ملف الصورة
@@ -215,7 +215,7 @@ public final String getImageName()
 ```
 
 
-يحصل أو يضبط بيانات الصورة
+الحصول أو تعيين بيانات الصورة
 
 **Returns:**
 java.lang.String - اسم الصورة
@@ -225,7 +225,7 @@ public final RotationPointPosition getRotationPointPosition()
 ```
 
 
-يحصل أو يضبط RotationPointPosition
+الحصول أو تعيين RotationPointPosition
 
 **Returns:**
 [RotationPointPosition](../../com.aspose.omr/rotationpointposition/) - RotationPointPosition
@@ -235,7 +235,7 @@ public final double getWidth()
 ```
 
 
-يحصل أو يضبط عرض الصفحة
+الحصول أو تعيين عرض الصفحة
 
 **Returns:**
 double - عرض الصفحة
@@ -284,7 +284,7 @@ public final void setHeight(double value)
 ```
 
 
-يحصل أو يضبط ارتفاع الصفحة
+الحصول أو تعيين ارتفاع الصفحة
 
 **Parameters:**
 | معامل | نوع | الوصف |
@@ -297,7 +297,7 @@ public final void setImageFormat(String value)
 ```
 
 
-يحصل أو يضبط تنسيق ملف الصورة
+الحصول أو تعيين تنسيق ملف الصورة
 
 **Parameters:**
 | معامل | نوع | الوصف |
@@ -310,7 +310,7 @@ public final void setImageName(String value)
 ```
 
 
-يحصل أو يضبط اسم الصورة
+الحصول أو تعيين اسم الصورة
 
 **Parameters:**
 | معامل | نوع | الوصف |
@@ -323,7 +323,7 @@ public final void setRotationPointPosition(RotationPointPosition value)
 ```
 
 
-يحصل أو يضبط RotationPointPosition
+الحصول أو تعيين RotationPointPosition
 
 **Parameters:**
 | معامل | نوع | الوصف |
@@ -336,7 +336,7 @@ public final void setWidth(double value)
 ```
 
 
-يحصل أو يضبط عرض الصفحة
+الحصول أو تعيين عرض الصفحة
 
 **Parameters:**
 | معامل | نوع | الوصف |

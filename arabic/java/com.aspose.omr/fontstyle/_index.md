@@ -1,6 +1,6 @@
 ---
 title: "FontStyle"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: 
 type: docs
 weight: 36
@@ -22,7 +22,7 @@ public enum FontStyle extends Enum<FontStyle>
 | [Strikeout](#Strikeout) |  |
 | [Underline](#Underline) |  |
 | [undefined](#undefined) |  |
-## طرق
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |

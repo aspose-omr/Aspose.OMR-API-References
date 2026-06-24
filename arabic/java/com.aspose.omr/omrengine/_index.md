@@ -1,6 +1,6 @@
 ---
 title: "OmrEngine"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: "محرك OMR"
 type: docs
 weight: 22
@@ -13,13 +13,13 @@ java.lang.Object
 public class OmrEngine
 ```
 
-محرك OMR. يتعامل مع إنشاء فئات القالب ومعالجة الصور ومكونات واجهة المستخدم الرسومية.
+محرك OMR. يتعامل مع إنشاء القالب وفئات معالجة الصور ومكونات واجهة المستخدم الرسومية.
 ## المُنشئات
 
-| مُنشئ | الوصف |
+| المُنشئ | الوصف |
 | --- | --- |
 | [OmrEngine()](#OmrEngine) |  |
-## طرق
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |
@@ -102,7 +102,7 @@ public final GenerationResult generateTemplate(String markupPath, ImageCollectio
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | markupPath | java.lang.String | مسار ملف ترميز النص |
-| collection | [ImageCollection](../../com.aspose.omr/imagecollection/) | مجموعة الصور التي سيتم استخدامها في إنشاء هذا القالب |
+| collection | [ImageCollection](../../com.aspose.omr/imagecollection/) | مجموعة الصور التي ستُستخدم في إنشاء هذا القالب |
 
 **Returns:**
 [GenerationResult](../../com.aspose.omr/generationresult/) - Generation result
@@ -118,7 +118,7 @@ public final GenerationResult generateTemplate(String markupPath, ImageCollectio
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | markupPath | java.lang.String | مسار ملف ترميز النص |
-| collection | [ImageCollection](../../com.aspose.omr/imagecollection/) | مجموعة الصور التي سيتم استخدامها في إنشاء هذا القالب |
+| collection | [ImageCollection](../../com.aspose.omr/imagecollection/) | مجموعة الصور التي ستُستخدم في إنشاء هذا القالب |
 | settings | [GlobalPageSettings](../../com.aspose.omr/globalpagesettings/) | الإعدادات العامة لكل صفحة |
 
 **Returns:**

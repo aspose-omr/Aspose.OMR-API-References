@@ -1,6 +1,6 @@
 ---
 title: "BarcodeElement"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: "يمثل عنصر الباركود"
 type: docs
 weight: 10
@@ -16,7 +16,7 @@ public class BarcodeElement extends OmrElement
 يمثل عنصر الباركود
 ## المُنشئات
 
-| مُنشئ | الوصف |
+| المُنشئ | الوصف |
 | --- | --- |
 | [BarcodeElement()](#BarcodeElement) |  |
 ## الحقول
@@ -26,7 +26,7 @@ public class BarcodeElement extends OmrElement
 | [BarcodeType](#BarcodeType) |  |
 | [ElementType](#ElementType) |  |
 | [QrVersion](#QrVersion) |  |
-## طرق
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |

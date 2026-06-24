@@ -1,6 +1,6 @@
 ---
 title: "BarcodeType"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: "نوع الباركود المسموح به في إنشاء/التعرف على الباركود"
 type: docs
 weight: 33
@@ -13,34 +13,34 @@ java.lang.Object, java.lang.Enum
 public enum BarcodeType extends Enum<BarcodeType>
 ```
 
-نوع الباركود المسموح به في إنشاء\\التعرف على الباركود
+نوع الباركود المسموح به في توليد\التعرف على الباركود
 ## الحقول
 
 | حقل | الوصف |
 | --- | --- |
-| [AustraliaPost](#AustraliaPost) | تمثيل نوع AustraliaPost |
-| [AustralianPosteParcel](#AustralianPosteParcel) | تمثيل نوع AustralianPosteParcel |
-| [Aztec](#Aztec) | تمثيل نوع Aztec |
-| [Codabar](#Codabar) | تمثيل نوع Codabar |
-| [CodablockF](#CodablockF) | تمثيل نوع CodablockF |
-| [Code11](#Code11) | تمثيل نوع Code11 |
-| [Code128](#Code128) | تمثيل نوع Code128 |
-| [Code16K](#Code16K) | تمثيل نوع Code16K |
-| [Code32](#Code32) | تمثيل نوع Code32 |
-| [Code39](#Code39) | تمثيل نوع Code39 |
-| [Code39FullASCII](#Code39FullASCII) | تمثيل نوع Code39FullASCII |
-| [Code93](#Code93) | تمثيل نوع Code93 |
-| [DataLogic2of5](#DataLogic2of5) | تمثيل نوع DataLogic2of5 |
-| [DataMatrix](#DataMatrix) | تمثيل نوع DataMatrix |
-| [DatabarExpanded](#DatabarExpanded) | تمثيل نوع DatabarExpanded |
-| [DatabarExpandedStacked](#DatabarExpandedStacked) | تمثيل نوع DatabarExpandedStacked |
-| [DatabarLimited](#DatabarLimited) | تمثيل نوع DatabarLimited |
-| [DatabarOmniDirectional](#DatabarOmniDirectional) | تمثيل نوع DatabarOmniDirectional |
-| [DatabarStacked](#DatabarStacked) | تمثيل نوع DatabarStacked |
-| [DatabarStackedOmniDirectional](#DatabarStackedOmniDirectional) | تمثيل نوع DatabarStackedOmniDirectional |
-| [DatabarTruncated](#DatabarTruncated) | تمثيل نوع DatabarTruncated |
-| [DeutschePostIdentcode](#DeutschePostIdentcode) | تمثيل نوع DeutschePostIdentcode |
-| [DeutschePostLeitcode](#DeutschePostLeitcode) | تمثيل نوع DeutschePostLeitcode |
+| [AustraliaPost](#AustraliaPost) | يمثل نوع AustraliaPost |
+| [AustralianPosteParcel](#AustralianPosteParcel) | يمثل نوع AustralianPosteParcel |
+| [Aztec](#Aztec) | يمثل نوع Aztec |
+| [Codabar](#Codabar) | يمثل نوع Codabar |
+| [CodablockF](#CodablockF) | يمثل نوع CodablockF |
+| [Code11](#Code11) | يمثل نوع Code11 |
+| [Code128](#Code128) | يمثل نوع Code128 |
+| [Code16K](#Code16K) | يمثل نوع Code16K |
+| [Code32](#Code32) | يمثل نوع Code32 |
+| [Code39](#Code39) | يمثل نوع Code39 |
+| [Code39FullASCII](#Code39FullASCII) | يمثل نوع Code39FullASCII |
+| [Code93](#Code93) | يمثل نوع Code93 |
+| [DataLogic2of5](#DataLogic2of5) | يمثل نوع DataLogic2of5 |
+| [DataMatrix](#DataMatrix) | يمثل نوع DataMatrix |
+| [DatabarExpanded](#DatabarExpanded) | يمثل نوع DatabarExpanded |
+| [DatabarExpandedStacked](#DatabarExpandedStacked) | يمثل نوع DatabarExpandedStacked |
+| [DatabarLimited](#DatabarLimited) | يمثل نوع DatabarLimited |
+| [DatabarOmniDirectional](#DatabarOmniDirectional) | يمثل نوع DatabarOmniDirectional |
+| [DatabarStacked](#DatabarStacked) | يمثل نوع DatabarStacked |
+| [DatabarStackedOmniDirectional](#DatabarStackedOmniDirectional) | يمثل نوع DatabarStackedOmniDirectional |
+| [DatabarTruncated](#DatabarTruncated) | يمثل نوع DatabarTruncated |
+| [DeutschePostIdentcode](#DeutschePostIdentcode) | يمثل نوع DeutschePostIdentcode |
+| [DeutschePostLeitcode](#DeutschePostLeitcode) | يمثل نوع DeutschePostLeitcode |
 | [DotCode](#DotCode) | تمثيل نوع DotCode |
 | [DutchKIX](#DutchKIX) | تمثيل نوع DutchKIX |
 | [EAN13](#EAN13) | تمثيل نوع EAN13 |
@@ -103,7 +103,7 @@ public enum BarcodeType extends Enum<BarcodeType>
 | [UpcaGs1DatabarCoupon](#UpcaGs1DatabarCoupon) | تمثيل نوع UpcaGs1DatabarCoupon |
 | [VIN](#VIN) | تمثيل نوع VIN |
 | [undefined](#undefined) | لم يتم تعيين قيمة. |
-## طرق
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |
@@ -129,7 +129,7 @@ public static final BarcodeType AustraliaPost
 ```
 
 
-تمثيل نوع AustraliaPost
+يمثل نوع AustraliaPost
 
 ### AustralianPosteParcel {#AustralianPosteParcel}
 ```
@@ -137,7 +137,7 @@ public static final BarcodeType AustralianPosteParcel
 ```
 
 
-تمثيل نوع AustralianPosteParcel
+يمثل نوع AustralianPosteParcel
 
 ### Aztec {#Aztec}
 ```
@@ -145,7 +145,7 @@ public static final BarcodeType Aztec
 ```
 
 
-تمثيل نوع Aztec
+يمثل نوع Aztec
 
 ### Codabar {#Codabar}
 ```
@@ -153,7 +153,7 @@ public static final BarcodeType Codabar
 ```
 
 
-تمثيل نوع Codabar
+يمثل نوع Codabar
 
 ### CodablockF {#CodablockF}
 ```
@@ -161,7 +161,7 @@ public static final BarcodeType CodablockF
 ```
 
 
-تمثيل نوع CodablockF
+يمثل نوع CodablockF
 
 ### Code11 {#Code11}
 ```
@@ -169,7 +169,7 @@ public static final BarcodeType Code11
 ```
 
 
-تمثيل نوع Code11
+يمثل نوع Code11
 
 ### Code128 {#Code128}
 ```
@@ -177,7 +177,7 @@ public static final BarcodeType Code128
 ```
 
 
-تمثيل نوع Code128
+يمثل نوع Code128
 
 ### Code16K {#Code16K}
 ```
@@ -185,7 +185,7 @@ public static final BarcodeType Code16K
 ```
 
 
-تمثيل نوع Code16K
+يمثل نوع Code16K
 
 ### Code32 {#Code32}
 ```
@@ -193,7 +193,7 @@ public static final BarcodeType Code32
 ```
 
 
-تمثيل نوع Code32
+يمثل نوع Code32
 
 ### Code39 {#Code39}
 ```
@@ -201,7 +201,7 @@ public static final BarcodeType Code39
 ```
 
 
-تمثيل نوع Code39
+يمثل نوع Code39
 
 ### Code39FullASCII {#Code39FullASCII}
 ```
@@ -209,7 +209,7 @@ public static final BarcodeType Code39FullASCII
 ```
 
 
-تمثيل نوع Code39FullASCII
+يمثل نوع Code39FullASCII
 
 ### Code93 {#Code93}
 ```
@@ -217,7 +217,7 @@ public static final BarcodeType Code93
 ```
 
 
-تمثيل نوع Code93
+يمثل نوع Code93
 
 ### DataLogic2of5 {#DataLogic2of5}
 ```
@@ -225,7 +225,7 @@ public static final BarcodeType DataLogic2of5
 ```
 
 
-تمثيل نوع DataLogic2of5
+يمثل نوع DataLogic2of5
 
 ### DataMatrix {#DataMatrix}
 ```
@@ -233,7 +233,7 @@ public static final BarcodeType DataMatrix
 ```
 
 
-تمثيل نوع DataMatrix
+يمثل نوع DataMatrix
 
 ### DatabarExpanded {#DatabarExpanded}
 ```
@@ -241,7 +241,7 @@ public static final BarcodeType DatabarExpanded
 ```
 
 
-تمثيل نوع DatabarExpanded
+يمثل نوع DatabarExpanded
 
 ### DatabarExpandedStacked {#DatabarExpandedStacked}
 ```
@@ -249,7 +249,7 @@ public static final BarcodeType DatabarExpandedStacked
 ```
 
 
-تمثيل نوع DatabarExpandedStacked
+يمثل نوع DatabarExpandedStacked
 
 ### DatabarLimited {#DatabarLimited}
 ```
@@ -257,7 +257,7 @@ public static final BarcodeType DatabarLimited
 ```
 
 
-تمثيل نوع DatabarLimited
+يمثل نوع DatabarLimited
 
 ### DatabarOmniDirectional {#DatabarOmniDirectional}
 ```
@@ -265,7 +265,7 @@ public static final BarcodeType DatabarOmniDirectional
 ```
 
 
-تمثيل نوع DatabarOmniDirectional
+يمثل نوع DatabarOmniDirectional
 
 ### DatabarStacked {#DatabarStacked}
 ```
@@ -273,7 +273,7 @@ public static final BarcodeType DatabarStacked
 ```
 
 
-تمثيل نوع DatabarStacked
+يمثل نوع DatabarStacked
 
 ### DatabarStackedOmniDirectional {#DatabarStackedOmniDirectional}
 ```
@@ -281,7 +281,7 @@ public static final BarcodeType DatabarStackedOmniDirectional
 ```
 
 
-تمثيل نوع DatabarStackedOmniDirectional
+يمثل نوع DatabarStackedOmniDirectional
 
 ### DatabarTruncated {#DatabarTruncated}
 ```
@@ -289,7 +289,7 @@ public static final BarcodeType DatabarTruncated
 ```
 
 
-تمثيل نوع DatabarTruncated
+يمثل نوع DatabarTruncated
 
 ### DeutschePostIdentcode {#DeutschePostIdentcode}
 ```
@@ -297,7 +297,7 @@ public static final BarcodeType DeutschePostIdentcode
 ```
 
 
-تمثيل نوع DeutschePostIdentcode
+يمثل نوع DeutschePostIdentcode
 
 ### DeutschePostLeitcode {#DeutschePostLeitcode}
 ```
@@ -305,7 +305,7 @@ public static final BarcodeType DeutschePostLeitcode
 ```
 
 
-تمثيل نوع DeutschePostLeitcode
+يمثل نوع DeutschePostLeitcode
 
 ### DotCode {#DotCode}
 ```

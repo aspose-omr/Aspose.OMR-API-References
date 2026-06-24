@@ -1,6 +1,6 @@
 ---
 title: "GenerationResult"
-second_title: "مرجع Aspose.OMR لـ Java API"
+second_title: "مرجع API لـ Aspose.OMR for Java"
 description: "نتيجة توليد القالب"
 type: docs
 weight: 14
@@ -14,7 +14,7 @@ public class GenerationResult
 ```
 
 نتيجة توليد القالب. يحتوي على صورة القالب والقالب (json الذي يصف موقع العناصر على الصورة).
-## طرق
+## الطرق
 
 | طريقة | الوصف |
 | --- | --- |
@@ -22,17 +22,17 @@ public class GenerationResult
 | [getClass()](#getClass) |  |
 | [getErrorCode()](#getErrorCode) | يحصل أو يعيّن رمز الخطأ. |
 | [getErrorMessage()](#getErrorMessage) | يحصل أو يعيّن الرسالة التي تصف الخطأ. |
-| [getTemplate()](#getTemplate) | يحصل على سلسلة JSON للقالب |
-| [getTemplateImage()](#getTemplateImage) | يحصل أو يعيّن صورة القالب المُولدة |
+| [getTemplate()](#getTemplate) | يحصل على سلسلة Template JSON |
+| [getTemplateImage()](#getTemplateImage) | يحصل أو يعيّن Template Image المولدة |
 | [getWarnings()](#getWarnings) | يحصل أو يعيّن قائمة رسائل التحذير التي تصف الأخطاء غير الحرجة التي ظهرت أثناء التوليد |
 | [hashCode()](#hashCode) |  |
 | [notify()](#notify) |  |
 | [notifyAll()](#notifyAll) |  |
-| [save(String folder, String name)](#save-java.lang.String-java.lang.String) | احفظ صورة القالب والقالب في المجلد المحدد |
+| [save(String folder, String name)](#save-java.lang.String-java.lang.String) | احفظ template image والقالب في المجلد المحدد |
 | [setErrorCode(int value)](#setErrorCode-int) | يحصل أو يعيّن رمز الخطأ. |
 | [setErrorMessage(String value)](#setErrorMessage-java.lang.String) | يحصل أو يعيّن الرسالة التي تصف الخطأ. |
-| [setTemplate(String value)](#setTemplate-java.lang.String) | يعيّن سلسلة JSON للقالب |
-| [setTemplateImage(BufferedImage value)](#setTemplateImage-java.awt.image.BufferedImage) | يحصل أو يعيّن صورة القالب المُولدة |
+| [setTemplate(String value)](#setTemplate-java.lang.String) | يضبط سلسلة Template JSON |
+| [setTemplateImage(BufferedImage value)](#setTemplateImage-java.awt.image.BufferedImage) | يحصل أو يعيّن Template Image المولدة |
 | [setWarnings(List<String> value)](#setWarnings-java.util.List-java.lang.String) | يحصل أو يعيّن قائمة رسائل التحذير التي تصف الأخطاء غير الحرجة التي ظهرت أثناء التوليد |
 | [toString()](#toString) |  |
 | [wait()](#wait) |  |
@@ -89,17 +89,17 @@ public final String getTemplate()
 ```
 
 
-يحصل على سلسلة JSON للقالب
+يحصل على سلسلة Template JSON
 
 **Returns:**
-java.lang.String - سلسلة JSON للقالب
+java.lang.String - سلسلة Template JSON
 ### getTemplateImage() {#getTemplateImage}
 ```
 public final BufferedImage getTemplateImage()
 ```
 
 
-يحصل أو يعيّن صورة القالب المُولدة
+يحصل أو يعيّن Template Image المولدة
 
 **Returns:**
 java.awt.image.BufferedImage
@@ -145,7 +145,7 @@ public final void save(String folder, String name)
 ```
 
 
-احفظ صورة القالب والقالب في المجلد المحدد
+احفظ template image والقالب في المجلد المحدد
 
 **Parameters:**
 | معامل | نوع | الوصف |
@@ -185,12 +185,12 @@ public final void setTemplate(String value)
 ```
 
 
-يعيّن سلسلة JSON للقالب
+يضبط سلسلة Template JSON
 
 **Parameters:**
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| قيمة | java.lang.String | سلسلة JSON للقالب |
+| قيمة | java.lang.String | سلسلة Template JSON |
 
 ### setTemplateImage(BufferedImage value) {#setTemplateImage-java.awt.image.BufferedImage}
 ```
@@ -198,7 +198,7 @@ public final void setTemplateImage(BufferedImage value)
 ```
 
 
-يحصل أو يعيّن صورة القالب المُولدة
+يحصل أو يعيّن Template Image المولدة
 
 **Parameters:**
 | معامل | نوع | الوصف |

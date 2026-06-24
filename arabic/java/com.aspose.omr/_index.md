@@ -1,14 +1,14 @@
 ---
 title: "com.aspose.omr"
-second_title: "مرجع Aspose.OMR لـ Java API"
-description: "توفر حزمة com.aspose.omr الفئات لإنشاء والتعرف على نماذج OMR."
+second_title: "مرجع API لـ Aspose.OMR for Java"
+description: "الحزمة com.aspose.omr توفر فئات لإنشاء وتعرف نماذج OMR."
 type: docs
 weight: 10
 url: /ar/java/com.aspose.omr/
 ---
 
 
-توفر الحزمة **com.aspose.omr** الفئات لإنشاء والتعرف على نماذج OMR.
+الحزمة **com.aspose.omr** توفر فئات لإنشاء وتعرف نماذج OMR.
 
 
 ## الفئات
@@ -24,7 +24,7 @@ url: /ar/java/com.aspose.omr/
 | [GridElement](../com.aspose.omr/gridelement/) |  |
 | [ImageCollection](../com.aspose.omr/imagecollection/) | مجموعة من الصور التي يمكن استخدامها لتوليد القالب. |
 | [License](../com.aspose.omr/license/) | يوفر طرقًا لترخيص المكوّن. |
-| [Metered](../com.aspose.omr/metered/) | يوفر طرقًا لتعيين المفتاح المقيس. |
+| [Metered](../com.aspose.omr/metered/) | يوفر طرقًا لتعيين المفتاح المقنن. |
 | [OmrBubble](../com.aspose.omr/omrbubble/) | يمثل فقاعة OMR واحدة |
 | [OmrElement](../com.aspose.omr/omrelement/) | فئة مجردة تمثل سؤال OMR الأساسي تحتوي على خصائص مشتركة لجميع الأسئلة |
 | [OmrEngine](../com.aspose.omr/omrengine/) | محرك OMR. |
@@ -37,20 +37,20 @@ url: /ar/java/com.aspose.omr/
 | [ReferencePointsSettings](../com.aspose.omr/referencepointssettings/) | الإعدادات العامة لنقاط المرجعية القابلة للتطبيق على جميع عناصر الصفحة. |
 | [TemplateProcessor](../com.aspose.omr/templateprocessor/) | فئة لمعالجة القوالب والصور. |
 
-## واجهات
+## الواجهات
 
-| واجهة | الوصف |
+| الواجهة | الوصف |
 | --- | --- |
 | [IOmrElement](../com.aspose.omr/iomrelement/) | الواجهة لعناصر OMR |
 
-## تعدادات
+## التعدادات
 
 | تعداد | الوصف |
 | --- | --- |
 | [Alignment](../com.aspose.omr/alignment/) |  |
-| [BarcodeType](../com.aspose.omr/barcodetype/) | نوع الباركود المسموح به في إنشاء\\التعرف على الباركود |
+| [BarcodeType](../com.aspose.omr/barcodetype/) | نوع الباركود المسموح به في توليد\التعرف على الباركود |
 | [BubbleSize](../com.aspose.omr/bubblesize/) |  |
-| [DrawingColor](../com.aspose.omr/drawingcolor/) | اللون المستخدم في إنشاء القالب |
+| [DrawingColor](../com.aspose.omr/drawingcolor/) | اللون المستخدم في توليد القالب |
 | [FontStyle](../com.aspose.omr/fontstyle/) |  |
 | [PaperSize](../com.aspose.omr/papersize/) | أحجام الورق المدعومة |
 | [QrVersion](../com.aspose.omr/qrversion/) |  |
