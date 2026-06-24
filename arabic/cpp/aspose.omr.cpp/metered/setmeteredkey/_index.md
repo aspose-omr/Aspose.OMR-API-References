@@ -1,6 +1,6 @@
 ---
 title: "SetMeteredKey"
-second_title: "مرجع API لـ Aspose.OMR لـ .NET"
+second_title: "مرجع API لـ Aspose.OMR للـ .NET"
 description: "يضبط المفتاح القائم على القياس العام والخاص"
 type: docs
 weight: 20

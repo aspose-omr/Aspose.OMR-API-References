@@ -1,6 +1,6 @@
 ---
 title: "GetConsumptionCredit"
-second_title: "مرجع API لـ Aspose.OMR لـ .NET"
+second_title: "مرجع API لـ Aspose.OMR للـ .NET"
 description: "يحصل على رصيد الاستهلاك"
 type: docs
 weight: 30

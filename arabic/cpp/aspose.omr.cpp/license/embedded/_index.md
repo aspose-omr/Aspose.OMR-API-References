@@ -1,14 +1,14 @@
 ---
 title: "مضمن"
-second_title: "مرجع API لـ Aspose.OMR لـ .NET"
-description: "تم إضافة رقم الرخصة كمورد مضمّن."
+second_title: "مرجع API لـ Aspose.OMR للـ .NET"
+description: "تم إضافة رقم الرخصة كموارد مضمّنة."
 type: docs
 weight: 20
 url: /ar/net/aspose.omr/license/embedded/
 ---
 ## License.Embedded property
 
-تم إضافة رقم الرخصة كمورد مضمّن.
+تم إضافة رقم الرخصة كموارد مضمّنة.
 
 ```csharp
 public bool Embedded { get; set; }
