@@ -18,7 +18,7 @@ public enum GridHeaderTypeEnum
 
 | الاسم | Value | الوصف |
 | --- | --- | --- |
-| Underline | `0` | خط تحت رأس الشبكة |
+| Underline | `0` | تسطير على رأس الشبكة |
 | Square | `1` | مربع على رأس الشبكة |
 
 ### انظر أيضًا

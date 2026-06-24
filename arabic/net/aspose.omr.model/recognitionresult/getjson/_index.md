@@ -1,14 +1,14 @@
 ---
 title: "GetJson"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "إنشاء سلسلة JSON مع نتائج التعرف كـ MemoryStream"
+description: "تكوين سلسلة JSON مع نتائج التعرف كـ MemoryStream"
 type: docs
 weight: 80
 url: /ar/net/aspose.omr.model/recognitionresult/getjson/
 ---
 ## GetJson(Encoding) {#getjson}
 
-إنشاء سلسلة JSON مع نتائج التعرف كـ MemoryStream
+تكوين سلسلة JSON مع نتائج التعرف كـ MemoryStream
 
 ```csharp
 public byte[] GetJson(Encoding encoding)
@@ -16,7 +16,7 @@ public byte[] GetJson(Encoding encoding)
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| ترميز | الترميز | الترميز الذي نستخدمه لتشفير سلسلة JSON |
+| الترميز | الترميز | الترميز الذي نستخدمه لتشفير سلسلة JSON |
 
 ### قيمة الإرجاع
 
@@ -32,7 +32,7 @@ public byte[] GetJson(Encoding encoding)
 
 ## GetJson() {#getjson_1}
 
-إنشاء سلسلة JSON مع نتائج التعرف
+تكوين سلسلة JSON مع نتائج التعرف
 
 ```csharp
 public string GetJson()

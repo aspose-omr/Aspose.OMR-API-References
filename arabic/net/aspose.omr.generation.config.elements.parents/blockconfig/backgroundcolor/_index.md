@@ -1,14 +1,14 @@
 ---
 title: "لون الخلفية"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "لون الحد"
+description: "لون الحدود"
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.generation.config.elements.parents/blockconfig/backgroundcolor/
 ---
 ## BlockConfig.BackgroundColor property
 
-لون الحد
+لون الحدود
 
 ```csharp
 public Color BackgroundColor { get; set; }

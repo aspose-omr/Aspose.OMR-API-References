@@ -1,14 +1,14 @@
 ---
 title: "GetCorrectionControl"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "ينشئ كائن CorrectionControlaspose.omr.correctionui/correctioncontrol الذي يسمح بالعمل مع OMR API باستخدام واجهة المستخدم الرسومية. يأخذ TemplateProcessoraspose.omr.api/templateprocessor كمعامل ولا يعمل إلا مع الصور التي تم إنشاؤها باستخدام القالب المحدد"
+description: "ينشئ مثيل CorrectionControlaspose.omr.correctionui/correctioncontrol الذي يسمح بالعمل مع OMR API باستخدام واجهة المستخدم الرسومية. يأخذ TemplateProcessoraspose.omr.api/templateprocessor كمعامل ويعمل فقط مع الصور التي تم إنشاؤها باستخدام القالب المحدد"
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.api/omrengine/getcorrectioncontrol/
 ---
 ## OmrEngine.GetCorrectionControl method
 
-ينشئ كائن [`CorrectionControl`](../../../aspose.omr.correctionui/correctioncontrol) الذي يسمح بالعمل مع OMR API باستخدام واجهة المستخدم الرسومية. يأخذ [`TemplateProcessor`](../../templateprocessor) كمعامل ولا يعمل إلا مع الصور التي تم إنشاؤها باستخدام القالب المحدد
+ينشئ مثيل [`CorrectionControl`](../../../aspose.omr.correctionui/correctioncontrol) الذي يسمح بالعمل مع OMR API باستخدام واجهة المستخدم الرسومية. يأخذ [`TemplateProcessor`](../../templateprocessor) كمعامل ويعمل فقط مع الصور التي تم إنشاؤها باستخدام القالب المحدد
 
 ```csharp
 public CorrectionControl GetCorrectionControl(TemplateProcessor processor)
@@ -20,7 +20,7 @@ public CorrectionControl GetCorrectionControl(TemplateProcessor processor)
 
 ### قيمة الإرجاع
 
-كائن [`CorrectionControl`](../../../aspose.omr.correctionui/correctioncontrol)
+مثيل [`CorrectionControl`](../../../aspose.omr.correctionui/correctioncontrol)
 
 ### انظر أيضًا
 

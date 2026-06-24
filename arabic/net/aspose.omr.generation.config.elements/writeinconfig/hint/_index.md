@@ -1,14 +1,14 @@
 ---
 title: "Hint"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "النص بعد منطقة write-in. بشكل افتراضي يستخدم write-in"
+description: "النص بعد منطقة الكتابة. بشكل افتراضي يُستخدم write-in"
 type: docs
 weight: 70
 url: /ar/net/aspose.omr.generation.config.elements/writeinconfig/hint/
 ---
 ## WriteInConfig.Hint property
 
-النص بعد منطقة الكتابة داخل الحقل. بشكل افتراضي يُستخدم \"write-in\"
+النص بعد منطقة الكتابة. يُستخدم \"write-in\" افتراضيًا
 
 ```csharp
 public string Hint { get; set; }

@@ -1,5 +1,5 @@
 ---
-title: "Clip"
+title: "قص"
 second_title: "Aspose.OMR لـ .NET مرجع API"
 description: "المنشئ الافتراضي."
 type: docs

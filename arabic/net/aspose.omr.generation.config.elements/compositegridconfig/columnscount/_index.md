@@ -1,14 +1,14 @@
 ---
 title: "ColumnsCount"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "عدد الأعمدة داخل الشبكة. كل عمود يمثل رمزًا واحدًا في القيمة الناتجة. يجب أن يكون العدد مساويًا لـ ExtraRowaspose.omr.generation.config.elements/compositegridconfig/extrarow عدد الأعمدة"
+description: "عدد الأعمدة داخل الشبكة. كل عمود يمثل رمزًا واحدًا في قيمة النتيجة. يجب أن يكون العدد مساويًا لـ ExtraRowaspose.omr.generation.config.elements/compositegridconfig/extrarow عدد الأعمدة"
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.generation.config.elements/compositegridconfig/columnscount/
 ---
 ## CompositeGridConfig.ColumnsCount property
 
-عدد الأعمدة داخل الشبكة. كل عمود يمثل رمزًا واحدًا في القيمة الناتجة. يجب أن يكون العدد مساويًا لـ [`ExtraRow`](../extrarow) عدد الأعمدة
+عدد الأعمدة داخل الشبكة. كل عمود يمثل رمزًا واحدًا في قيمة النتيجة. يجب أن يكون العدد مساويًا لـ [`ExtraRow`](../extrarow) عدد الأعمدة
 
 ```csharp
 public int ColumnsCount { get; set; }

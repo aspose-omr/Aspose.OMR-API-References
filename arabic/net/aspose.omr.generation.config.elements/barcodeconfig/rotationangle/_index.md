@@ -8,7 +8,7 @@ url: /ar/net/aspose.omr.generation.config.elements/barcodeconfig/rotationangle/
 ---
 ## BarcodeConfig.RotationAngle property
 
-دوران الباركود. يمكن أن تكون القيم موجبة أو سالبة. مثال: \"90\", \"-90\"
+دوران الباركود. يمكن أن يكون قيمًا موجبة أو سالبة. مثال: \"90\", \"-90\"
 
 ```csharp
 public int RotationAngle { get; set; }

@@ -16,7 +16,7 @@ public void Register(OmrEngine engine)
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| محرك | OmrEngine | مثيل OmrEngine الذي سيحصل على وظائف مكوّن إضافي موسّعة |
+| محرك | OmrEngine | مثيل OmrEngine الذي سيحتوي على وظائف إضافية للملحق |
 
 ### انظر أيضًا
 

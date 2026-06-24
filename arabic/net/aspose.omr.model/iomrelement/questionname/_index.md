@@ -1,14 +1,14 @@
 ---
 title: "QuestionName"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "يحصل أو يعيّن Question Name"
+description: "يحصل أو يعيّن اسم السؤال"
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.model/iomrelement/questionname/
 ---
 ## IOmrElement.QuestionName property
 
-يحصل أو يعيّن Question Name
+يحصل أو يعيّن اسم السؤال
 
 ```csharp
 public string QuestionName { get; set; }

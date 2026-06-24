@@ -1,7 +1,7 @@
 ---
 title: "CustomTriggerConfig"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "فقاعة مخصصة. عند الملء يمكنها تغيير behaviorvalue للعناصر المستهدفة"
+description: "فقاعة مخصصة. عند التعبئة يمكنها تغيير قيمة سلوك العناصر المستهدفة"
 type: docs
 weight: 340
 url: /ar/net/aspose.omr.generation.config.elements/customtriggerconfig/
@@ -14,7 +14,7 @@ url: /ar/net/aspose.omr.generation.config.elements/customtriggerconfig/
 public class CustomTriggerConfig : BaseConfig
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -27,7 +27,7 @@ public class CustomTriggerConfig : BaseConfig
 | [BubbleType](../../aspose.omr.generation.config.elements/customtriggerconfig/bubbletype) { get; set; } | نوع الفقاعة |
 | override [Name](../../aspose.omr.generation.config.elements/customtriggerconfig/name) { get; set; } | اسم المشغل. |
 | [Target](../../aspose.omr.generation.config.elements/customtriggerconfig/target) { get; set; } | اسم العنصر المستهدف. السلوك يعتمد على [`TriggerType`](./triggertype) |
-| [TriggerType](../../aspose.omr.generation.config.elements/customtriggerconfig/triggertype) { get; set; } | نوع المشغل. يصف سلوك المشغل |
+| [TriggerType](../../aspose.omr.generation.config.elements/customtriggerconfig/triggertype) { get; set; } | نوع المشغل. وصف سلوك المشغل |
 | override [Type](../../aspose.omr.generation.config.elements/customtriggerconfig/type) { get; set; } | نوع عنصر OMR. حقل مطلوب لتسلسل JSON. |
 | [Value](../../aspose.omr.generation.config.elements/customtriggerconfig/value) { get; set; } | قيمة المشغل المخصص. استخدام هذه القيمة يعتمد على [`TriggerType`](./triggertype) |
 

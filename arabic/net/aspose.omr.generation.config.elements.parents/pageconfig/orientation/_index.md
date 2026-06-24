@@ -8,7 +8,7 @@ url: /ar/net/aspose.omr.generation.config.elements.parents/pageconfig/orientatio
 ---
 ## PageConfig.Orientation property
 
-توجيه هذه الصفحة. يتجاوز القيمة المقدمة بواسطة [`Orientation`](../../../aspose.omr.generation/globalpagesettings/orientation)
+توجيه هذه الصفحة. يتجاوز القيمة المقدمة من [`Orientation`](../../../aspose.omr.generation/globalpagesettings/orientation)
 
 ```csharp
 public Orientation Orientation { get; set; }

@@ -1,14 +1,14 @@
 ---
 title: "الكمية"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "العدد الإجمالي للصفوف"
+description: "الإجمالي الكلي للصفوف"
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig/amount/
 ---
 ## CustomAnswerSheetConfig.Amount property
 
-العدد الإجمالي للصفوف
+الإجمالي الكلي للصفوف
 
 ```csharp
 public int Amount { get; set; }

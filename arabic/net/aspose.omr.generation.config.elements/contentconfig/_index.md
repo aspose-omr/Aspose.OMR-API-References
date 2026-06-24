@@ -1,5 +1,5 @@
 ---
-title: "إعدادات المحتوى"
+title: "إعداد المحتوى"
 second_title: "Aspose.OMR لـ .NET مرجع API"
 description: "يمثل عنصر المحتوى. يمكن استخدامه كعنصر فرعي في الجدول."
 type: docs
@@ -14,7 +14,7 @@ url: /ar/net/aspose.omr.generation.config.elements/contentconfig/
 public class ContentConfig : BaseConfig
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |

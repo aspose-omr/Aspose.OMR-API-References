@@ -1,14 +1,14 @@
 ---
 title: "IsMeteredLicensed"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "تحقق مما إذا كان الترخيص القائم على الاستهلاك مفعلًا"
+description: "تحقق مما إذا كان الترخيص القائم على القياس مفعلًا"
 type: docs
 weight: 60
 url: /ar/net/aspose.omr/metered/ismeteredlicensed/
 ---
 ## Metered.IsMeteredLicensed method
 
-تحقق مما إذا كان الترخيص القائم على الاستهلاك مفعلًا
+تحقق مما إذا كان الترخيص القائم على القياس مفعلًا
 
 ```csharp
 public static bool IsMeteredLicensed()

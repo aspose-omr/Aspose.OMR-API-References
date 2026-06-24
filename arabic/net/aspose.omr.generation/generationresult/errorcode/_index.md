@@ -1,5 +1,5 @@
 ---
-title: "ErrorCode"
+title: "رمز الخطأ"
 second_title: "Aspose.OMR لـ .NET مرجع API"
 description: "يحصل أو يعيّن رمز الخطأ. يساوي 0 إذا لم تحدث أخطاء."
 type: docs

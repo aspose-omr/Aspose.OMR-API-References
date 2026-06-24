@@ -19,7 +19,7 @@ public abstract class BaseConfig
 | الاسم | الوصف |
 | --- | --- |
 | abstract [Name](../../aspose.omr.generation.config/baseconfig/name) { get; set; } | اسم عنصر OMR. يمكن استخدامه في حالات مختلفة بناءً على العنصر |
-| abstract [Type](../../aspose.omr.generation.config/baseconfig/type) { get; set; } | نوع عنصر omr. لا يحتوي على قيمة افتراضية. يجب تجاوزه. |
+| abstract [Type](../../aspose.omr.generation.config/baseconfig/type) { get; set; } | نوع عنصر OMR. لا يحتوي على قيمة افتراضية. يجب تجاوزها. |
 
 ### انظر أيضًا
 

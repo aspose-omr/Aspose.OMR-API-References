@@ -16,7 +16,7 @@ public void ExportResults(string exportPath)
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| exportPath | سلسلة | المسار إلى التصدير |
+| exportPath | String | المسار إلى التصدير |
 
 ### انظر أيضًا
 

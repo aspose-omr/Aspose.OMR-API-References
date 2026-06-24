@@ -1,20 +1,20 @@
 ---
 title: "ReferencePointsSettings"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "إعدادات تصف سلوك Reference Point للقالب المربعات السوداء في الزوايا ومستطيل العلامة الدوارة الأسود بينهما."
+description: "الإعدادات التي تصف سلوك نقطة المرجع للقالب المربعات السوداء في الزوايا ومحدد الدوران المستطيل الأسود بينهما."
 type: docs
 weight: 910
 url: /ar/net/aspose.omr.generation/referencepointssettings/
 ---
 ## ReferencePointsSettings class
 
-إعدادات تصف سلوك نقطة المرجع للقالب: مربعات سوداء في الزوايا ومستطيل أسود كعلامة دوران بينهما.
+الإعدادات التي تصف سلوك نقطة المرجع للقالب: مربعات سوداء في الزوايا ومربع أسود كعلامة دوران بينهما.
 
 ```csharp
 public class ReferencePointsSettings
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -24,8 +24,8 @@ public class ReferencePointsSettings
 
 | الاسم | الوصف |
 | --- | --- |
-| [Offset](../../aspose.omr.generation/referencepointssettings/offset) { get; set; } | إزاحة لجميع نقاط الإشارة. نظام القياس يعتمد على النوع المشتق. يُحسب من الزاوية العلوية اليسرى للقالب. |
-| [RotationMarkerPosition](../../aspose.omr.generation/referencepointssettings/rotationmarkerposition) { get; set; } | الموقع المطلوب لعلامة الدوران على القالب. إذا لم يتم تحديده - سيتم استخدام TopRight1. العلامة مرسومة كمستطيل أسود خامس. |
+| [Offset](../../aspose.omr.generation/referencepointssettings/offset) { get; set; } | الإزاحة لجميع نقاط المرجع. نظام القياس يعتمد على النوع المشتق. يتم الحساب من الزاوية العلوية اليسرى للقالب. |
+| [RotationMarkerPosition](../../aspose.omr.generation/referencepointssettings/rotationmarkerposition) { get; set; } | الموضع المطلوب لمحدد الدوران على القالب. إذا لم يتم تحديده - سيتم استخدام TopRight1. يتم رسم المحدد كمستطيل أسود خامس. |
 
 ### انظر أيضًا
 

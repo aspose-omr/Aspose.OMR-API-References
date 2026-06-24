@@ -1,24 +1,24 @@
 ---
-title: "العبرية"
+title: "Hebrew"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "إعداد الثقافة العبرية. RightToLeft و גבא"
+description: "إعداد مسبق للثقافة العبرية. RightToLeft و גבא"
 type: docs
 weight: 960
 url: /ar/net/aspose.omr.generation.writingsystems/hebrew/
 ---
 ## Hebrew class
 
-إعداد الثقافة العبرية. RightToLeft و ג,ב,א
+إعداد ثقافة العبرية. RightToLeft و ג,ב,א
 
 ```csharp
 public class Hebrew : WritingSystem
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [Hebrew](hebrew)(bool) | تهيئة الإعداد المحلي العبرية. |
+| [Hebrew](hebrew)(bool) | تهيئة اللغة العبرية. |
 
 ### انظر أيضًا
 

@@ -1,5 +1,5 @@
 ---
-title: "ScoreDisplay"
+title: "عرض الدرجة"
 second_title: "Aspose.OMR لـ .NET مرجع API"
 description: "وصف سلوك العرض لقيمة النقاط."
 type: docs

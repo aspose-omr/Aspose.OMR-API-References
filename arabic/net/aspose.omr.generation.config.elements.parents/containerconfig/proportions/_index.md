@@ -1,14 +1,14 @@
 ---
 title: "Proportions"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "قسم بنسبة مخصصة كل عمود داخله النسخة الأحدث من ColumnsCountaspose.omr.generation.config.elements.parents/containerconfig/columnscount"
+description: "قسّم كل عمود داخله بنسبة مخصصة النسخة الأحدث من ColumnsCountaspose.omr.generation.config.elements.parents/containerconfig/columnscount"
 type: docs
 weight: 90
 url: /ar/net/aspose.omr.generation.config.elements.parents/containerconfig/proportions/
 ---
 ## ContainerConfig.Proportions property
 
-قسم بنسبة مخصصة كل عمود داخله النسخة الأحدث من [`ColumnsCount`](../columnscount)
+قسّم كل عمود داخله بنسبة مخصصة النسخة الأحدث من [`ColumnsCount`](../columnscount)
 
 ```csharp
 public List<int> Proportions { get; set; }

@@ -14,7 +14,7 @@ url: /ar/net/aspose.omr.generation.config.elements.table/questionconfig/
 public class QuestionConfig : BaseConfig
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |

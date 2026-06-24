@@ -1,20 +1,20 @@
 ---
 title: "TemplateConfig"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "العنصر الجذر الذي يحتوي على جميع عناصر omr الأخرى"
+description: "العنصر الجذري الذي يحتوي على جميع عناصر omr الأخرى"
 type: docs
 weight: 790
 url: /ar/net/aspose.omr.generation.config/templateconfig/
 ---
 ## TemplateConfig class
 
-العنصر الجذر الذي يحتوي على جميع عناصر omr الأخرى
+العنصر الجذري الذي يحتوي على جميع عناصر omr الأخرى
 
 ```csharp
 public class TemplateConfig : ParentConfig
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |

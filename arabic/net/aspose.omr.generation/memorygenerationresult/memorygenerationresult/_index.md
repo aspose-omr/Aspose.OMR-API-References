@@ -1,14 +1,14 @@
 ---
 title: "MemoryGenerationResult"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "تهيئة نسخة من الغلاف."
+description: "تهيئة نسخة من المغلف."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation/memorygenerationresult/memorygenerationresult/
 ---
 ## MemoryGenerationResult constructor
 
-تهيئة نسخة من الغلاف.
+تهيئة نسخة من المغلف.
 
 ```csharp
 public MemoryGenerationResult(GenerationResult result)

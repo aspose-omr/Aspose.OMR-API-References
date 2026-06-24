@@ -1,14 +1,14 @@
 ---
 title: "تجاوز"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "يصف السلوك في حالة تجاوز أي من العناصر الفرعية حجم الكتلة. يكتب فوق الإعداد المسبق العالمي في Overflowaspose.omr.generation/globalpagesettings/overflow"
+description: "يصف السلوك في حالة تجاوز أي من العناصر الفرعية حجم الكتلة. يكتب فوق الإعداد المسبق العالمي عند Overflowaspose.omr.generation/globalpagesettings/overflow"
 type: docs
 weight: 160
 url: /ar/net/aspose.omr.generation.config.elements.parents/blockconfig/overflow/
 ---
 ## BlockConfig.Overflow property
 
-يصف السلوك في حالة تجاوز أي من العناصر الفرعية حجم الكتلة. يكتب فوق الإعداد المسبق العالمي في [`Overflow`](../../../aspose.omr.generation/globalpagesettings/overflow)
+يصف السلوك في حالة تجاوز أي من العناصر الفرعية حجم الكتلة. يكتب فوق الإعداد المسبق العالمي عند [`Overflow`](../../../aspose.omr.generation/globalpagesettings/overflow)
 
 ```csharp
 public OverflowAction Overflow { get; set; }

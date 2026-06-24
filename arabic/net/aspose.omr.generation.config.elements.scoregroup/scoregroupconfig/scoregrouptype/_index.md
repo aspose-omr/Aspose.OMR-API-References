@@ -1,14 +1,14 @@
 ---
 title: "ScoreGroupType"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "نوع مجموعة الدرجات"
+description: "نوع مجموعة النقاط"
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.generation.config.elements.scoregroup/scoregroupconfig/scoregrouptype/
 ---
 ## ScoreGroupConfig.ScoreGroupType property
 
-نوع مجموعة الدرجات
+نوع مجموعة النقاط
 
 ```csharp
 public ScoreGroupType ScoreGroupType { get; set; }

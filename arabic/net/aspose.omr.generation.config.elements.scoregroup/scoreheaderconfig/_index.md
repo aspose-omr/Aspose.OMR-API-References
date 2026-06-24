@@ -14,7 +14,7 @@ url: /ar/net/aspose.omr.generation.config.elements.scoregroup/scoreheaderconfig/
 public class ScoreHeaderConfig : ContentConfig
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |

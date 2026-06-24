@@ -14,7 +14,7 @@ url: /ar/net/aspose.omr.generation.config.elements.scoregroup/tablecontentconfig
 public class TableContentConfig : ContentConfig
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -32,7 +32,7 @@ public class TableContentConfig : ContentConfig
 | [FontSize](../../aspose.omr.generation.config.elements/contentconfig/fontsize) { get; set; } | حجم خط النص |
 | [FontStyle](../../aspose.omr.generation.config.elements/contentconfig/fontstyle) { get; set; } | نمط النص |
 | override [Name](../../aspose.omr.generation.config.elements/contentconfig/name) { get; set; } | قيمة المحتوى |
-| [Row](../../aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/row) { get; set; } | موضع الصف في الجدول. الصف الأول - '1' |
+| [Row](../../aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/row) { get; set; } | موضع الصف في الجدول الصف الأول - '1' |
 | override [Type](../../aspose.omr.generation.config.elements.scoregroup/tablecontentconfig/type) { get; set; } | نوع عنصر OMR. حقل مطلوب لتسلسل JSON. |
 
 ### انظر أيضًا

@@ -14,7 +14,7 @@ url: /ar/net/aspose.omr.generation.config.elements/choiceboxanswerconfig/
 public class ChoiceBoxAnswerConfig : BaseConfig
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |

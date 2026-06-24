@@ -1,14 +1,14 @@
 ---
 title: "RotationPointPosition"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "جميع المواقع المتاحة لنقطة الدوران على القالب المُولد"
+description: "جميع المواقع المتاحة لنقطة الدوران على القالب المُنشأ"
 type: docs
 weight: 920
 url: /ar/net/aspose.omr.generation/rotationpointposition/
 ---
 ## RotationPointPosition enumeration
 
-جميع المواقع المتاحة لنقطة الدوران على القالب المُولد
+جميع المواقع المتاحة لنقطة الدوران على القالب المُنشأ
 
 ```csharp
 public enum RotationPointPosition
@@ -19,14 +19,14 @@ public enum RotationPointPosition
 | الاسم | Value | الوصف |
 | --- | --- | --- |
 | undefined | `0` | نقطة الدوران غير محددة |
-| TopLeft1 | `10` | موضع TopLeft تحت Top Left Reference Point |
-| TopLeft2 | `11` | موضع TopLeft بجوار Top Left Reference Point |
-| TopRight1 | `20` | موضع TopRight تحت Top Right Reference Point |
-| TopRight2 | `21` | موضع TopRight بجوار Top Right Reference Point |
-| BottomRight1 | `30` | موضع BottomRight فوق Bottom Right Reference Point |
-| BottomRight2 | `31` | موضع BottomRight بجوار Bottom Right Reference Point |
-| BottomLeft1 | `40` | موضع BottomLeft فوق Bottom Left Reference Point |
-| BottomLeft2 | `41` | موضع BottomLeft بجوار Bottom Left Reference Point |
+| TopLeft1 | `10` | موضع TopLeft تحت نقطة المرجع العليا اليسرى |
+| TopLeft2 | `11` | موضع TopLeft بجوار نقطة المرجع العليا اليسرى |
+| TopRight1 | `20` | موضع TopRight تحت نقطة المرجع العليا اليمنى |
+| TopRight2 | `21` | موضع TopRight بجوار نقطة المرجع العليا اليمنى |
+| BottomRight1 | `30` | موضع BottomRight فوق نقطة المرجع السفلى اليمنى |
+| BottomRight2 | `31` | موضع BottomRight بجوار نقطة المرجع السفلى اليمنى |
+| BottomLeft1 | `40` | موضع BottomLeft فوق نقطة المرجع السفلى اليسرى |
+| BottomLeft2 | `41` | موضع BottomLeft بجوار نقطة المرجع السفلى اليسرى |
 
 ### انظر أيضًا
 

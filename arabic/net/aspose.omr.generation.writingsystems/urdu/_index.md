@@ -1,7 +1,7 @@
 ---
-title: "الأردية"
+title: "Urdu"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "إعدادات الإقليمي الأردية من اليمين إلى اليسار ١۲ ۳"
+description: "إعدادات اللغة الأردية من اليمين إلى اليسار ١۲ ۳"
 type: docs
 weight: 980
 url: /ar/net/aspose.omr.generation.writingsystems/urdu/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.writingsystems/urdu/
 public class Urdu : DigitReplacement
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [Urdu](urdu)(bool) | تهيئة الإعداد المحلي الأردية. |
+| [Urdu](urdu)(bool) | تهيئة اللغة الأردية. |
 
 ### انظر أيضًا
 

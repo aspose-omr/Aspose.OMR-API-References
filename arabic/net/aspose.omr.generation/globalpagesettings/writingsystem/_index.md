@@ -1,7 +1,7 @@
 ---
 title: "WritingSystem"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "إعداد مسبق لإعدادات إنشاء القالب. يشمل اتجاه النص من اليسار إلى اليمين أو من اليمين إلى اليسار واستخدام الأرقام"
+description: "إعداد مسبق لإعدادات إنشاء القالب. يشمل الاتجاه LeftToRight أو RightToLeft واستخدام الأرقام."
 type: docs
 weight: 170
 url: /ar/net/aspose.omr.generation/globalpagesettings/writingsystem/

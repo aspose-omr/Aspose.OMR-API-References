@@ -1,14 +1,14 @@
 ---
 title: "TemplateImage"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "يحصل أو يعيّن صورة القالب المُولدة"
+description: "يحصل أو يعيّن Template Image المولدة"
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.generation/generationresult/templateimage/
 ---
 ## GenerationResult.TemplateImage property
 
-يحصل أو يعيّن صورة القالب المُولدة
+يحصل أو يعيّن Template Image المولدة
 
 ```csharp
 public Bitmap TemplateImage { get; set; }

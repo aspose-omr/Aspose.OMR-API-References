@@ -1,14 +1,14 @@
 ---
 title: "SaveAsXml"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "حفظ جميع نتائج التعرف على الدفعة في ملف xml"
+description: "حفظ جميع نتائج التعرف الجماعي في ملف xml"
 type: docs
 weight: 40
 url: /ar/net/aspose.omr.batchprocessings/batchrecognitionresult/saveasxml/
 ---
 ## SaveAsXml(string) {#saveasxml_1}
 
-حفظ جميع نتائج التعرف على الدفعة في ملف xml
+حفظ جميع نتائج التعرف الجماعي في ملف xml
 
 ```csharp
 public void SaveAsXml(string path)
@@ -16,7 +16,7 @@ public void SaveAsXml(string path)
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| المسار | سلسلة | المسار الكامل إلى ملف xml |
+| المسار | String | المسار الكامل لملف xml |
 
 ### انظر أيضًا
 
@@ -28,7 +28,7 @@ public void SaveAsXml(string path)
 
 ## SaveAsXml(Stream) {#saveasxml}
 
-حفظ جميع نتائج التعرف على الدفعة إلى تدفق xml
+حفظ جميع نتائج التعرف الجماعي في تدفق xml
 
 ```csharp
 public void SaveAsXml(Stream writeable)

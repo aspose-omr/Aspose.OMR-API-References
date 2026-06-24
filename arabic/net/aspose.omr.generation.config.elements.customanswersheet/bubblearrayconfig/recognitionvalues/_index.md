@@ -8,7 +8,7 @@ url: /ar/net/aspose.omr.generation.config.elements.customanswersheet/bubblearray
 ---
 ## BubbleArrayConfig.RecognitionValues property
 
-كل إدخال يتجاوز القيمة في نتيجة التعرف لتطابق [`AnswersValues`](../answersvalues) دون التأثير على القيمة المعروضة. إذا لم يتم تعيين قيمة - سيتم ملء نتيجة التعرف بالقيم المعروضة من [`AnswersValues`](../answersvalues) مثال: new List(4) {"A", "B", "C", "D"} مثال: new List(4) {"Dog", "Cat", "Turtle", "Dragon"}
+كل إدخال يتجاوز القيمة في نتيجة التعرف لتطابق [`AnswersValues`](../answersvalues) دون التأثير على القيمة المعروضة. إذا لم يتم تعيين قيمة - سيتم ملء نتيجة التعرف بالقيم المعروضة من [`AnswersValues`](../answersvalues) مثال: new List(4) {\"A\", \"B\", \"C\", \"D\"} مثال: new List(4) {\"Dog\", \"Cat\", \"Turtle\", \"Dragon\"}
 
 ```csharp
 public List<string> RecognitionValues { get; set; }

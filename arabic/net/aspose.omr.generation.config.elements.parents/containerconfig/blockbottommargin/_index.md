@@ -1,14 +1,14 @@
 ---
 title: "BlockBottomMargin"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "عدد البكسلات التي سيتم وضعها أسفل الكتل."
+description: "عدد البكسلات التي ستوضع أسفل الكتل."
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.generation.config.elements.parents/containerconfig/blockbottommargin/
 ---
 ## ContainerConfig.BlockBottomMargin property
 
-عدد البكسلات التي سيتم وضعها أسفل الكتل.
+عدد البكسلات التي ستوضع أسفل الكتل.
 
 ```csharp
 public int BlockBottomMargin { get; set; }

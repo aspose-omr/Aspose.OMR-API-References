@@ -1,20 +1,20 @@
 ---
 title: "BorderStyle"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "وصف الحدود للجانب المحدد من"
+description: "وصف الحد لأحد الجوانب المحددة لـ"
 type: docs
 weight: 240
 url: /ar/net/aspose.omr.generation.config/borderstyle/
 ---
 ## BorderStyle class
 
-وصف الحدود للجانب المحدد من
+وصف الحد لأحد الجوانب المحددة لـ
 
 ```csharp
 public class BorderStyle
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -24,7 +24,7 @@ public class BorderStyle
 
 | الاسم | الوصف |
 | --- | --- |
-| [BorderColor](../../aspose.omr.generation.config/borderstyle/bordercolor) { get; set; } | لون الحد |
+| [BorderColor](../../aspose.omr.generation.config/borderstyle/bordercolor) { get; set; } | لون الحدود |
 | [BorderSize](../../aspose.omr.generation.config/borderstyle/bordersize) { get; set; } | حجم خط الحد |
 | [Disable](../../aspose.omr.generation.config/borderstyle/disable) { get; set; } | عند تعيينه إلى true - تعطيل هذا الجانب من الحد |
 

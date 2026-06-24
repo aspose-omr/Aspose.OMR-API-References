@@ -14,7 +14,7 @@ url: /ar/net/aspose.omr.generation.config.elements.table/tabletitleconfig/
 public class TableTitleConfig : BaseConfig
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -35,7 +35,7 @@ public class TableTitleConfig : BaseConfig
 
 | الاسم | الوصف |
 | --- | --- |
-| [BackgroundColor](../../aspose.omr.generation.config.elements.table/tabletitleconfig/backgroundcolor) | لون الخلفية لعنوان الجدول |
+| [BackgroundColor](../../aspose.omr.generation.config.elements.table/tabletitleconfig/backgroundcolor) | لون خلفية عنوان الجدول |
 | [BorderColor](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordercolor) | لون الحد |
 | [BorderSize](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordersize) | حجم الحد |
 | [BorderType](../../aspose.omr.generation.config.elements.table/tabletitleconfig/bordertype) | نوع الحد |

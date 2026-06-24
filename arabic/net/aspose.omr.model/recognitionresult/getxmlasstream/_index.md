@@ -1,14 +1,14 @@
 ---
 title: "GetXmlAsStream"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "إنشاء سلسلة XML للنموذج مع نتائج التعرف كـ MemoryStream"
+description: "سلسلة XML للنموذج مع نتائج التعرف كـ MemoryStream"
 type: docs
 weight: 110
 url: /ar/net/aspose.omr.model/recognitionresult/getxmlasstream/
 ---
 ## RecognitionResult.GetXmlAsStream method
 
-إنشاء سلسلة XML للنموذج مع نتائج التعرف كـ MemoryStream
+سلسلة XML للنموذج مع نتائج التعرف كـ MemoryStream
 
 ```csharp
 public MemoryStream GetXmlAsStream(Encoding encoding)
@@ -16,7 +16,7 @@ public MemoryStream GetXmlAsStream(Encoding encoding)
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| ترميز | الترميز | الترميز الذي نستخدمه لتشفير سلسلة XML |
+| الترميز | الترميز | الترميز الذي نستخدمه لتشفير سلسلة XML |
 
 ### قيمة الإرجاع
 

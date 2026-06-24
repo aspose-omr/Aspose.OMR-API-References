@@ -1,14 +1,14 @@
 ---
-title: "لون الحد"
+title: "لون الحدود"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "لون الحد"
+description: "لون الحدود"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.generation.config.elements/inputgroup/bordercolor/
 ---
 ## InputGroup.BorderColor property
 
-لون الحد
+لون الحدود
 
 ```csharp
 public Color BorderColor { get; set; }

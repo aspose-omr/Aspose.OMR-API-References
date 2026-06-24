@@ -14,7 +14,7 @@ url: /ar/net/aspose.omr.generation.config.elements.parents/answerconfig/
 public class AnswerConfig : ParentConfig
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -30,7 +30,7 @@ public class AnswerConfig : ParentConfig
 | [BubbleType](../../aspose.omr.generation.config.elements.parents/answerconfig/bubbletype) { get; set; } | نوع الفقاعة المرسومة. |
 | override [Children](../../aspose.omr.generation.config.elements.parents/answerconfig/children) { get; set; } | عناصر OMR الفرعية. في معظم الحالات تكون موضوعة داخل العنصر الأب أو تحته. |
 | override [Name](../../aspose.omr.generation.config.elements.parents/answerconfig/name) { get; set; } | نص الإجابة |
-| [Selectable](../../aspose.omr.generation.config.elements.parents/answerconfig/selectable) { get; set; } | إذا تم تعيينه إلى false، إخفاء رسم الفقاعة والتعرف لهذا العنصر Answer |
+| [Selectable](../../aspose.omr.generation.config.elements.parents/answerconfig/selectable) { get; set; } | إذا تم تعيينه إلى false، يتم إخفاء رسم الفقاعة والتعرف عليها لهذا عنصر الإجابة |
 | override [Type](../../aspose.omr.generation.config.elements.parents/answerconfig/type) { get; set; } | نوع عنصر OMR. حقل مطلوب لتسلسل JSON. |
 
 ### انظر أيضًا

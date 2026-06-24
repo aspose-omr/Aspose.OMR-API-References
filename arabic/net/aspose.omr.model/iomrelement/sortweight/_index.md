@@ -1,14 +1,14 @@
 ---
 title: "SortWeight"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "كلما ارتفعت القيمة - سيظهر العنصر الأخير في csv"
+description: "كلما ارتفعت القيمة - سيظهر العنصر لاحقًا في csv"
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.model/iomrelement/sortweight/
 ---
 ## IOmrElement.SortWeight property
 
-كلما ارتفعت القيمة - سيظهر العنصر الأخير في csv
+كلما ارتفعت القيمة - سيظهر العنصر لاحقًا في csv
 
 ```csharp
 public int SortWeight { get; set; }

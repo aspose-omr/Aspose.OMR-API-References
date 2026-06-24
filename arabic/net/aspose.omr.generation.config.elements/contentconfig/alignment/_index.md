@@ -1,5 +1,5 @@
 ---
-title: "محاذاة"
+title: "Alignment"
 second_title: "Aspose.OMR لـ .NET مرجع API"
 description: "محاذاة سلسلة المحتوى داخل العنصر الأب"
 type: docs

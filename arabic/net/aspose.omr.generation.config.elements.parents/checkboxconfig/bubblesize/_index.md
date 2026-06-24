@@ -1,14 +1,14 @@
 ---
 title: "BubbleSize"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "حجم المستطيل لكل optionchildren"
+description: "حجم المستطيل لكل خيار"
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.generation.config.elements.parents/checkboxconfig/bubblesize/
 ---
 ## CheckBoxConfig.BubbleSize property
 
-حجم المستطيل لكل خيار (الأطفال)
+حجم المستطيل لكل خيار (العناصر الفرعية)
 
 ```csharp
 public BubbleSize BubbleSize { get; set; }

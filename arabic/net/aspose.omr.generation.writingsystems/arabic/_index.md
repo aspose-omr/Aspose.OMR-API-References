@@ -1,24 +1,24 @@
 ---
-title: "العربية"
+title: "Arabic"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "إعداد الثقافة العربية. RightToLeft و ١٢٣"
+description: "إعداد مسبق للثقافة العربية. RightToLeft و ١٢٣"
 type: docs
 weight: 930
 url: /ar/net/aspose.omr.generation.writingsystems/arabic/
 ---
 ## Arabic class
 
-إعداد الثقافة العربية. RightToLeft و ١,٢,٣
+إعداد ثقافة العربية. RightToLeft و ١,٢,٣
 
 ```csharp
 public class Arabic : DigitReplacement
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [Arabic](arabic)(bool) | تهيئة الإعداد المحلي العربي. |
+| [Arabic](arabic)(bool) | تهيئة اللغة العربية. |
 
 ### انظر أيضًا
 

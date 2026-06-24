@@ -14,7 +14,7 @@ url: /ar/net/aspose.omr.api/templateprocessor/
 public class TemplateProcessor
 ```
 
-## طرق
+## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
@@ -22,14 +22,14 @@ public class TemplateProcessor
 | [Recognize](../../aspose.omr.api/templateprocessor/recognize#recognize)(Stream, int) | التعرف على ملف من التدفق |
 | [Recognize](../../aspose.omr.api/templateprocessor/recognize#recognize_1)(Stream[], int) | التعرف على مجموعة من الملفات من التدفقات |
 | [Recognize](../../aspose.omr.api/templateprocessor/recognize#recognize_2)(string, int) | يتعرف على ملف |
-| [Recognize](../../aspose.omr.api/templateprocessor/recognize#recognize_3)(string[], int) | التعرف على ملفات متعددة كملف متعدد الصفحات واحد |
+| [Recognize](../../aspose.omr.api/templateprocessor/recognize#recognize_3)(string[], int) | تعرّف على ملفات متعددة كملف متعدد الصفحات واحد |
 | [RecognizeFolder](../../aspose.omr.api/templateprocessor/recognizefolder)(string, int) | يتعرف على الصور من المجلد |
 
 ## الحقول
 
 | الاسم | الوصف |
 | --- | --- |
-| [ApplyLightShadeProcessing](../../aspose.omr.api/templateprocessor/applylightshadeprocessing) | إعداد التعرف الاختياري. عند ضبطه على true ستشمل جميع طرق Recognize معالجة مسبقة إضافية. هذه المعالجة المسبقة مفيدة لتسليط الضوء على العلامات بظل خفيف جداً. على سبيل المثال علامات قلم رصاص خفيفة. |
+| [ApplyLightShadeProcessing](../../aspose.omr.api/templateprocessor/applylightshadeprocessing) | إعداد التعرف الاختياري. عند ضبطه على true ستتضمن جميع طرق Recognize معالجة مسبقة إضافية. هذه المعالجة المسبقة مفيدة لتسليط الضوء على العلامات بظل خفيف جداً. مثال: علامات قلم رصاص خفيفة. |
 
 ### أمثلة
 

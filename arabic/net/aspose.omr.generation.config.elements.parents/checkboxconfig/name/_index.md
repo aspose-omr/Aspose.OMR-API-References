@@ -1,14 +1,14 @@
 ---
 title: "الاسم"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "اسم خانة الاختيار. يتم عرضها افتراضيًا قبل أول خانة اختيار. يمكن إخفاؤها بواسطة HideNameaspose.omr.generation.config.elements.parents/checkboxconfig/hidename"
+description: "اسم مربع الاختيار. يتم عرضه افتراضيًا قبل أول مربع اختيار. يمكن إخفاؤه بواسطة HideNameaspose.omr.generation.config.elements.parents/checkboxconfig/hidename"
 type: docs
 weight: 100
 url: /ar/net/aspose.omr.generation.config.elements.parents/checkboxconfig/name/
 ---
 ## CheckBoxConfig.Name property
 
-اسم خانة الاختيار. يتم عرضها افتراضيًا قبل أول خانة اختيار. يمكن إخفاؤها بواسطة [`HideName`](../hidename)
+اسم مربع الاختيار. يتم عرضه افتراضيًا قبل أول مربع اختيار. يمكن إخفاؤه بواسطة [`HideName`](../hidename)
 
 ```csharp
 public override string Name { get; set; }

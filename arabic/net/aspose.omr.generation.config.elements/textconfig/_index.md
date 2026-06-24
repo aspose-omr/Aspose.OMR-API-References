@@ -1,20 +1,20 @@
 ---
 title: "TextConfig"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "يمثل عنصر النص. يستخدم لعرض المعلومات. لا يشارك في التعرف."
+description: "يمثل عنصر النص. يُستخدم لعرض المعلومات. لا يشارك في التعرف."
 type: docs
 weight: 570
 url: /ar/net/aspose.omr.generation.config.elements/textconfig/
 ---
 ## TextConfig class
 
-يمثل عنصر النص. يستخدم لعرض المعلومات. لا يشارك في التعرف.
+يمثل عنصر النص. يُستخدم لعرض المعلومات. لا يشارك في التعرف.
 
 ```csharp
 public class TextConfig : BaseConfig
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |

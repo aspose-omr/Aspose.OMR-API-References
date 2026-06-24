@@ -14,7 +14,7 @@ url: /ar/net/aspose.omr.generation/globalpagesettings/
 public class GlobalPageSettings
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -32,13 +32,13 @@ public class GlobalPageSettings
 | [FontStyle](../../aspose.omr.generation/globalpagesettings/fontstyle) | نمط النص |
 | [ImagesPaths](../../aspose.omr.generation/globalpagesettings/imagespaths) | المسارات الكاملة للصور المستخدمة في الإنشاء |
 | [LongWordHandling](../../aspose.omr.generation/globalpagesettings/longwordhandling) | يصف السلوك لجميع الحالات التي تتجاوز فيها أبعاد كلمة واحدة العنصر الأب. |
-| [Multiselect](../../aspose.omr.generation/globalpagesettings/multiselect) | يضبط السلوك الافتراضي لجميع العناصر التي تدعم اختيار متعدد للإجابات. يمكن تجاوزها بواسطة خاصية عنصر محددة، عادةً \"multiselect\". بشكل افتراضي يتم تعيينها إلى true؛ true - السماح بأكثر من إجابة واحدة لكل سؤال؛ false - منع أكثر من إجابة واحدة لكل سؤال. السلوك الدقيق موضح في [`Recognize`](../../aspose.omr.api/templateprocessor/recognize) |
+| [Multiselect](../../aspose.omr.generation/globalpagesettings/multiselect) | يحدد السلوك الافتراضي لجميع العناصر التي تدعم اختيار متعدد للإجابات. يمكن تجاوز ذلك بواسطة خاصية عنصر محددة، عادةً "multiselect". بشكل افتراضي يتم تعيينه إلى true: true - السماح بأكثر من إجابة واحدة للسؤال؛ false - منع أكثر من إجابة واحدة للسؤال. السلوك الدقيق محدد في [`Recognize`](../../aspose.omr.api/templateprocessor/recognize) |
 | [Orientation](../../aspose.omr.generation/globalpagesettings/orientation) | اتجاه الصفحة |
-| [Overflow](../../aspose.omr.generation/globalpagesettings/overflow) | تعيين إجراء الفائض لكل عنصر في هذه الصفحة. يتحكم OverflowAction في علاقات الأب-ابن عندما يتجاوز حجم العنصر الفرعي الحجم المخصص للعنصر الأب. |
+| [Overflow](../../aspose.omr.generation/globalpagesettings/overflow) | تعيين إجراء التدفق لكل عنصر في هذه الصفحة. يتحكم OverflowAction في علاقات الأب-الابن عندما يتجاوز حجم العنصر الفرعي الحجم المخصص للعنصر الأب |
 | [PageMarginLeft](../../aspose.omr.generation/globalpagesettings/pagemarginleft) | الهامش الأيسر للصفحة بالبكسل |
 | [PageMarginRight](../../aspose.omr.generation/globalpagesettings/pagemarginright) | الهامش الأيمن للصفحة بالبكسل |
 | [PaperSize](../../aspose.omr.generation/globalpagesettings/papersize) | حجم الورق |
-| [ReferencePoints](../../aspose.omr.generation/globalpagesettings/referencepoints) | تفضيلات نقاط المرجع |
+| [ReferencePoints](../../aspose.omr.generation/globalpagesettings/referencepoints) | تفضيلات نقاط الإشارة |
 | [WritingSystem](../../aspose.omr.generation/globalpagesettings/writingsystem) | إعداد مسبق لإعدادات إنشاء القالب. يتضمن الاتجاهية (LeftToRight أو RightToLeft) واستخدام الأرقام |
 
 ### انظر أيضًا

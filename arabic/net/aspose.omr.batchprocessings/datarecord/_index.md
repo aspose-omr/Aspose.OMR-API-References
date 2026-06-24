@@ -14,7 +14,7 @@ url: /ar/net/aspose.omr.batchprocessings/datarecord/
 public class DataRecord
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |

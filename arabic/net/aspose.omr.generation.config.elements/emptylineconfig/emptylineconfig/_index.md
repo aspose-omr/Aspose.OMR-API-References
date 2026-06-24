@@ -1,5 +1,5 @@
 ---
-title: "إعدادات السطر الفارغ"
+title: "إعداد السطر الفارغ"
 second_title: "Aspose.OMR لـ .NET مرجع API"
 description: "المنشئ الافتراضي."
 type: docs

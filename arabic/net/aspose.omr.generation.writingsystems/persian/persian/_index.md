@@ -1,14 +1,14 @@
 ---
-title: "الفارسية"
+title: "Persian"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "تهيئة الإعداد المحلي الفارسي."
+description: "تهيئة اللغة الفارسية."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.writingsystems/persian/persian/
 ---
 ## Persian constructor
 
-تهيئة الإعداد المحلي الفارسي.
+تهيئة اللغة الفارسية.
 
 ```csharp
 public Persian(bool useNativeNumber = false)

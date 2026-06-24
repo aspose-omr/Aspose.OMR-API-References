@@ -1,14 +1,14 @@
 ---
 title: "إضافة"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "إضافة صورة إلى المجموعة."
+description: "أضف صورة إلى المجموعة."
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.api/imagecollection/add/
 ---
 ## ImageCollection.Add method
 
-إضافة صورة إلى المجموعة.
+أضف صورة إلى المجموعة.
 
 ```csharp
 public void Add(string imageName, MemoryStream stream)

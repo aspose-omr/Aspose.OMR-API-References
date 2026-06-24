@@ -1,14 +1,14 @@
 ---
-title: "البنغالية"
+title: "Bengali"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "تهيئة الإعداد المحلي البنغالي."
+description: "تهيئة اللغة البنغالية."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.writingsystems/bengali/bengali/
 ---
 ## Bengali constructor
 
-تهيئة الإعداد المحلي البنغالي.
+تهيئة اللغة البنغالية.
 
 ```csharp
 public Bengali(bool useNativeNumber = false)

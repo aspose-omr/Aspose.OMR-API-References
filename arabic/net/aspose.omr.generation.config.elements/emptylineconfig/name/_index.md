@@ -1,14 +1,14 @@
 ---
 title: "الاسم"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "اسم تخطي السطر الفارغ - لا يتم رسمه ولا يشارك في التعرف"
+description: "اسم تخطي السطر الفارغ - لا يتم رسمه أو المشاركة في التعرف"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.generation.config.elements/emptylineconfig/name/
 ---
 ## EmptyLineConfig.Name property
 
-اسم تخطي السطر الفارغ - لا يتم رسمه ولا يشارك في التعرف
+اسم تخطي السطر الفارغ - لا يتم رسمه أو المشاركة في التعرف
 
 ```csharp
 public override string Name { get; set; }

@@ -14,11 +14,11 @@ url: /ar/net/aspose.omr.generation.config.elements.parents/
 | --- | --- |
 | [AnswerConfig](./answerconfig) | يمثل عنصر الإجابة. يمكن استخدامه كعنصر فرعي مع [`VerticalChoiceBoxConfig`](../aspose.omr.generation.config.elements.parents/verticalchoiceboxconfig) |
 | [BlockConfig](./blockconfig) | يمثل عنصر الكتلة. |
-| [CheckBoxConfig](./checkboxconfig) | يمثل عنصر خانة الاختيار. |
+| [CheckBoxConfig](./checkboxconfig) | يمثل عنصر مربع الاختيار. |
 | [ContainerConfig](./containerconfig) | يمثل عنصر الحاوية. |
 | [PageConfig](./pageconfig) | يمثل عنصر الصفحة. واحد لكل صفحة. يجب وضعه داخل [`TemplateConfig`](../aspose.omr.generation.config/templateconfig) |
-| [ParagraphConfig](./paragraphconfig) | يمثل عنصر الفقرة. يمكن أن تتكون الفقرة من نص وصورة مع النص. يتم تحديد الصورة بواسطة الإحداثيات س، ص. |
-| [PositionedBlockConfig](./positionedblockconfig) | عنصر التجميع. يضع أي عنصر فرعي في إحداثيات مطلقة على القماش |
-| [VerticalChoiceBoxConfig](./verticalchoiceboxconfig) | صندوق الاختيار العمودي VerticalChoiceBox يتكون من عنصر [`AnswerConfig`](../aspose.omr.generation.config.elements.parents/answerconfig) يحتوي على استجابة قصيرة وعنصر [`ContentConfig`](../aspose.omr.generation.config.elements/contentconfig) يصف خيار الاستجابة بالتفصيل. يمكنه أيضًا احتواء عنصر [`WriteInConfig`](../aspose.omr.generation.config.elements/writeinconfig) يمكن للمستخدم من خلاله إدخال إجابته الخاصة. |
+| [ParagraphConfig](./paragraphconfig) | يمثل عنصر الفقرة. يمكن أن تتكون الفقرة من نص فقط أو نص مع صورة. يتم تحديد الصورة بواسطة الإحداثيات س، ص. |
+| [PositionedBlockConfig](./positionedblockconfig) | عنصر التجميع. وضع أي عنصر فرعي في إحداثيات مطلقة على اللوحة. |
+| [VerticalChoiceBoxConfig](./verticalchoiceboxconfig) | يتكون VerticalChoiceBox من عنصر [`AnswerConfig`](../aspose.omr.generation.config.elements.parents/answerconfig) يحتوي على استجابة قصيرة وعناصر [`ContentConfig`](../aspose.omr.generation.config.elements/contentconfig) تصف خيار الاستجابة بالتفصيل. يمكنه أيضًا احتواء عنصر [`WriteInConfig`](../aspose.omr.generation.config.elements/writeinconfig) يمكن للمستخدم من خلاله إدخال إجابته الخاصة. |
 
 <!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

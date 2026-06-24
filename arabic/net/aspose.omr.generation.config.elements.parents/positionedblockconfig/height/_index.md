@@ -1,5 +1,5 @@
 ---
-title: "ارتفاع"
+title: "Height"
 second_title: "Aspose.OMR لـ .NET مرجع API"
 description: "ارتفاع الكتلة الموضوعة بالبكسل"
 type: docs

@@ -1,24 +1,24 @@
 ---
-title: "البنغالية"
+title: "Bengali"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "إعداد الثقافة البنغالية. RightToLeft و ১২৩"
+description: "إعداد مسبق للثقافة البنغالية. RightToLeft و ১২৩"
 type: docs
 weight: 940
 url: /ar/net/aspose.omr.generation.writingsystems/bengali/
 ---
 ## Bengali class
 
-إعداد الثقافة البنغالية. RightToLeft و ১,২,৩
+إعداد ثقافة البنغالية. RightToLeft و ১,২,৩
 
 ```csharp
 public class Bengali : DigitReplacement
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [Bengali](bengali)(bool) | تهيئة الإعداد المحلي البنغالي. |
+| [Bengali](bengali)(bool) | تهيئة اللغة البنغالية. |
 
 ### انظر أيضًا
 

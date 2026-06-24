@@ -14,7 +14,7 @@ url: /ar/net/aspose.omr.generation.config.elements.scoregroup/scorequestionconfi
 public class ScoreQuestionConfig : ParentConfig
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |

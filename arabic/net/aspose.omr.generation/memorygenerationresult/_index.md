@@ -1,7 +1,7 @@
 ---
 title: "MemoryGenerationResult"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "غلاف GenerationResult./generationresult. يسمح بحفظ النتيجة كـ MemoryStream"
+description: "مغلف GenerationResult./generationresult. يسمح بحفظ النتيجة كـ MemoryStream"
 type: docs
 weight: 830
 url: /ar/net/aspose.omr.generation/memorygenerationresult/
@@ -14,19 +14,19 @@ url: /ar/net/aspose.omr.generation/memorygenerationresult/
 public class MemoryGenerationResult
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [MemoryGenerationResult](memorygenerationresult)(GenerationResult) | تهيئة نسخة من الغلاف. |
+| [MemoryGenerationResult](memorygenerationresult)(GenerationResult) | تهيئة نسخة من المغلف. |
 
-## طرق
+## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
 | [GetImages](../../aspose.omr.generation/memorygenerationresult/getimages)() | احصل على ملفات .png من [`GenerationResult`](../generationresult) كـ MemoryStream. |
-| [GetOmr](../../aspose.omr.generation/memorygenerationresult/getomr)(Encoding) | احصل على محتوى ملف .omr من [`GenerationResult`](../generationresult) كـ MemoryStream. بشكل افتراضي النص مشفر بترميز UTF8. |
-| [GetPDF](../../aspose.omr.generation/memorygenerationresult/getpdf)() | احصل على ملف .pdf من [`GenerationResult`](../generationresult) كـ MemoryStream. القوالب متعددة الصفحات تُحفظ كملف .pdf واحد يحتوي على عدة صفحات. |
+| [GetOmr](../../aspose.omr.generation/memorygenerationresult/getomr)(Encoding) | احصل على محتوى ملف .omr من [`GenerationResult`](../generationresult) كـ MemoryStream. بشكل افتراضي يتم ترميز النص بترميز UTF8. |
+| [GetPDF](../../aspose.omr.generation/memorygenerationresult/getpdf)() | احصل على ملف .pdf من [`GenerationResult`](../generationresult) كـ MemoryStream. القوالب متعددة الصفحات تُحفظ كملف .pdf واحد يحتوي على عدة صفحات |
 
 ### انظر أيضًا
 

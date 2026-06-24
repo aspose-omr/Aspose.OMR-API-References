@@ -1,14 +1,14 @@
 ---
 title: "عمود"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "عند رسم العنصر في عنصر أب متعدد الأعمدة - يمثل الموقع."
+description: "عند رسم العنصر في أصل متعدد الأعمدة - يمثل الموضع."
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.generation.config.elements/compositegridconfig/column/
 ---
 ## CompositeGridConfig.Column property
 
-عند رسم العنصر في عنصر أب متعدد الأعمدة - يمثل الموقع.
+عند رسم العنصر في أصل متعدد الأعمدة - يمثل الموضع.
 
 ```csharp
 public int Column { get; set; }

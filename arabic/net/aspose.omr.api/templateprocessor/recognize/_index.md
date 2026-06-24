@@ -1,5 +1,5 @@
 ---
-title: "تعرف"
+title: "تعرّف"
 second_title: "Aspose.OMR لـ .NET مرجع API"
 description: "يتعرف على ملف"
 type: docs
@@ -16,8 +16,8 @@ public RecognitionResult Recognize(string filePath, int recognitionThreshold = -
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| filePath | سلسلة | مسار الملف المراد التعرف عليه |
-| recognitionThreshold | Int32 | (اختياري) عتبة التعرف في النطاق (0..100). سيتم احتساب العناصر المملوءة فوق العتبة فقط كملء |
+| filePath | String | مسار الملف المراد التعرف عليه |
+| recognitionThreshold | Int32 | (اختياري) عتبة التعرف في النطاق (0..100). فقط العناصر المملوءة فوق العتبة ستحسب كمملوءة. |
 
 ### قيمة الإرجاع
 
@@ -34,7 +34,7 @@ public RecognitionResult Recognize(string filePath, int recognitionThreshold = -
 
 ## Recognize(string[], int) {#recognize_3}
 
-التعرف على ملفات متعددة كملف متعدد الصفحات واحد
+تعرّف على ملفات متعددة كملف متعدد الصفحات واحد
 
 ```csharp
 public RecognitionResult Recognize(string[] filePaths, int recognitionThreshold = -100)
@@ -43,7 +43,7 @@ public RecognitionResult Recognize(string[] filePaths, int recognitionThreshold 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
 | filePaths | String[] | مسار الملفات المراد التعرف عليها |
-| recognitionThreshold | Int32 | (اختياري) عتبة التعرف في النطاق (0..100). سيتم احتساب العناصر المملوءة فوق العتبة فقط كملء |
+| recognitionThreshold | Int32 | (اختياري) عتبة التعرف في النطاق (0..100). فقط العناصر المملوءة فوق العتبة ستحسب كمملوءة. |
 
 ### قيمة الإرجاع
 
@@ -68,8 +68,8 @@ public RecognitionResult Recognize(Stream stream, int recognitionThreshold = -10
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| دفق | Stream | دفق الملف. |
-| recognitionThreshold | Int32 | (اختياري) عتبة التعرف في النطاق (0..100). سيتم احتساب العناصر المملوءة فوق العتبة فقط كملء |
+| دفق | Stream | تدفق الملف. |
+| recognitionThreshold | Int32 | (اختياري) عتبة التعرف في النطاق (0..100). فقط العناصر المملوءة فوق العتبة ستحسب كمملوءة. |
 
 ### قيمة الإرجاع
 
@@ -94,8 +94,8 @@ public RecognitionResult Recognize(Stream[] streams, int recognitionThreshold = 
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| دفقات | Stream[] | مجموعة من تدفقات الملفات. |
-| recognitionThreshold | Int32 | (اختياري) عتبة التعرف في النطاق (0..100). سيتم احتساب العناصر المملوءة فوق العتبة فقط كملء |
+| التدفقات | Stream[] | مجموعة من تدفقات الملفات. |
+| recognitionThreshold | Int32 | (اختياري) عتبة التعرف في النطاق (0..100). فقط العناصر المملوءة فوق العتبة ستحسب كمملوءة. |
 
 ### قيمة الإرجاع
 

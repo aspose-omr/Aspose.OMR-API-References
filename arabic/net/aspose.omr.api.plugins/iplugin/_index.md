@@ -14,7 +14,7 @@ url: /ar/net/aspose.omr.api.plugins/iplugin/
 public interface IPlugin
 ```
 
-## طرق
+## الطرق
 
 | الاسم | الوصف |
 | --- | --- |

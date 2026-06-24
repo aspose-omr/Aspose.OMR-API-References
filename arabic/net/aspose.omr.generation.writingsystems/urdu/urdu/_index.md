@@ -1,14 +1,14 @@
 ---
-title: "الأردية"
+title: "Urdu"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "تهيئة الإعداد المحلي الأردية."
+description: "تهيئة اللغة الأردية."
 type: docs
 weight: 10
 url: /ar/net/aspose.omr.generation.writingsystems/urdu/urdu/
 ---
 ## Urdu constructor
 
-تهيئة الإعداد المحلي الأردية.
+تهيئة اللغة الأردية.
 
 ```csharp
 public Urdu(bool useNativeNumber = false)

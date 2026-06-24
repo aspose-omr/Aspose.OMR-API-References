@@ -1,14 +1,14 @@
 ---
 title: "LoadFromJsonFile"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "استيراد مجموعة البيانات من ملف .json عبر المسار مناسب لمجموعات البيانات الكبيرة والصغيرة"
+description: "استيراد مجموعة البيانات من ملف .json عبر المسار مناسب للمجموعات الكبيرة والصغيرة"
 type: docs
 weight: 20
 url: /ar/net/aspose.omr.batchprocessings/dataset/loadfromjsonfile/
 ---
 ## DataSet.LoadFromJsonFile method
 
-استيراد مجموعة البيانات من ملف .json عبر المسار مناسب لمجموعات البيانات الكبيرة والصغيرة
+استيراد مجموعة البيانات من ملف .json عبر المسار مناسب للمجموعات الكبيرة والصغيرة
 
 ```csharp
 public static DataSet LoadFromJsonFile(string filePath, Encoding encoding = null)
@@ -16,8 +16,8 @@ public static DataSet LoadFromJsonFile(string filePath, Encoding encoding = null
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| filePath | سلسلة | مسار إلى ملف .json |
-| ترميز | الترميز | ترميز الملف |
+| filePath | String | مسار ملف .json |
+| الترميز | الترميز | ترميز الملف |
 
 ### قيمة الإرجاع
 

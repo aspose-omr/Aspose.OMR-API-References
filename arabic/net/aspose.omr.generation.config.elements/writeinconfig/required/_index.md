@@ -1,14 +1,14 @@
 ---
-title: "مطلوب"
+title: "Required"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "هل يتطلب قص حقل الكتابة داخل الحقل؟"
+description: "هل يتطلب قطع حقل الكتابة"
 type: docs
 weight: 90
 url: /ar/net/aspose.omr.generation.config.elements/writeinconfig/required/
 ---
 ## WriteInConfig.Required property
 
-هل يتطلب قص حقل الكتابة داخل الحقل؟
+هل يتطلب قطع حقل الكتابة
 
 ```csharp
 public bool Required { get; set; }

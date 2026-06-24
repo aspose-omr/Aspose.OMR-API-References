@@ -1,14 +1,14 @@
 ---
 title: "لون الخلفية"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "لون الخلفية لعنوان الجدول"
+description: "لون خلفية عنوان الجدول"
 type: docs
 weight: 80
 url: /ar/net/aspose.omr.generation.config.elements.table/tabletitleconfig/backgroundcolor/
 ---
 ## TableTitleConfig.BackgroundColor field
 
-لون الخلفية لعنوان الجدول
+لون خلفية عنوان الجدول
 
 ```csharp
 public Color BackgroundColor;

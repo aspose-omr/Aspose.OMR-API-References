@@ -1,26 +1,26 @@
 ---
 title: "BatchOmrEngine"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "المدخل الرئيسي لواجهة برمجة التطبيقات للمعالجة الدفعية"
+description: "النقطة الرئيسية لواجهة برمجة التطبيقات لمعالجة دفعة"
 type: docs
 weight: 70
 url: /ar/net/aspose.omr.batchprocessings/batchomrengine/
 ---
 ## BatchOmrEngine class
 
-المدخل الرئيسي لواجهة برمجة التطبيقات للمعالجة الدفعية
+النقطة الرئيسية لواجهة برمجة التطبيقات لمعالجة دفعة
 
 ```csharp
 public class BatchOmrEngine
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |
 | [BatchOmrEngine](batchomrengine)(PoolFactory) | إنشاء نسخة من BatchOmrEngine تخزين داخلي اختياري لكفاءة الذاكرة. أعد استخدام نفس المصنع لعدة نسخ من BatchOmrEngine لتحسين الأداء |
 
-## طرق
+## الطرق
 
 | الاسم | الوصف |
 | --- | --- |

@@ -1,14 +1,14 @@
 ---
 title: "LoadFromJsonStream"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "فك تسلسل محتوى الدفق إلى كائن DataSet مناسب لمجموعات البيانات الكبيرة"
+description: "إلغاء تسلسل محتوى الدفق إلى كائن DataSet مناسب للمجموعات الكبيرة"
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.batchprocessings/dataset/loadfromjsonstream/
 ---
 ## DataSet.LoadFromJsonStream method
 
-فك تسلسل محتوى الدفق إلى كائن DataSet مناسب لمجموعات البيانات الكبيرة
+إلغاء تسلسل محتوى الدفق إلى كائن DataSet مناسب للمجموعات الكبيرة
 
 ```csharp
 public static DataSet LoadFromJsonStream(Stream readable, Encoding encoding = null)
@@ -17,7 +17,7 @@ public static DataSet LoadFromJsonStream(Stream readable, Encoding encoding = nu
 | معامل | النوع | الوصف |
 | --- | --- | --- |
 | قابل للقراءة | Stream | محتوى كائن dataSet |
-| ترميز | الترميز | ترميز محتوى الدفق |
+| الترميز | الترميز | ترميز محتوى الدفق |
 
 ### قيمة الإرجاع
 

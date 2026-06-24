@@ -1,14 +1,14 @@
 ---
 title: "RotationMarkerPosition"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "الموقع المطلوب لعلامة الدوران على القالب. إذا لم يتم تحديده - سيتم استخدام TopRight1. العلامة مرسومة كمستطيل أسود خامس."
+description: "الموضع المطلوب لمحدد الدوران على القالب. إذا لم يتم تحديده - سيتم استخدام TopRight1. يتم رسم المحدد كمستطيل أسود خامس."
 type: docs
 weight: 30
 url: /ar/net/aspose.omr.generation/referencepointssettings/rotationmarkerposition/
 ---
 ## ReferencePointsSettings.RotationMarkerPosition property
 
-الموقع المطلوب لعلامة الدوران على القالب. إذا لم يتم تحديده - سيتم استخدام TopRight1. العلامة مرسومة كمستطيل أسود خامس.
+الموضع المطلوب لمحدد الدوران على القالب. إذا لم يتم تحديده - سيتم استخدام TopRight1. يتم رسم المحدد كمستطيل أسود خامس.
 
 ```csharp
 public RotationPointPosition RotationMarkerPosition { get; set; }

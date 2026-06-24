@@ -8,13 +8,13 @@ url: /ar/net/aspose.omr.generation.config.elements/inputgroup/
 ---
 ## InputGroup class
 
-عنصر تجميع. يتكون من عنصرين فرعيين من نوع Content. يتم رسمه بنسب 1\\3 و 2\\3.
+عنصر تجميع. يتكون من عنصرين فرعيين من نوع Content. يتم رسمه بنسب 1\3 و 2\3.
 
 ```csharp
 public class InputGroup : ParentConfig
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -25,7 +25,7 @@ public class InputGroup : ParentConfig
 | الاسم | الوصف |
 | --- | --- |
 | [BorderBottomStyle](../../aspose.omr.generation.config.elements/inputgroup/borderbottomstyle) { get; set; } | نمط إضافي للحد السفلي |
-| [BorderColor](../../aspose.omr.generation.config.elements/inputgroup/bordercolor) { get; set; } | لون الحد |
+| [BorderColor](../../aspose.omr.generation.config.elements/inputgroup/bordercolor) { get; set; } | لون الحدود |
 | [BorderLeftStyle](../../aspose.omr.generation.config.elements/inputgroup/borderleftstyle) { get; set; } | نمط إضافي للحد الأيسر |
 | [BorderRightStyle](../../aspose.omr.generation.config.elements/inputgroup/borderrightstyle) { get; set; } | نمط إضافي للحد الأيمن |
 | [BorderSize](../../aspose.omr.generation.config.elements/inputgroup/bordersize) { get; set; } | حجم خط الحد |

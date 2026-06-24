@@ -1,5 +1,5 @@
 ---
-title: "Clip"
+title: "قص"
 second_title: "Aspose.OMR لـ .NET مرجع API"
 description: "سيتم قطع الجزء المتجاوز. بشكل افتراضي سيأخذ العنصر الأب أكبر مساحة ممكنة على الصفحة. إذا لم تكن تلك المساحة كافية - سيتم قطع العنصر الفرعي."
 type: docs
@@ -14,7 +14,7 @@ url: /ar/net/aspose.omr.generation.overflowactions/clip/
 public class Clip : OverflowAction
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |

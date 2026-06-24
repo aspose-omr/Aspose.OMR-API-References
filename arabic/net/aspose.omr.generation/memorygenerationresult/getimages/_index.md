@@ -8,7 +8,7 @@ url: /ar/net/aspose.omr.generation/memorygenerationresult/getimages/
 ---
 ## MemoryGenerationResult.GetImages method
 
-احصل على ملفات .png من الـ [`GenerationResult`](../../generationresult) كـ MemoryStream.
+احصل على ملفات .png من [`GenerationResult`](../../generationresult) كـ MemoryStream.
 
 ```csharp
 public IEnumerable<MemoryStream> GetImages()

@@ -12,8 +12,8 @@ url: /ar/net/aspose.omr.generation.config.elements.customanswersheet/
 
 | الفئة | الوصف |
 | --- | --- |
-| [BubbleArrayConfig](./bubblearrayconfig) | اعرض الإجابات المحتملة كخيارات كل منها داخل دائرة (فقاعة). يمكن استخدامها فقط داخل [`CustomRowConfig`](../aspose.omr.generation.config.elements.customanswersheet/customrowconfig) |
-| [CustomAnswerSheetConfig](./customanswersheetconfig) | كرر الصفوف المخصصة. لوصف صف مخصص استخدم - [`CustomRowConfig`](../aspose.omr.generation.config.elements.customanswersheet/customrowconfig) |
-| [CustomRowConfig](./customrowconfig) | وصف للصف المخصص. يُستخدم مع [`CustomAnswerSheetConfig`](../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig) |
+| [BubbleArrayConfig](./bubblearrayconfig) | عرض الإجابات المحتملة كخيارات كل منها داخل دائرة (فقاعة). يمكن استخدامها فقط داخل [`CustomRowConfig`](../aspose.omr.generation.config.elements.customanswersheet/customrowconfig) |
+| [CustomAnswerSheetConfig](./customanswersheetconfig) | تكرار الصفوف المخصصة. لوصف صف مخصص استخدم - [`CustomRowConfig`](../aspose.omr.generation.config.elements.customanswersheet/customrowconfig) |
+| [CustomRowConfig](./customrowconfig) | وصف الـ CustomRow. يُستخدم مع [`CustomAnswerSheetConfig`](../aspose.omr.generation.config.elements.customanswersheet/customanswersheetconfig) |
 
 <!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

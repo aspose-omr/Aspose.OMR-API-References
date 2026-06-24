@@ -13,8 +13,8 @@ url: /ar/net/aspose.omr.generation.config/
 | الفئة | الوصف |
 | --- | --- |
 | [BaseConfig](./baseconfig) | تجريد يحتوي على الحقول المطلوبة لكل عنصر omr |
-| [BorderStyle](./borderstyle) | وصف الحدود للجانب المحدد من |
+| [BorderStyle](./borderstyle) | وصف الحد لأحد الجوانب المحددة لـ |
 | [ParentConfig](./parentconfig) | تجريد يحدد العنصر كأصل ويسمح بوجود عناصر أخرى كأطفال |
-| [TemplateConfig](./templateconfig) | العنصر الجذر الذي يحتوي على جميع عناصر omr الأخرى |
+| [TemplateConfig](./templateconfig) | العنصر الجذري الذي يحتوي على جميع عناصر omr الأخرى |
 
 <!-- لا تقم بالتعديل: تم الإنشاء بواسطة xmldocmd لـ Aspose.OMR.dll -->

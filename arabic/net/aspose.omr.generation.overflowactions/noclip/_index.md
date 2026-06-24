@@ -14,7 +14,7 @@ url: /ar/net/aspose.omr.generation.overflowactions/noclip/
 public class NoClip : OverflowAction
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |

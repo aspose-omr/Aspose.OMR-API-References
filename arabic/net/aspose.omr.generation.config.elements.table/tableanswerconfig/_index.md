@@ -14,7 +14,7 @@ url: /ar/net/aspose.omr.generation.config.elements.table/tableanswerconfig/
 public class TableAnswerConfig : BaseConfig
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |

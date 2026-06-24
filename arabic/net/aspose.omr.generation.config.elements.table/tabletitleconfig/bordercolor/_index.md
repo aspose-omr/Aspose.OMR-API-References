@@ -1,5 +1,5 @@
 ---
-title: "لون الحد"
+title: "لون الحدود"
 second_title: "Aspose.OMR لـ .NET مرجع API"
 description: "لون الحد"
 type: docs

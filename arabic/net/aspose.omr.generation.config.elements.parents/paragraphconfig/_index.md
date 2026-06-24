@@ -1,20 +1,20 @@
 ---
 title: "ParagraphConfig"
 second_title: "Aspose.OMR لـ .NET مرجع API"
-description: "يمثل عنصر الفقرة. يمكن أن تتكون الفقرة من نص ونص مع صورة. يتم تحديد الصورة بواسطة الإحداثيات x y."
+description: "يمثل عنصر الفقرة. يمكن للفقرة أن تتكون من نص ونص مع صورة. يتم تحديد الصورة بواسطة الإحداثيات x y."
 type: docs
 weight: 440
 url: /ar/net/aspose.omr.generation.config.elements.parents/paragraphconfig/
 ---
 ## ParagraphConfig class
 
-يمثل عنصر الفقرة. يمكن أن تتكون الفقرة من نص وصورة مع النص. يتم تحديد الصورة بواسطة الإحداثيات س، ص.
+يمثل عنصر الفقرة. يمكن أن تتكون الفقرة من نص فقط أو نص مع صورة. يتم تحديد الصورة بواسطة الإحداثيات س، ص.
 
 ```csharp
 public class ParagraphConfig : ParentConfig
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |

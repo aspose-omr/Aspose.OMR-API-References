@@ -16,7 +16,7 @@ public BatchTemplateProcessor GetTemplateProcessor(string domrPath)
 
 | معامل | النوع | الوصف |
 | --- | --- | --- |
-| domrPath | سلسلة | المسار إلى ملف .domr |
+| domrPath | String | المسار إلى ملف .domr |
 
 ### قيمة الإرجاع
 

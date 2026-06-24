@@ -14,7 +14,7 @@ url: /ar/net/aspose.omr.generation.config.elements.table/tableheaderconfig/
 public class TableHeaderConfig : ParentConfig
 ```
 
-## المنشئات
+## المُنشئات
 
 | الاسم | الوصف |
 | --- | --- |
